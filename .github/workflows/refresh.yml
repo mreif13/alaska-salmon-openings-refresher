@@ -1,0 +1,25 @@
+name: Refresh Alaska Salmon Openings
+
+# Every 2 hours (well inside GitHub's free minutes for a private repo),
+# plus a Run-workflow button for on-demand pushes.
+on:
+  schedule:
+    - cron: "23 */2 * * *"
+  workflow_dispatch: {}
+
+jobs:
+  refresh-and-publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install the one dependency
+        run: pip install pdfminer.six
+      - name: Fetch ADF&G, rebuild, gate, publish
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_NAME: alaska-salmon-openings
+        run: python ci_refresh.py
