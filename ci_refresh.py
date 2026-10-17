@@ -1,94 +1,152 @@
 #!/usr/bin/env python3
-"""CLOUD REFRESH — the Alaska Fishery Openings engine on GitHub's scheduler,
-so the public phone page updates even with the desktop computer off
-(ledger #83).
+"""Alaska Salmon Openings - cloud refresher bootstrap.
 
-SELF-UPDATING: the engine itself (app-src.zip) is fetched from the live site
-at every run — the desktop app publishes it beside the page, so whatever
-engine version the app last shipped is exactly what runs here. This repo
-holds only this script and the workflow; there is nothing in it to keep
-current by hand.
+Picks the newest engine it can see without spending the site's bandwidth, then
+hands over to that engine's engine/cloud.py, which does everything else.
 
-Flow per run:
-  1. download app-src.zip from the live site (published by the desktop app)
-  2. unpack; seed a fresh data dir exactly like the app's own boot
-  3. fetch ADF&G's announcement listing; ingest anything new
-  4. rebuild the page; the doctor validates it
-  5. artifact gates: partial floor, feature floor, CLOCK gate — any failure
-     publishes NOTHING and turns the run red
-  6. deploy index.html + the same app-src.zip back to Netlify
-     (env: NETLIFY_AUTH_TOKEN secret, NETLIFY_SITE_NAME)
+Where an engine can come from:
+  - app-src.zip in this repo (a whole engine: code and seeds);
+  - engine-code-*.zip in this repo (the CODE of an engine; its seeds - the fixed
+    chart geometry - are taken from the site's own app-src.zip, which is
+    downloaded once and kept in the state folder);
+  - the copy kept in the state folder from an earlier run;
+  - the site's app-src.zip, downloaded only when the site's tiny engine.txt says
+    it is newer (the desktop app and the refresher publish their engine there).
 """
-import json, os, sys, urllib.request, zipfile
+import glob
+import io
+import os
+import re
+import shutil
+import subprocess
+import sys
+import urllib.request
+import zipfile
 
+SITE = os.environ.get("AFO_SITE_URL", "https://alaska-salmon-openings.netlify.app").rstrip("/")
 HERE = os.path.dirname(os.path.abspath(__file__))
-SRC = os.path.join(HERE, "src")
-SITE = os.environ.get("SITE_URL", "https://alaska-salmon-openings.netlify.app").rstrip("/")
+CODE_DIRS = ("engine/", "pipeline/", "tests/")
 
 
-def log(*a):
-    print(*a, flush=True)
+def vtuple(v):
+    return tuple(int(x) for x in re.findall(r"\d+", v or "")[:3]) or (0,)
+
+
+def zip_version(b):
+    try:
+        with zipfile.ZipFile(io.BytesIO(b)) as z:
+            m = re.search(r'^VERSION\s*=\s*"([^"]+)"', z.read("app.py").decode("utf-8", "replace"), re.M)
+            return m.group(1) if m else ""
+    except Exception:
+        return ""
+
+
+def has_seeds(b):
+    with zipfile.ZipFile(io.BytesIO(b)) as z:
+        return any(n.startswith("seeds/SE_Openings.html") for n in z.namelist())
+
+
+def get(url, limit=None):
+    req = urllib.request.Request(url, headers={"User-Agent": "AlaskaFisheryOpenings-refresher"})
+    with urllib.request.urlopen(req, timeout=120) as r:
+        return r.read(limit) if limit else r.read()
+
+
+def combine(code, base):
+    """An engine's code over another engine's seeds: every code file from `code`,
+    every seed (and anything else outside the code folders) from `base`."""
+    out = io.BytesIO()
+    with zipfile.ZipFile(io.BytesIO(code)) as c, zipfile.ZipFile(io.BytesIO(base)) as s, \
+            zipfile.ZipFile(out, "w", zipfile.ZIP_DEFLATED) as z:
+        names = set(c.namelist())
+        for n in sorted(names):
+            z.writestr(n, c.read(n))
+        for n in sorted(s.namelist()):
+            if n in names or n == "app.py" or n.startswith(CODE_DIRS):
+                continue
+            z.writestr(n, s.read(n))
+    return out.getvalue()
 
 
 def main():
-    # 1. the engine, from the site the desktop app publishes
-    src_zip = os.path.join(HERE, "app-src.zip")
-    url = SITE + "/app-src.zip"
+    args = sys.argv[1:] or ["--state", "state"]
+    state = args[args.index("--state") + 1] if "--state" in args else "state"
+    cache_dir = os.path.join(state, "engine")
+    cache = os.path.join(cache_dir, "app-src.zip")
+    base_cache = os.path.join(cache_dir, "seed-base.zip")
+    downloaded = False
+
+    cands = []
+    for p in [os.path.join(HERE, "app-src.zip"), cache]:
+        if os.path.exists(p):
+            b = open(p, "rb").read()
+            if has_seeds(b):
+                cands.append((vtuple(zip_version(b)), p, b))
+
+    # an engine's code alone: its seeds come from the site's published engine
+    for p in sorted(glob.glob(os.path.join(HERE, "engine-code-*.zip"))):
+        code = open(p, "rb").read()
+        v = vtuple(zip_version(code))
+        if cands and max(c[0] for c in cands) >= v:
+            continue
+        base = open(base_cache, "rb").read() if os.path.exists(base_cache) else None
+        if base is None:
+            try:
+                base = get(SITE + "/app-src.zip")
+                if not has_seeds(base):
+                    base = None
+                else:
+                    os.makedirs(cache_dir, exist_ok=True)
+                    open(base_cache, "wb").write(base)
+                    downloaded = True
+                    print(f"[boot] took the chart's seeds from the site's engine ({zip_version(base)}), once")
+            except Exception as e:
+                print(f"[boot] could not read the site's engine for its seeds: {e}")
+        if base is not None:
+            b = combine(code, base)
+            os.makedirs(cache_dir, exist_ok=True)
+            open(cache, "wb").write(b)
+            downloaded = True
+            cands.append((v, cache, b))
+            print(f"[boot] engine {'.'.join(map(str, v))}: code from {os.path.basename(p)}, seeds from the site")
+
+    best = max(c[0] for c in cands) if cands else (0,)
     try:
-        req = urllib.request.Request(url, headers={"User-Agent": "AFO-cloud-refresh"})
-        with urllib.request.urlopen(req, timeout=120) as r:
-            data = r.read()
-        open(src_zip, "wb").write(data)
-        log(f"engine downloaded: {len(data)//1024} KB from {url}")
-    except Exception as e:
-        log(f"FATAL: could not download {url} ({e}).")
-        log("Fix: on the desktop computer, open the app -> Auto-publish settings")
-        log("-> Publish now (the app publishes the engine beside the page).")
-        return 1
-    import shutil
-    if os.path.isdir(SRC):
-        shutil.rmtree(SRC)
-    with zipfile.ZipFile(src_zip) as z:
-        z.extractall(SRC)
-    for sub in ("engine", "pipeline", "tests", "."):
-        p = os.path.join(SRC, sub)
-        if p not in sys.path:
-            sys.path.insert(0, p)
-    os.chdir(SRC)
-    os.makedirs("data", exist_ok=True)
+        site_v = get(SITE + "/engine.txt", 64).decode("ascii", "replace").strip()
+    except Exception:
+        site_v = ""
+    if site_v and vtuple(site_v) > best:
+        b = get(SITE + "/app-src.zip")
+        if vtuple(zip_version(b)) > best and has_seeds(b):
+            os.makedirs(cache_dir, exist_ok=True)
+            open(cache, "wb").write(b)
+            cands.append((vtuple(zip_version(b)), cache, b))
+            downloaded = True
+            print(f"[boot] the site carries a newer engine ({site_v}); kept it")
 
-    # 2–4. the app's own boot + refresh, publishing disabled during the cycle
-    json.dump({"enabled": False}, open(os.path.join("data", "publish.json"), "w"))
-    import app                                     # noqa: E402
-    app._seed()
-    res = app.refresh(force_rebuild=True)
-    log("refresh:", {k: res.get(k) for k in ("ok", "new", "ingested", "rebuilt", "as_of")})
-    page = os.path.join("data", "SE_Openings.html")
-    if not os.path.exists(page):
-        log("FATAL: no page produced")
+    usable = []
+    for v, p, b in sorted(cands, key=lambda x: x[0], reverse=True):
+        with zipfile.ZipFile(io.BytesIO(b)) as z:
+            if "engine/cloud.py" in z.namelist():
+                usable.append((v, p, b))
+    if not usable:
+        print("[boot] no engine with engine/cloud.py is available (put engine-code-3.1.0.zip or app-src.zip in the repo)")
         return 1
-
-    # 5. artifact gates — what the public sees must pass, or nothing ships
-    import test_all                                 # noqa: E402
-    gates = [test_all.partial_floor_gate(), test_all.feature_floor_gate(),
-             test_all.stale_status_gate()]
-    for g in gates:
-        log(("PASS " if g["ok"] else "FAIL ") + g["name"] + " — " + g["detail"])
-    if any(not g["ok"] for g in gates):
-        log("GATE FAILURES — NOT PUBLISHING")
-        return 1
-
-    # 6. publish page + the same engine bundle (a deploy replaces the site)
-    token = os.environ.get("NETLIFY_AUTH_TOKEN", "").strip()
-    site = os.environ.get("NETLIFY_SITE_NAME", "alaska-salmon-openings").strip()
-    if not token:
-        log("NETLIFY_AUTH_TOKEN not set — dry run complete, no publish")
-        return 0
-    import publisher                                # noqa: E402
-    site_id, name, url2 = publisher.resolve_site(token, site)
-    out = publisher.publish(page, token, site_id, include_src=True, src_bytes=data)
-    log(f"published to {out.get('url')} (deploy {out.get('deploy_id')}, {out.get('state')})")
-    return 0
+    v, p, b = usable[0]
+    app = os.path.join(HERE, "app")
+    if os.path.isdir(app):
+        shutil.rmtree(app)
+    with zipfile.ZipFile(io.BytesIO(b)) as z:
+        z.extractall(app)
+    print(f"[boot] engine {'.'.join(map(str, v))} from {os.path.relpath(p, HERE)}")
+    env = dict(os.environ)
+    if downloaded:
+        env["AFO_ENGINE_CACHED"] = "1"        # keep it even if this run goes no further
+    rc = subprocess.call([sys.executable, os.path.join(app, "engine", "cloud.py")] + args, env=env)
+    # ADF&G unreachable (2) is weather, not a fault: the next run tries again.
+    # A red ship gate (3), a chart that would not deploy (4) or a crash fails
+    # the run, and GitHub emails the owner.
+    return 0 if rc in (0, 2) else rc
 
 
 if __name__ == "__main__":
