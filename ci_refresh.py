@@ -13,7 +13,9 @@ Where an engine can come from:
   - the site's app-src.zip, downloaded only when the site's tiny engine.txt says
     it is newer (the desktop app and the refresher publish their engine there).
 """
+import datetime as dt
 import glob
+import json
 import io
 import os
 import re
@@ -66,6 +68,48 @@ def combine(code, base):
                 continue
             z.writestr(n, s.read(n))
     return out.getvalue()
+
+
+# THE CREDIT BUDGET (October 17, 2026). Each Netlify production deploy costs 15 of the free plan's 300 monthly
+# credits; the plan pauses the site when they run out. The engine deploys the chart about five times a month; this
+# guard holds whatever engine is running to at most BUDGET deploys started in 30 days, and to no retry within
+# BACKOFF_H hours of a failed one. Every deploy started is written to the state's deploys.json, which the workflow
+# commits. (Engine 3.1.2 and later keep the same file themselves; a run's start is recorded once.)
+BUDGET = int(os.environ.get("AFO_DEPLOY_BUDGET", "8"))
+BACKOFF_H = float(os.environ.get("AFO_DEPLOY_BACKOFF_H", "12"))
+
+
+def _started(state, now):
+    try:
+        d = json.load(open(os.path.join(state, "deploys.json"), encoding="utf-8"))
+    except Exception:
+        d = {}
+    out = []
+    for x in d.get("started") or []:
+        try:
+            if (now - dt.datetime.fromisoformat(str(x.get("at"))[:19])).days < 30:
+                out.append(x)
+        except Exception:
+            pass
+    return out
+
+
+def deploy_allowed(state, now):
+    started = _started(state, now)
+    if len(started) >= BUDGET:
+        return False, "%d deploys started in the last 30 days (budget %d)" % (len(started), BUDGET)
+    failed = [dt.datetime.fromisoformat(str(x["at"])[:19]) for x in started if not x.get("ok")]
+    if failed and (now - max(failed)).total_seconds() < BACKOFF_H * 3600:
+        return False, "a deploy failed at %s; the next try waits %g hours" % (max(failed).isoformat(timespec="minutes"), BACKOFF_H)
+    return True, "%d of %d deploys in 30 days" % (len(started), BUDGET)
+
+
+def record_deploy(state, now, ok, why):
+    started = _started(state, now) + [{"at": now.isoformat(timespec="seconds"), "ok": bool(ok), "why": why[:200]}]
+    with open(os.path.join(state, "deploys.json"), "w", encoding="utf-8") as f:
+        json.dump({"started": started}, f, indent=1)
+    with open(os.path.join(state, ".commit"), "w") as f:
+        f.write("yes\n")
 
 
 def main():
@@ -142,7 +186,26 @@ def main():
     env = dict(os.environ)
     if downloaded:
         env["AFO_ENGINE_CACHED"] = "1"        # keep it even if this run goes no further
-    rc = subprocess.call([sys.executable, os.path.join(app, "engine", "cloud.py")] + args, env=env)
+    now = dt.datetime.now()
+    os.makedirs(state, exist_ok=True)
+    ok, why = deploy_allowed(state, now)
+    if not ok and env.pop("NETLIFY_AUTH_TOKEN", None):
+        print("[boot] chart deploy held (credit budget): " + why, flush=True)
+    before = len(_started(state, now))
+    proc = subprocess.Popen([sys.executable, os.path.join(app, "engine", "cloud.py")] + args, env=env,
+                            stdout=subprocess.PIPE, stderr=subprocess.STDOUT, text=True, bufsize=1)
+    deployed, failed = None, None
+    for line in proc.stdout:
+        sys.stdout.write(line)
+        if "published the chart" in line or "] published to " in line:
+            deployed = line.strip()
+        elif "publish failed" in line:
+            failed = line.strip()
+    rc = proc.wait()
+    sys.stdout.flush()
+    if (deployed or failed) and len(_started(state, now)) == before:     # the engine did not record it itself
+        record_deploy(state, now, bool(deployed), deployed or failed)
+        print("[boot] deploy recorded in the credit budget", flush=True)
     # ADF&G unreachable (2) is weather, not a fault: the next run tries again.
     # A red ship gate (3), a chart that would not deploy (4) or a crash fails
     # the run, and GitHub emails the owner.
