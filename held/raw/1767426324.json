@@ -1,0 +1,95 @@
+{
+ "release_id": "1767426324",
+ "title": "Hidden Falls Terminal Harvest Area Troll Fishery",
+ "published": "2026-04-15T00:00",
+ "region": "Southeast",
+ "gear": [
+  "troll"
+ ],
+ "species": "salmon",
+ "emergency_order": "1E0526",
+ "contact": "Grant Hagerman, (907) 747-6688",
+ "next_announcement": null,
+ "areas": [
+  {
+   "district": "12",
+   "section": null,
+   "status": "open",
+   "period_text": "The Hidden Falls Terminal Harvest Area (THA) commercial salmon troll fishery will open for the harvest of salmon from 12:01 a.m., Wednesday, July 1, through 11:59 p.m., Sunday, September 20, 2026, unless closed by emergency order.",
+   "rules": [
+    {
+     "subject": "Hidden Falls THA boundary",
+     "status": "open",
+     "geometry": "polygon",
+     "side": null,
+     "points": [
+      {
+       "name": "South Point (northern limit latitude)",
+       "lat_dm": "57°16.28′ N",
+       "lon_dm": null
+      },
+      {
+       "name": "southern limit latitude",
+       "lat_dm": "57°06.76′ N",
+       "lon_dm": null
+      },
+      {
+       "name": "a point offshore",
+       "lat_dm": "57°16.28′ N",
+       "lon_dm": "134°48.00′ W"
+      },
+      {
+       "name": "a point offshore",
+       "lat_dm": "57°06.76′ N",
+       "lon_dm": "134°43.00′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "The Hidden Falls THA (statistical area 112-22) includes waters of District 12 south of the latitude of South Point at 57°16.28′ N lat, north of 57°06.76′ N lat, and west of a line from a point offshore at 57°16.28′ N lat, 134°48.00′ W long, to a point offshore at 57°06.76′ N lat, 134°43.00′ W long, excluding the waters of Kelp Bay."
+    },
+    {
+     "subject": "Closed waters near the ADF&G regulatory markers",
+     "status": "closed",
+     "geometry": "line",
+     "side": "north and west",
+     "points": [
+      {
+       "name": "ADF&G regulatory marker",
+       "lat_dm": "57°13.17′ N",
+       "lon_dm": "134°51.86′ W"
+      },
+      {
+       "name": "ADF&G regulatory marker",
+       "lat_dm": "57°13.08′ N",
+       "lon_dm": "134°52.02′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "57°13.05′ N",
+       "lon_dm": "134°52.24′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "57°13.06′ N",
+       "lon_dm": "134°52.20′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "The waters of the Hidden Falls THA that are north and west of a line from ADF&G regulatory markers located at 57°13.17′ N lat, 134°51.86′ W long to 57°13.08′ N lat, 134°52.02′ W long and north of a line from 57°13.05′ N lat, 134°52.24′ W long to 57°13.06′ N lat, 134°52.20′ W long are closed to commercial salmon fishing"
+    },
+    {
+     "subject": "Chinook salmon retention",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Chinook salmon may be retained and possessed in the Hidden Falls THA only during open Chinook salmon retention periods"
+    }
+   ]
+  }
+ ],
+ "_parser": "9d390c40",
+ "_parser_kept": "new parse would open what the old kept closed or partial: a region-wide opening",
+ "full_text": "Forrest Bowers, Acting Director\n\nDoug Vincent-Lang, Commissioner\n\nSitka Area Office 304 Lake Street Room 103 Sitka, AK 99835\n\nAdvisory Announcement For Immediate Release: April 15, 2026\n\nJuneau, AK 99811-5526\n\nCONTACT: Grant Hagerman Region I Commercial Troll Management Biologist grant.hagerman@alaska.gov (907) 747-6688\n\nHIDDEN FALLS TERMINAL HARVEST AREA TROLL FISHERY\n\nThe Hidden Falls Terminal Harvest Area (THA) commercial salmon troll fishery will open for the harvest of salmon from 12:01 a.m., Wednesday, July 1, through 11:59 p.m., Sunday, September 20, 2026, unless closed by emergency order. Without a forecasted return of legal sized Chinook salmon for the troll fishery, the THA initial opening for troll gear is delayed until July 1.\n\nThe Hidden Falls THA (statistical area 112-22) includes waters of District 12 south of the latitude of South Point at 57°16.28′ N lat, north of 57°06.76′ N lat, and west of a line from a point offshore at 57°16.28′ N lat, 134°48.00′ W long, to a point offshore at 57°06.76′ N lat, 134°43.00′ W long, excluding the waters of Kelp Bay.\n\nThe waters of the Hidden Falls THA that are north and west of a line from ADF&G regulatory markers located at 57°13.17′ N lat, 134°51.86′ W long to 57°13.08′ N lat, 134°52.02′ W long and north of a line from 57°13.05′ N lat, 134°52.24′ W long to 57°13.06′ N lat, 134°52.20′ W long are closed to commercial salmon fishing (5 AAC 33.374[g]).\n\nChinook and chum salmon Beginning at 12:01 a.m., July 1, Chinook salmon may be retained and possessed in the Hidden Falls THA only during open Chinook salmon retention periods established for the summer troll fishery under 5 AAC 29.100(c). Additionally, effective July 1, the number of chum salmon permitted on board a troll vessel operating troll gear within the Hidden Falls THA or recorded on a fish ticket from the Hidden Falls THA, may not exceed the number of Chinook salmon on board the troll vessel or recorded on a fish ticket for that area (5 AAC 33.374[d]). Accordingly, chum salmon may only be retained in the summer troll fishery during an open Chinook salmon troll fishing period.\n\nCoho salmon Coho salmon retention is permitted during open fishing periods in the THA from July 1 through September 20, unless closed by emergency order. During a season when the general summer troll season is extended in District 12, the Hidden Falls THA season will also be extended (5 AAC 33.374[e]).\n\nOther salmon Pink and sockeye salmon retention is permitted during open THA fishing periods from July 1 through September 20, unless closed by emergency order.\n\nThe Emergency Order corresponding to this announcement is EO 1E0526.\n\nAdvisory Announcement web site: http://www.adfg.alaska.gov/index.cfm?adfg=cfnews.main.\n\nOffice\n\nTroll Hotline\n\nKetchikan\n\nPetersburg\n\nSitka\n\nJuneau\n\nHaines\n\nHoonah\n\nYakutat\n\n225-5195 225-5111 225-6870\n\n772-3801 772-3983\n\n747-6688 747-3254 747-8765\n\n465-4250 465-4000 465-8765\n\n766-2830\n\n784-3255\n\n945-3620\n\nHidden Falls THA Troll Fishery\n\nApril 15, 2026\n\nHidden Falls THA Troll Fishery page 2 of 2\n\nApril 15, 2026\n\nFigure 1.–Hidden Falls Terminal Harvest Area."
+}

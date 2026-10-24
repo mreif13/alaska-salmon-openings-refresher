@@ -1,0 +1,217 @@
+{
+ "source": "2025-2028 Southeastern Alaska/Yakutat Areas Commercial Salmon Fishing Regulations",
+ "source_url": "https://www.adfg.alaska.gov/static/regulations/fishregulations/pdfs/commercial/cf_se_yakutat_salmon_regs_2025_2028.pdf",
+ "citation": "5 AAC 33.200",
+ "retrieved": "2026-08-23",
+ "notation": "degrees and decimal minutes, e.g. \"57° 37.76' N. lat.\" / \"133° 40.47' W. long.\" — NOT degrees-minutes-seconds; recorded as printed, unconverted",
+ "text_provenance": {
+  "note": "The verbatim text below could NOT be read from the ADF&G PDF named in source_url: WebFetch truncates that document at 5 AAC 30.393 (end of Chapter 30, Yakutat Area) and never reaches 5 AAC 33.200, which begins on page 43. Direct download of the PDF is blocked by the network proxy. All text was instead taken from two published mirrors of the current Alaska Administrative Code text of 5 AAC 33.200 and cross-checked against each other.",
+  "text_sources": [
+   "https://www.law.cornell.edu/regulations/alaska/5-AAC-33.200",
+   "https://regulations.justia.com/states/alaska/title-5/part-1/chapter-33/article-2/section-5-aac-33-200/"
+  ],
+  "caveat": "Not confirmed against the printed 2025-2028 ADF&G regulation book. Verify against the printed book before any enforcement or on-the-water use."
+ },
+ "source_anomalies": [
+  "District 11: the second mention of Little Island Light prints \"58° 32,41' N. lat.\" with a comma in place of the decimal point. The same point is printed correctly as \"58° 32.41' N. lat.\" earlier in the same sentence and again in District 15. Both mirrors reproduce the comma identically, so it is a typo in the underlying regulation text, not a fetch error. The clean printed form is used in points[].",
+  "District 13: prints \"55° 53.22' IN. lat.\" and \"58° 12.63' IN. lat.\" (IN. for N.), \"136° 29.86' W. lung.\" (lung. for long.), and \"so nth easternmost\" (southeasternmost). Reproduced identically by both mirrors; digits are unaffected. Recorded as printed.",
+  "Section 15-C: prints \"58 51.00' N. lat.\" with no degree symbol. Section 15-A prints the same latitude as \"58° 51.00' N. lat.\" Recorded as printed."
+ ],
+ "areas": [
+  {
+   "kind": "district",
+   "name": "District 11",
+   "parent": null,
+   "citation": "5 AAC 33.200(k)",
+   "text": "District 11: Stephens Passage and contiguous waters north of a line from Point League at 57° 37.76' N. lat., 133° 40.47' W. long., to Point Hugh at 57° 34.22' N. lat., 133° 48.62' W. long., and Seymour Canal north of 57° 36.71' N. lat, south of the latitude of Little Island Light at 58° 32.41' N. lat., and east of a line from Little Island Light at 58° 32,41' N. lat., 135° 02.83' W. long., to Point Retreat Light at 58° 24.69' N. lat., 134° 57.31' W. long.",
+   "points": [
+    {
+     "name": "Point League",
+     "lat_dm": "57° 37.76' N. lat.",
+     "lon_dm": "133° 40.47' W. long."
+    },
+    {
+     "name": "Point Hugh",
+     "lat_dm": "57° 34.22' N. lat.",
+     "lon_dm": "133° 48.62' W. long."
+    },
+    {
+     "name": "Seymour Canal (northern limit)",
+     "lat_dm": "57° 36.71' N. lat",
+     "lon_dm": null
+    },
+    {
+     "name": "Little Island Light",
+     "lat_dm": "58° 32.41' N. lat.",
+     "lon_dm": "135° 02.83' W. long."
+    },
+    {
+     "name": "Point Retreat Light",
+     "lat_dm": "58° 24.69' N. lat.",
+     "lon_dm": "134° 57.31' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "section",
+   "name": "Section 11-B",
+   "parent": "District 11",
+   "citation": "5 AAC 33.200(k)(2)",
+   "text": "Section 11-B: waters of the district north of the latitude of Midway Islands Light at 57° 50.20' N. lat. and south and east of a line from a point at 58° 12.32' N. lat, 134° 10.14' W. long., to on Point Arden Light at 58° 09.55' N. lat., 134° 10.68' W. long.",
+   "points": [
+    {
+     "name": "Midway Islands Light",
+     "lat_dm": "57° 50.20' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": null,
+     "lat_dm": "58° 12.32' N. lat",
+     "lon_dm": "134° 10.14' W. long."
+    },
+    {
+     "name": "Point Arden Light",
+     "lat_dm": "58° 09.55' N. lat.",
+     "lon_dm": "134° 10.68' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "district",
+   "name": "District 13",
+   "parent": null,
+   "citation": "5 AAC 33.200(m)",
+   "text": "District 13: all waters north of the latitude of Helm Point at 55° 49.59' N. lat. and west of a line from Helm Point at 55° 49.59' N. lat., 134° 16.19' W. long., to the westernmost tip of Hazy Island at 55° 53.22' IN. lat., 134° 36.99' W. long., to the southernmost tip of Cape Ommaney at 56° 09.83' N. lat., 134° 40.42' W. long., south of a line projecting west from the southernmost tip of Cape Spencer at 58° 12.63' IN. lat., 136° 39.85' W. long., west of a line from the southernmost tip of Cape Spencer through Yakobi Rock to Yakobi Island at 58° 04.69' N. lat., 136° 33.35' W. long., south of a line from the northernmost tip of Soapstone Point at 58° 06.33' N. lat., 136° 29.86' W. lung., to the westernmost tip of Column Point at 58° 07.21' N. lat., 136° 26.88' W. long., and west of a line from the so nth easternmost tip of Point Hayes at 57° 28.83' N. lat., 134° 50.33' W. long., to the northernmost tip of Point Thatcher at 57° 24.97' N. lat., 134° 50.00' W. long.",
+   "points": [
+    {
+     "name": "Helm Point",
+     "lat_dm": "55° 49.59' N. lat.",
+     "lon_dm": "134° 16.19' W. long."
+    },
+    {
+     "name": "westernmost tip of Hazy Island",
+     "lat_dm": "55° 53.22' IN. lat.",
+     "lon_dm": "134° 36.99' W. long."
+    },
+    {
+     "name": "southernmost tip of Cape Ommaney",
+     "lat_dm": "56° 09.83' N. lat.",
+     "lon_dm": "134° 40.42' W. long."
+    },
+    {
+     "name": "southernmost tip of Cape Spencer",
+     "lat_dm": "58° 12.63' IN. lat.",
+     "lon_dm": "136° 39.85' W. long."
+    },
+    {
+     "name": "Yakobi Island (line from Cape Spencer through Yakobi Rock)",
+     "lat_dm": "58° 04.69' N. lat.",
+     "lon_dm": "136° 33.35' W. long."
+    },
+    {
+     "name": "northernmost tip of Soapstone Point",
+     "lat_dm": "58° 06.33' N. lat.",
+     "lon_dm": "136° 29.86' W. lung."
+    },
+    {
+     "name": "westernmost tip of Column Point",
+     "lat_dm": "58° 07.21' N. lat.",
+     "lon_dm": "136° 26.88' W. long."
+    },
+    {
+     "name": "southeasternmost tip of Point Hayes",
+     "lat_dm": "57° 28.83' N. lat.",
+     "lon_dm": "134° 50.33' W. long."
+    },
+    {
+     "name": "northernmost tip of Point Thatcher",
+     "lat_dm": "57° 24.97' N. lat.",
+     "lon_dm": "134° 50.00' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "section",
+   "name": "Section 13-A",
+   "parent": "District 13",
+   "citation": "5 AAC 33.200(m)(1)",
+   "text": "Section 13-A: all waters north of 57° 16.00' N. lat. and those waters of Peril Strait south of the latitude of Pogibshi Point at 57° 30.50' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 16.00' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "Pogibshi Point",
+     "lat_dm": "57° 30.50' N. lat.",
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "section",
+   "name": "Section 13-B",
+   "parent": "District 13",
+   "citation": "5 AAC 33.200(m)(2)",
+   "text": "Section 13-B: all waters south of 57° 16.00' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 16.00' N. lat.",
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "district",
+   "name": "District 15",
+   "parent": null,
+   "citation": "5 AAC 33.200(o)",
+   "text": "District 15: waters of Lynn Canal north of the latitude of Little Island Light at 58° 32.41' N. lat.",
+   "points": [
+    {
+     "name": "Little Island Light",
+     "lat_dm": "58° 32.41' N. lat.",
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "section",
+   "name": "Section 15-A",
+   "parent": "District 15",
+   "citation": "5 AAC 33.200(o)(1)",
+   "text": "Section 15-A: waters of the district north of the latitude of Sherman Rock at 58° 51.00' N. lat.",
+   "points": [
+    {
+     "name": "Sherman Rock",
+     "lat_dm": "58° 51.00' N. lat.",
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "section",
+   "name": "Section 15-C",
+   "parent": "District 15",
+   "citation": "5 AAC 33.200(o)(3)",
+   "text": "Section 15-C: all waters of the district south of the latitude of Sherman Rock at 58 51.00' N. lat., except for the waters of Section 15-B.",
+   "points": [
+    {
+     "name": "Sherman Rock",
+     "lat_dm": "58 51.00' N. lat.",
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true
+  }
+ ]
+}

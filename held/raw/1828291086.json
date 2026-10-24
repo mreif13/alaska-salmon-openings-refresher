@@ -1,0 +1,335 @@
+{
+ "release_id": "1828291086",
+ "title": "Southeast Alaska Salmon Drift Gillnet Fishery Announcement",
+ "published": "2026-08-20T13:45",
+ "region": "Southeast",
+ "gear": [
+  "drift gillnet"
+ ],
+ "species": "salmon",
+ "emergency_order": "1S6526",
+ "contact": "Troy Thynes, (907) 772-3801",
+ "next_announcement": "The next gillnet announcement will be issued on Thursday, August 27, 2026.",
+ "areas": [
+  {
+   "district": "1",
+   "section": "1-B",
+   "status": "partial",
+   "period_text": "Section 1-B: will be open from 12:01 p.m., Sunday, August 23, through 12:00 noon, Friday, August 28, 2026, with the following restriction:",
+   "rules": [
+    {
+     "subject": "Pearse and Portland Canals",
+     "status": "closed",
+     "geometry": "lat_cutoff",
+     "side": "north",
+     "points": [
+      {
+       "name": "Akeku Point",
+       "lat_dm": "54°50.03′ N",
+       "lon_dm": null
+      }
+     ],
+     "distance_nmi": null,
+     "text": "Pearse and Portland Canals: will be closed north of the latitude of Akeku Point at 54°50.03′ N lat."
+    }
+   ]
+  },
+  {
+   "district": "6",
+   "section": null,
+   "status": "partial",
+   "period_text": "District 6: will be open from 12:01 p.m., Sunday, August 23, through 12:00 noon, Wednesday, August 26, 2026, with the following restriction:",
+   "rules": [
+    {
+     "subject": "Section 6-D",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Section 6-D: will be closed."
+    }
+   ]
+  },
+  {
+   "district": "8",
+   "section": null,
+   "status": "partial",
+   "period_text": "District 8: will be open from 12:01 p.m., Sunday, August 23, through 12:00 noon, Wednesday, August 26, 2026, with the following restrictions:",
+   "rules": [
+    {
+     "subject": "Section 8-A",
+     "status": "closed",
+     "geometry": "line",
+     "side": "west",
+     "points": [
+      {
+       "name": "a point 1.0 nautical miles (nmi) off the Kupreanof Island shoreline on the District 10 boundary",
+       "lat_dm": "56°57.27′ N",
+       "lon_dm": "132°58.96′ W"
+      },
+      {
+       "name": "Sukoi Islets Light",
+       "lat_dm": "56°53.73′ N",
+       "lon_dm": "132°56.64′ W"
+      },
+      {
+       "name": "Frederick Point",
+       "lat_dm": "56°47.55′ N",
+       "lon_dm": "132°49.27′ W"
+      }
+     ],
+     "distance_nmi": 1.0,
+     "text": "Section 8-A: will be closed west of a line from a point 1.0 nautical miles (nmi) off the Kupreanof Island shoreline on the District 10 boundary at 56°57.27′ N lat, 132°58.96′ W long to Sukoi Islets Light at 56°53.73′ N lat, 132°56.64′ W long to Frederick Point at 56°47.55′ N lat, 132°49.27′ W long;"
+    },
+    {
+     "subject": "Section 8-A",
+     "status": "closed",
+     "geometry": "line",
+     "side": "east",
+     "points": [
+      {
+       "name": "the prominent point on Mitkof Island nearest Coney Island",
+       "lat_dm": "56°40.77′ N",
+       "lon_dm": "132°39.28′ W"
+      },
+      {
+       "name": "the western end of Coney Island",
+       "lat_dm": "56°41.62′ N",
+       "lon_dm": "132°38.92′ W"
+      },
+      {
+       "name": "a point 800 yards north of Japanese Creek on the mainland shore",
+       "lat_dm": "56°46.62′ N",
+       "lon_dm": "132°37.11′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "and east of a line from the prominent point on Mitkof Island nearest Coney Island at 56°40.77′ N lat, 132°39.28′ W long to the western end of Coney Island at 56°41.62′ N lat, 132°38.92′ W long to a point 800 yards north of Japanese Creek on the mainland shore at 56°46.62′ N lat, 132°37.11′ W long;"
+    },
+    {
+     "subject": "Section 8-B",
+     "status": "closed",
+     "geometry": "line",
+     "side": "north and west",
+     "points": [
+      {
+       "name": "Babbler Point",
+       "lat_dm": "56°29.08′ N",
+       "lon_dm": "132°17.37′ W"
+      },
+      {
+       "name": "Hour Point",
+       "lat_dm": "56°27.73′ N",
+       "lon_dm": "132°16.79′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "Section 8-B: will be closed north and west of a line from Babbler Point at 56°29.08′ N lat, 132°17.37′ W long to Hour Point at 56°27.73′ N lat, 132°16.79′ W long,"
+    },
+    {
+     "subject": "Section 8-B",
+     "status": "closed",
+     "geometry": "line",
+     "side": "north and east",
+     "points": [
+      {
+       "name": "Point Highfield",
+       "lat_dm": "56°29.34′ N",
+       "lon_dm": "132°23.36′ W"
+      },
+      {
+       "name": "the southern end of Liesnoi Island",
+       "lat_dm": "56°29.83′ N",
+       "lon_dm": "132°29.19′ W"
+      },
+      {
+       "name": "the southern end of Greys Island",
+       "lat_dm": "56°30.67′ N",
+       "lon_dm": "132°33.05′ W"
+      },
+      {
+       "name": "the small island near the eastern entrance of Blind Slough",
+       "lat_dm": "56°31.83′ N",
+       "lon_dm": "132°40.17′ W"
+      },
+      {
+       "name": "the nearest point on Mitkof Island",
+       "lat_dm": "56°31.88′ N",
+       "lon_dm": "132°40.66′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "north and east of a line from Point Highfield at 56°29.34′ N lat, 132°23.36′ W long to the southern end of Liesnoi Island at 56°29.83′ N lat, 132°29.19′ W long to the southern end of Greys Island at 56°30.67′ N lat, 132°33.05′ W long to the small island near the eastern entrance of Blind Slough at 56°31.83′ N lat, 132°40.17′ W long to the nearest point on Mitkof Island at 56°31.88′ N lat, 132°40.66′ W long."
+    }
+   ]
+  },
+  {
+   "district": "11",
+   "section": "11-B",
+   "status": "partial",
+   "period_text": "Section 11-B: will be open from 12:01 p.m., Sunday, August 23, through 12:00 noon, Wednesday, August 26, 2026, with the following restrictions:",
+   "rules": [
+    {
+     "subject": "Limestone Inlet",
+     "status": "closed",
+     "geometry": "line",
+     "side": "east",
+     "points": [
+      {
+       "name": "a point on the north shore",
+       "lat_dm": "58°02.04′ N",
+       "lon_dm": "133°59.60′ W"
+      },
+      {
+       "name": "a point on the south shore",
+       "lat_dm": "58°01.75′ N",
+       "lon_dm": "133°59.40′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "Limestone Inlet: will be closed east of a line from a point on the north shore at 58°02.04′ N lat, 133°59.60′ W long to a point on the south shore at 58°01.75′ N lat, 133°59.40′ W long (outside markers);"
+    },
+    {
+     "subject": "Port Snettisham",
+     "status": "closed",
+     "geometry": "line",
+     "side": "east",
+     "points": [
+      {
+       "name": "Sharp Point",
+       "lat_dm": "58°00.66′ N",
+       "lon_dm": "133°47.15′ W"
+      },
+      {
+       "name": "Sentinel Point",
+       "lat_dm": "57°59.74′ N",
+       "lon_dm": "133°45.65′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "Port Snettisham: will be closed east of a line from Sharp Point at 58°00.66′ N lat, 133°47.15′ W long to Sentinel Point at 57°59.74′ N lat, 133°45.65′ W long."
+    }
+   ]
+  },
+  {
+   "district": "15",
+   "section": "15-A",
+   "status": "partial",
+   "period_text": "Section 15-A: will be open from 12:01 p.m., Sunday, August 23, through 12:00 noon, Wednesday, August 26, 2026, with the following restrictions:",
+   "rules": [
+    {
+     "subject": "Chilkat Inlet",
+     "status": "closed",
+     "geometry": "lat_cutoff",
+     "side": "north",
+     "points": [
+      {
+       "name": "the northernmost tip of Kochu Island",
+       "lat_dm": "59°09.04′ N",
+       "lon_dm": null
+      }
+     ],
+     "distance_nmi": null,
+     "text": "Chilkat Inlet: will be closed north of the latitude of the northernmost tip of Kochu Island at 59°09.04′ N lat;"
+    },
+    {
+     "subject": "Lutak Inlet",
+     "status": "closed",
+     "geometry": "line",
+     "side": "north",
+     "points": [
+      {
+       "name": "White Rock",
+       "lat_dm": "59°18.05′ N",
+       "lon_dm": "135°31.33′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "59°18.73′ N",
+       "lon_dm": "135°30.16′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "Lutak Inlet: will be closed north of a line from White Rock at 59°18.05′ N lat, 135°31.33′ W long to a point at 59°18.73′ N lat, 135°30.16′ W long."
+    }
+   ]
+  },
+  {
+   "district": "15",
+   "section": "15-C",
+   "status": "open",
+   "period_text": "Section 15-C: will be open from 12:01 p.m., Sunday, August 23, through 12:00 noon, Wednesday, August 26, 2026.",
+   "rules": []
+  },
+  {
+   "district": "15",
+   "section": "15-C",
+   "status": "partial",
+   "period_text": "Section 15-C: outer waters of the Boat Harbor Terminal Harvest Area (THA) within 2.0 nmi of the western shoreline of Lynn Canal south of the latitude of Lance Point at 58°43.95′ N lat and north of the latitude of a regulatory marker at 58°36.96′ N lat, will close at 12:00 noon, Wednesday, August 26, 2026, with the following restriction:",
+   "rules": [
+    {
+     "subject": "outer waters of the Boat Harbor Terminal Harvest Area (THA)",
+     "status": "closed",
+     "geometry": "buffer",
+     "side": null,
+     "points": [
+      {
+       "name": "Lance Point",
+       "lat_dm": "58°43.95′ N",
+       "lon_dm": null
+      },
+      {
+       "name": "a regulatory marker",
+       "lat_dm": "58°36.96′ N",
+       "lon_dm": null
+      }
+     ],
+     "distance_nmi": 2.0,
+     "text": "Section 15-C: outer waters of the Boat Harbor Terminal Harvest Area (THA) within 2.0 nmi of the western shoreline of Lynn Canal south of the latitude of Lance Point at 58°43.95′ N lat and north of the latitude of a regulatory marker at 58°36.96′ N lat, will close at 12:00 noon, Wednesday, August 26, 2026, with the following restriction:"
+    },
+    {
+     "subject": "William Henry Bay",
+     "status": "closed",
+     "geometry": "lat_cutoff",
+     "side": "south",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": "58°42.93′ N",
+       "lon_dm": null
+      }
+     ],
+     "distance_nmi": null,
+     "text": "William Henry Bay: will be closed south of 58°42.93′ N lat."
+    }
+   ]
+  },
+  {
+   "district": "15",
+   "section": "15-C",
+   "status": "closed",
+   "period_text": "Section 15-C: the Boat Harbor THA will close at 11:59 p.m., Saturday, August 29, 2026, in the waters of Boat Harbor west of 135°09.57′ W long.",
+   "rules": [
+    {
+     "subject": "Boat Harbor THA",
+     "status": "closed",
+     "geometry": "lon_cutoff",
+     "side": "west",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": null,
+       "lon_dm": "135°09.57′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "Section 15-C: the Boat Harbor THA will close at 11:59 p.m., Saturday, August 29, 2026, in the waters of Boat Harbor west of 135°09.57′ W long."
+    }
+   ]
+  }
+ ],
+ "full_text": "Forrest Bowers, Acting Director\n\nDoug Vincent-Lang, Commissioner\n\nRegion I, Petersburg Area Office Petersburg, AK 99833\n\nAdvisory Announcement For Immediate Release: August 20, 2026\n\nJuneau, AK 99811-5526\n\nCONTACT: Troy Thynes Region I Management Coordinator troy.thynes@alaska.gov (907) 772-3801\n\nSOUTHEAST ALASKA SALMON DRIFT GILLNET FISHERY ANNOUNCEMENT\n\nSection 1-B: will be open from 12:01 p.m., Sunday, August 23, through 12:00 noon, Friday, August 28, 2026, with the following restriction:\n\nPearse and Portland Canals: will be closed north of the latitude of Akeku Point at 54°50.03′ N lat.\n\nDistrict 6: will be open from 12:01 p.m., Sunday, August 23, through 12:00 noon, Wednesday, August 26, 2026, with the following restriction:\n\nSection 6-D: will be closed.\n\nDistrict 8: will be open from 12:01 p.m., Sunday, August 23, through 12:00 noon, Wednesday, August 26, 2026, with the following restrictions:\n\nSection 8-A: will be closed west of a line from a point 1.0 nautical miles (nmi) off the Kupreanof Island shoreline on the District 10 boundary at 56°57.27′ N lat, 132°58.96′ W long to Sukoi Islets Light at 56°53.73′ N lat, 132°56.64′ W long to Frederick Point at 56°47.55′ N lat, 132°49.27′ W long; and east of a line from the prominent point on Mitkof Island nearest Coney Island at 56°40.77′ N lat, 132°39.28′ W long to the western end of Coney Island at 56°41.62′ N lat, 132°38.92′ W long to a point 800 yards north of Japanese Creek on the mainland shore at 56°46.62′ N lat, 132°37.11′ W long;\n\nSection 8-B: will be closed north and west of a line from Babbler Point at 56°29.08′ N lat, 132°17.37′ W long to Hour Point at 56°27.73′ N lat, 132°16.79′ W long, north and east of a line from Point Highfield at 56°29.34′ N lat, 132°23.36′ W long to the southern end of Liesnoi Island at 56°29.83′ N lat, 132°29.19′ W long to the southern end of Greys Island at 56°30.67′ N lat, 132°33.05′ W long to the small island near the eastern entrance of Blind Slough at 56°31.83′ N lat, 132°40.17′ W long to the nearest point on Mitkof Island at 56°31.88′ N lat, 132°40.66′ W long.\n\nSection 11-B: will be open from 12:01 p.m., Sunday, August 23, through 12:00 noon, Wednesday, August 26, 2026, with the following restrictions:\n\nLimestone Inlet: will be closed east of a line from a point on the north shore at 58°02.04′ N lat, 133°59.60′ W long to a point on the south shore at 58°01.75′ N lat, 133°59.40′ W long (outside markers);\n\nPort Snettisham: will be closed east of a line from Sharp Point at 58°00.66′ N lat, 133°47.15′ W long to Sentinel Point at 57°59.74′ N lat, 133°45.65′ W long.\n\nSection 15-A: will be open from 12:01 p.m., Sunday, August 23, through 12:00 noon, Wednesday, August 26, 2026, with the following restrictions:\n\nChilkat Inlet: will be closed north of the latitude of the northernmost tip of Kochu Island at 59°09.04′ N lat;\n\nLutak Inlet: will be closed north of a line from White Rock at 59°18.05′ N lat, 135°31.33′ W long to a point at 59°18.73′ N lat, 135°30.16′ W long.\n\nSection 15-C: will be open from 12:01 p.m., Sunday, August 23, through 12:00 noon, Wednesday, August 26, 2026.\n\nGillnet Week 35\n\nAugust 20, 2026\n\nGillnet Week 35 page 2 of 3\n\nAugust 20, 2026\n\nSection 15-C: outer waters of the Boat Harbor Terminal Harvest Area (THA) within 2.0 nmi of the western shoreline of Lynn Canal south of the latitude of Lance Point at 58°43.95′ N lat and north of the latitude of a regulatory marker at 58°36.96′ N lat, will close at 12:00 noon, Wednesday, August 26, 2026, with the following restriction:\n\nWilliam Henry Bay: will be closed south of 58°42.93′ N lat.\n\nSection 15-C: the Boat Harbor THA will close at 11:59 p.m., Saturday, August 29, 2026, in the waters of Boat Harbor west of 135°09.57′ W long.\n\nSpeel Lake sockeye salmon escapement through the weir, and fish observed in the stream below the weir, currently totals more than three-quarters of the bottom end of the escapement goal range with consistent movement of new fish into the stream. An area extension into the Speel Arm Terminal Harvest Area could occur with as little as six hours of notice.\n\nThe Section 1-B drift gillnet fishery is being managed according to the District 1 Pink Salmon Management Plan (5 AAC 33.360). The District 1 purse seine fishery is expected to receive 3 days of fishing time during statistical week 35. Therefore, the Section 1-B drift gillnet fishery will be given 5 days of fishing time.\n\nSection 6-D is closed after the first Saturday in August and before the first Sunday in September except as provided in the Section 6‑D Pink Salmon Management Plan (5 AAC 33.359). This regulation opens Section 6-D to the drift gillnet fishery when the purse seine fishery is opened in that area. A separate advisory announcement will be issued in the event that 6-D is opened, and notice will likely be short.\n\nFishermen and processors are reminded that all salmon, including steelhead, commercially harvested but retained for personal use and not sold, must be reported on fish tickets at the time of delivery.\n\nAll Chinook salmon harvested in the commercial drift gillnet fisheries may be retained and sold.\n\nThe next gillnet announcement will be issued on Thursday, August 27, 2026.\n\nThe Emergency Order corresponding to this announcement is EO 1S6526.\n\nGillnet Week 35 page 3 of 3\n\nAugust 20, 2026\n\nSoutheast Alaska Drift Gillnet Harvest Estimates Statistical Week 34 (August 16 through August 22)\n\nPreliminary Estimates Compiled August 20, 2026\n\nNUMBER OF SALMON\n\nDays\n\nDistrict\n\nChinook\n\nSockeye\n\nCoho\n\nPink\n\nChum\n\nTotal\n\nBoats Open\n\nDistrict 1 District 6 District 8 District 11 District 15\n\nTotal\n\n0 10 20 0 10\n\n40\n\n300 600 200 600 6,000\n\n7,700\n\n1,400 6,000 2,000 1,600 2,500\n\n28,700 31,000 2,000 3,800 8,000\n\n2,000 3,000 5,000 700 3,000\n\n32,400 40,610 9,220 6,700 19,510\n\n13,500\n\n73,500\n\n13,700\n\n108,440\n\n15 35 14 14 42\n\n5 4 4 3 4\n\nFISH PER BOAT FOR THE PERIOD\n\nDistrict\n\nChinook\n\nSockeye\n\nCoho\n\nDistrict 1 District 6 District 8 District 11\n\nDistrict 15\n\n0 0 1 0\n\n0\n\n20 17 14 43\n\n143\n\n93 171 143 114\n\n60\n\nPink\n\n1,913 886 143 271\n\n190\n\nChum\n\nTotal\n\n133 86 357 50\n\n71\n\n2,160 1,160 659 479\n\n464\n\nNakat Inlet THA: 470,000 chum and 400 coho salmon. Neets Bay THA: 53,000 chum salmon. Anita Bay THA: 82,000 chum and 500 coho salmon.\n\nDeep Inlet THA: 1,900 Chinook and 58,300 chum salmon.\n\nAdvisory Announcement web site: http://www.adfg.alaska.gov/index.cfm?adfg=cfnews.main.\n\nOffice\n\nKetchikan\n\nPetersburg\n\nWrangell\n\n225-5195\n\n225-5111\n\n772-3801\n\n772-3983\n\n874-3215\n\nSitka\n\n747-6688\n\n747-3254\n\nJuneau\n\n465-4250\n\n465-4000\n\nHaines\n\n766-2830\n\n766-2533\n\nYakutat\n\n784-3255\n\n784-3220",
+ "_parser": "9d390c40",
+ "_parser_kept": "new parse would open what the old kept closed or partial: 11-B, 15-A, 15-C, 6, 8"
+}

@@ -1,0 +1,84 @@
+{
+ "release_id": "1767868647",
+ "title": "Silver Bay Terminal Harvest Area Troll Fishery",
+ "published": "2026-04-15T00:00",
+ "region": "Southeast",
+ "gear": [
+  "troll"
+ ],
+ "species": "salmon",
+ "emergency_order": "1E0726",
+ "contact": "Grant Hagerman, (907) 747-6688",
+ "next_announcement": null,
+ "areas": [
+  {
+   "district": null,
+   "section": null,
+   "status": "open",
+   "period_text": "The Silver Bay Terminal Harvest Area (THA) commercial salmon troll fishery will open for the harvest of Chinook, coho, chum, sockeye, and pink salmon from 12:01 a.m., Monday, June 1, through 11:59 p.m., Thursday, July 30, 2026, unless closed by emergency order.",
+   "rules": [
+    {
+     "subject": "Silver Bay THA boundary",
+     "status": "open",
+     "geometry": "line",
+     "side": "east",
+     "points": [
+      {
+       "name": "Entry Point Light",
+       "lat_dm": "57°01.96′ N",
+       "lon_dm": "135°15.01′ W"
+      },
+      {
+       "name": "Silver Point",
+       "lat_dm": "57°00.80′ N",
+       "lon_dm": "135°18.09′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "The Silver Bay THA (statistical area 113-35) consists of the waters east of a line from Entry Point Light at 57°01.96′ N lat, 135°15.01′ W long, to Silver Point at 57°00.80′ N lat, 135°18.09′ W long (Figure 1)."
+    },
+    {
+     "subject": "Bear Cove (5 AAC 33.375[b])",
+     "status": "closed",
+     "geometry": "line",
+     "side": "east",
+     "points": [
+      {
+       "name": "a point on the south shore",
+       "lat_dm": "57°00.77′ N",
+       "lon_dm": "135°09.08′ W"
+      },
+      {
+       "name": "the north shore",
+       "lat_dm": "57°00.94′ N",
+       "lon_dm": "135°09.23′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "The waters of Bear Cove east of a line from a point on the south shore at 57°00.77′ N lat, 135°09.08′ W long, to the north shore at 57°00.94′ N lat, 135°09.23′ W long are closed to commercial salmon troll gear (5 AAC 33.375[b])."
+    },
+    {
+     "subject": "Chinook salmon retention June 1 – July 30",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Chinook salmon retention is permitted in the THA from June 1 through July 30."
+    },
+    {
+     "subject": "Chinook salmon retention from July 31",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Beginning at 12:01 a.m., July 31, the waters of Silver Bay THA remain open to troll gear as part of the common property traditional summer troll fishery, with Chinook salmon retention and possession allowed only during open Chinook salmon retention periods established for the summer troll fishery under 5 AAC 29.100(c)."
+    }
+   ]
+  }
+ ],
+ "_parser": "9d390c40",
+ "_parser_kept": "new parse would open what the old kept closed or partial: a region-wide opening",
+ "full_text": "Forrest Bowers, Acting Director\n\nDoug Vincent-Lang, Commissioner\n\nSitka Area Office 304 Lake Street Room 103 Sitka, AK 99835\n\nAdvisory Announcement For Immediate Release: April 15, 2026\n\nJuneau, AK 99811-5526\n\nCONTACT: Grant Hagerman Region I Commercial Troll Management Biologist grant.hagerman@alaska.gov (907) 747-6688\n\nSILVER BAY TERMINAL HARVEST AREA TROLL FISHERY\n\nThe Silver Bay Terminal Harvest Area (THA) commercial salmon troll fishery will open for the harvest of Chinook, coho, chum, sockeye, and pink salmon from 12:01 a.m., Monday, June 1, through 11:59 p.m., Thursday, July 30, 2026, unless closed by emergency order.\n\nThe Silver Bay THA (statistical area 113-35) consists of the waters east of a line from Entry Point Light at 57°01.96′ N lat, 135°15.01′ W long, to Silver Point at 57°00.80′ N lat, 135°18.09′ W long (Figure 1).\n\nThe waters of Bear Cove east of a line from a point on the south shore at 57°00.77′ N lat, 135°09.08′ W long, to the north shore at 57°00.94′ N lat, 135°09.23′ W long are closed to commercial salmon troll gear (5 AAC 33.375[b]). Notwithstanding the closed water provisions of Bear Cove cited in 5 AAC 33.375(b), regulatory language is added to 5 AAC 29.150(a) by emergency order to open the remaining waters of Bear Cove, that are within 500 yards of the terminus of Medvejie Creek, to commercial salmon trolling during open fishing periods that occur in the THA after June 30. All other anadromous stream buffer closures for salmon fishing with troll gear are in effect in the Silver Bay THA beginning on July 1.\n\nChinook salmon retention is permitted in the THA from June 1 through July 30. Beginning at 12:01 a.m., July 31, the waters of Silver Bay THA remain open to troll gear as part of the common property traditional summer troll fishery, with Chinook salmon retention and possession allowed only during open Chinook salmon retention periods established for the summer troll fishery under 5 AAC 29.100(c).\n\nStatistical area 113-35 should be recorded on fish tickets for harvest within the Silver Bay THA. Fish harvested in the THA should be separated from fish caught in other areas so that department personnel will have the opportunity to obtain biological samples. Permit holders are advised that they must offload all Chinook salmon taken in the THA prior to fishing in areas where Chinook salmon retention is prohibited. Following the closure of the Silver Bay THA, this area is managed as a traditional salmon fishery with harvest reported using statistical area 113-41.\n\nThe Emergency Order corresponding to this announcement is EO 1E0726.\n\nAdvisory Announcement web site: http://www.adfg.alaska.gov/index.cfm?adfg=cfnews.main.\n\nOffice\n\nTroll Hotline\n\nKetchikan\n\nPetersburg\n\nSitka\n\nJuneau\n\nHaines\n\nHoonah\n\nYakutat\n\n225-5195 225-5111 225-6870\n\n772-3801 772-3983\n\n747-6688 747-3254 747-8765\n\n465-4250 465-4000 465-8765\n\n766-2830\n\n784-3255\n\n945-3620\n\nSilver Bay THA Troll Fishery\n\nApril 15, 2026\n\nSilver Bay THA Troll Fishery page 2 of 2\n\nApril 15, 2026\n\nFigure 1.–Silver Bay Terminal Harvest Area."
+}

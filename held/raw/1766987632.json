@@ -1,0 +1,50 @@
+{
+ "release_id": "1766987632",
+ "title": "Burnett Inlet Terminal Harvest Area Troll Fishery",
+ "published": "2026-04-15T00:00",
+ "region": "Southeast",
+ "gear": [
+  "troll"
+ ],
+ "species": "salmon",
+ "emergency_order": "1E0426",
+ "contact": "Grant Hagerman, (907) 747-6688",
+ "next_announcement": null,
+ "areas": [
+  {
+   "district": null,
+   "section": null,
+   "status": "open",
+   "period_text": "The Burnett Inlet Terminal Harvest Area (THA) commercial salmon troll fishery will open for the harvest of chum, coho, sockeye, and pink salmon from 12:01 a.m., Saturday, June 27, 2026, until closed by emergency order.",
+   "rules": [
+    {
+     "subject": "Burnett Inlet THA boundary",
+     "status": "open",
+     "geometry": "lat_cutoff",
+     "side": "north",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": "56°04.65′ N",
+       "lon_dm": null
+      }
+     ],
+     "distance_nmi": null,
+     "text": "The Burnett Inlet THA (statistical area 106-25) consists of the waters of Burnett Inlet north of 56°04.65′ N lat."
+    },
+    {
+     "subject": "Chinook salmon retention",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Chinook salmon retention is permitted only during general summer troll Chinook salmon retention periods established under 5 AAC 29.100."
+    }
+   ]
+  }
+ ],
+ "_parser": "9d390c40",
+ "_parser_kept": "new parse would open what the old kept closed or partial: a region-wide opening",
+ "full_text": "Forrest Bowers, Acting Director\n\nDoug Vincent-Lang, Commissioner\n\nSitka Area Office 304 Lake Street Room 103 Sitka, AK 99835\n\nAdvisory Announcement For Immediate Release: April 15, 2026\n\nJuneau, AK 99811-5526\n\nCONTACT: Grant Hagerman Region I Commercial Troll Management Biologist grant.hagerman@alaska.gov (907) 747-6688\n\nBURNETT INLET TERMINAL HARVEST AREA TROLL FISHERY\n\nThe Burnett Inlet Terminal Harvest Area (THA) commercial salmon troll fishery will open for the harvest of chum, coho, sockeye, and pink salmon from 12:01 a.m., Saturday, June 27, 2026, until closed by emergency order. The Southern Southeast Regional Aquaculture Association is forecasting a total return of approximately 426,000 hatchery-produced summer chum salmon and 11,600 hatchery-produced fall chum salmon to the Burnett Inlet THA.\n\nThe Burnett Inlet THA (statistical area 106-25) consists of the waters of Burnett Inlet north of 56°04.65′ N lat. Statistical area 106-25 should be recorded on fish tickets for harvest within the Burnett Inlet THA.\n\nChinook Salmon Landing Restrictions for Burnett Inlet THA: Chinook salmon retention is permitted only during general summer troll Chinook salmon retention periods established under 5 AAC 29.100.\n\nThe Emergency Order corresponding to this announcement is EO 1E0426.\n\nAdvisory Announcement web site: http://www.adfg.alaska.gov/index.cfm?adfg=cfnews.main.\n\nOffice\n\nTroll Hotline\n\nKetchikan\n\nPetersburg\n\nSitka\n\nJuneau\n\nHaines\n\nHoonah\n\nYakutat\n\n225-5195 225-5111 225-6870\n\n772-3801 772-3983\n\n747-6688 747-3254 747-8765\n\n465-4250 465-4000 465-8765\n\n766-2830\n\n784-3255\n\n945-3620\n\nBurnett Inlet THA Troll Fishery\n\nApril 15, 2026"
+}

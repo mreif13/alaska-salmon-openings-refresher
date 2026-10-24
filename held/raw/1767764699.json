@@ -1,0 +1,93 @@
+{
+ "release_id": "1767764699",
+ "title": "Port Saint Nicholas Terminal Harvest Area Troll Fishery",
+ "published": "2026-04-15T00:00",
+ "region": "Southeast",
+ "gear": [
+  "troll"
+ ],
+ "species": "salmon",
+ "emergency_order": "1E0626",
+ "contact": "Grant Hagerman, (907) 747-6688",
+ "next_announcement": null,
+ "areas": [
+  {
+   "district": null,
+   "section": null,
+   "status": "open",
+   "period_text": "The Port Saint Nicholas Terminal Harvest Area (THA) commercial salmon troll fishery will open for the harvest of Chinook, coho, chum, sockeye, and pink salmon from 12:01 a.m., Monday, June 1, through 11:59 p.m., Friday, July 31, 2026, unless closed by emergency order.",
+   "rules": [
+    {
+     "subject": "Port Saint Nicholas Troll THA boundary (5 AAC 33.382[c])",
+     "status": "open",
+     "geometry": "polygon",
+     "side": null,
+     "points": [
+      {
+       "name": "Cape Suspiro",
+       "lat_dm": "55°27.47′ N",
+       "lon_dm": "133°08.50′ W"
+      },
+      {
+       "name": "the northernmost tip of Toti Island",
+       "lat_dm": "55°24.90′ N",
+       "lon_dm": "133°07.34′ W"
+      },
+      {
+       "name": "Point Miraballes",
+       "lat_dm": "55°25.85′ N",
+       "lon_dm": "133°05.23′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "The Port Saint Nicholas Troll THA (statistical area 103-63) consists of the waters of Port Saint Nicholas and Bucareli Bay enclosed by a line from Cape Suspiro at 55°27.47′ N lat, 133°08.50′ W long to the northernmost tip of Toti Island at 55°24.90′ N lat, 133°07.34′ W long to Point Miraballes at 55°25.85′ N lat, 133°05.23′ W long (5 AAC 33.382[c])."
+    },
+    {
+     "subject": "Port Saint Nicholas Special Harvest Area (SHA)",
+     "status": "open",
+     "geometry": "lon_cutoff",
+     "side": "east",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": null,
+       "lon_dm": "133°02.92′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "The waters of the Port Saint Nicholas Special Harvest Area (SHA) east of 133°02.92′ W long will open in 2026 to common property troll fisheries from June 1 through July 31 (Figure 1)."
+    },
+    {
+     "subject": "Net gear will not open in 2026",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The THA will not open to common property commercial net gear during the 2026 season."
+    },
+    {
+     "subject": "Chinook salmon retention",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Chinook salmon retention is permitted in the THA during the spring and summer troll fisheries from June 1 through July 31."
+    },
+    {
+     "subject": "Chinook offload requirement",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Permit holders are advised that they must offload all Chinook salmon taken in the THA prior to fishing in areas where Chinook salmon retention is prohibited."
+    }
+   ]
+  }
+ ],
+ "_parser": "9d390c40",
+ "_parser_kept": "new parse would open what the old kept closed or partial: a region-wide opening",
+ "full_text": "Forrest Bowers, Acting Director\n\nDoug Vincent-Lang, Commissioner\n\nSitka Area Office 304 Lake Street Room 103 Sitka, AK 99835\n\nAdvisory Announcement For Immediate Release: April 15, 2026\n\nJuneau, AK 99811-5526\n\nCONTACT: Grant Hagerman Region I Commercial Troll Management Biologist grant.hagerman@alaska.gov (907) 747-6688\n\nPORT SAINT NICHOLAS TERMINAL HARVEST AREA TROLL FISHERY\n\nThe Port Saint Nicholas Terminal Harvest Area (THA) commercial salmon troll fishery will open for the harvest of Chinook, coho, chum, sockeye, and pink salmon from 12:01 a.m., Monday, June 1, through 11:59 p.m., Friday, July 31, 2026, unless closed by emergency order. The THA will not open to common property commercial net gear during the 2026 season. The Southern Southeast Regional Aquaculture Association is forecasting a total run of approximately 9,200 hatchery-produced Chinook salmon for the Port Saint Nicholas THA.\n\nThe Port Saint Nicholas Troll THA (statistical area 103-63) consists of the waters of Port Saint Nicholas and Bucareli Bay enclosed by a line from Cape Suspiro at 55°27.47′ N lat, 133°08.50′ W long to the northernmost tip of Toti Island at 55°24.90′ N lat, 133°07.34′ W long to Point Miraballes at 55°25.85′ N lat, 133°05.23′ W long (5 AAC 33.382[c]). The waters of the Port Saint Nicholas Special Harvest Area (SHA) east of 133°02.92′ W long will open in 2026 to common property troll fisheries from June 1 through July 31 (Figure 1).\n\nChinook salmon retention is permitted in the THA during the spring and summer troll fisheries from June 1 through July 31. Beginning at 12:01 a.m., August 1, the waters of Port Saint Nicholas THA remain open to troll gear as part of the common property traditional summer troll fishery, with Chinook salmon retention and possession allowed only during open Chinook salmon retention periods established for the summer troll fishery under 5 AAC 29.100(c).\n\nStatistical area 103-63 should be recorded on fish tickets for harvest within the Port Saint Nicholas THA. Fish harvested in the THA should be separated from fish caught in other areas so that department personnel will have the opportunity to obtain biological samples. Permit holders are advised that they must offload all Chinook salmon taken in the THA prior to fishing in areas where Chinook salmon retention is prohibited. Following the closure of the Port Saint Nicholas THA on July 31, this area is managed as a traditional salmon fishery with harvest reported using statistical area 103-60.\n\nThe Emergency Order corresponding to this announcement is EO 1E0626.\n\nAdvisory Announcement web site: http://www.adfg.alaska.gov/index.cfm?adfg=cfnews.main.\n\nOffice\n\nTroll Hotline\n\nKetchikan\n\nPetersburg\n\nSitka\n\nJuneau\n\nHaines\n\nHoonah\n\nYakutat\n\n225-5195 225-5111 225-6870\n\n772-3801 772-3983\n\n747-6688 747-3254 747-8765\n\n465-4250 465-4000 465-8765\n\n766-2830\n\n784-3255\n\n945-3620\n\nPort Saint Nicholas THA Troll Fishery\n\nApril 15, 2026\n\nPort Saint Nicholas THA Troll Fishery page 2 of 2\n\nApril 15, 2026\n\nFigure 1.–Port Saint Nicholas Terminal Harvest Area Troll Fishery."
+}

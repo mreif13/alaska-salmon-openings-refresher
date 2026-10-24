@@ -1,0 +1,9 @@
+{
+ "started": [
+  {
+   "at": "2026-10-18T16:01:03",
+   "ok": true,
+   "why": "[cloud] published the chart (the weekly chart snapshot) to https://alaska-salmon-openings.netlify.app (deploy 6ad55de1253b06a3ba90c2bc)"
+  }
+ ]
+}

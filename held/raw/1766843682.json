@@ -1,0 +1,987 @@
+{
+ "release_id": "1766843682",
+ "title": "Anita Bay Terminal Harvest Area Fisheries Announcement",
+ "published": "2026-04-14T00:00",
+ "region": "Southeast",
+ "gear": [
+  "troll",
+  "purse seine",
+  "drift gillnet"
+ ],
+ "species": "salmon",
+ "emergency_order": "1E1326",
+ "contact": "Tom Kowalske, (907) 772-3801",
+ "next_announcement": null,
+ "areas": [
+  {
+   "district": null,
+   "section": null,
+   "status": "open",
+   "period_text": "Troll — The Anita Bay THA will be open continuously to harvest salmon with troll gear from 12:01 a.m., Monday, June 1, through 11:59 p.m., Tuesday, November 10. The Anita Bay THA will close for the season at 11:59 p.m., Tuesday, November 10, 2026.",
+   "rules": [
+    {
+     "subject": "Anita Bay THA boundary",
+     "status": "open",
+     "geometry": "line",
+     "side": "south and west",
+     "points": [
+      {
+       "name": "the tip of Anita Point",
+       "lat_dm": "56°13.68′ N",
+       "lon_dm": "132°22.48′ W"
+      },
+      {
+       "name": "a point on the northern shore",
+       "lat_dm": "56°14.26′ N",
+       "lon_dm": "132°23.93′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "The Anita Bay THA consists of those waters of Anita Bay south and west of a line from the tip of Anita Point at 56°13.68′ N lat, 132°22.48′ W long to a point on the northern shore at 56°14.26′ N lat, 132°23.93′ W long."
+    },
+    {
+     "subject": "Rotational western closure June 15–25",
+     "status": "closed",
+     "geometry": "lon_cutoff",
+     "side": "west",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": null,
+       "lon_dm": "132°26.19′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "from Monday, June 15, through Thursday, June 25, the waters of the Anita Bay THA west of 132°26.19′ W long will be closed to the harvest of salmon;"
+    },
+    {
+     "subject": "Rotational western closure June 26 – July 1",
+     "status": "closed",
+     "geometry": "lon_cutoff",
+     "side": "west",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": null,
+       "lon_dm": "132°26.98′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "from Friday, June 26, through Wednesday, July 1, the waters of the Anita Bay THA west of 132°26.98′ W long will be closed to the harvest of salmon;"
+    },
+    {
+     "subject": "Rotational western closure July 2–10",
+     "status": "closed",
+     "geometry": "lon_cutoff",
+     "side": "west",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": null,
+       "lon_dm": "132°28.00′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "from Thursday, July 2, through Friday, July 10, the waters of the Anita Bay THA west of 132°28.00′ W long will be closed to the harvest of salmon."
+    },
+    {
+     "subject": "Northern shoreline 0.25 nmi strip open (5 AAC 33.383(b)(1))",
+     "status": "open",
+     "geometry": "buffer",
+     "side": null,
+     "points": [
+      {
+       "name": null,
+       "lat_dm": "56°12.33′ N",
+       "lon_dm": "132°26.19′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "56°12.06′ N",
+       "lon_dm": "132°26.19′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "56°11.96′ N",
+       "lon_dm": "132°29.57′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "56°11.73′ N",
+       "lon_dm": "132°29.36′ W"
+      }
+     ],
+     "distance_nmi": 0.25,
+     "text": "As described in 5 AAC 33.383(b)(1), from 12:01 a.m., Monday, June 15, through 11:59 p.m., Friday, July 10, waters within 0.25 nautical mile of the northern shoreline of Anita Bay west of a line from 56°12.33′ N lat, 132°26.19′ W long to 56°12.06′ N lat, 132°26.19′ W long and east of a line from 56°11.96′ N lat, 132°29.57′ W long to 56°11.73′ N lat, 132°29.36′ W long will be open."
+    },
+    {
+     "subject": "Chinook salmon landing restrictions (troll)",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Chinook salmon harvested within the Anita Bay THA that are 28 inches or greater in length may be retained and sold."
+    },
+    {
+     "subject": "Season closure",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Anita Bay THA will close for the season at 11:59 p.m., Tuesday, November 10, 2026."
+    }
+   ]
+  },
+  {
+   "district": null,
+   "section": null,
+   "status": "partial",
+   "period_text": "Purse Seine — The Anita Bay THA will be open to drift gillnet and purse seine gear concurrently from 5:00 a.m., Monday, June 1, through 12:00 noon, Friday, June 12.",
+   "rules": [
+    {
+     "subject": "Anita Bay THA boundary",
+     "status": "open",
+     "geometry": "line",
+     "side": "south and west",
+     "points": [
+      {
+       "name": "the tip of Anita Point",
+       "lat_dm": "56°13.68′ N",
+       "lon_dm": "132°22.48′ W"
+      },
+      {
+       "name": "a point on the northern shore",
+       "lat_dm": "56°14.26′ N",
+       "lon_dm": "132°23.93′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "The Anita Bay THA consists of those waters of Anita Bay south and west of a line from the tip of Anita Point at 56°13.68′ N lat, 132°22.48′ W long to a point on the northern shore at 56°14.26′ N lat, 132°23.93′ W long."
+    },
+    {
+     "subject": "June 1–12 net closure north and east of a line",
+     "status": "closed",
+     "geometry": "line",
+     "side": "north and east",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": "56°12.90′ N",
+       "lon_dm": "132°24.51′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "56°12.75′ N",
+       "lon_dm": "132°23.50′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "from 5:00 a.m., Monday, June 1, through 12:00 noon, Friday, June 12, the waters of the Anita Bay THA north and east of a line from 56°12.90′ N lat, 132°24.51′ W long to 56°12.75′ N lat, 132°23.50′ W long will be closed to the harvest of salmon with commercial purse seine and drift gillnet gear"
+    },
+    {
+     "subject": "Rotational western closure June 15–25",
+     "status": "closed",
+     "geometry": "lon_cutoff",
+     "side": "west",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": null,
+       "lon_dm": "132°26.19′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "from Monday, June 15, through Thursday, June 25, the waters of the Anita Bay THA west of 132°26.19′ W long will be closed to the harvest of salmon;"
+    },
+    {
+     "subject": "Rotational western closure June 26 – July 1",
+     "status": "closed",
+     "geometry": "lon_cutoff",
+     "side": "west",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": null,
+       "lon_dm": "132°26.98′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "from Friday, June 26, through Wednesday, July 1, the waters of the Anita Bay THA west of 132°26.98′ W long will be closed to the harvest of salmon;"
+    },
+    {
+     "subject": "Rotational western closure July 2–10",
+     "status": "closed",
+     "geometry": "lon_cutoff",
+     "side": "west",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": null,
+       "lon_dm": "132°28.00′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "from Thursday, July 2, through Friday, July 10, the waters of the Anita Bay THA west of 132°28.00′ W long will be closed to the harvest of salmon."
+    },
+    {
+     "subject": "Northern shoreline 0.25 nmi strip open (5 AAC 33.383(b)(1))",
+     "status": "open",
+     "geometry": "buffer",
+     "side": null,
+     "points": [
+      {
+       "name": null,
+       "lat_dm": "56°12.33′ N",
+       "lon_dm": "132°26.19′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "56°12.06′ N",
+       "lon_dm": "132°26.19′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "56°11.96′ N",
+       "lon_dm": "132°29.57′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "56°11.73′ N",
+       "lon_dm": "132°29.36′ W"
+      }
+     ],
+     "distance_nmi": 0.25,
+     "text": "As described in 5 AAC 33.383(b)(1), from 12:01 a.m., Monday, June 15, through 11:59 p.m., Friday, July 10, waters within 0.25 nautical mile of the northern shoreline of Anita Bay west of a line from 56°12.33′ N lat, 132°26.19′ W long to 56°12.06′ N lat, 132°26.19′ W long and east of a line from 56°11.96′ N lat, 132°29.57′ W long to 56°11.73′ N lat, 132°29.36′ W long will be open."
+    },
+    {
+     "subject": "Chinook salmon landing restrictions (net gear)",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "All Chinook salmon harvested within the Anita Bay THA may be retained and sold."
+    },
+    {
+     "subject": "Season closure",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Anita Bay THA will close for the season at 11:59 p.m., Tuesday, November 10, 2026."
+    }
+   ]
+  },
+  {
+   "district": null,
+   "section": null,
+   "status": "partial",
+   "period_text": "Drift Gillnet — The Anita Bay THA will be open to drift gillnet and purse seine gear concurrently from 5:00 a.m., Monday, June 1, through 12:00 noon, Friday, June 12.",
+   "rules": [
+    {
+     "subject": "Anita Bay THA boundary",
+     "status": "open",
+     "geometry": "line",
+     "side": "south and west",
+     "points": [
+      {
+       "name": "the tip of Anita Point",
+       "lat_dm": "56°13.68′ N",
+       "lon_dm": "132°22.48′ W"
+      },
+      {
+       "name": "a point on the northern shore",
+       "lat_dm": "56°14.26′ N",
+       "lon_dm": "132°23.93′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "The Anita Bay THA consists of those waters of Anita Bay south and west of a line from the tip of Anita Point at 56°13.68′ N lat, 132°22.48′ W long to a point on the northern shore at 56°14.26′ N lat, 132°23.93′ W long."
+    },
+    {
+     "subject": "June 1–12 net closure north and east of a line",
+     "status": "closed",
+     "geometry": "line",
+     "side": "north and east",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": "56°12.90′ N",
+       "lon_dm": "132°24.51′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "56°12.75′ N",
+       "lon_dm": "132°23.50′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "from 5:00 a.m., Monday, June 1, through 12:00 noon, Friday, June 12, the waters of the Anita Bay THA north and east of a line from 56°12.90′ N lat, 132°24.51′ W long to 56°12.75′ N lat, 132°23.50′ W long will be closed to the harvest of salmon with commercial purse seine and drift gillnet gear"
+    },
+    {
+     "subject": "Rotational western closure June 15–25",
+     "status": "closed",
+     "geometry": "lon_cutoff",
+     "side": "west",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": null,
+       "lon_dm": "132°26.19′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "from Monday, June 15, through Thursday, June 25, the waters of the Anita Bay THA west of 132°26.19′ W long will be closed to the harvest of salmon;"
+    },
+    {
+     "subject": "Rotational western closure June 26 – July 1",
+     "status": "closed",
+     "geometry": "lon_cutoff",
+     "side": "west",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": null,
+       "lon_dm": "132°26.98′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "from Friday, June 26, through Wednesday, July 1, the waters of the Anita Bay THA west of 132°26.98′ W long will be closed to the harvest of salmon;"
+    },
+    {
+     "subject": "Rotational western closure July 2–10",
+     "status": "closed",
+     "geometry": "lon_cutoff",
+     "side": "west",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": null,
+       "lon_dm": "132°28.00′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "from Thursday, July 2, through Friday, July 10, the waters of the Anita Bay THA west of 132°28.00′ W long will be closed to the harvest of salmon."
+    },
+    {
+     "subject": "Northern shoreline 0.25 nmi strip open (5 AAC 33.383(b)(1))",
+     "status": "open",
+     "geometry": "buffer",
+     "side": null,
+     "points": [
+      {
+       "name": null,
+       "lat_dm": "56°12.33′ N",
+       "lon_dm": "132°26.19′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "56°12.06′ N",
+       "lon_dm": "132°26.19′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "56°11.96′ N",
+       "lon_dm": "132°29.57′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "56°11.73′ N",
+       "lon_dm": "132°29.36′ W"
+      }
+     ],
+     "distance_nmi": 0.25,
+     "text": "As described in 5 AAC 33.383(b)(1), from 12:01 a.m., Monday, June 15, through 11:59 p.m., Friday, July 10, waters within 0.25 nautical mile of the northern shoreline of Anita Bay west of a line from 56°12.33′ N lat, 132°26.19′ W long to 56°12.06′ N lat, 132°26.19′ W long and east of a line from 56°11.96′ N lat, 132°29.57′ W long to 56°11.73′ N lat, 132°29.36′ W long will be open."
+    },
+    {
+     "subject": "Chinook salmon landing restrictions (net gear)",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "All Chinook salmon harvested within the Anita Bay THA may be retained and sold."
+    },
+    {
+     "subject": "Season closure",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Anita Bay THA will close for the season at 11:59 p.m., Tuesday, November 10, 2026."
+    }
+   ]
+  },
+  {
+   "district": null,
+   "section": null,
+   "status": "partial",
+   "period_text": "The Anita Bay THA will be open to drift gillnet and purse seine gear on a rotational basis from 12:00 noon, Saturday, June 13, through 12:00 noon, Monday, August 31. The rotational periods are as follows: Purse Seine — From 12:00 noon, Saturday, June 13, to 12:00 noon, Sunday, June 14; From 12:00 noon, Wednesday, June 17, to 12:00 noon, Thursday, June 18; From 12:00 noon, Sunday, June 21, to 12:00 noon, Monday, June 22; From 12:00 noon, Thursday, June 25, to 12:00 noon, Friday, June 26; From 12:00 noon, Monday, June 29, to 12:00 noon, Tuesday, June 30; From 12:00 noon, Friday, July 3, to 12:00 noon, Saturday, July 4; From 12:00 noon, Tuesday, July 7, to 12:00 noon, Wednesday, July 8; From 12:00 noon Saturday, July 11, to 12:00 noon, Sunday, July 12; From 12:00 noon, Wednesday, July 15, to 12:00 noon, Thursday, July 16; From 12:00 noon, Sunday, July 19, to 12:00 noon, Monday, July 20; From 12:00 noon, Thursday, July 23, to 12:00 noon, Friday, July 24; From 12:00 noon, Monday, July 27, to 12:00 noon, Tuesday, July 28; From 12:00 noon, Friday, July 31, to 12:00 noon, Saturday, August 1; From 12:00 noon, Tuesday, August 4, to 12:00 noon, Wednesday, August 5; From 12:00 noon, Saturday, August 8, to 12:00 noon, Sunday, August 9; From 12:00 noon, Wednesday, August 12, to 12:00 noon, Thursday, August 13; From 12:00 noon, Sunday, August 16, to 12:00 noon, Monday, August 17; From 12:00 noon, Thursday, August 20, to 12:00 noon, Friday, August 21; From 12:00 noon, Monday, August 24, to 12:00 noon, Tuesday, August 25; From 12:00 noon, Friday, August 28, to 12:00 noon, Saturday, August 29.",
+   "rules": [
+    {
+     "subject": "Anita Bay THA boundary",
+     "status": "open",
+     "geometry": "line",
+     "side": "south and west",
+     "points": [
+      {
+       "name": "the tip of Anita Point",
+       "lat_dm": "56°13.68′ N",
+       "lon_dm": "132°22.48′ W"
+      },
+      {
+       "name": "a point on the northern shore",
+       "lat_dm": "56°14.26′ N",
+       "lon_dm": "132°23.93′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "The Anita Bay THA consists of those waters of Anita Bay south and west of a line from the tip of Anita Point at 56°13.68′ N lat, 132°22.48′ W long to a point on the northern shore at 56°14.26′ N lat, 132°23.93′ W long."
+    },
+    {
+     "subject": "June 1–12 net closure north and east of a line",
+     "status": "closed",
+     "geometry": "line",
+     "side": "north and east",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": "56°12.90′ N",
+       "lon_dm": "132°24.51′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "56°12.75′ N",
+       "lon_dm": "132°23.50′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "from 5:00 a.m., Monday, June 1, through 12:00 noon, Friday, June 12, the waters of the Anita Bay THA north and east of a line from 56°12.90′ N lat, 132°24.51′ W long to 56°12.75′ N lat, 132°23.50′ W long will be closed to the harvest of salmon with commercial purse seine and drift gillnet gear"
+    },
+    {
+     "subject": "Rotational western closure June 15–25",
+     "status": "closed",
+     "geometry": "lon_cutoff",
+     "side": "west",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": null,
+       "lon_dm": "132°26.19′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "from Monday, June 15, through Thursday, June 25, the waters of the Anita Bay THA west of 132°26.19′ W long will be closed to the harvest of salmon;"
+    },
+    {
+     "subject": "Rotational western closure June 26 – July 1",
+     "status": "closed",
+     "geometry": "lon_cutoff",
+     "side": "west",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": null,
+       "lon_dm": "132°26.98′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "from Friday, June 26, through Wednesday, July 1, the waters of the Anita Bay THA west of 132°26.98′ W long will be closed to the harvest of salmon;"
+    },
+    {
+     "subject": "Rotational western closure July 2–10",
+     "status": "closed",
+     "geometry": "lon_cutoff",
+     "side": "west",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": null,
+       "lon_dm": "132°28.00′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "from Thursday, July 2, through Friday, July 10, the waters of the Anita Bay THA west of 132°28.00′ W long will be closed to the harvest of salmon."
+    },
+    {
+     "subject": "Northern shoreline 0.25 nmi strip open (5 AAC 33.383(b)(1))",
+     "status": "open",
+     "geometry": "buffer",
+     "side": null,
+     "points": [
+      {
+       "name": null,
+       "lat_dm": "56°12.33′ N",
+       "lon_dm": "132°26.19′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "56°12.06′ N",
+       "lon_dm": "132°26.19′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "56°11.96′ N",
+       "lon_dm": "132°29.57′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "56°11.73′ N",
+       "lon_dm": "132°29.36′ W"
+      }
+     ],
+     "distance_nmi": 0.25,
+     "text": "As described in 5 AAC 33.383(b)(1), from 12:01 a.m., Monday, June 15, through 11:59 p.m., Friday, July 10, waters within 0.25 nautical mile of the northern shoreline of Anita Bay west of a line from 56°12.33′ N lat, 132°26.19′ W long to 56°12.06′ N lat, 132°26.19′ W long and east of a line from 56°11.96′ N lat, 132°29.57′ W long to 56°11.73′ N lat, 132°29.36′ W long will be open."
+    },
+    {
+     "subject": "Chinook salmon landing restrictions (net gear)",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "All Chinook salmon harvested within the Anita Bay THA may be retained and sold."
+    },
+    {
+     "subject": "Season closure",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Anita Bay THA will close for the season at 11:59 p.m., Tuesday, November 10, 2026."
+    }
+   ]
+  },
+  {
+   "district": null,
+   "section": null,
+   "status": "partial",
+   "period_text": "The Anita Bay THA will be open to drift gillnet and purse seine gear on a rotational basis from 12:00 noon, Saturday, June 13, through 12:00 noon, Monday, August 31. The rotational periods are as follows: Drift Gillnet — From 12:00 noon, Monday, June 15, to 12:00 noon, Tuesday, June 16; From 12:00 noon, Friday, June 19, to 12:00 noon, Saturday, June 20; From 12:00 noon, Tuesday, June 23, to 12:00 noon, Wednesday, June 24; From 12:00 noon, Saturday, June 27, to 12:00 noon, Sunday, June 28; From 12:00 noon, Wednesday, July 1, to 12:00 noon, Thursday, July 2; From 12:00 noon, Sunday, July 5, to 12:00 noon, Monday, July 6; From 12:00 noon, Thursday, July 9, to 12:00 noon, Friday, July 10; From 12:00 noon, Monday, July 13, to 12:00 noon, Tuesday, July 14; From 12:00 noon, Friday, July 17, to 12:00 noon, Saturday, July 18; From 12:00 noon, Tuesday, July 21, to 12:00 noon, Wednesday, July 22; From 12:00 noon, Saturday, July 25, to 12:00 noon, Sunday, July 26; From 12:00 noon, Wednesday, July 29, to 12:00 noon, Thursday, July 30; From 12:00 noon, Sunday, August 2, to 12:00 noon, Monday, August 3; From 12:00 noon, Thursday, August 6, to 12:00 noon, Friday, August 7; From 12:00 noon, Monday, August 10, to 12:00 noon, Tuesday, August 11; From 12:00 noon, Friday, August 14, to 12:00 noon, Saturday, August 15; From 12:00 noon, Tuesday, August 18, to 12:00 noon, Wednesday, August 19; From 12:00 noon, Saturday, August 22, to 12:00 noon, Sunday, August 23; From 12:00 noon, Wednesday, August 26, to 12:00 noon, Thursday, August 27; From 12:00 noon, Sunday, August 30, to 12:00 noon, Monday, August 31.",
+   "rules": [
+    {
+     "subject": "Anita Bay THA boundary",
+     "status": "open",
+     "geometry": "line",
+     "side": "south and west",
+     "points": [
+      {
+       "name": "the tip of Anita Point",
+       "lat_dm": "56°13.68′ N",
+       "lon_dm": "132°22.48′ W"
+      },
+      {
+       "name": "a point on the northern shore",
+       "lat_dm": "56°14.26′ N",
+       "lon_dm": "132°23.93′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "The Anita Bay THA consists of those waters of Anita Bay south and west of a line from the tip of Anita Point at 56°13.68′ N lat, 132°22.48′ W long to a point on the northern shore at 56°14.26′ N lat, 132°23.93′ W long."
+    },
+    {
+     "subject": "June 1–12 net closure north and east of a line",
+     "status": "closed",
+     "geometry": "line",
+     "side": "north and east",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": "56°12.90′ N",
+       "lon_dm": "132°24.51′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "56°12.75′ N",
+       "lon_dm": "132°23.50′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "from 5:00 a.m., Monday, June 1, through 12:00 noon, Friday, June 12, the waters of the Anita Bay THA north and east of a line from 56°12.90′ N lat, 132°24.51′ W long to 56°12.75′ N lat, 132°23.50′ W long will be closed to the harvest of salmon with commercial purse seine and drift gillnet gear"
+    },
+    {
+     "subject": "Rotational western closure June 15–25",
+     "status": "closed",
+     "geometry": "lon_cutoff",
+     "side": "west",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": null,
+       "lon_dm": "132°26.19′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "from Monday, June 15, through Thursday, June 25, the waters of the Anita Bay THA west of 132°26.19′ W long will be closed to the harvest of salmon;"
+    },
+    {
+     "subject": "Rotational western closure June 26 – July 1",
+     "status": "closed",
+     "geometry": "lon_cutoff",
+     "side": "west",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": null,
+       "lon_dm": "132°26.98′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "from Friday, June 26, through Wednesday, July 1, the waters of the Anita Bay THA west of 132°26.98′ W long will be closed to the harvest of salmon;"
+    },
+    {
+     "subject": "Rotational western closure July 2–10",
+     "status": "closed",
+     "geometry": "lon_cutoff",
+     "side": "west",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": null,
+       "lon_dm": "132°28.00′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "from Thursday, July 2, through Friday, July 10, the waters of the Anita Bay THA west of 132°28.00′ W long will be closed to the harvest of salmon."
+    },
+    {
+     "subject": "Northern shoreline 0.25 nmi strip open (5 AAC 33.383(b)(1))",
+     "status": "open",
+     "geometry": "buffer",
+     "side": null,
+     "points": [
+      {
+       "name": null,
+       "lat_dm": "56°12.33′ N",
+       "lon_dm": "132°26.19′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "56°12.06′ N",
+       "lon_dm": "132°26.19′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "56°11.96′ N",
+       "lon_dm": "132°29.57′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "56°11.73′ N",
+       "lon_dm": "132°29.36′ W"
+      }
+     ],
+     "distance_nmi": 0.25,
+     "text": "As described in 5 AAC 33.383(b)(1), from 12:01 a.m., Monday, June 15, through 11:59 p.m., Friday, July 10, waters within 0.25 nautical mile of the northern shoreline of Anita Bay west of a line from 56°12.33′ N lat, 132°26.19′ W long to 56°12.06′ N lat, 132°26.19′ W long and east of a line from 56°11.96′ N lat, 132°29.57′ W long to 56°11.73′ N lat, 132°29.36′ W long will be open."
+    },
+    {
+     "subject": "Chinook salmon landing restrictions (net gear)",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "All Chinook salmon harvested within the Anita Bay THA may be retained and sold."
+    },
+    {
+     "subject": "Season closure",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Anita Bay THA will close for the season at 11:59 p.m., Tuesday, November 10, 2026."
+    }
+   ]
+  },
+  {
+   "district": null,
+   "section": null,
+   "status": "open",
+   "period_text": "Purse Seine — The Anita Bay THA will be open to drift gillnet and purse seine gear concurrently from 12:01 a.m., Tuesday, September 1, through 11:59 p.m., Tuesday, November 10.",
+   "rules": [
+    {
+     "subject": "Anita Bay THA boundary",
+     "status": "open",
+     "geometry": "line",
+     "side": "south and west",
+     "points": [
+      {
+       "name": "the tip of Anita Point",
+       "lat_dm": "56°13.68′ N",
+       "lon_dm": "132°22.48′ W"
+      },
+      {
+       "name": "a point on the northern shore",
+       "lat_dm": "56°14.26′ N",
+       "lon_dm": "132°23.93′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "The Anita Bay THA consists of those waters of Anita Bay south and west of a line from the tip of Anita Point at 56°13.68′ N lat, 132°22.48′ W long to a point on the northern shore at 56°14.26′ N lat, 132°23.93′ W long."
+    },
+    {
+     "subject": "June 1–12 net closure north and east of a line",
+     "status": "closed",
+     "geometry": "line",
+     "side": "north and east",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": "56°12.90′ N",
+       "lon_dm": "132°24.51′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "56°12.75′ N",
+       "lon_dm": "132°23.50′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "from 5:00 a.m., Monday, June 1, through 12:00 noon, Friday, June 12, the waters of the Anita Bay THA north and east of a line from 56°12.90′ N lat, 132°24.51′ W long to 56°12.75′ N lat, 132°23.50′ W long will be closed to the harvest of salmon with commercial purse seine and drift gillnet gear"
+    },
+    {
+     "subject": "Rotational western closure June 15–25",
+     "status": "closed",
+     "geometry": "lon_cutoff",
+     "side": "west",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": null,
+       "lon_dm": "132°26.19′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "from Monday, June 15, through Thursday, June 25, the waters of the Anita Bay THA west of 132°26.19′ W long will be closed to the harvest of salmon;"
+    },
+    {
+     "subject": "Rotational western closure June 26 – July 1",
+     "status": "closed",
+     "geometry": "lon_cutoff",
+     "side": "west",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": null,
+       "lon_dm": "132°26.98′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "from Friday, June 26, through Wednesday, July 1, the waters of the Anita Bay THA west of 132°26.98′ W long will be closed to the harvest of salmon;"
+    },
+    {
+     "subject": "Rotational western closure July 2–10",
+     "status": "closed",
+     "geometry": "lon_cutoff",
+     "side": "west",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": null,
+       "lon_dm": "132°28.00′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "from Thursday, July 2, through Friday, July 10, the waters of the Anita Bay THA west of 132°28.00′ W long will be closed to the harvest of salmon."
+    },
+    {
+     "subject": "Northern shoreline 0.25 nmi strip open (5 AAC 33.383(b)(1))",
+     "status": "open",
+     "geometry": "buffer",
+     "side": null,
+     "points": [
+      {
+       "name": null,
+       "lat_dm": "56°12.33′ N",
+       "lon_dm": "132°26.19′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "56°12.06′ N",
+       "lon_dm": "132°26.19′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "56°11.96′ N",
+       "lon_dm": "132°29.57′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "56°11.73′ N",
+       "lon_dm": "132°29.36′ W"
+      }
+     ],
+     "distance_nmi": 0.25,
+     "text": "As described in 5 AAC 33.383(b)(1), from 12:01 a.m., Monday, June 15, through 11:59 p.m., Friday, July 10, waters within 0.25 nautical mile of the northern shoreline of Anita Bay west of a line from 56°12.33′ N lat, 132°26.19′ W long to 56°12.06′ N lat, 132°26.19′ W long and east of a line from 56°11.96′ N lat, 132°29.57′ W long to 56°11.73′ N lat, 132°29.36′ W long will be open."
+    },
+    {
+     "subject": "Chinook salmon landing restrictions (net gear)",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "All Chinook salmon harvested within the Anita Bay THA may be retained and sold."
+    },
+    {
+     "subject": "Season closure",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Anita Bay THA will close for the season at 11:59 p.m., Tuesday, November 10, 2026."
+    }
+   ]
+  },
+  {
+   "district": null,
+   "section": null,
+   "status": "open",
+   "period_text": "Drift Gillnet — The Anita Bay THA will be open to drift gillnet and purse seine gear concurrently from 12:01 a.m., Tuesday, September 1, through 11:59 p.m., Tuesday, November 10.",
+   "rules": [
+    {
+     "subject": "Anita Bay THA boundary",
+     "status": "open",
+     "geometry": "line",
+     "side": "south and west",
+     "points": [
+      {
+       "name": "the tip of Anita Point",
+       "lat_dm": "56°13.68′ N",
+       "lon_dm": "132°22.48′ W"
+      },
+      {
+       "name": "a point on the northern shore",
+       "lat_dm": "56°14.26′ N",
+       "lon_dm": "132°23.93′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "The Anita Bay THA consists of those waters of Anita Bay south and west of a line from the tip of Anita Point at 56°13.68′ N lat, 132°22.48′ W long to a point on the northern shore at 56°14.26′ N lat, 132°23.93′ W long."
+    },
+    {
+     "subject": "June 1–12 net closure north and east of a line",
+     "status": "closed",
+     "geometry": "line",
+     "side": "north and east",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": "56°12.90′ N",
+       "lon_dm": "132°24.51′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "56°12.75′ N",
+       "lon_dm": "132°23.50′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "from 5:00 a.m., Monday, June 1, through 12:00 noon, Friday, June 12, the waters of the Anita Bay THA north and east of a line from 56°12.90′ N lat, 132°24.51′ W long to 56°12.75′ N lat, 132°23.50′ W long will be closed to the harvest of salmon with commercial purse seine and drift gillnet gear"
+    },
+    {
+     "subject": "Rotational western closure June 15–25",
+     "status": "closed",
+     "geometry": "lon_cutoff",
+     "side": "west",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": null,
+       "lon_dm": "132°26.19′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "from Monday, June 15, through Thursday, June 25, the waters of the Anita Bay THA west of 132°26.19′ W long will be closed to the harvest of salmon;"
+    },
+    {
+     "subject": "Rotational western closure June 26 – July 1",
+     "status": "closed",
+     "geometry": "lon_cutoff",
+     "side": "west",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": null,
+       "lon_dm": "132°26.98′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "from Friday, June 26, through Wednesday, July 1, the waters of the Anita Bay THA west of 132°26.98′ W long will be closed to the harvest of salmon;"
+    },
+    {
+     "subject": "Rotational western closure July 2–10",
+     "status": "closed",
+     "geometry": "lon_cutoff",
+     "side": "west",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": null,
+       "lon_dm": "132°28.00′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "from Thursday, July 2, through Friday, July 10, the waters of the Anita Bay THA west of 132°28.00′ W long will be closed to the harvest of salmon."
+    },
+    {
+     "subject": "Northern shoreline 0.25 nmi strip open (5 AAC 33.383(b)(1))",
+     "status": "open",
+     "geometry": "buffer",
+     "side": null,
+     "points": [
+      {
+       "name": null,
+       "lat_dm": "56°12.33′ N",
+       "lon_dm": "132°26.19′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "56°12.06′ N",
+       "lon_dm": "132°26.19′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "56°11.96′ N",
+       "lon_dm": "132°29.57′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "56°11.73′ N",
+       "lon_dm": "132°29.36′ W"
+      }
+     ],
+     "distance_nmi": 0.25,
+     "text": "As described in 5 AAC 33.383(b)(1), from 12:01 a.m., Monday, June 15, through 11:59 p.m., Friday, July 10, waters within 0.25 nautical mile of the northern shoreline of Anita Bay west of a line from 56°12.33′ N lat, 132°26.19′ W long to 56°12.06′ N lat, 132°26.19′ W long and east of a line from 56°11.96′ N lat, 132°29.57′ W long to 56°11.73′ N lat, 132°29.36′ W long will be open."
+    },
+    {
+     "subject": "Chinook salmon landing restrictions (net gear)",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "All Chinook salmon harvested within the Anita Bay THA may be retained and sold."
+    },
+    {
+     "subject": "Season closure",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Anita Bay THA will close for the season at 11:59 p.m., Tuesday, November 10, 2026."
+    }
+   ]
+  }
+ ],
+ "_parser": "9d390c40",
+ "_parser_kept": "new parse placed 4 where the old placed 7",
+ "full_text": "Forrest Bowers, Acting Director\n\nDoug Vincent-Lang, Commissioner\n\nPetersburg Area Office Petersburg, AK 99833\n\nAdvisory Announcement For Immediate Release: April 14, 2026\n\nJuneau, AK 99811-5526\n\nCONTACT: Tom Kowalske Petersburg Assistant Area Management Biologist thomas.kowalske@alaska.gov (907) 772-3801\n\nANITA BAY TERMINAL HARVEST AREA FISHERIES ANNOUNCEMENT\n\nThe Southern Southeast Regional Aquaculture Association (SSRAA) is forecasting total runs of 397,000 summer chum, 6,800 Chinook, and 14,700 coho salmon for the Anita Bay release site in 2026. It is anticipated that 148,000 summer chum, 6,100 Chinook, and 6,600 coho salmon will be available for common property harvest in the Anita Bay Terminal Harvest Area (THA).\n\nThe Anita Bay THA will be open continuously to harvest salmon with troll gear from 12:01 a.m., Monday, June 1, through 11:59 p.m., Tuesday, November 10. The Anita Bay THA will be open to harvest salmon with drift gillnet and purse seine gear concurrently from 5:00 a.m., Monday, June 1, through 12:00 noon, Friday, June 12, then on a rotational basis from 12:00 noon, Saturday, June 13, through 12:00 noon, Monday, August 31, then concurrently from 12:01 a.m., Tuesday, September 1, through 11:59 p.m., Tuesday, November 10. The Anita Bay THA will close for the season at 11:59 p.m., Tuesday, November 10, 2026.\n\nThe Anita Bay THA consists of those waters of Anita Bay south and west of a line from the tip of Anita Point at 56°13.68′ N lat, 132°22.48′ W long to a point on the northern shore at 56°14.26′ N lat, 132°23.93′ W long.\n\nAs described in 5 AAC 33.383(b)(1), from 12:01 a.m., Monday, June 15, through 11:59 p.m., Friday, July 10, waters within 0.25 nautical mile of the northern shoreline of Anita Bay west of a line from 56°12.33′ N lat, 132°26.19′ W long to 56°12.06′ N lat, 132°26.19′ W long and east of a line from 56°11.96′ N lat, 132°29.57′ W long to 56°11.73′ N lat, 132°29.36′ W long will be open.\n\nWaters closed to commercial salmon fishing within the Anita Bay THA include:\n\n(1) from 5:00 a.m., Monday, June 1, through 12:00 noon, Friday, June 12, the waters of the Anita Bay THA north and east of a line from 56°12.90′ N lat, 132°24.51′ W long to 56°12.75′ N lat, 132°23.50′ W long will be closed to the harvest of salmon with commercial purse seine and drift gillnet gear; (2) waters south and west of the waters described in 5 AAC 33.383(b)(1):\n\na. from Monday, June 15, through Thursday, June 25, the waters of the Anita Bay THA west of 132°26.19′\n\nW long will be closed to the harvest of salmon;\n\nb. from Friday, June 26, through Wednesday, July 1, the waters of the Anita Bay THA west of 132°26.98′ W\n\nlong will be closed to the harvest of salmon;\n\nc. and from Thursday, July 2, through Friday, July 10, the waters of the Anita Bay THA west of 132°28.00′ W\n\nlong will be closed to the harvest of salmon.\n\nBeginning Saturday, June 13, the following rotation schedules will be in effect through Monday, August 31, unless changed by a subsequent announcement.\n\nPurse Seine\n\nFrom 12:00 noon, Saturday, June 13, to 12:00 noon, Sunday, June 14 From 12:00 noon, Wednesday, June 17, to 12:00 noon, Thursday, June 18 From 12:00 noon, Sunday, June 21, to 12:00 noon, Monday, June 22 From 12:00 noon, Thursday, June 25, to 12:00 noon, Friday, June 26\n\nAnita Bay THA\n\nApril 14, 2026\n\nFrom 12:00 noon, Monday, June 29, to 12:00 noon, Tuesday, June 30 From 12:00 noon, Friday, July 3, to 12:00 noon, Saturday, July 4 From 12:00 noon, Tuesday, July 7, to 12:00 noon, Wednesday, July 8 From 12:00 noon Saturday, July 11, to 12:00 noon, Sunday, July 12 From 12:00 noon, Wednesday, July 15, to 12:00 noon, Thursday, July 16 From 12:00 noon, Sunday, July 19, to 12:00 noon, Monday, July 20 From 12:00 noon, Thursday, July 23, to 12:00 noon, Friday, July 24 From 12:00 noon, Monday, July 27, to 12:00 noon, Tuesday, July 28 From 12:00 noon, Friday, July 31, to 12:00 noon, Saturday, August 1 From 12:00 noon, Tuesday, August 4, to 12:00 noon, Wednesday, August 5 From 12:00 noon, Saturday, August 8, to 12:00 noon, Sunday, August 9 From 12:00 noon, Wednesday, August 12, to 12:00 noon, Thursday, August 13 From 12:00 noon, Sunday, August 16, to 12:00 noon, Monday, August 17 From 12:00 noon, Thursday, August 20, to 12:00 noon, Friday, August 21 From 12:00 noon, Monday, August 24, to 12:00 noon, Tuesday, August 25 From 12:00 noon, Friday, August 28, to 12:00 noon, Saturday, August 29\n\nDrift Gillnet\n\nFrom 12:00 noon, Monday, June 15, to 12:00 noon, Tuesday, June 16 From 12:00 noon, Friday, June 19, to 12:00 noon, Saturday, June 20 From 12:00 noon, Tuesday, June 23, to 12:00 noon, Wednesday, June 24 From 12:00 noon, Saturday, June 27, to 12:00 noon, Sunday, June 28 From 12:00 noon, Wednesday, July 1, to 12:00 noon, Thursday, July 2 From 12:00 noon, Sunday, July 5, to 12:00 noon, Monday, July 6 From 12:00 noon, Thursday, July 9, to 12:00 noon, Friday, July 10 From 12:00 noon, Monday, July 13, to 12:00 noon, Tuesday, July 14 From 12:00 noon, Friday, July 17, to 12:00 noon, Saturday, July 18 From 12:00 noon, Tuesday, July 21, to 12:00 noon, Wednesday, July 22 From 12:00 noon, Saturday, July 25, to 12:00 noon, Sunday, July 26 From 12:00 noon, Wednesday, July 29, to 12:00 noon, Thursday, July 30 From 12:00 noon, Sunday, August 2, to 12:00 noon, Monday, August 3 From 12:00 noon, Thursday, August 6, to 12:00 noon, Friday, August 7 From 12:00 noon, Monday, August 10, to 12:00 noon, Tuesday, August 11 From 12:00 noon, Friday, August 14, to 12:00 noon, Saturday, August 15 From 12:00 noon, Tuesday, August 18, to 12:00 noon, Wednesday, August 19 From 12:00 noon, Saturday, August 22, to 12:00 noon, Sunday, August 23 From 12:00 noon, Wednesday, August 26, to 12:00 noon, Thursday, August 27 From 12:00 noon, Sunday, August 30, to 12:00 noon, Monday, August 31\n\nChinook Salmon Landing Restrictions for Troll Gear: Chinook salmon harvested within the Anita Bay THA that are 28 inches or greater in length may be retained and sold.\n\nChinook Salmon Landing Restrictions for Purse Seine Gear: All Chinook salmon harvested within the Anita Bay THA may be retained and sold.\n\nThe Emergency Order corresponding with this announcement is EO 1E1326.\n\nAdvisory announcement website: http://www.adfg.alaska.gov/index.cfm?adfg=cfnews.main.\n\nOffice\n\nKetchikan 225-5195 225-5111\n\nPetersburg 772-3801 772-3983\n\nWrangell\n\n874-3215\n\nSitka 747-6688 747-3254\n\nJuneau 465-4250 465-4000\n\nHaines 766-2830 766-2533\n\nYakutat 784-3255 784-3220\n\nAnita Bay THA\n\nApril 14, 2026\n\nFigure 1. –Anita Bay THA\n\nAnita Bay THA\n\nApril 14, 2026"
+}

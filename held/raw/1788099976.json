@@ -1,0 +1,109 @@
+{
+ "release_id": "1788099976",
+ "title": "Herring Bay Terminal Harvest Area Troll Fishery",
+ "published": "2026-06-24T00:00",
+ "region": "Southeast",
+ "gear": [
+  "troll"
+ ],
+ "species": "salmon",
+ "emergency_order": null,
+ "contact": "Grant Hagerman, (907) 747-6688",
+ "next_announcement": null,
+ "areas": [
+  {
+   "district": null,
+   "section": null,
+   "status": "open",
+   "period_text": "The Herring Bay Troll Terminal Harvest Area (THA) commercial salmon troll fishery will open for the harvest of salmon from 12:01 a.m., Wednesday, July 1, through 11:59 p.m., Sunday, August 30, 2026, unless closed by emergency order.",
+   "rules": [
+    {
+     "subject": "Herring Bay Troll THA boundary",
+     "status": "open",
+     "geometry": "polygon",
+     "side": null,
+     "points": [
+      {
+       "name": "the westernmost tip of Carroll Point",
+       "lat_dm": "55°18.00′ N",
+       "lon_dm": "131°29.00′ W"
+      },
+      {
+       "name": "Spire Island Light on the eastern shore of Annette Island",
+       "lat_dm": "55°16.08′ N",
+       "lon_dm": "131°29.98′ W"
+      },
+      {
+       "name": "the southernmost tip of California Head",
+       "lat_dm": "55°19.57′ N",
+       "lon_dm": null
+      },
+      {
+       "name": "George Inlet southern limit",
+       "lat_dm": "55°20.80′ N",
+       "lon_dm": null
+      },
+      {
+       "name": "a point located on the southeastern shore of Gravina Island",
+       "lat_dm": "55°17.65′ N",
+       "lon_dm": "131°37.03′ W"
+      },
+      {
+       "name": "a point on the southeast shore of Tongass Narrows",
+       "lat_dm": "55°18.65′ N",
+       "lon_dm": "131°35.13′ W"
+      },
+      {
+       "name": "the southernmost tip of Gravina Point",
+       "lat_dm": "55°17.13′ N",
+       "lon_dm": "131°37.17′ W"
+      },
+      {
+       "name": "the northernmost tip of Walden Point",
+       "lat_dm": "55°16.45′ N",
+       "lon_dm": "131°35.37′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "The waters of the Herring Bay Troll THA (statistical area 101-40) are described as those waters of Revillagigedo Channel north and west of a line from the westernmost tip of Carroll Point at 55°18.00′ N lat, 131°29.00′ W long, across to Spire Island Light on the eastern shore of Annette Island at 55°16.08′ N lat, 131°29.98′ W long, excluding waters of the Annette Islands Reserve, Carroll Inlet south of the latitude of the southernmost tip of California Head at 55°19.57′ N lat, George Inlet south of 55°20.80′ N lat, and south of a line from a point located on the southeastern shore of Gravina Island at 55°17.65′ N lat, 131°37.03′ W long, to a point on the southeast shore of Tongass Narrows at 55°18.65′ N lat, 131°35.13′ W long, and east of a line from the southernmost tip of Gravina Point located on the southeast shore of Gravina Island at 55°17.13′ N lat, 131°37.17′ W long to the northernmost tip of Walden Point located on the northwest tip of Annette Island at 55°16.45′ N lat, 131°35.37′ W long, excluding waters of the Annette Islands Reserve, except that from 12:01 a.m., Wednesday, July 1, through 11:59 p.m., Friday, July 31, the waters of Carroll Inlet south of the 55°24.27′ N lat, are included in the Herring Bay Troll THA."
+    },
+    {
+     "subject": "Annette Islands Reserve excluded",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "excluding waters of the Annette Islands Reserve"
+    },
+    {
+     "subject": "Carroll Inlet included July 1–31",
+     "status": "open",
+     "geometry": "lat_cutoff",
+     "side": "south",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": "55°24.27′ N",
+       "lon_dm": null
+      }
+     ],
+     "distance_nmi": null,
+     "text": "except that from 12:01 a.m., Wednesday, July 1, through 11:59 p.m., Friday, July 31, the waters of Carroll Inlet south of the 55°24.27′ N lat, are included in the Herring Bay Troll THA."
+    },
+    {
+     "subject": "Species retention and reporting from August 31",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Herring Bay Troll THA is open to troll gear for retention of all salmon species through August 30, unless closed by emergency order. Beginning August 31, trollers may only retain coho, chum, sockeye, and pink salmon in these waters as part of the general summer troll season, with harvest reported on fish tickets using statistical area 101-44 or 101-45; however, Chinook salmon may be retained and possessed during open Chinook salmon retention periods established for the summer troll fishery under 5 AAC 29.100(c)."
+    }
+   ]
+  }
+ ],
+ "_parser": "9d390c40",
+ "_parser_kept": "new parse would open what the old kept closed or partial: a region-wide opening",
+ "full_text": "Forrest Bowers, Acting Director\n\nDoug Vincent-Lang, Commissioner\n\nSitka Area Office 304 Lake Street Room 103 Sitka, AK 99835\n\nAdvisory Announcement For Immediate Release: June 24, 2026\n\nJuneau, AK 99811-5526\n\nCONTACT: Grant Hagerman Region I Commercial Troll Management Biologist grant.hagerman@alaska.gov (907) 747-6688\n\nHERRING BAY TERMINAL HARVEST AREA TROLL FISHERY\n\nThe Herring Bay Troll Terminal Harvest Area (THA) commercial salmon troll fishery will open for the harvest of salmon from 12:01 a.m., Wednesday, July 1, through 11:59 p.m., Sunday, August 30, 2026, unless closed by emergency order. The THA is managed to harvest surplus Chinook salmon returning to the Whitman Lake Hatchery and Carroll Inlet release sites.\n\nThe waters of the Herring Bay Troll THA (statistical area 101-40) are described as those waters of Revillagigedo Channel north and west of a line from the westernmost tip of Carroll Point at 55°18.00′ N lat, 131°29.00′ W long, across to Spire Island Light on the eastern shore of Annette Island at 55°16.08′ N lat, 131°29.98′ W long, excluding waters of the Annette Islands Reserve, Carroll Inlet south of the latitude of the southernmost tip of California Head at 55°19.57′ N lat, George Inlet south of 55°20.80′ N lat, and south of a line from a point located on the southeastern shore of Gravina Island at 55°17.65′ N lat, 131°37.03′ W long, to a point on the southeast shore of Tongass Narrows at 55°18.65′ N lat, 131°35.13′ W long, and east of a line from the southernmost tip of Gravina Point located on the southeast shore of Gravina Island at 55°17.13′ N lat, 131°37.17′ W long to the northernmost tip of Walden Point located on the northwest tip of Annette Island at 55°16.45′ N lat, 131°35.37′ W long, excluding waters of the Annette Islands Reserve, except that from 12:01 a.m., Wednesday, July 1, through 11:59 p.m., Friday, July 31, the waters of Carroll Inlet south of the 55°24.27′ N lat, are included in the Herring Bay Troll THA.\n\nThe Herring Bay Troll THA is open to troll gear for retention of all salmon species through August 30, unless closed by emergency order. Beginning August 31, trollers may only retain coho, chum, sockeye, and pink salmon in these waters as part of the general summer troll season, with harvest reported on fish tickets using statistical area 101-44 or 101-45; however, Chinook salmon may be retained and possessed during open Chinook salmon retention periods established for the summer troll fishery under 5 AAC 29.100(c).\n\nAdvisory Announcement web site: http://www.adfg.alaska.gov/index.cfm?adfg=cfnews.main.\n\nOffice\n\nTroll Hotline\n\nKetchikan\n\nPetersburg\n\nSitka\n\nJuneau\n\nHaines\n\nHoonah\n\nYakutat\n\n225-5195 225-5111 225-6870\n\n772-3801 772-3983\n\n747-6688 747-3254 747-8765\n\n465-4250 465-4000 465-8765\n\n766-2830\n\n784-3255\n\n945-3620\n\nHerring Bay Troll THA\n\nJune 24, 2026\n\nHerring Bay Troll THA page 2 of 2\n\nJune 24, 2026\n\nFigure 1.–Herring Bay Troll Terminal Harvest Area."
+}

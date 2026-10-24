@@ -1,0 +1,50 @@
+{
+ "release_id": "1776679669",
+ "title": "Port Saint Nicholas Terminal Harvest Area Troll Fishery",
+ "published": "2026-05-31T00:00",
+ "region": "Southeast",
+ "gear": [
+  "troll"
+ ],
+ "species": "salmon",
+ "emergency_order": null,
+ "contact": "Grant Hagerman, (907) 747-6688",
+ "next_announcement": "See the PSN THA announcement for further information.",
+ "areas": [
+  {
+   "district": null,
+   "section": null,
+   "status": "open",
+   "period_text": "The Port Saint Nicholas Terminal Harvest Area (THA) commercial salmon troll fishery will open for the harvest of Chinook, coho, chum, sockeye, and pink salmon from 12:01 a.m., Monday, June 1, through 11:59 p.m., Friday, July 31, 2026, unless closed by emergency order.",
+   "rules": [
+    {
+     "subject": "Correction to the May 29 spring troll advisory announcement",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The spring troll advisory announcement published Friday May 29, inadvertently stated the waters of the Port Saint Nicholas (PSN) Special Harvest Area (SHA) would remain closed in 2026, similar to previous years."
+    },
+    {
+     "subject": "Port Saint Nicholas Special Harvest Area (SHA) open",
+     "status": "open",
+     "geometry": "lon_cutoff",
+     "side": "east",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": null,
+       "lon_dm": "133°02.92′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "However, as announced in the PSN THA advisory announcement dated April 15, the waters of the Port Saint Nicholas Special Harvest Area (SHA) east of 133°02.92′ W long will open in 2026 to common property troll fisheries from June 1 through July 31."
+    }
+   ]
+  }
+ ],
+ "_parser": "9d390c40",
+ "_parser_kept": "new parse would open what the old kept closed or partial: a region-wide opening",
+ "full_text": "Forrest Bowers, Acting Director\n\nDoug Vincent-Lang, Commissioner\n\nSitka Area Office 304 Lake Street Room 103 Sitka, AK 99835\n\nAdvisory Announcement For Immediate Release: May 31, 2026\n\nJuneau, AK 99811-5526\n\nCONTACT: Grant Hagerman Region I Commercial Troll Management Biologist grant.hagerman@alaska.gov (907) 747-6688\n\nPORT SAINT NICHOLAS TERMINAL HARVEST AREA TROLL FISHERY\n\nThe Port Saint Nicholas Terminal Harvest Area (THA) commercial salmon troll fishery will open for the harvest of Chinook, coho, chum, sockeye, and pink salmon from 12:01 a.m., Monday, June 1, through 11:59 p.m., Friday, July 31, 2026, unless closed by emergency order. The spring troll advisory announcement published Friday May 29, inadvertently stated the waters of the Port Saint Nicholas (PSN) Special Harvest Area (SHA) would remain closed in 2026, similar to previous years. However, as announced in the PSN THA advisory announcement dated April 15, the waters of the Port Saint Nicholas Special Harvest Area (SHA) east of 133°02.92′ W long will open in 2026 to common property troll fisheries from June 1 through July 31. See the PSN THA announcement for further information.\n\nAdvisory Announcement web site: http://www.adfg.alaska.gov/index.cfm?adfg=cfnews.main.\n\nOffice\n\nTroll Hotline\n\nKetchikan\n\nPetersburg\n\nSitka\n\nJuneau\n\nHaines\n\nHoonah\n\nYakutat\n\n225-5195 225-5111 225-6870\n\n772-3801 772-3983\n\n747-6688 747-3254 747-8765\n\n465-4250 465-4000 465-8765\n\n766-2830\n\n784-3255\n\n945-3620\n\nPort Saint Nicholas THA Troll Fishery\n\nMay 31, 2026"
+}
