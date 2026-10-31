@@ -1,0 +1,27 @@
+{
+ "release_id": "1831493373",
+ "published": "2026-08-27T00:00",
+ "species": "salmon",
+ "gear": null,
+ "_unparsed": [
+  "no coordinate rules parsed"
+ ],
+ "emergency_order": "1E3026",
+ "contact": "Aaron Dupuis, (907) 747-6688",
+ "title": "Deep Inlet Terminal Harvest Area Fishery Announcement",
+ "next_announcement": null,
+ "region": "Southeast",
+ "full_text": "Forest Bowers, Acting Director\n\nDoug Vincent-Lang, Commissioner\n\nSitka Area Office 304 Lake Street, Room 103 Sitka, AK 99833\n\nAdvisory Announcement For Immediate Release: August 27, 2026\n\nJuneau, AK 99811-5526\n\nCONTACT: Aaron Dupuis Sitka Area Management Biologist aaron.dupuis@alaska.gov (907) 747-6688\n\nDEEP INLET TERMINAL HARVEST AREA FISHERY ANNOUNCEMENT\n\nThe Deep Inlet Terminal Harvest Area (THA) will be closed to all common property commercial salmon fisheries effective 12:01 a.m., Monday, August 31, 2026. This closure will remain in effect until further notice.\n\nThe Northern Southeast Regional Aquaculture Association (NSRAA) has requested the Alaska Department of Fish and Game (ADF&G) close the Deep Inlet THA to all common property commercial salmon fisheries beginning on Monday, August 31, to achieve chum salmon broodstock goals. NSRAA will provide updates daily to ADF&G on the progress of their broodstock operations in this area.\n\nThe Emergency Order corresponding with this announcement is EO 1E3026.\n\nAdvisory Announcement web site: http://www.adfg.alaska.gov/index.cfm?adfg=cfnews.main.\n\nOffice\n\nKetchikan\n\nPetersburg\n\n225-5195\n\n225-5111\n\n772-3801\n\n772-3983\n\nWrangell\n\n874-3822\n\n874-3215\n\nSitka\n\n747-6688\n\n747-3254\n\nJuneau\n\n465-4250\n\n465-4000\n\nHaines\n\n766-2830\n\n766-2533\n\nYakutat\n\n784-3255\n\n784-3220\n\nDeep Inlet THA closure\n\nAugust 27, 2026",
+ "areas": [
+  {
+   "district": null,
+   "section": null,
+   "status": "closed",
+   "period_text": "The Deep Inlet Terminal Harvest Area (THA) will be closed to all common property commercial salmon fisheries effective 12:01 a.m., Monday, August 31, 2026.",
+   "region_wide": false,
+   "tha_pocket": "Deep Inlet",
+   "rules": []
+  }
+ ],
+ "_parser": "9d390c40"
+}

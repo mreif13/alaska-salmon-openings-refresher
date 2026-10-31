@@ -1,0 +1,184 @@
+{
+ "checked_at": "2026-10-31T11:31:06",
+ "listed": 7,
+ "releases": {
+  "1841667973": {
+   "disposition": "subsistence-only",
+   "region": "AYK",
+   "published": "2026-10-16T00:00",
+   "why": [
+    "no named units parsed"
+   ],
+   "title": "Forrest R. Bowers, Acting Director",
+   "was": "no-units"
+  },
+  "1841566912": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1841464175": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1841334171": {
+   "disposition": "subsistence-only",
+   "region": "AYK",
+   "published": "2026-10-14T00:00",
+   "why": [
+    "no named units parsed"
+   ],
+   "title": "Norton Sound-Port Clarence Salmon Season Summary"
+  },
+  "1841213015": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1829361326": {
+   "disposition": "no-units",
+   "why": [
+    "self-audit: held but placed nothing on the chart"
+   ],
+   "was": null
+  },
+  "1830678323": {
+   "disposition": "subsistence-only",
+   "why": [
+    "self-audit: held but placed nothing on the chart"
+   ],
+   "was": null,
+   "published": "2026-08-26T00:00"
+  },
+  "1830731761": {
+   "disposition": "subsistence-only",
+   "why": [
+    "self-audit: held but placed nothing on the chart"
+   ],
+   "was": null,
+   "published": "2026-08-26T00:00"
+  },
+  "1830860791": {
+   "disposition": "subsistence-only",
+   "why": [
+    "self-audit: held but placed nothing on the chart"
+   ],
+   "was": null,
+   "published": "2026-08-26T00:00"
+  },
+  "1830997341": {
+   "disposition": "subsistence-only",
+   "why": [
+    "self-audit: held but placed nothing on the chart"
+   ],
+   "was": null,
+   "published": "2026-08-26T00:00"
+  },
+  "1831245036": {
+   "disposition": "subsistence-only",
+   "why": [
+    "self-audit: held but placed nothing on the chart"
+   ],
+   "was": null,
+   "published": "2026-08-26T00:00"
+  },
+  "1827718207": {
+   "disposition": "subsistence-only",
+   "why": [
+    "self-audit: held but placed nothing on the chart"
+   ],
+   "was": null,
+   "published": "2026-08-18T16:00"
+  },
+  "1828137209": {
+   "disposition": "subsistence-only",
+   "why": [
+    "self-audit: held but placed nothing on the chart"
+   ],
+   "was": null,
+   "published": "2026-08-20T12:00"
+  },
+  "1828933804": {
+   "disposition": "no-units",
+   "why": [
+    "self-audit: held but placed nothing on the chart"
+   ],
+   "was": null,
+   "published": "2026-08-21T14:20"
+  },
+  "1841785545": {
+   "disposition": "no-units",
+   "why": "list index out of range",
+   "was": "error",
+   "published": "2026-10-20T00:00"
+  },
+  "1841850464": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1841960483": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1842033068": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1842144276": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1842289248": {
+   "disposition": "no-units",
+   "why": "list index out of range",
+   "was": "error",
+   "published": "2026-10-22T00:00"
+  },
+  "1842346073": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1842451323": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1842584138": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1842650304": {
+   "disposition": "no-units",
+   "why": "list index out of range",
+   "was": "error",
+   "published": "2026-10-20T00:00"
+  },
+  "1842758036": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1842958985": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1843014750": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1843172767": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1843207829": {
+   "disposition": "no-units",
+   "why": "list index out of range",
+   "was": "error",
+   "published": "2026-10-28T00:00"
+  },
+  "1843327915": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1843460801": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  }
+ }
+}

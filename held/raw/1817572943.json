@@ -1,0 +1,59 @@
+{
+ "release_id": "1817572943",
+ "title": "Neets Bay Terminal Harvest Area Commercial Troll Fishery Announcement",
+ "published": "2026-07-30",
+ "region": "Southeast",
+ "gear": [
+  "troll"
+ ],
+ "species": "salmon",
+ "emergency_order": "1E2426",
+ "contact": "Grant Hagerman, (907) 747-6688",
+ "next_announcement": null,
+ "areas": [
+  {
+   "district": "101",
+   "section": "101-90",
+   "status": "closed",
+   "period_text": "The Neets Bay THA will now close to commercial troll gear at 11:59 p.m., Monday, August 3, 2026.",
+   "rules": [
+    {
+     "subject": "Neets Bay Terminal Harvest Area",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Neets Bay THA will now close to commercial troll gear at 11:59 p.m., Monday, August 3, 2026."
+    },
+    {
+     "subject": "Neets Bay west of the Bug Island line",
+     "status": "open",
+     "geometry": "lon_cutoff",
+     "side": "west",
+     "points": [
+      {
+       "name": "easternmost tip of Bug Island",
+       "lat_dm": null,
+       "lon_dm": "131°39.14′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "trollers may fish outside the THA in Neets Bay west of the Bug Island line (the longitude of the easternmost tip of Bug Island at 131°39.14′ W long) as part of the common property general summer troll fishery"
+    },
+    {
+     "subject": "Chinook salmon retention in the Neets Bay THA",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Chinook salmon retention and possession in the Neets Bay THA is prohibited for vessels operating commercial troll gear within the THA."
+    }
+   ]
+  }
+ ],
+ "full_text": "Forrest Bowers, Acting Director\n\nDoug Vincent-Lang, Commissioner\n\nSitka Area Office 304 Lake Street Room 103 Sitka, AK 99835\n\nAdvisory Announcement For Immediate Release: July 30, 2026\n\nJuneau, AK 99811-5526\n\nCONTACT: Grant Hagerman Region I Commercial Troll Management Biologist grant.hagerman@alaska.gov (907) 747-6688\n\nNEETS BAY TERMINAL HARVEST AREA COMMERCIAL TROLL FISHERY ANNOUNCEMENT The following information details the Southern Southeast Regional Aquaculture Association (SSRAA) Neets Bay Terminal Harvest Area (THA) commercial troll fishery open waters.\n\nThe Neets Bay THA will now close to commercial troll gear at 11:59 p.m., Monday, August 3, 2026.\n\nSSRAA is nearing their chum salmon cost recovery harvest target and the THA is being extended to troll gear to provide additional opportunity through August 3. Beginning August 4, trollers may fish outside the THA in Neets Bay west of the Bug Island line (the longitude of the easternmost tip of Bug Island at 131°39.14′ W long) as part of the common property general summer troll fishery.\n\nFor the current THA boundaries, see the July 12 Neets Bay THA troll fishery advisory announcement.\n\nChinook Salmon Landing Restrictions for Neets Bay THA: Chinook salmon retention and possession in the Neets Bay THA is prohibited for vessels operating commercial troll gear within the THA.\n\nThe Emergency Order corresponding to this announcement is EO 1E2426.\n\nAdvisory Announcement web site: http://www.adfg.alaska.gov/index.cfm?adfg=cfnews.main.\n\nOffice\n\nKetchikan\n\nPetersburg\n\nWrangell\n\n225-5195\n\n225-5111\n\n772-3801\n\n772-3983\n\n874-3215\n\nSitka\n\n747-6688\n\n747-3254\n\nJuneau\n\n465-4250\n\n465-4000\n\nHaines\n\n766-2830\n\n766-2533\n\nYakutat\n\n784-3255\n\n784-3220\n\nNeets Bay THA\n\nJuly 30, 2026",
+ "_parser": "9d390c40",
+ "_parser_kept": "new parse placed 0 where the old placed 1"
+}

@@ -1,0 +1,270 @@
+{
+ "source": "2025-2028 Southeastern Alaska/Yakutat Areas Commercial Salmon Fishing Regulations",
+ "source_url": "https://www.adfg.alaska.gov/static/regulations/fishregulations/pdfs/commercial/cf_se_yakutat_salmon_regs_2025_2028.pdf",
+ "citation": "5 AAC 33.200",
+ "retrieved": "2026-08-23",
+ "notation": "degrees and decimal minutes, e.g. \"56° 00.09' N. lat.\" / \"134° 08.16' W. long.\" — NOT degrees-minutes-seconds; recorded as printed, unconverted. WARNING — typographic defects reproduced verbatim from the source text and NOT silently corrected: (1) District 6 Low Point longitude is printed \"132° 57,18' W long.\" with a COMMA where a decimal point belongs; the identical Low Point in District 8 is printed \"132° 57.18' W long.\", so the intended value is 132° 57.18' W — a parser must not read this as 132° 57'. (2) District 8 Babbler Point latitude is printed \"56° 29.08' W. lat.\" with W where N belongs; it is a north latitude. (3) Assorted OCR-style corruptions of the abbreviation \"lat.\" appear as \"tat.\" and \"Iat.\" in District 6, and several \"lat.\" are printed \"lat\" without the period; these affect no numeric value.",
+ "provenance": "5 AAC 33.200 could NOT be read from the ADF&G PDF named in source_url: the fetch pipeline truncates that PDF after 5 AAC 30.393 and never reaches chapter 33. The text below was extracted instead from two independently hosted mirrors of the Alaska Administrative Code text of 5 AAC 33.200 — https://www.law.cornell.edu/regulations/alaska/5-AAC-33.200 (Cornell LII) and https://regulations.justia.com/states/alaska/title-5/part-1/chapter-33/article-2/section-5-aac-33-200/ (Justia) — which returned character-identical text including shared typographic defects. These two mirrors may share an upstream digitization, so agreement between them does not prove fidelity to the printed ADF&G booklet. Confirm against the printed booklet before any enforcement or charting use.",
+ "areas": [
+  {
+   "kind": "district",
+   "name": "District 5",
+   "parent": null,
+   "citation": "5 AAC 33.200(e)",
+   "text": "District 5: waters of Sumner Strait, east of a line from Cape Decision Light at 56° 00.09' N. lat., 134° 08.16' W. long., to a point on Coronation Island at 55° 54.45' N. lat., 134° 12.47' W. long., north of a line from Helm Point Light at 55° 49.59' N. lat, 134° 16.19' W. long., to Cape Lynch Light at 55° 46.87' N. lat., 133° 42.10' W. long., west of a line from Cape Lynch Light to the southwest entrance point of Halibut Harbor at 55° 54.99' N. lat., 133° 47.64' W. long., north of the latitude of Aneskett Point at 56° 08.85' N. lat., west of a line from Point Baker at 56° 21.52' N. lat, 133° 37.57' W. long., to Point Barrie at 56° 26.19' N. lat., 133° 39.27' W. long., and south of a line from Point Camden at 56° 48.58' N. lat., 133° 53.14' W. long., to Salt Point Light at 56° 50.69' N. lat., 133° 52.01' W. long., in Keku Strait.",
+   "points": [
+    {
+     "name": "Cape Decision Light",
+     "lat_dm": "56° 00.09' N. lat.",
+     "lon_dm": "134° 08.16' W. long."
+    },
+    {
+     "name": "a point on Coronation Island",
+     "lat_dm": "55° 54.45' N. lat.",
+     "lon_dm": "134° 12.47' W. long."
+    },
+    {
+     "name": "Helm Point Light",
+     "lat_dm": "55° 49.59' N. lat",
+     "lon_dm": "134° 16.19' W. long."
+    },
+    {
+     "name": "Cape Lynch Light",
+     "lat_dm": "55° 46.87' N. lat.",
+     "lon_dm": "133° 42.10' W. long."
+    },
+    {
+     "name": "southwest entrance point of Halibut Harbor",
+     "lat_dm": "55° 54.99' N. lat.",
+     "lon_dm": "133° 47.64' W. long."
+    },
+    {
+     "name": "Aneskett Point",
+     "lat_dm": "56° 08.85' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "Point Baker",
+     "lat_dm": "56° 21.52' N. lat",
+     "lon_dm": "133° 37.57' W. long."
+    },
+    {
+     "name": "Point Barrie",
+     "lat_dm": "56° 26.19' N. lat.",
+     "lon_dm": "133° 39.27' W. long."
+    },
+    {
+     "name": "Point Camden",
+     "lat_dm": "56° 48.58' N. lat.",
+     "lon_dm": "133° 53.14' W. long."
+    },
+    {
+     "name": "Salt Point Light",
+     "lat_dm": "56° 50.69' N. lat.",
+     "lon_dm": "133° 52.01' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "district",
+   "name": "District 6",
+   "parent": null,
+   "citation": "5 AAC 33.200(f)",
+   "text": "District 6: all waters of Clarence Strait north of a line from the easternmost tip of Narrow Point at 55° 47.00' N. lat., 132° 28.23' W. long., to Lemesurier Point at 55° 46.02' N. lat., 132° 16.94' W. long., to Ernest Point at 55° 51.01' N. lat., 132° 22.21' W. long., to the most southerly point on Etolin Island at 55° 54.79' N. lat., 132° 21.27' W. long., Stikine Strait south of the latitude of Round Point at 56° 16.65' N. lat., Sumner Strait west of a line from Point Alexander at 56° 30.55' N. lat., 132° 57.01' W. long., to Low Point at 56° 27.18' N. lat., 132° 57,18' W long., and east of a line from Point Baker at 56° 21.52' N. tat., 133° 37.57' W. long., to Point Barrie at 56° 26.19' N. lat., 133° 39.27' W. long., Wrangell Narrows south and west of a line from Prolewy Point at 56° 50.12' N. lat., 132° 56.45' W. long., to the northern tip of Mitkof Island at 56° 49.36' N. Iat., 132° 56.39' W. long., and all waters of Duncan Canal",
+   "points": [
+    {
+     "name": "easternmost tip of Narrow Point",
+     "lat_dm": "55° 47.00' N. lat.",
+     "lon_dm": "132° 28.23' W. long."
+    },
+    {
+     "name": "Lemesurier Point",
+     "lat_dm": "55° 46.02' N. lat.",
+     "lon_dm": "132° 16.94' W. long."
+    },
+    {
+     "name": "Ernest Point",
+     "lat_dm": "55° 51.01' N. lat.",
+     "lon_dm": "132° 22.21' W. long."
+    },
+    {
+     "name": "most southerly point on Etolin Island",
+     "lat_dm": "55° 54.79' N. lat.",
+     "lon_dm": "132° 21.27' W. long."
+    },
+    {
+     "name": "Round Point",
+     "lat_dm": "56° 16.65' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "Point Alexander",
+     "lat_dm": "56° 30.55' N. lat.",
+     "lon_dm": "132° 57.01' W. long."
+    },
+    {
+     "name": "Low Point",
+     "lat_dm": "56° 27.18' N. lat.",
+     "lon_dm": "132° 57,18' W long."
+    },
+    {
+     "name": "Point Baker",
+     "lat_dm": "56° 21.52' N. tat.",
+     "lon_dm": "133° 37.57' W. long."
+    },
+    {
+     "name": "Point Barrie",
+     "lat_dm": "56° 26.19' N. lat.",
+     "lon_dm": "133° 39.27' W. long."
+    },
+    {
+     "name": "Prolewy Point",
+     "lat_dm": "56° 50.12' N. lat.",
+     "lon_dm": "132° 56.45' W. long."
+    },
+    {
+     "name": "northern tip of Mitkof Island",
+     "lat_dm": "56° 49.36' N. Iat.",
+     "lon_dm": "132° 56.39' W. long."
+    },
+    {
+     "name": "Duncan Canal",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "district",
+   "name": "District 8",
+   "parent": null,
+   "citation": "5 AAC 33.200(h)",
+   "text": "District 8: waters of Frederick Sound south of a line from Wood Point at 56° 59.55' N. lat., 132° 56.96' W. long., to Beacon Point at 56° 56.37' N. lat., 132° 59.75' W. long., (excluding Wrangell Narrows), Sumner Strait east of a line from Point Alexander at 56° 30.55' N. lat., 132° 57.01' W. long., to Low Point at 56° 27.18' N. lat., 132° 57.18' W long., Stikine Strait north of the latitude of Round Point at 56° 16.65' N. lat., Zimovia Strait north of the latitude of Nemo Point at 56° 17.00' N. lat., and Eastern Passage west of a line from Hour Point at 56° 27.73' N. lat., 132° 16.79' W. long., to Babbler Point at 56° 29.08' W. lat., 132° 17.37' W. long.:",
+   "points": [
+    {
+     "name": "Wood Point",
+     "lat_dm": "56° 59.55' N. lat.",
+     "lon_dm": "132° 56.96' W. long."
+    },
+    {
+     "name": "Beacon Point",
+     "lat_dm": "56° 56.37' N. lat.",
+     "lon_dm": "132° 59.75' W. long."
+    },
+    {
+     "name": "Point Alexander",
+     "lat_dm": "56° 30.55' N. lat.",
+     "lon_dm": "132° 57.01' W. long."
+    },
+    {
+     "name": "Low Point",
+     "lat_dm": "56° 27.18' N. lat.",
+     "lon_dm": "132° 57.18' W long."
+    },
+    {
+     "name": "Round Point",
+     "lat_dm": "56° 16.65' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "Nemo Point",
+     "lat_dm": "56° 17.00' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "Hour Point",
+     "lat_dm": "56° 27.73' N. lat.",
+     "lon_dm": "132° 16.79' W. long."
+    },
+    {
+     "name": "Babbler Point",
+     "lat_dm": "56° 29.08' W. lat.",
+     "lon_dm": "132° 17.37' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "district",
+   "name": "District 9",
+   "parent": null,
+   "citation": "5 AAC 33.200(i)",
+   "text": "District 9: all waters of Frederick Sound and Chatham Strait south of the latitude of Point Gardner at 57° 00.94' N. lat., south of the latitude of the southernmost tip of Elliott Island at 57° 15.19' N. lat., west of a line from the southernmost tip of Elliott Island at 57° 15.19' N. lat., 134° 03.72' W. long., to the westernmost tip of Point Macartney at 57° 01.49' N. lat., 134° 03.52' W. long., north and west of a line from Point Camden at 56° 48.58' N. lat, 133° 53.14' W. long., to Salt Point Light at 56° 50.69' N. lat., 133° 52.01' W. long., northwest of a line from Cape Decision Light at 56° 00.09' N. lat., 134° 08.16' W. long., to a point on Coronation Island at 55° 54.45' N. lat., 134° 12.47' W. long., and north and east of a line from Helm Point Light at 55° 49.59' N. lat., 134° 16.19' W. long., to the westernmost tip of Hazy Islands at 55° 53.22' N. lat., 134° 36.99' W. long., to the southernmost tip of Cape Ommaney at 56° 09.83' N. lat, 134° 40.42' W. long.;",
+   "points": [
+    {
+     "name": "Point Gardner",
+     "lat_dm": "57° 00.94' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "southernmost tip of Elliott Island",
+     "lat_dm": "57° 15.19' N. lat.",
+     "lon_dm": "134° 03.72' W. long."
+    },
+    {
+     "name": "westernmost tip of Point Macartney",
+     "lat_dm": "57° 01.49' N. lat.",
+     "lon_dm": "134° 03.52' W. long."
+    },
+    {
+     "name": "Point Camden",
+     "lat_dm": "56° 48.58' N. lat",
+     "lon_dm": "133° 53.14' W. long."
+    },
+    {
+     "name": "Salt Point Light",
+     "lat_dm": "56° 50.69' N. lat.",
+     "lon_dm": "133° 52.01' W. long."
+    },
+    {
+     "name": "Cape Decision Light",
+     "lat_dm": "56° 00.09' N. lat.",
+     "lon_dm": "134° 08.16' W. long."
+    },
+    {
+     "name": "a point on Coronation Island",
+     "lat_dm": "55° 54.45' N. lat.",
+     "lon_dm": "134° 12.47' W. long."
+    },
+    {
+     "name": "Helm Point Light",
+     "lat_dm": "55° 49.59' N. lat.",
+     "lon_dm": "134° 16.19' W. long."
+    },
+    {
+     "name": "westernmost tip of Hazy Islands",
+     "lat_dm": "55° 53.22' N. lat.",
+     "lon_dm": "134° 36.99' W. long."
+    },
+    {
+     "name": "southernmost tip of Cape Ommaney",
+     "lat_dm": "56° 09.83' N. lat",
+     "lon_dm": "134° 40.42' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "section",
+   "name": "Section 9-B",
+   "parent": "District 9",
+   "citation": "5 AAC 33.200(i)(2)",
+   "text": "Section 9-B: waters of the district east of a line from Nation Point at 55° 55.69' N. lat, 134° 20.13' W. long., on Coronation Island to a point two nautical miles west of Point Gardner at 57° 00.94' N. lat., 134° 40.79' W. long.",
+   "points": [
+    {
+     "name": "Nation Point, on Coronation Island",
+     "lat_dm": "55° 55.69' N. lat",
+     "lon_dm": "134° 20.13' W. long."
+    },
+    {
+     "name": "a point two nautical miles west of Point Gardner",
+     "lat_dm": "57° 00.94' N. lat.",
+     "lon_dm": "134° 40.79' W. long."
+    }
+   ],
+   "verified_twice": true
+  }
+ ]
+}

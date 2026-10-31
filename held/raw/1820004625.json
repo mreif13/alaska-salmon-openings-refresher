@@ -1,0 +1,119 @@
+{
+ "release_id": "1820004625",
+ "title": "2026 Neets Bay Terminal Harvest Area Fisheries Announcement",
+ "published": "2026-08-04T00:00",
+ "region": "Southeast",
+ "gear": [
+  "purse seine",
+  "drift gillnet"
+ ],
+ "species": "salmon",
+ "emergency_order": "1E2526",
+ "contact": "Bo Meredith, (907) 225-5195",
+ "next_announcement": null,
+ "areas": [
+  {
+   "district": null,
+   "section": null,
+   "status": "partial",
+   "period_text": "From 5:00 a.m., Thursday, August 6, through 5:00 a.m., Saturday, August 29, 2026, salmon may be taken in the Neets Bay THA by drift gillnet and purse seine gear as follows: Purse Seine — 5:00 a.m., Thursday, August 6, to 5:00 a.m., Friday, August 7; 5:00 a.m., Monday, August 10, to 5:00 a.m., Tuesday, August 11; 5:00 a.m., Friday, August 14, to 5:00 a.m., Saturday, August 15; 5:00 a.m., Tuesday, August 18, to 5:00 a.m., Wednesday, August 19; 5:00 a.m., Saturday, August 22, to 5:00 a.m., Sunday, August 23; 5:00 a.m., Wednesday, August 26, to 5:00 a.m., Thursday August 27;",
+   "rules": [
+    {
+     "subject": "Neets Bay THA boundary (Bug Island line to barrier net)",
+     "status": "open",
+     "geometry": "lon_cutoff",
+     "side": "east",
+     "points": [
+      {
+       "name": "the easternmost tip of Bug Island (Bug Island line)",
+       "lat_dm": null,
+       "lon_dm": "131°39.14′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "The Neets Bay THA (101-95) will open in those waters east of the longitude of the easternmost tip of Bug Island at 131°39.14′ W long (Bug Island line) and west of the barrier net at the head of the bay"
+    },
+    {
+     "subject": "Chinook salmon landing restrictions",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Chinook salmon 28 inches or greater in length may NOT be retained and Chinook salmon less than 28 inches may be retained but not sold."
+    },
+    {
+     "subject": "Barrier net",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "damage to the net will result in the suspension of fishery rotations to repair the barrier net"
+    },
+    {
+     "subject": "Separate reporting of Neets Bay THA harvest",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Harvest from Neets Bay THA must be kept separate and reported on separate fish tickets."
+    }
+   ]
+  },
+  {
+   "district": null,
+   "section": null,
+   "status": "partial",
+   "period_text": "From 5:00 a.m., Thursday, August 6, through 5:00 a.m., Saturday, August 29, 2026, salmon may be taken in the Neets Bay THA by drift gillnet and purse seine gear as follows: Drift Gillnet — 5:00 a.m., Saturday, August 8, to 5:00 a.m., Sunday, August 9; 5:00 a.m., Wednesday, August 12, to 5:00 a.m., Thursday, August 13; 5:00 a.m., Sunday, August 16, to 5:00 a.m., Monday, August 17; 5:00 a.m., Thursday, August 20, to 5:00 a.m., Friday, August 21; 5:00 a.m., Monday, August 24, to 5:00 a.m., Tuesday, August 25; 5:00 a.m., Friday, August 28, to 5:00 a.m., Saturday, August 29.",
+   "rules": [
+    {
+     "subject": "Neets Bay THA boundary (Bug Island line to barrier net)",
+     "status": "open",
+     "geometry": "lon_cutoff",
+     "side": "east",
+     "points": [
+      {
+       "name": "the easternmost tip of Bug Island (Bug Island line)",
+       "lat_dm": null,
+       "lon_dm": "131°39.14′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "The Neets Bay THA (101-95) will open in those waters east of the longitude of the easternmost tip of Bug Island at 131°39.14′ W long (Bug Island line) and west of the barrier net at the head of the bay"
+    },
+    {
+     "subject": "Chinook salmon landing restrictions",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Chinook salmon 28 inches or greater in length may NOT be retained and Chinook salmon less than 28 inches may be retained but not sold."
+    },
+    {
+     "subject": "Barrier net",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "damage to the net will result in the suspension of fishery rotations to repair the barrier net"
+    },
+    {
+     "subject": "Separate reporting of Neets Bay THA harvest",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Harvest from Neets Bay THA must be kept separate and reported on separate fish tickets."
+    }
+   ]
+  }
+ ],
+ "full_text": "Forrest Bowers, Acting Director\n\nDoug Vincent-Lang, Commissioner\n\nKetchikan Area Office 2030 Sea Level Drive, Suite 205 Ketchikan, AK 99901\n\nAdvisory Announcement For Immediate Release: August 4, 2026\n\nJuneau, AK 99811-5526\n\nCONTACT: Bo Meredith Ketchikan Area Management Biologist bo.meredith@alaska.gov (907) 225-5195\n\n2026 NEETS BAY TERMINAL HARVEST AREA FISHERIES ANNOUNCEMENT\n\nThe Southern Southeast Regional Aquaculture Association (SSRAA) has achieved their cost recovery goal and secured summer chum salmon broodstock. The Neets Bay Terminal Harvest Area (THA) will open for rotational fisheries beginning at 5:00 a.m., Thursday, August 6, 2026.\n\nThe Neets Bay THA (101-95) will open in those waters east of the longitude of the easternmost tip of Bug Island at 131°39.14′ W long (Bug Island line) and west of the barrier net at the head of the bay (Figure 1). Fishermen are advised to use extreme caution when operating near the barrier net and be aware that the barrier net may billow during ebb tides. Although SSRAA has secured its broodstock needs, damage to the net will result in the suspension of fishery rotations to repair the barrier net and safeguard broodstock. Additionally, fishermen are reminded that tour boats and float planes that transit the area need safe and convenient access to the dock.\n\nFrom 5:00 a.m., Thursday, August 6, through 5:00 a.m., Saturday, August 29, 2026, salmon may be taken in the Neets Bay THA by drift gillnet and purse seine gear as follows:\n\nPurse Seine\n\n5:00 a.m., Thursday, August 6, to 5:00 a.m., Friday, August 7; 5:00 a.m., Monday, August 10, to 5:00 a.m., Tuesday, August 11; 5:00 a.m., Friday, August 14, to 5:00 a.m., Saturday, August 15; 5:00 a.m., Tuesday, August 18, to 5:00 a.m., Wednesday, August 19; 5:00 a.m., Saturday, August 22, to 5:00 a.m., Sunday, August 23; 5:00 a.m., Wednesday, August 26, to 5:00 a.m., Thursday August 27;\n\nDrift Gillnet\n\n5:00 a.m., Saturday, August 8, to 5:00 a.m., Sunday, August 9; 5:00 a.m., Wednesday, August 12, to 5:00 a.m., Thursday, August 13; 5:00 a.m., Sunday, August 16, to 5:00 a.m., Monday, August 17; 5:00 a.m., Thursday, August 20, to 5:00 a.m., Friday, August 21; 5:00 a.m., Monday, August 24, to 5:00 a.m., Tuesday, August 25; 5:00 a.m., Friday, August 28, to 5:00 a.m., Saturday, August 29.\n\nFishermen, tenders, and processors are reminded that harvest from the Neets Bay THA should be kept separate and reported on a separate fish ticket from harvest outside of the Neets Bay THA.\n\nNeets Bay THA Chinook Salmon Landing Restrictions for Purse Seine Gear: Chinook salmon 28 inches or greater in length may NOT be retained and Chinook salmon less than 28 inches may be retained but not sold.\n\nWhen under nonretention of Chinook salmon 28 inches or larger, purse seine fishermen are encouraged to quickly release Chinook salmon in a manner that minimizes mortality. If Chinook salmon greater than 28 inches (large) are retained, the fisherman is in violation and may be issued a citation. Retained large Chinook salmon will be donated, and the fisherman\n\nNeets Bay THA\n\nAugust 4, 2026\n\nNeets Bay THA\n\nAugust 4, 2026\n\nmay be subject to the cost associated with processing the fish for donation. On the fish ticket, the number and weight of the fish must be recorded and the disposition code ‶69-Donated-nonretention-state fishery″ must be used.\n\nFishermen, tenders, and processors are reminded that all salmon, including steelhead, commercially harvested but retained for personal use and not sold, must be reported on fish tickets at the time of delivery (harvest code 95).\n\nThe Emergency Order corresponding to this announcement is EO 1E2526.\n\nFigure 1. Map of Neets Bay THA.\n\nAdvisory Announcement web site: http://www.adfg.alaska.gov/index.cfm?adfg=cfnews.main.\n\nOffice\n\nKetchikan\n\nPetersburg\n\nWrangell\n\n225-5195\n\n225-5111\n\n772-3801\n\n772-3983\n\n874-3215\n\nSitka\n\n747-6688\n\n747-3254\n\nJuneau\n\n465-4250\n\n465-4000\n\nHaines\n\n766-2830\n\n766-2533\n\nYakutat\n\n784-3255\n\n784-3220",
+ "_parser": "9d390c40",
+ "_parser_kept": "new parse placed 1 where the old placed 2"
+}

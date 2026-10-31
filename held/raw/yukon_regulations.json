@@ -1,0 +1,83 @@
+{
+ "source": "5 AAC 05 (Yukon Area), Article 2 (Fishing districts and subdistricts)",
+ "source_url": "https://www.adfg.alaska.gov/static/regulations/fishregulations/pdfs/commercial/2025_2028_cf_yukon_salmon.pdf",
+ "text_retrieved_from": [
+  "https://www.law.cornell.edu/regulations/alaska/5-AAC-05.200",
+  "https://regulations.justia.com/states/alaska/title-5/part-1/chapter-05/article-2/section-5-aac-05-200/"
+ ],
+ "citation": "5 AAC 05.200 (fishing districts and subdistricts)",
+ "retrieved": "2026-08-24",
+ "notation": "degrees and decimal minutes, e.g. \"63° 14.27' N. lat.\" / \"162° 49.72' W. long.\" -- NOT degrees-minutes-seconds. lat_dm/lon_dm hold the value EXACTLY as printed, including two defects that both hosts reproduce: \"63° U.16' N. lat.\" in subsection (h) and a stray space before the decimal point in \"162° 54 .40' W. long.\" in both (a) and (h). Decimal conversion is degrees + minutes/60, negative for west longitude.",
+ "source_document_caveat": "Transcribed from Cornell LII and Justia, which derive from the same state codification; their agreement proves faithful transcription, not independent authority. Cornell's History note for 5 AAC 05.200 ends \"am 8/10/2018, Register 227, October 2018\", which is inside Justia's \"current through November 28, 2024\" window, so for THIS section the two hosts are the same vintage. Any amendment after October 2018, and any emergency order, is NOT reflected here. Verify against the printed booklet before fishing.",
+ "verification_method": "Both areas were read twice by differently-worded fetches across two hosts (Cornell LII and Justia); all recorded coordinates were identical in both reads, including both source defects. A separate read enumerated subsections (b) through (g) one at a time and reported \"none\" for each, and Justia independently reported that only subsection (a) carries coordinates among the non-Coastal subsections. Every decimal was recomputed by hand as degrees + minutes/60, negated for west longitude: 63°12.16'=63.202667, 162°49.72'=-162.828667, 63°14.27'=63.237833, 162°54.40'=-162.906667, 62°20.58'=62.343, 165°22.66'=-165.377667, 62°22.67'=62.377833, 165°27.37'=-165.456167 -- all consistent with the Yukon delta coast.",
+ "structure_notes": "THE YUKON IS ALMOST ENTIRELY A RIVER FISHERY DESCRIBED WITHOUT COORDINATES, BUT NOT ENTIRELY. 5 AAC 05.200 defines Districts 1-6 (subsections (a)-(f)), Subdistricts 4-A/4-B/4-C, 5-A/5-B/5-C/5-D, 6-A/6-B/6-C, the Old Minto Area, and the Coastal District (subsection (h)). ONLY TWO of those carry any latitude or longitude: subsection (a), District 1, and subsection (h), the Coastal District -- and they share the same Point Romanof line. Subsections (b), (c), (d), (e), (f) and (g) contain NO degrees-and-minutes figure at all, on either host; every other district and subdistrict is described by river mile, confluence, village, slough, and ADF&G regulatory marker. Those areas are deliberately NOT recorded here rather than forced into a coordinate shape they do not have.",
+ "areas": [
+  {
+   "kind": "district",
+   "name": "Coastal District",
+   "parent": null,
+   "citation": "5 AAC 05.200(h)",
+   "text": "Coastal District: all waters between the latitude of the westernmost point of the Naskonat Peninsula and a line extending 315° northwest from Point Romanof at 63° U.16' N. lat., 162° 49.72' W. long. to a point three nautical miles offshore at 63° 14.27' N. lat., 162° 54 .40' W. long. not included in (a) - (f) of this section.",
+   "points": [
+    {
+     "name": "westernmost point of the Naskonat Peninsula",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Point Romanof",
+     "lat_dm": "63° U.16' N. lat.",
+     "lon_dm": "162° 49.72' W. long."
+    },
+    {
+     "name": "point three nautical miles offshore",
+     "lat_dm": "63° 14.27' N. lat.",
+     "lon_dm": "162° 54 .40' W. long."
+    }
+   ],
+   "verified_twice": true,
+   "notes": "SOURCE TYPO PRESERVED: the latitude of Point Romanof is printed \"63° U.16' N. lat.\" -- with a letter U where the digits 12 belong -- and BOTH HOSTS print it that way, so it is a defect in the codification, not a fetch artifact. It is recorded verbatim and will not parse; it is deliberately NOT repaired here. The same landmark in 5 AAC 05.200(a) is printed \"63°12.16' N. lat.\", which is almost certainly the intended value, but that inference belongs to a human reading the printed booklet, not to this file. The southern bound, the latitude of the westernmost point of the Naskonat Peninsula, carries NO coordinate. The offshore longitude is printed with a stray space before the decimal point, \"162° 54 .40'\", on both hosts."
+  },
+  {
+   "kind": "district",
+   "name": "Yukon Area District 1",
+   "parent": null,
+   "citation": "5 AAC 05.200(a)",
+   "text": "District 1 consists of that portion of the Yukon River drainage from a line extending northwest from Point Romanof at 63°12.16' N. lat., 162° 49.72' W. long., to a point three nautical miles offshore at 63° 14.27' N. lat., 162° 54 .40' W. long., extending south and west along the coast of the delta to a line approximately one nautical mile south of the mouth of the Black River from 62° 20.58' N. lat., 165° 22.66' W. long., to a point located three nautical miles offshore at 62° 22.67' N. lat., 165° 27.37' W. long., including the waters within three nautical miles seaward from any grassland bank within that area, and upstream from the mouth of the Black River to the northern edge of the mouth of the Anuk River and all waters of the Black River.",
+   "points": [
+    {
+     "name": "Point Romanof",
+     "lat_dm": "63°12.16' N. lat.",
+     "lon_dm": "162° 49.72' W. long."
+    },
+    {
+     "name": "point three nautical miles offshore, Point Romanof line",
+     "lat_dm": "63° 14.27' N. lat.",
+     "lon_dm": "162° 54 .40' W. long."
+    },
+    {
+     "name": "approximately one nautical mile south of the mouth of the Black River",
+     "lat_dm": "62° 20.58' N. lat.",
+     "lon_dm": "165° 22.66' W. long."
+    },
+    {
+     "name": "point three nautical miles offshore, Black River line",
+     "lat_dm": "62° 22.67' N. lat.",
+     "lon_dm": "165° 27.37' W. long."
+    },
+    {
+     "name": "mouth of the Black River",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "northern edge of the mouth of the Anuk River",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Named \"Yukon Area District 1\" ON PURPOSE: 5 AAC 33.200 also has a \"District 1\", in Southeastern Alaska, and giving this the bare name would have let a Yukon delta boundary be handed to a Ketchikan-area opening. Cornell renders Point Romanof as \"Point Roman of\" (a broken word) and both hosts print the offshore longitude with a stray space, \"162° 54 .40'\", and the sentence's final period doubled -- all recorded as artifacts of the codified text. Here the Point Romanof latitude IS printed correctly as 63°12.16', unlike in subsection (h). Both hosts print all four coordinate pairs identically."
+  }
+ ]
+}

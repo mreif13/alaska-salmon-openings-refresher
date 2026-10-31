@@ -1,0 +1,50 @@
+{
+ "release_id": "1831806203",
+ "region": "CookInlet",
+ "office": "Homer Area Office",
+ "published": "2026-08-28T00:00",
+ "emergency_order": null,
+ "gear": [
+  "purse seine",
+  "set gillnet"
+ ],
+ "species": "salmon",
+ "units": [
+  {
+   "name": "Outer District",
+   "kind": "district",
+   "parent": null,
+   "status": "closed",
+   "period_text": "The Outer District will close for the season at the conclusion of the Monday, August 31 commercial fishing period. Prior to September 1, the following areas are open on a Monday, Wednesday, and Friday schedule of 16-hour commercial purse seine fishing periods from 6:00 AM until 10:00 PM on those days. These areas are, -the Dogfish Bay (Koyuktolik) Subdistrict, -the Windy Bay Subdistrict, and -waters of the Nuka Island Subdistrict in the Petrof area north and west of a point at 59° 20.00’ N. latitude., 150° 48.00’ W",
+   "rules": []
+  },
+  {
+   "name": "Eastern District",
+   "kind": "district",
+   "parent": null,
+   "status": "closed",
+   "period_text": "The Eastern District will close for the season at the conclusion of the Monday, August 31, 6:00 AM to 10:00 PM commercial fishing period. Prior to September 1, waters of the Aialik Bay Subdistrict including the waters of Peterson Lagoon, south of 59° 53.84’ N. latitude, remain open on a 7-day per week schedule of 6:00 AM to 10:00 PM 16-hour fishing periods. An aerial survey of Aialik Lake flown on July 29 documented 7,000 sockeye salmon in Aialik Lake. This is above the 3,200 – 5,400 SEG range for this system and s",
+   "rules": []
+  },
+  {
+   "name": "Southern District",
+   "kind": "district",
+   "parent": null,
+   "status": "closed",
+   "period_text": "Set gillnet: the Southern District commercial set gillnet season closed for the 2026 season at 6:00 AM on Saturday, August 15. Purse seine: Waters of the Southern District are closed to commercial common property purse seine salmon harvest.",
+   "rules": []
+  },
+  {
+   "name": "Kamishak District",
+   "kind": "district",
+   "parent": null,
+   "status": "closed",
+   "period_text": "Waters of the Kamishak District remain closed to commercial purse seine salmon harvest. As a reminder, unless otherwise specified in regulation or by emergency order, commercial fishing for salmon is prohibited at all times within 500 yards of the fresh water of a salmon stream and over the beds or channels of streams and rivers at all stages of the tide. Fresh water is considered separated from",
+   "rules": []
+  }
+ ],
+ "all_others_closed": false,
+ "_unparsed": [],
+ "full_text": "Forrest Bowers, Acting Director\n\nDoug Vincent-Lang, Commissioner\n\nHomer Area Office 3298 Douglas Place Homer, AK 99603-7942\n\nAdvisory Announcement For Immediate Release: Fri., August 28, 2026 Time: 2:00 PM\n\nJuneau, AK 99811-5526\n\nCONTACT: Glenn Hollowell Finfish Management Biologist (907) 235-8191\n\nLower Cook Inlet Salmon Fishery Advisory Announcement #19\n\nOUTER DISTRICT: The Outer District will close for the season at the conclusion of the Monday, August 31 commercial fishing period. Prior to September 1, the following areas are open on a Monday, Wednesday, and Friday schedule of 16-hour commercial purse seine fishing periods from 6:00 AM until 10:00 PM on those days. These areas are,\n\n-the Dogfish Bay (Koyuktolik) Subdistrict,\n\n-the Windy Bay Subdistrict, and\n\n-waters of the Nuka Island Subdistrict in the Petrof area north and west of a point at 59° 20.00’ N. latitude., 150° 48.00’ W. longitude.\n\nEASTERN DISTRICT: The Eastern District will close for the season at the conclusion of the Monday, August 31, 6:00 AM to 10:00 PM commercial fishing period. Prior to September 1, waters of the Aialik Bay Subdistrict including the waters of Peterson Lagoon, south of 59° 53.84’ N. latitude, remain open on a 7-day per week schedule of 6:00 AM to 10:00 PM 16-hour fishing periods. An aerial survey of Aialik Lake flown on July 29 documented 7,000 sockeye salmon in Aialik Lake. This is above the 3,200 – 5,400 SEG range for this system and species.\n\nSOUTHERN DISTRICT: Set gillnet: the Southern District commercial set gillnet season closed for the 2026 season at 6:00 AM on Saturday, August 15. Purse seine: Waters of the Southern District are closed to commercial common property purse seine salmon harvest.\n\nKAMISHAK DISTRICT: Waters of the Kamishak District remain closed to commercial purse seine salmon harvest.\n\nAs a reminder, unless otherwise specified in regulation or by emergency order, commercial fishing for salmon is prohibited at all times within 500 yards of the fresh water of a salmon stream and over the beds or channels of streams and rivers at all stages of the tide. Fresh water is considered separated from salt water, at the mouth of streams and rivers, by a line drawn between the seaward extremities of the exposed tideland banks at the present stage of the tide, (5AAC 39.975(a)(26)).\n\nAnnouncement recordings are available on the 24-hour telephone recording in the Homer office at 907/235-7307.\n\nCurrent Cook Inlet Commercial Fishing regulation books are available at ADF&G offices, and online here:\n\nThis website may also be accessed by scanning the QR code at right.\n\nAdditionally, announcements, area maps, inseason harvest data, and escapement data are available at the following web address: which may also be accessed by scanning the adjacent QR code,",
+ "_parser": "9d390c40"
+}
