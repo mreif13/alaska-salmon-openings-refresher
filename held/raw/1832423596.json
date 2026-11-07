@@ -1,0 +1,181 @@
+{
+ "release_id": "1832423596",
+ "published": "2026-08-28T00:00",
+ "species": "salmon",
+ "gear": [
+  "purse seine"
+ ],
+ "_unparsed": [],
+ "emergency_order": "1S6726",
+ "contact": "Troy Thynes, (907) 772-3801",
+ "title": "Southeast Alaska Salmon Purse Seine Fishery Section 3-A",
+ "next_announcement": null,
+ "region": "Southeast",
+ "full_text": "Forrest Bowers, Acting Director\n\nDoug Vincent-Lang, Commissioner\n\nRegion I, Petersburg Area Office Petersburg, AK 99833\n\nAdvisory Announcement For Immediate Release: August 28, 2026\n\nJuneau, AK 99811-5526\n\nCONTACT: Troy Thynes Region I Management Coordinator troy.thynes@alaska.gov (907) 772-3801\n\nSOUTHEAST ALASKA SALMON PURSE SEINE FISHERY SECTION 3-A CORRECTION\n\nThe purse seine announcement issued on August 28, 2026, had an error in the Section 3-A Nutkwa Inlet restriction. The following has the correct Section 3-A restrictions.\n\nDistrict 3\n\nThe following areas will be open to purse seining from 6:00 a.m., Sunday, August 30, through 9:00 p.m., Monday, August 31, 2026:\n\nSection 3-A: will be open with the following restrictions:\n\nDall Island Shore: will be closed west of a line from the southernmost tip of Reef Point at 55°03.62′ N lat, 132°58.33′ W long to High Point at 55°01.24′ N lat, 132°57.68′ W long;\n\nEek Inlet: will be closed within 0.2 nmi of the western shore of Hetta Inlet north of the latitude of Eek Point Light at 55°08.27′ N lat and south of 55°09.33′ N lat;\n\nHetta Inlet: will be closed north of 55°12.00′ N lat;\n\nHetta Lake Cove: will be closed within 0.3 nmi of the eastern shore of Hetta Inlet north of 55°09.28′ N lat and south of 55°10.62′ N lat;\n\nHassiah Inlet and Mabel Bay: will be closed east of 132°35.00′ W long and south of the latitude of the northern tip of Helen Island at 54°59.43′ N lat;\n\nKassa Inlet: will be closed east of the longitude of Kassa Point at 132°31.62′ W long;\n\nKlakas Inlet: will be closed north of 54°57.17′ N lat;\n\nMax Cove: will be closed south of 54°57.17′ N lat;\n\nNutkwa Inlet: will be closed north of 55°07.00′ N lat;\n\nSukkwan Strait: will be closed west of 132°46.66′ W long.\n\nAll other lines, times, and restrictions from the seine announcement released on August 28, will remain in effect.\n\nThe Emergency Order corresponding with this announcement is EO 1S6726.\n\nSeine Week 36\n\nAugust 28, 2026\n\nSeine Week 36 page 2 of 2\n\nAugust 28, 2026\n\nAdvisory Announcement web site: http://www.adfg.alaska.gov/index.cfm?adfg=cfnews.main.\n\nOffice\n\nKetchikan\n\nPetersburg\n\nWrangell\n\n225-5195\n\n225-5111\n\n772-3801\n\n772-3983\n\n874-3215\n\nSitka\n\n747-6688\n\n747-3254\n\nJuneau\n\n465-4250\n\n465-4000\n\nHaines\n\n766-2830\n\n766-2533\n\nYakutat\n\n784-3255\n\n784-3220",
+ "areas": [
+  {
+   "district": "3",
+   "section": "3-A",
+   "status": "open",
+   "period_text": "open from 6:00 a.m., Sunday, August 30, through 9:00 p.m., Monday, August 31, 2026; with the following restrictions:",
+   "rules": [
+    {
+     "subject": "Section 3-A",
+     "status": "open",
+     "side": null,
+     "text": "with the following restrictions:",
+     "geometry": "other",
+     "points": []
+    }
+   ]
+  },
+  {
+   "district": null,
+   "section": null,
+   "status": "partial",
+   "period_text": null,
+   "rules": [
+    {
+     "subject": "Dall Island Shore",
+     "status": "closed",
+     "side": "west",
+     "text": "west of a line from the southernmost tip of Reef Point at 55°03.62′ N lat, 132°58.33′ W long to High Point at 55°01.24′ N lat, 132°57.68′ W long;",
+     "geometry": "line",
+     "points": [
+      {
+       "name": "a line from the southernmost tip of Reef Point",
+       "lat_dm": "55°03.62′ N",
+       "lon_dm": "132°58.33′ W"
+      },
+      {
+       "name": "High Point",
+       "lat_dm": "55°01.24′ N",
+       "lon_dm": "132°57.68′ W"
+      }
+     ]
+    },
+    {
+     "subject": "Eek Inlet",
+     "status": "closed",
+     "side": null,
+     "text": "within 0.2 nmi of the western shore of Hetta Inlet north of the latitude of Eek Point Light at 55°08.27′ N lat and south of 55°09.33′ N lat;",
+     "geometry": "buffer",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": "55°08.27′ N",
+       "lon_dm": null
+      }
+     ]
+    },
+    {
+     "subject": "Hetta Inlet",
+     "status": "closed",
+     "side": "north",
+     "text": "north of 55°12.00′ N lat;",
+     "geometry": "lat_cutoff",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": "55°12.00′ N",
+       "lon_dm": null
+      }
+     ]
+    },
+    {
+     "subject": "Hetta Lake Cove",
+     "status": "closed",
+     "side": null,
+     "text": "within 0.3 nmi of the eastern shore of Hetta Inlet north of 55°09.28′ N lat and south of 55°10.62′ N lat;",
+     "geometry": "buffer",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": "55°09.28′ N",
+       "lon_dm": null
+      }
+     ]
+    },
+    {
+     "subject": "Hassiah Inlet and Mabel Bay",
+     "status": "closed",
+     "side": "east",
+     "text": "east of 132°35.00′ W long and south of the latitude of the northern tip of Helen Island at 54°59.43′ N lat;",
+     "geometry": "other",
+     "points": []
+    },
+    {
+     "subject": "Kassa Inlet",
+     "status": "closed",
+     "side": "east",
+     "text": "east of the longitude of Kassa Point at 132°31.62′ W long;",
+     "geometry": "lon_cutoff",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": null,
+       "lon_dm": "132°31.62′ W"
+      }
+     ]
+    },
+    {
+     "subject": "Klakas Inlet",
+     "status": "closed",
+     "side": "north",
+     "text": "north of 54°57.17′ N lat;",
+     "geometry": "lat_cutoff",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": "54°57.17′ N",
+       "lon_dm": null
+      }
+     ]
+    },
+    {
+     "subject": "Max Cove",
+     "status": "closed",
+     "side": "south",
+     "text": "south of 54°57.17′ N lat;",
+     "geometry": "lat_cutoff",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": "54°57.17′ N",
+       "lon_dm": null
+      }
+     ]
+    },
+    {
+     "subject": "Nutkwa Inlet",
+     "status": "closed",
+     "side": "north",
+     "text": "north of 55°07.00′ N lat;",
+     "geometry": "lat_cutoff",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": "55°07.00′ N",
+       "lon_dm": null
+      }
+     ]
+    },
+    {
+     "subject": "Sukkwan Strait",
+     "status": "closed",
+     "side": "west",
+     "text": "west of 132°46.66′ W long. All other lines, times, and restrictions from the seine announcement released on August 28, will remain in effect. The Emergency Order corresponding with this announcement is EO 1S6726. Seine Week 36 page 1 of 2 August 28, 2026 \fSeine Week 36 page 2 of 2 August 28, 2026 Advisory Announcement web site: http://www.adfg.alas",
+     "geometry": "lon_cutoff",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": null,
+       "lon_dm": "132°46.66′ W"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "_parser": "9d390c40"
+}

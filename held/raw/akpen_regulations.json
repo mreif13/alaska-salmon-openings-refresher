@@ -1,0 +1,1849 @@
+{
+ "source": "5 AAC 09 (Alaska Peninsula Area), Article 2 (Salmon Fishery: districts, sections and subdistricts) and Article 3 (closed waters); the corresponding printed booklet is the 2026-2029 Alaska Peninsula, Atka-Amlia Islands, Aleutian Islands, and Chignik Areas Commercial Salmon Fishing Regulations",
+ "source_url": "https://www.adfg.alaska.gov/static/regulations/fishregulations/pdfs/commercial/cf_akpen_aleutians_regs_2026_2029.pdf",
+ "text_retrieved_from": [
+  "https://www.law.cornell.edu/regulations/alaska/5-AAC-09.200",
+  "https://www.law.cornell.edu/regulations/alaska/5-AAC-09.350",
+  "https://regulations.justia.com/states/alaska/title-5/part-1/chapter-09/article-2/section-5-aac-09-200",
+  "https://regulations.justia.com/states/alaska/title-5/part-1/chapter-09/article-3/section-5-aac-09-350"
+ ],
+ "citation": "5 AAC 09.200 (districts and sections); 5 AAC 09.350 (closed waters)",
+ "retrieved": "2026-08-24",
+ "notation": "degrees and decimal minutes, e.g. \"55° 33.98' N. lat.\" / \"159° 35.88' W. long.\" — NOT degrees-minutes-seconds. lat_dm/lon_dm hold the value EXACTLY as printed, unconverted, including the source's inconsistent degree sign: 5 AAC 09.200 and parts of 09.350 use ° (U+00B0) while many 09.350 items use º (U+00BA, masculine ordinal). Two coordinates are printed as whole degrees with no minutes at all — Cape Newenham \"162° W. long.\" in 09.200(a) and Little Bear Bay \"162º W. long.\" in 09.350(25)(B) — and are recorded that way; they are not degrees+minutes and will not parse as such. Decimal conversion is degrees + minutes/60, negative for west longitude.",
+ "source_document_caveat": "The ADF&G booklet named in source_url could not be read directly: this session's egress policy blocks downloading it, and the fetch relay returns only summaries of PDFs. All text here was therefore transcribed from two independent published mirrors of the codified regulation — Cornell LII and Justia — listed in text_retrieved_from. Both mirrors derive from the same state codification, so their agreement proves faithful transcription, not independent authority. Currency: the Cornell history note for 5 AAC 09.200 ends \"am 5/30/2007, Register 182\" and for 5 AAC 09.350 ends \"am 6/5/2016, Register 218, July 2016\"; neither page shows a current-through date. Any Board of Fisheries amendment after those dates, and any emergency order, is NOT reflected here. Verify against the printed booklet before fishing.",
+ "verification_method": "Every area was read twice, by two differently-worded fetches, in every case across two different hosts (Cornell LII and Justia). Only values identical in both reads are recorded with verified_twice=true. Two coordinate pairs were elided by one host's first read (the second point of Inner Port Heiden Section, 5 AAC 09.200(a)(2)(B), and the base of Trader Mountain, 5 AAC 09.350(16)(B)); each was recovered by a third, narrowly worded read of the host that had dropped it, and matched the other host's read digit for digit. Every decimal value was recomputed by hand as degrees + minutes/60, negated for west longitude, and checked against the Alaska Peninsula envelope lat 54-59, lon -170 to -156. No coordinate in this file was supplied from any source other than the two mirrors; landmarks named without a printed coordinate carry lat_dm/lon_dm = null even where the same landmark's coordinate appears in another paragraph.",
+ "structure_notes": "5 AAC 09.200 has exactly six lettered subsections: (a) Northern, (b) Northwestern, (c) Unimak, (d) Southwestern, (e) South Central, (f) Southeastern. There is NO \"Bering Sea District\" in this section — both hosts confirm the phrase \"Bering Sea\" appears only as the geographic descriptor in the Northern and Northwestern District descriptions. 5 AAC 09.350 is titled \"Closed waters\" and reads \"Salmon may not be taken in the following locations:\" followed by a flat list numbered (1) through (37) with no lettered subsections; because that list is not organised by district, most closures here carry parent=null. parent is set only where the closure text itself names a section.",
+ "areas": [
+  {
+   "kind": "district",
+   "name": "Northern District",
+   "parent": null,
+   "citation": "5 AAC 09.200(a)",
+   "text": "Northern District: waters on the north (Bering Sea) side of the Alaska Peninsula west of a line from Cape Menshikof (57° 28.34' N. lat., 157° 55.84' W. long.) to Cape Newenham (58° 39.00' N. lat., 162° W. long.) and the longitude of Moffet Point (162° 35.50' W. long.), excluding the waters of Moffet Bay (also known as Moffet Lagoon)",
+   "points": [
+    {
+     "name": "Cape Menshikof",
+     "lat_dm": "57° 28.34' N. lat.",
+     "lon_dm": "157° 55.84' W. long."
+    },
+    {
+     "name": "Cape Newenham",
+     "lat_dm": "58° 39.00' N. lat.",
+     "lon_dm": "162° W. long."
+    },
+    {
+     "name": "Moffet Point",
+     "lat_dm": null,
+     "lon_dm": "162° 35.50' W. long."
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Cape Newenham's longitude is printed as a whole number of degrees with no minutes -- \"162° W. long.\" -- in both reads. Recorded exactly as printed; it will not parse as degrees+minutes."
+  },
+  {
+   "kind": "district",
+   "name": "Northwestern District",
+   "parent": null,
+   "citation": "5 AAC 09.200(b)",
+   "text": "Northwestern District: waters on the north (Bering Sea) side of the Alaska Peninsula between the longitude of Moffet Point (162° 35.50' W. long.) and the longitude of Cape Sarichef Light on Unimak Island (164° 55.70' W. long.), including all waters of Moffet Bay (also known as Moffet Lagoon) and the waters of Bechevin Bay and Isanotski Strait north of a line from the False Pass cannery dock to Nichols Point",
+   "points": [
+    {
+     "name": "Moffet Point",
+     "lat_dm": null,
+     "lon_dm": "162° 35.50' W. long."
+    },
+    {
+     "name": "Cape Sarichef Light on Unimak Island",
+     "lat_dm": null,
+     "lon_dm": "164° 55.70' W. long."
+    },
+    {
+     "name": "False Pass cannery dock",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Nichols Point",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "district",
+   "name": "Unimak District",
+   "parent": null,
+   "citation": "5 AAC 09.200(c)",
+   "text": "Unimak District: waters on the south side of Unimak Island between a line extending from Scotch Cap (54° 24.17' N. lat., 164° 47.60' W. long.) through the easternmost tip of Ugamak Island (54° 12.87' N. lat., 164° 46.00' W. long.) and a line extending 115° from Cape Pankof Light (54° 39.60' N. lat., 163° 03.70' W. long.), including the Sanak Islands",
+   "points": [
+    {
+     "name": "Scotch Cap",
+     "lat_dm": "54° 24.17' N. lat.",
+     "lon_dm": "164° 47.60' W. long."
+    },
+    {
+     "name": "easternmost tip of Ugamak Island",
+     "lat_dm": "54° 12.87' N. lat.",
+     "lon_dm": "164° 46.00' W. long."
+    },
+    {
+     "name": "Cape Pankof Light",
+     "lat_dm": "54° 39.60' N. lat.",
+     "lon_dm": "163° 03.70' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "district",
+   "name": "Southwestern District",
+   "parent": null,
+   "citation": "5 AAC 09.200(d)",
+   "text": "Southwestern District: waters on the south side of the Alaska Peninsula north and east of a line extending 115° from Cape Pankof Light (54° 39.60' N. lat., 163° 03.70' W. long.) and west of a line extending 106° from Arch Point Light (55° 12.30' N. lat., 161° 54.30' W. long.)",
+   "points": [
+    {
+     "name": "Cape Pankof Light",
+     "lat_dm": "54° 39.60' N. lat.",
+     "lon_dm": "163° 03.70' W. long."
+    },
+    {
+     "name": "Arch Point Light",
+     "lat_dm": "55° 12.30' N. lat.",
+     "lon_dm": "161° 54.30' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "district",
+   "name": "South Central District",
+   "parent": null,
+   "citation": "5 AAC 09.200(e)",
+   "text": "South Central District: waters on the south side of the Alaska Peninsula north and east of a line extending 106° from Arch Point Light (55° 12.30' N. lat., 161° 54.30' W. long.) and west of a line extending south from McGinty Point (55° 27.37' N. lat., 160° 59.00' W. long.), including Ukolnoi and Wosnesenski Islands",
+   "points": [
+    {
+     "name": "Arch Point Light",
+     "lat_dm": "55° 12.30' N. lat.",
+     "lon_dm": "161° 54.30' W. long."
+    },
+    {
+     "name": "McGinty Point",
+     "lat_dm": "55° 27.37' N. lat.",
+     "lon_dm": "160° 59.00' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "district",
+   "name": "Southeastern District",
+   "parent": null,
+   "citation": "5 AAC 09.200(f)",
+   "text": "Southeastern District: waters on the south side of the Alaska Peninsula east of a line extending south from McGinty Point (55° 27.37' N. lat., 160° 59.00' W. long.) and west of a line extending 135° from Kupreanof Point (55° 33.98' N. lat., 159° 35.88' W. long.), including all of the Shumagin Islands",
+   "points": [
+    {
+     "name": "McGinty Point",
+     "lat_dm": "55° 27.37' N. lat.",
+     "lon_dm": "160° 59.00' W. long."
+    },
+    {
+     "name": "Kupreanof Point",
+     "lat_dm": "55° 33.98' N. lat.",
+     "lon_dm": "159° 35.88' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "section",
+   "name": "Cinder River Section",
+   "parent": "Northern District",
+   "citation": "5 AAC 09.200(a)(1)",
+   "text": "Cinder River Section: waters of the Northern District east of 158° 20.00' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "158° 20.00' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "section",
+   "name": "Outer Port Heiden Section",
+   "parent": "Northern District",
+   "citation": "5 AAC 09.200(a)(2)(A)",
+   "text": "Outer Port Heiden Section: waters located between 158° 20.00' W. long. and the longitude of Strogonof Point (158° 50.45' W. long.), excluding the waters of the Inner Port Heiden Section",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "158° 20.00' W. long."
+    },
+    {
+     "name": "Strogonof Point",
+     "lat_dm": null,
+     "lon_dm": "158° 50.45' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "section",
+   "name": "Inner Port Heiden Section",
+   "parent": "Northern District",
+   "citation": "5 AAC 09.200(a)(2)(B)",
+   "text": "Inner Port Heiden Section: waters of Port Heiden Bay south and east of a line from Strogonof Point at 56° 53.50' N. lat., 158° 50.45' W. long. to the mainland shore of the northeast entrance to the bay at 56° 56.50' N. lat., 158° 41.50' W. long.",
+   "points": [
+    {
+     "name": "Strogonof Point",
+     "lat_dm": "56° 53.50' N. lat.",
+     "lon_dm": "158° 50.45' W. long."
+    },
+    {
+     "name": "mainland shore of the northeast entrance to the bay",
+     "lat_dm": "56° 56.50' N. lat.",
+     "lon_dm": "158° 41.50' W. long."
+    }
+   ],
+   "verified_twice": true,
+   "notes": "The second coordinate pair was elided by the first Justia read (\"to the mainland shore\" only); a third, narrowly worded read of the same host returned it identically to the Cornell read."
+  },
+  {
+   "kind": "section",
+   "name": "Ilnik Section",
+   "parent": "Northern District",
+   "citation": "5 AAC 09.200(a)(3)",
+   "text": "Ilnik Section: waters between the longitude of Strogonof Point (158° 50.45' W. long.) and the longitude of Three Hills (159° 49.45' W. long.)",
+   "points": [
+    {
+     "name": "Strogonof Point",
+     "lat_dm": null,
+     "lon_dm": "158° 50.45' W. long."
+    },
+    {
+     "name": "Three Hills",
+     "lat_dm": null,
+     "lon_dm": "159° 49.45' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "section",
+   "name": "Three Hills Section",
+   "parent": "Northern District",
+   "citation": "5 AAC 09.200(a)(4)",
+   "text": "Three Hills Section: waters between the longitude of Three Hills (159° 49.45' W. long.) and the longitude of Cape Seniavin (160° 08.25' W. long.)",
+   "points": [
+    {
+     "name": "Three Hills",
+     "lat_dm": null,
+     "lon_dm": "159° 49.45' W. long."
+    },
+    {
+     "name": "Cape Seniavin",
+     "lat_dm": null,
+     "lon_dm": "160° 08.25' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "section",
+   "name": "Bear River Section",
+   "parent": "Northern District",
+   "citation": "5 AAC 09.200(a)(5)",
+   "text": "Bear River Section: waters between the longitude of Cape Seniavin (160° 08.25' W. long.) and the longitude of Wolf Point (160° 48.47' W. long.), excluding the waters of the Herendeen-Moller Bay Section",
+   "points": [
+    {
+     "name": "Cape Seniavin",
+     "lat_dm": null,
+     "lon_dm": "160° 08.25' W. long."
+    },
+    {
+     "name": "Wolf Point",
+     "lat_dm": null,
+     "lon_dm": "160° 48.47' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "section",
+   "name": "Port Moller Bight Section",
+   "parent": "Northern District",
+   "citation": "5 AAC 09.200(a)(6)",
+   "text": "Port Moller Bight Section: waters enclosed by a line from Entrance Point to Harbor Point",
+   "points": [
+    {
+     "name": "Entrance Point",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Harbor Point",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Defined entirely by named landmarks; the regulation prints no coordinate for either point."
+  },
+  {
+   "kind": "section",
+   "name": "Herendeen-Moller Bay Section",
+   "parent": "Northern District",
+   "citation": "5 AAC 09.200(a)(7)",
+   "text": "Herendeen-Moller Bay Section: waters enclosed by a line from Harbor Point to Entrance Point to Wolf Point to Point Edward on Cape Rozhnof",
+   "points": [
+    {
+     "name": "Harbor Point",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Entrance Point",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Wolf Point",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Point Edward on Cape Rozhnof",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": "No coordinates printed in this paragraph. Wolf Point's longitude (160° 48.47' W. long.) is printed in 5 AAC 09.200(a)(5) and (a)(9); it is deliberately NOT carried over here, because this paragraph gives no latitude for it."
+  },
+  {
+   "kind": "section",
+   "name": "Nelson Lagoon Section",
+   "parent": "Northern District",
+   "citation": "5 AAC 09.200(a)(8)",
+   "text": "Nelson Lagoon Section: waters of Nelson Lagoon inside the bars and inside a line extending from Lagoon Point to Wolf Point to Point Edward on Cape Rozhnof",
+   "points": [
+    {
+     "name": "Lagoon Point",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Wolf Point",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Point Edward on Cape Rozhnof",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Defined by named landmarks and by \"inside the bars\"; no coordinates printed."
+  },
+  {
+   "kind": "section",
+   "name": "Caribou Flats Section",
+   "parent": "Northern District",
+   "citation": "5 AAC 09.200(a)(9)",
+   "text": "Caribou Flats Section: waters between the longitude of Wolf Point (160° 48.47' W. long.) and the longitude of Frank's Point (161° 49.00' W. long.), excluding the waters of the Nelson Lagoon Section",
+   "points": [
+    {
+     "name": "Wolf Point",
+     "lat_dm": null,
+     "lon_dm": "160° 48.47' W. long."
+    },
+    {
+     "name": "Frank's Point",
+     "lat_dm": null,
+     "lon_dm": "161° 49.00' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "section",
+   "name": "Black Hills Section",
+   "parent": "Northern District",
+   "citation": "5 AAC 09.200(a)(10)",
+   "text": "Black Hills Section: waters between the longitude of Frank's Point (161° 49.00' W. long.) and the longitude of Moffet Point (162° 35.50' W. long.), excluding the waters of Moffet Bay (also known as Moffet Lagoon)",
+   "points": [
+    {
+     "name": "Frank's Point",
+     "lat_dm": null,
+     "lon_dm": "161° 49.00' W. long."
+    },
+    {
+     "name": "Moffet Point",
+     "lat_dm": null,
+     "lon_dm": "162° 35.50' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "section",
+   "name": "Izembek-Moffet Bay Section",
+   "parent": "Northwestern District",
+   "citation": "5 AAC 09.200(b)(1)",
+   "text": "Izembek-Moffet Bay Section: waters between the longitude of Moffet Point (162° 35.50' W. long.) and the longitude of the easternmost tip of Chunak Point (163° 27.00' W. long.), including all of Moffet Bay (also known as Moffet Lagoon), but excluding the waters of the Bechevin Bay Section",
+   "points": [
+    {
+     "name": "Moffet Point",
+     "lat_dm": null,
+     "lon_dm": "162° 35.50' W. long."
+    },
+    {
+     "name": "easternmost tip of Chunak Point",
+     "lat_dm": null,
+     "lon_dm": "163° 27.00' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "section",
+   "name": "Bechevin Bay Section",
+   "parent": "Northwestern District",
+   "citation": "5 AAC 09.200(b)(2)",
+   "text": "Bechevin Bay Section: waters of Bechevin Bay and Isanotski Strait enclosed on the north by a line from the easternmost tip of Chunak Point to the westernmost tip of Cape Kretnitzin and enclosed on the south by a line from the False Pass cannery dock to Nichols Point",
+   "points": [
+    {
+     "name": "easternmost tip of Chunak Point",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "westernmost tip of Cape Kretnitzin",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "False Pass cannery dock",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Nichols Point",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": "No coordinates printed in this paragraph. Chunak Point's longitude (163° 27.00' W. long.) appears in (b)(1) and (b)(3) but is not repeated here and is not carried over."
+  },
+  {
+   "kind": "section",
+   "name": "Swanson Lagoon Section",
+   "parent": "Northwestern District",
+   "citation": "5 AAC 09.200(b)(3)",
+   "text": "Swanson Lagoon Section: waters on the north side of Unimak Island between the longitude of the easternmost edge of Chunak Point (163° 27.00' W. long.) and east of the longitude of Otter Point (163° 47.00' W. long.), excluding the waters of the Bechevin Bay Section",
+   "points": [
+    {
+     "name": "easternmost edge of Chunak Point",
+     "lat_dm": null,
+     "lon_dm": "163° 27.00' W. long."
+    },
+    {
+     "name": "Otter Point",
+     "lat_dm": null,
+     "lon_dm": "163° 47.00' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "section",
+   "name": "Urilia Bay Section",
+   "parent": "Northwestern District",
+   "citation": "5 AAC 09.200(b)(4)",
+   "text": "Urilia Bay Section: waters on the north side of Unimak Island west of the longitude of Otter Point (163° 47.00' W. long.) and east of the longitude of the northernmost tip of Cape Mordvinof (164° 26.00' W. long.), including Peterson and Christianson Lagoons",
+   "points": [
+    {
+     "name": "Otter Point",
+     "lat_dm": null,
+     "lon_dm": "163° 47.00' W. long."
+    },
+    {
+     "name": "northernmost tip of Cape Mordvinof",
+     "lat_dm": null,
+     "lon_dm": "164° 26.00' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "section",
+   "name": "Dublin Bay Section",
+   "parent": "Northwestern District",
+   "citation": "5 AAC 09.200(b)(5)",
+   "text": "Dublin Bay Section: waters on the northwest side of Unimak Island west of the longitude of the northernmost tip of Cape Mordvinof (164° 26.00' W. long.) and east of the longitude of Cape Sarichef Light (164° 55.70' W. long.)",
+   "points": [
+    {
+     "name": "northernmost tip of Cape Mordvinof",
+     "lat_dm": null,
+     "lon_dm": "164° 26.00' W. long."
+    },
+    {
+     "name": "Cape Sarichef Light",
+     "lat_dm": null,
+     "lon_dm": "164° 55.70' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "section",
+   "name": "Cape Lutke Section",
+   "parent": "Unimak District",
+   "citation": "5 AAC 09.200(c)(1)",
+   "text": "Cape Lutke Section: waters of the Unimak District west of the longitude of Rock Island (163° 38.00' W. long.)",
+   "points": [
+    {
+     "name": "Rock Island",
+     "lat_dm": null,
+     "lon_dm": "163° 38.00' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "section",
+   "name": "Otter Cove Section",
+   "parent": "Unimak District",
+   "citation": "5 AAC 09.200(c)(2)",
+   "text": "Otter Cove Section: waters of the Unimak District east of the longitude of Rock Island (163° 38.00' W. long.), excluding the waters of the Sanak Island Section",
+   "points": [
+    {
+     "name": "Rock Island",
+     "lat_dm": null,
+     "lon_dm": "163° 38.00' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "section",
+   "name": "Sanak Island Section",
+   "parent": "Unimak District",
+   "citation": "5 AAC 09.200(c)(3)",
+   "text": "Sanak Island Section: waters of the Unimak District east of the longitude of Cape Pankof Light (163° 03.70' W. long.) and south of the latitude of Hague Rock at 54° 33.17' N. lat.",
+   "points": [
+    {
+     "name": "Cape Pankof Light",
+     "lat_dm": null,
+     "lon_dm": "163° 03.70' W. long."
+    },
+    {
+     "name": "Hague Rock",
+     "lat_dm": "54° 33.17' N. lat.",
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "section",
+   "name": "Ikatan Bay Section",
+   "parent": "Southwestern District",
+   "citation": "5 AAC 09.200(d)(1)",
+   "text": "Ikatan Bay Section: waters of the Southwestern District located south and west of a line from Kenmore Head (54° 56.83' N. lat., 163° 01.77' W. long.) to Hague Rock (54° 33.17' N. lat., 162° 24.00' W. long.) and west of a line extending true south from Hague Rock",
+   "points": [
+    {
+     "name": "Kenmore Head",
+     "lat_dm": "54° 56.83' N. lat.",
+     "lon_dm": "163° 01.77' W. long."
+    },
+    {
+     "name": "Hague Rock",
+     "lat_dm": "54° 33.17' N. lat.",
+     "lon_dm": "162° 24.00' W. long."
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Hague Rock's latitude, 54° 33.17' N., is the same value printed for Hague Rock in 5 AAC 09.200(c)(3), which is an internal confirmation of the digits."
+  },
+  {
+   "kind": "section",
+   "name": "Morzhovoi Bay Section",
+   "parent": "Southwestern District",
+   "citation": "5 AAC 09.200(d)(2)",
+   "text": "Morzhovoi Bay Section: waters of Morzhovoi Bay north of a line from Kenmore Head to Cape Tachilni (54° 56.00' N. lat., 162° 52.80' W. long.)",
+   "points": [
+    {
+     "name": "Kenmore Head",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Cape Tachilni",
+     "lat_dm": "54° 56.00' N. lat.",
+     "lon_dm": "162° 52.80' W. long."
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Kenmore Head is named without a coordinate in this paragraph; its coordinate is printed in (d)(1) and (d)(3) but is not carried over here."
+  },
+  {
+   "kind": "section",
+   "name": "Thin Point Section",
+   "parent": "Southwestern District",
+   "citation": "5 AAC 09.200(d)(3)",
+   "text": "Thin Point Section: waters of the Southwestern District east of Kenmore Head (54° 56.83' N. lat., 163° 01.77' W. long.) and west of Thin Point (54° 57.32' N. lat., 162° 33.50' W. long.)",
+   "points": [
+    {
+     "name": "Kenmore Head",
+     "lat_dm": "54° 56.83' N. lat.",
+     "lon_dm": "163° 01.77' W. long."
+    },
+    {
+     "name": "Thin Point",
+     "lat_dm": "54° 57.32' N. lat.",
+     "lon_dm": "162° 33.50' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "section",
+   "name": "Cold Bay Section",
+   "parent": "Southwestern District",
+   "citation": "5 AAC 09.200(d)(4)",
+   "text": "Cold Bay Section: waters north of a line from Thin Point to Vodapoini Point",
+   "points": [
+    {
+     "name": "Thin Point",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Vodapoini Point",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Defined by two named landmarks; no coordinate printed in this paragraph. Thin Point's coordinate is printed in (d)(3) and is not carried over."
+  },
+  {
+   "kind": "section",
+   "name": "Deer Island Section",
+   "parent": "Southwestern District",
+   "citation": "5 AAC 09.200(d)(5)",
+   "text": "Deer Island Section: waters within one nautical mile from the mean high tide mark around Deer Island",
+   "points": [
+    {
+     "name": "Deer Island",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Defined as a one-nautical-mile buffer around a named island; no coordinate printed."
+  },
+  {
+   "kind": "section",
+   "name": "Belkofski Bay Section",
+   "parent": "Southwestern District",
+   "citation": "5 AAC 09.200(d)(6)",
+   "text": "Belkofski Bay Section: waters between Vodapoini Point and Moss Cape, including Inner and Outer Iliasik Islands, excluding the waters of the Deer Island Section",
+   "points": [
+    {
+     "name": "Vodapoini Point",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Moss Cape",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Defined by named landmarks; no coordinate printed."
+  },
+  {
+   "kind": "section",
+   "name": "Volcano Bay Section",
+   "parent": "Southwestern District",
+   "citation": "5 AAC 09.200(d)(7)",
+   "text": "Volcano Bay Section: waters between Moss Cape and Arch Point, including Goloi, Dolgoi, and Poperechnoi Islands",
+   "points": [
+    {
+     "name": "Moss Cape",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Arch Point",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Defined by named landmarks; no coordinate printed in this paragraph. Arch Point Light's coordinate is printed in the (d) and (e) district descriptions and is not carried over."
+  },
+  {
+   "kind": "section",
+   "name": "General Section",
+   "parent": "Southwestern District",
+   "citation": "5 AAC 09.200(d)(8)",
+   "text": "General Section: all remaining waters of the Southwestern District",
+   "points": [],
+   "verified_twice": true,
+   "notes": "Residual section -- defined only by subtraction from the Southwestern District; no coordinates and no landmarks."
+  },
+  {
+   "kind": "section",
+   "name": "West Pavlof Bay Section",
+   "parent": "South Central District",
+   "citation": "5 AAC 09.200(e)(1)",
+   "text": "West Pavlof Bay Section: waters of the South Central District west of 161° 34.00' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "161° 34.00' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "section",
+   "name": "East Pavlof Bay Section",
+   "parent": "South Central District",
+   "citation": "5 AAC 09.200(e)(2)",
+   "text": "East Pavlof Bay Section: waters of the South Central District east of 161° 34.00' W. long., excluding the Canoe Bay and Mino Creek-Little Coal Bay Sections",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "161° 34.00' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "section",
+   "name": "Canoe Bay Section",
+   "parent": "South Central District",
+   "citation": "5 AAC 09.200(e)(3)",
+   "text": "Canoe Bay Section: waters of Canoe Bay enclosed by a line from a point at 55° 35.55' N. lat., 161° 21.60' W. long. to a point at 55° 35.65' N. lat., 161° 21.80' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "55° 35.55' N. lat.",
+     "lon_dm": "161° 21.60' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": "55° 35.65' N. lat.",
+     "lon_dm": "161° 21.80' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "section",
+   "name": "Mino Creek-Little Coal Bay Section",
+   "parent": "South Central District",
+   "citation": "5 AAC 09.200(e)(4)",
+   "text": "Mino Creek-Little Coal Bay Section: waters of the South Central District, excluding those of the West and East Pavlof Bay and Canoe Bay Sections, between the longitude of McGinty Point (160° 59.00' W. long.) and the longitude of Cape Tolstoi (161° 30.00' W. long.)",
+   "points": [
+    {
+     "name": "McGinty Point",
+     "lat_dm": null,
+     "lon_dm": "160° 59.00' W. long."
+    },
+    {
+     "name": "Cape Tolstoi",
+     "lat_dm": null,
+     "lon_dm": "161° 30.00' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "section",
+   "name": "Beaver Bay Section",
+   "parent": "Southeastern District",
+   "citation": "5 AAC 09.200(f)(1)",
+   "text": "Beaver Bay Section: waters of the Southeastern District east of the longitude of McGinty Point (160° 59.00' W. long.), west of 160° 49.00' W. long., and north of 55° 26.00' N. lat.",
+   "points": [
+    {
+     "name": "McGinty Point",
+     "lat_dm": null,
+     "lon_dm": "160° 59.00' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "160° 49.00' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": "55° 26.00' N. lat.",
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "section",
+   "name": "Balboa Bay Section",
+   "parent": "Southeastern District",
+   "citation": "5 AAC 09.200(f)(2)",
+   "text": "Balboa Bay Section: waters of the Southeastern District east of 160° 49.00' W. long., north of 55° 26.00' N. lat., and west of the longitude of Swedania Point (160° 31.50' W. long.)",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "160° 49.00' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": "55° 26.00' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "Swedania Point",
+     "lat_dm": null,
+     "lon_dm": "160° 31.50' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "section",
+   "name": "Shumagin Islands Section",
+   "parent": "Southeastern District",
+   "citation": "5 AAC 09.200(f)(3)",
+   "text": "Shumagin Islands Section: waters of the Southeastern District east of the longitude of McGinty Point (160° 59.00' W. long.), west of a line extending 135° from Kupreanof Point (55° 33.98' N. lat., 159° 35.88' W. long.), south of a line from 55° 26.00' N. lat., 160° 31.50' W. long., to 55° 32.20' N. lat., 160° 02.60' W. long. (approximately one nautical mile north of Karpa Island), and east to the Alaska Peninsula Area boundary (a line extending 135° from Kupreanof Point), excluding the Beaver Bay, Balboa Bay, and Southwest Stepovak Sections",
+   "points": [
+    {
+     "name": "McGinty Point",
+     "lat_dm": null,
+     "lon_dm": "160° 59.00' W. long."
+    },
+    {
+     "name": "Kupreanof Point",
+     "lat_dm": "55° 33.98' N. lat.",
+     "lon_dm": "159° 35.88' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": "55° 26.00' N. lat.",
+     "lon_dm": "160° 31.50' W. long."
+    },
+    {
+     "name": "approximately one nautical mile north of Karpa Island",
+     "lat_dm": "55° 32.20' N. lat.",
+     "lon_dm": "160° 02.60' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "section",
+   "name": "Southwest Stepovak Section",
+   "parent": "Southeastern District",
+   "citation": "5 AAC 09.200(f)(4)",
+   "text": "Southwest Stepovak Section: waters of the Southeastern District south of the latitude of 55° 37.33' N. lat., west of 159° 52.00' W. long., north of the Shumagin Islands Section, and east of the Balboa Bay Section",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "55° 37.33' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "159° 52.00' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "section",
+   "name": "Northwest Stepovak Section",
+   "parent": "Southeastern District",
+   "citation": "5 AAC 09.200(f)(5)",
+   "text": "Northwest Stepovak Section: waters of the Southeastern District north of 55° 37.33' N. lat. and west of the longitude of Dent Point (159° 52.00' W. long.)",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "55° 37.33' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "Dent Point",
+     "lat_dm": null,
+     "lon_dm": "159° 52.00' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "section",
+   "name": "Stepovak Flats Section",
+   "parent": "Southeastern District",
+   "citation": "5 AAC 09.200(f)(6)",
+   "text": "Stepovak Flats Section: waters of the Southeastern District north of 55° 48.20' N. lat. and east of the longitude of Dent Point (159° 52.00' W. long.)",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "55° 48.20' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "Dent Point",
+     "lat_dm": null,
+     "lon_dm": "159° 52.00' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "section",
+   "name": "East Stepovak Section",
+   "parent": "Southeastern District",
+   "citation": "5 AAC 09.200(f)(7)",
+   "text": "East Stepovak Section: waters of the Southeastern District south of 55° 48.20' N. lat., east of the longitude of Dent Point (159° 52.00' W. long.), north of 55° 32.20' N. lat., and west of a line extending 135° from Kupreanof Point (55° 33.98' N. lat., 159° 35.88' W. long.).",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "55° 48.20' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "Dent Point",
+     "lat_dm": null,
+     "lon_dm": "159° 52.00' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": "55° 32.20' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "Kupreanof Point",
+     "lat_dm": "55° 33.98' N. lat.",
+     "lon_dm": "159° 35.88' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "closed_water",
+   "name": "Cape Menshikof",
+   "parent": "Cinder River Section",
+   "citation": "5 AAC 09.350(1)",
+   "text": "Cape Menshikof: waters of the Cinder River Section located north and east of a line extending 304º from a point on the shore at 57º 24.40' N. lat., 158º 03.00' W. long.",
+   "points": [
+    {
+     "name": "point on the shore",
+     "lat_dm": "57º 24.40' N. lat.",
+     "lon_dm": "158º 03.00' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "closed_water",
+   "name": "Cinder River Lagoon",
+   "parent": null,
+   "citation": "5 AAC 09.350(2)",
+   "text": "Cinder River Lagoon: waters enclosed by a line from 57º 20.00' N. lat., 158º 08.02' W. long. to 57º 21.30' N. lat., 158º 02.63' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57º 20.00' N. lat.",
+     "lon_dm": "158º 08.02' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": "57º 21.30' N. lat.",
+     "lon_dm": "158º 02.63' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "closed_water",
+   "name": "Outer Port Heiden — east of line",
+   "parent": "Outer Port Heiden Section",
+   "citation": "5 AAC 09.350(3)(B)",
+   "text": "Outer Port Heiden: waters of the Outer Port Heiden Section (B) east of a line from 57° 05.52' N. lat., 158° 34.45' W. long. to 57° 08.85' N. lat., 158° 37.50' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 05.52' N. lat.",
+     "lon_dm": "158° 34.45' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 08.85' N. lat.",
+     "lon_dm": "158° 37.50' W. long."
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Paragraph (3)(A) was repealed 6/5/2016 and is not recorded here. The lead-in words of item (3) are \"waters of the Outer Port Heiden Section\"; the lettered parts continue that sentence."
+  },
+  {
+   "kind": "closed_water",
+   "name": "Outer Port Heiden — Reindeer Creek terminus",
+   "parent": "Outer Port Heiden Section",
+   "citation": "5 AAC 09.350(3)(C)",
+   "text": "Outer Port Heiden: waters of the Outer Port Heiden Section (C) that are within 1,000 yards of the terminus of Reindeer Creek, from June 20 through July 31",
+   "points": [
+    {
+     "name": "terminus of Reindeer Creek",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": "A yardage buffer around an unmapped stream terminus; no coordinate printed. Seasonal: June 20 - July 31."
+  },
+  {
+   "kind": "closed_water",
+   "name": "Meshik River",
+   "parent": null,
+   "citation": "5 AAC 09.350(4)",
+   "text": "Meshik River: waters upstream from a line crossing the river from a point at 56º 47.07' N. lat., 158º 41.10' W. long. to 56º 47.97' N. lat., 158º 38.75' W. long.; this is approximately one-half nautical mile upstream from the mean high tide mark in the mouth of the river and approximately at the lower line of the permanent vegetation line",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "56º 47.07' N. lat.",
+     "lon_dm": "158º 41.10' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": "56º 47.97' N. lat.",
+     "lon_dm": "158º 38.75' W. long."
+    }
+   ],
+   "verified_twice": true,
+   "notes": "The Justia read stopped the sentence after the second coordinate pair; the trailing explanatory clause comes from the Cornell read. Both reads gave the two coordinate pairs identically."
+  },
+  {
+   "kind": "closed_water",
+   "name": "Unangashak River",
+   "parent": null,
+   "citation": "5 AAC 09.350(5)",
+   "text": "Unangashak River: waters east of 159º 15.33' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "159º 15.33' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "closed_water",
+   "name": "Ilnik Lagoon",
+   "parent": null,
+   "citation": "5 AAC 09.350(6)",
+   "text": "Ilnik Lagoon: waters of Ilnik Lagoon and lake west of 159º 32.00' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "159º 32.00' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "closed_water",
+   "name": "Sandy River — May 1 through July 26",
+   "parent": null,
+   "citation": "5 AAC 09.350(7)(A)",
+   "text": "Sandy River: (A) from May 1 through July 26: waters within 2,000 yards of the terminus of the river",
+   "points": [
+    {
+     "name": "terminus of the Sandy River",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "closed_water",
+   "name": "Sandy River — July 27 through September 30",
+   "parent": null,
+   "citation": "5 AAC 09.350(7)(B)",
+   "text": "Sandy River: (B) from July 27 through September 30: waters within 500 yards of the terminus of the river",
+   "points": [
+    {
+     "name": "terminus of the Sandy River",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "closed_water",
+   "name": "Bear River — May 1 through August 8",
+   "parent": null,
+   "citation": "5 AAC 09.350(8)(A)",
+   "text": "Bear River: (A) from May 1 through August 8: waters within 1,000 yards of the terminus of the river",
+   "points": [
+    {
+     "name": "terminus of the Bear River",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "closed_water",
+   "name": "Bear River — August 9 through September 30",
+   "parent": null,
+   "citation": "5 AAC 09.350(8)(B)",
+   "text": "Bear River: (B) from August 9 through September 30: waters within 500 yards of the terminus of the river",
+   "points": [
+    {
+     "name": "terminus of the Bear River",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "closed_water",
+   "name": "King Salmon River — May 1 through July 15",
+   "parent": null,
+   "citation": "5 AAC 09.350(9)(A)",
+   "text": "King Salmon River: (A) from May 1 through July 15, waters within 1,000 yards of the stream terminus",
+   "points": [
+    {
+     "name": "King Salmon River terminus",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "closed_water",
+   "name": "King Salmon River — after July 15",
+   "parent": null,
+   "citation": "5 AAC 09.350(9)(B)",
+   "text": "King Salmon River: (B) after July 15, waters within 500 yards of the stream terminus",
+   "points": [
+    {
+     "name": "King Salmon River terminus",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "closed_water",
+   "name": "Frank's Lagoon",
+   "parent": null,
+   "citation": "5 AAC 09.350(10)",
+   "text": "Frank's Lagoon: waters of the lagoon and within 500 yards outside the entrance",
+   "points": [
+    {
+     "name": "Frank's Lagoon entrance",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "closed_water",
+   "name": "Herendeen Bay",
+   "parent": null,
+   "citation": "5 AAC 09.350(11)",
+   "text": "Herendeen Bay: from May 1 through July 20, waters within 500 yards of any salmon stream, unless otherwise specified in this chapter",
+   "points": [],
+   "verified_twice": true
+  },
+  {
+   "kind": "closed_water",
+   "name": "Nelson Lagoon",
+   "parent": null,
+   "citation": "5 AAC 09.350(12)",
+   "text": "Nelson Lagoon: waters of the lagoon and river (called Caribou, Nelson, and Lagoon River) flowing into the upper (west) end of Nelson Lagoon, upstream from a line from 55º 57.19' N. lat., 161º 21.52' W. long., to 55º 57.55' N. lat., 161º 22.09' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "55º 57.19' N. lat.",
+     "lon_dm": "161º 21.52' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": "55º 57.55' N. lat.",
+     "lon_dm": "161º 22.09' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "closed_water",
+   "name": "Caribou Flats",
+   "parent": "Caribou Flats Section",
+   "citation": "5 AAC 09.350(13)",
+   "text": "Caribou Flats: waters of the Caribou Flats Section",
+   "points": [],
+   "verified_twice": true,
+   "notes": "Both reads returned this item as this single clause with no qualifier and no coordinates. It closes the whole named section, whose own boundary is 5 AAC 09.200(a)(9)."
+  },
+  {
+   "kind": "closed_water",
+   "name": "Amak Island and adjacent Sea Lion Rocks",
+   "parent": null,
+   "citation": "5 AAC 09.350(14)",
+   "text": "Amak Island and adjacent Sea Lion Rocks: waters within three nautical miles of the mean high tide mark around these islands and rocks",
+   "points": [
+    {
+     "name": "Amak Island",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Sea Lion Rocks",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": "A three-nautical-mile buffer around named islands; no coordinate printed."
+  },
+  {
+   "kind": "closed_water",
+   "name": "Applegate Cove-Norma Bay",
+   "parent": null,
+   "citation": "5 AAC 09.350(15)",
+   "text": "Applegate Cove-Norma Bay: waters south of a line from 55º 14.20' N. lat., 162º 53.20' W. long. to the southwest extremity of Norma Bay at 55º 10.50' N. lat., 163º 05.12' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "55º 14.20' N. lat.",
+     "lon_dm": "162º 53.20' W. long."
+    },
+    {
+     "name": "southwest extremity of Norma Bay",
+     "lat_dm": "55º 10.50' N. lat.",
+     "lon_dm": "163º 05.12' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "closed_water",
+   "name": "Bechevin Bay — Saint Catherine Cove (Mike's Creek)",
+   "parent": null,
+   "citation": "5 AAC 09.350(16)(A)",
+   "text": "Bechevin Bay: (A) Saint Catherine Cove (Mike's Creek): waters within 1,000 yards of the stream located at 55º 00.80' N. lat., 163º 31.55' W. long.",
+   "points": [
+    {
+     "name": "stream at Saint Catherine Cove (Mike's Creek)",
+     "lat_dm": "55º 00.80' N. lat.",
+     "lon_dm": "163º 31.55' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "closed_water",
+   "name": "Bechevin Bay — Trader's Cove",
+   "parent": null,
+   "citation": "5 AAC 09.350(16)(B)",
+   "text": "Bechevin Bay: (B) Trader's Cove: waters north and east of a line from Morzhovoi Village (54º 54.65' N. lat., 163º 18.33' W. long.) to the base of Trader Mountain (54º 54.98' N. lat., 163º 18.50' W. long.)",
+   "points": [
+    {
+     "name": "Morzhovoi Village",
+     "lat_dm": "54º 54.65' N. lat.",
+     "lon_dm": "163º 18.33' W. long."
+    },
+    {
+     "name": "base of Trader Mountain",
+     "lat_dm": "54º 54.98' N. lat.",
+     "lon_dm": "163º 18.50' W. long."
+    }
+   ],
+   "verified_twice": true,
+   "notes": "The first Justia read stopped at \"the base of Trader Mountain\" without its coordinate; a third, narrowly worded read of Justia returned it identically to the Cornell read."
+  },
+  {
+   "kind": "closed_water",
+   "name": "Bechevin Bay — Warmsprings Bay",
+   "parent": null,
+   "citation": "5 AAC 09.350(16)(C)",
+   "text": "Bechevin Bay: (C) Warmsprings Bay: waters southeast of a line from a point on the south shore of the bay at 54º 56.40' N. lat., 163º 15.90' W. long. to a point on the north shore of the bay at 54º 57.20' N. lat., 163º 15.67' W. long.",
+   "points": [
+    {
+     "name": "point on the south shore of the bay",
+     "lat_dm": "54º 56.40' N. lat.",
+     "lon_dm": "163º 15.90' W. long."
+    },
+    {
+     "name": "point on the north shore of the bay",
+     "lat_dm": "54º 57.20' N. lat.",
+     "lon_dm": "163º 15.67' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "closed_water",
+   "name": "Swanson Lagoon — June 1 through August 31",
+   "parent": null,
+   "citation": "5 AAC 09.350(17)(A)",
+   "text": "Swanson Lagoon: (A) June 1 through August 31: waters enclosed by a line from 55º 02.15' N. lat., 163º 38.75' W. long. to 55º 02.13' N. lat., 163º 38.60' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "55º 02.15' N. lat.",
+     "lon_dm": "163º 38.75' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": "55º 02.13' N. lat.",
+     "lon_dm": "163º 38.60' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "closed_water",
+   "name": "Swanson Lagoon — September 1 through September 30",
+   "parent": null,
+   "citation": "5 AAC 09.350(17)(B)",
+   "text": "Swanson Lagoon: (B) September 1 through September 30: waters enclosed by a line from 55º 02.15' N. lat., 163º 38.75' W. long. to 55º 02.17' N. lat., 163º 39.15' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "55º 02.15' N. lat.",
+     "lon_dm": "163º 38.75' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": "55º 02.17' N. lat.",
+     "lon_dm": "163º 39.15' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "closed_water",
+   "name": "Urilia Bay — Christianson Lagoon",
+   "parent": null,
+   "citation": "5 AAC 09.350(18)(A)",
+   "text": "Urilia Bay: (A) Christianson Lagoon: waters of the lagoon and those waters within 500 yards of the lagoon's exit channel terminus at the ocean shoreline",
+   "points": [
+    {
+     "name": "Christianson Lagoon exit channel terminus",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "closed_water",
+   "name": "Urilia Bay — Peterson Lagoon",
+   "parent": null,
+   "citation": "5 AAC 09.350(18)(B)",
+   "text": "Urilia Bay: (B) Peterson Lagoon: waters of the lagoon from a point located 500 yards upstream from the lagoon outlet channel terminus at the ocean shoreline",
+   "points": [
+    {
+     "name": "Peterson Lagoon outlet channel terminus",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "closed_water",
+   "name": "Ikatan Bay — Swede's Lake stream",
+   "parent": null,
+   "citation": "5 AAC 09.350(19)",
+   "text": "Ikatan Bay: waters within 1,000 yards of the stream at 54º 45.18' N. lat., 163º 15.32' W. long. on the north shore of the Ikatan Peninsula that exit from Swede's Lake",
+   "points": [
+    {
+     "name": "stream on the north shore of the Ikatan Peninsula that exits from Swede's Lake",
+     "lat_dm": "54º 45.18' N. lat.",
+     "lon_dm": "163º 15.32' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "closed_water",
+   "name": "Morzhovoi Bay — Middle Lagoon",
+   "parent": null,
+   "citation": "5 AAC 09.350(20)(A)",
+   "text": "Morzhovoi Bay: (A) Middle Lagoon: waters of the lagoon and within 1,000 yards of its entrance",
+   "points": [
+    {
+     "name": "Middle Lagoon entrance",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "closed_water",
+   "name": "Morzhovoi Bay — Littlejohn Lagoon",
+   "parent": null,
+   "citation": "5 AAC 09.350(20)(B)",
+   "text": "Morzhovoi Bay: (B) Littlejohn Lagoon: waters of the lagoon and within 500 yards of its entrance at the narrows",
+   "points": [
+    {
+     "name": "Littlejohn Lagoon entrance at the narrows",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "closed_water",
+   "name": "Thin Point Cove and Lagoon",
+   "parent": null,
+   "citation": "5 AAC 09.350(21)",
+   "text": "Thin Point Cove and Lagoon: waters north and west of a line from the tip of Thin Point westward to a point on the shore at 54º 57.58' N. lat., 162º 42.40' W. long.",
+   "points": [
+    {
+     "name": "tip of Thin Point",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "point on the shore",
+     "lat_dm": "54º 57.58' N. lat.",
+     "lon_dm": "162º 42.40' W. long."
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Thin Point is named without a coordinate here; the coordinate printed for Thin Point in 5 AAC 09.200(d)(3) is not carried over."
+  },
+  {
+   "kind": "closed_water",
+   "name": "Cold Bay — Old Man, Mortensen and Nurse Lagoons",
+   "parent": null,
+   "citation": "5 AAC 09.350(22)(A)",
+   "text": "Cold Bay: (A) Old Man Lagoon, Mortensen Lagoon, and Nurse Lagoon: waters of the lagoons and within 500 yards outside their entrances",
+   "points": [
+    {
+     "name": "Old Man Lagoon",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Mortensen Lagoon",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Nurse Lagoon",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "closed_water",
+   "name": "Cold Bay — Lenard Harbor",
+   "parent": null,
+   "citation": "5 AAC 09.350(22)(B)",
+   "text": "Cold Bay: (B) Lenard Harbor: waters east of a line from 55º 06.00' N. lat., 162º 23.10' W. long. to a point on the north shore at 55º 06.95' N. lat., 162º 23.20' W. long. and within 1,000 yards of any salmon stream west of 55º 06.95' N. lat., 162º 23.20' W. long., including Barney's Creek",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "55º 06.00' N. lat.",
+     "lon_dm": "162º 23.10' W. long."
+    },
+    {
+     "name": "point on the north shore",
+     "lat_dm": "55º 06.95' N. lat.",
+     "lon_dm": "162º 23.20' W. long."
+    }
+   ],
+   "verified_twice": true,
+   "notes": "The second coordinate pair is printed twice in this paragraph (once as the end of the line, once as the reference for the 1,000-yard stream buffer); it is recorded once."
+  },
+  {
+   "kind": "closed_water",
+   "name": "Cold Bay — Kinzarof Lagoon",
+   "parent": null,
+   "citation": "5 AAC 09.350(22)(C)",
+   "text": "Cold Bay: (C) Kinzarof Lagoon area: waters of Kinzarof Lagoon",
+   "points": [
+    {
+     "name": "Kinzarof Lagoon",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "closed_water",
+   "name": "Cold Bay — Trout Creek",
+   "parent": null,
+   "citation": "5 AAC 09.350(22)(D)",
+   "text": "Cold Bay: (D) Trout Creek: waters within 1,000 yards of the stream terminus",
+   "points": [
+    {
+     "name": "Trout Creek terminus",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "closed_water",
+   "name": "Deer Island",
+   "parent": null,
+   "citation": "5 AAC 09.350(23)",
+   "text": "Deer Island: waters within 200 yards of any salmon stream on Deer Island",
+   "points": [],
+   "verified_twice": true
+  },
+  {
+   "kind": "closed_water",
+   "name": "Belkofski Bay",
+   "parent": null,
+   "citation": "5 AAC 09.350(24)",
+   "text": "Belkofski Bay: waters north and east of a line from 55º 09.28' N. lat., 162º 08.32' W. long. to 55º 08.07' N. lat., 162º 07.20' W. long. and then to 55º 07.33' N. lat., 162º 07.60' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "55º 09.28' N. lat.",
+     "lon_dm": "162º 08.32' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": "55º 08.07' N. lat.",
+     "lon_dm": "162º 07.20' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": "55º 07.33' N. lat.",
+     "lon_dm": "162º 07.60' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "closed_water",
+   "name": "Volcano Bay",
+   "parent": null,
+   "citation": "5 AAC 09.350(25)(A)",
+   "text": "Volcano and Bear Bay: (A) waters north of a line from 55º 13.33' N. lat., 162º 01.40' W. long. to 55º 13.83' N. lat., 161º 58.20' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "55º 13.33' N. lat.",
+     "lon_dm": "162º 01.40' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": "55º 13.83' N. lat.",
+     "lon_dm": "161º 58.20' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "closed_water",
+   "name": "Little Bear Bay",
+   "parent": null,
+   "citation": "5 AAC 09.350(25)(B)",
+   "text": "Volcano and Bear Bay: (B) waters of Bear Bay west of 162º W. long. and locally known as Little Bear Bay",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "162º W. long."
+    }
+   ],
+   "verified_twice": true,
+   "notes": "The longitude is printed as a whole number of degrees with no minutes -- \"162º W. long.\" -- in both reads. Recorded exactly as printed; it will not parse as degrees+minutes."
+  },
+  {
+   "kind": "closed_water",
+   "name": "Long John Lagoon",
+   "parent": null,
+   "citation": "5 AAC 09.350(26)",
+   "text": "Long John Lagoon: waters of the lagoon and within 500 yards outside of its entrance",
+   "points": [
+    {
+     "name": "Long John Lagoon entrance",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "closed_water",
+   "name": "Pavlof Bay — Chinaman and Jackson Lagoons",
+   "parent": null,
+   "citation": "5 AAC 09.350(27)(A)",
+   "text": "Pavlof Bay: (A) Chinaman Lagoon and Jackson Lagoon: waters of the lagoons and within 1,000 yards outside of their entrances",
+   "points": [
+    {
+     "name": "Chinaman Lagoon",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Jackson Lagoon",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "closed_water",
+   "name": "Pavlof Bay — Dry Lagoon",
+   "parent": null,
+   "citation": "5 AAC 09.350(27)(B)",
+   "text": "Pavlof Bay: (B) Dry Lagoon: waters of the lagoon and within 500 yards of its entrance",
+   "points": [
+    {
+     "name": "Dry Lagoon entrance",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "closed_water",
+   "name": "Pavlof Bay — Canoe Bay",
+   "parent": null,
+   "citation": "5 AAC 09.350(27)(C)",
+   "text": "Pavlof Bay: (C) Canoe Bay: waters east of 161º 14.30' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "161º 14.30' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "closed_water",
+   "name": "Bay Point",
+   "parent": null,
+   "citation": "5 AAC 09.350(28)",
+   "text": "Bay Point: waters of the lagoon and within 500 yards of the lagoon entrance",
+   "points": [
+    {
+     "name": "Bay Point lagoon entrance",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "closed_water",
+   "name": "Zachary Bay",
+   "parent": null,
+   "citation": "5 AAC 09.350(29)",
+   "text": "Zachary Bay: waters of the inner bay south and west of a line extending from the inner edge of the permanent vegetation line of the sand spit to the west of the tip of the prominent point of land approximately one and one-third nautical miles inside Quartz Point",
+   "points": [
+    {
+     "name": "inner edge of the permanent vegetation line of the sand spit",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "prominent point of land approximately one and one-third nautical miles inside Quartz Point",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": false,
+   "notes": "The two reads gave IDENTICAL boundary wording but DIFFERENT spellings of the place name: Cornell returned \"Zachay Bay\", Justia returned \"Zachary Bay\". Recorded as \"Zachary Bay\", which matches both hosts' outline listings, and flagged. No coordinates are involved -- this closure is defined entirely by a vegetation line and a landmark, so nothing here can be plotted."
+  },
+  {
+   "kind": "closed_water",
+   "name": "Balboa Bay — north of Reef Point",
+   "parent": null,
+   "citation": "5 AAC 09.350(30)(A)",
+   "text": "Balboa Bay: (A) waters north of a line extending west from Reef Point",
+   "points": [
+    {
+     "name": "Reef Point",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Reef Point is named without a coordinate; the closure line is unplottable from the regulation text alone."
+  },
+  {
+   "kind": "closed_water",
+   "name": "Balboa Bay — Lefthand Bay",
+   "parent": null,
+   "citation": "5 AAC 09.350(30)(B)",
+   "text": "Balboa Bay: (B) waters of Lefthand Bay west of a line from 55º 31.60' N. lat., 160º 43.00' W. long. to 55º 33.10' N. lat., 160º 42.10' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "55º 31.60' N. lat.",
+     "lon_dm": "160º 43.00' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": "55º 33.10' N. lat.",
+     "lon_dm": "160º 42.10' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "closed_water",
+   "name": "San Diego Bay",
+   "parent": null,
+   "citation": "5 AAC 09.350(31)",
+   "text": "San Diego Bay: waters of the lagoon at the head of this bay and within 500 yards outside of the lagoon's entrance, except that from July 19 through August 31 the closure includes all waters west of a line from the reef at 55º 33.10' N. lat., 160º 26.60' W. long. to the headland at 55º 33.97' N. lat., 160º 25.90' W. long.",
+   "points": [
+    {
+     "name": "reef",
+     "lat_dm": "55º 33.10' N. lat.",
+     "lon_dm": "160º 26.60' W. long."
+    },
+    {
+     "name": "headland",
+     "lat_dm": "55º 33.97' N. lat.",
+     "lon_dm": "160º 25.90' W. long."
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "closed_water",
+   "name": "Dorenoi Bay — after July 25",
+   "parent": null,
+   "citation": "5 AAC 09.350(32)(B)",
+   "text": "Dorenoi Bay: (B) after July 25, waters within 500 yards of the terminus of any salmon stream",
+   "points": [],
+   "verified_twice": true,
+   "notes": "Paragraph (32)(A) was repealed 6/2/2010 and is not recorded here."
+  },
+  {
+   "kind": "closed_water",
+   "name": "Chichagof Bay",
+   "parent": null,
+   "citation": "5 AAC 09.350(33)",
+   "text": "Chichagof Bay: waters of the lagoon and within 500 yards of the lagoon entrance",
+   "points": [
+    {
+     "name": "Chichagof Bay lagoon entrance",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "closed_water",
+   "name": "Orzinski Bay (Orzenoi)",
+   "parent": null,
+   "citation": "5 AAC 09.350(34)",
+   "text": "Orzinski Bay (Orzenoi): waters within 1,000 yards of any salmon stream",
+   "points": [],
+   "verified_twice": true
+  },
+  {
+   "kind": "closed_water",
+   "name": "Grub Gulch",
+   "parent": null,
+   "citation": "5 AAC 09.350(35)",
+   "text": "Grub Gulch: waters north of 55° 48.25' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "55° 48.25' N. lat.",
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": "A bare latitude cutoff with no printed east/west limit. Parent left null on purpose: this closure lies north of the latitude range spanned by the Southeastern District's own two boundary landmarks, so bounding it by that district's coordinate envelope would erase it."
+  },
+  {
+   "kind": "closed_water",
+   "name": "Stepovak Bay — June 1 through July 28",
+   "parent": null,
+   "citation": "5 AAC 09.350(36)(A)",
+   "text": "Stepovak Bay: (A) from June 1 through July 28, waters within 500 yards of any salmon stream or lagoon, unless otherwise specified in this chapter",
+   "points": [],
+   "verified_twice": true
+  },
+  {
+   "kind": "closed_water",
+   "name": "Stepovak Bay — July 29 through September 30",
+   "parent": null,
+   "citation": "5 AAC 09.350(36)(B)",
+   "text": "Stepovak Bay: (B) from July 29 through September 30, waters north of a line extending east from Dent Point at 55° 47.25' N. lat., 159° 52.00' W. long. to a point on the Kupreanof Peninsula at 55° 46.93' N. lat., 159° 38.70' W. long.",
+   "points": [
+    {
+     "name": "Dent Point",
+     "lat_dm": "55° 47.25' N. lat.",
+     "lon_dm": "159° 52.00' W. long."
+    },
+    {
+     "name": "point on the Kupreanof Peninsula",
+     "lat_dm": "55° 46.93' N. lat.",
+     "lon_dm": "159° 38.70' W. long."
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Dent Point's longitude here, 159° 52.00' W., is the same value 5 AAC 09.200(f)(5)-(f)(7) use for the longitude of Dent Point -- an internal confirmation of the digits."
+  },
+  {
+   "kind": "closed_water",
+   "name": "East Stepovak Section — July 6 through August 31",
+   "parent": "East Stepovak Section",
+   "citation": "5 AAC 09.350(37)",
+   "text": "from July 6 through August 31, waters of Alaska in the East Stepovak Section between a line extending 135° from Kupreanof Point at 55° 33.98' N. lat., 159° 35.88' W. long. and a line extending 207° from 55° 34.50' N. lat., 159° 37.53' W. long.; from September 1 through September 30, the commissioner shall close, by emergency order, the waters specified in this paragraph when the waters specified in 5 AAC 15.350(20) are closed to conserve coho salmon.",
+   "points": [
+    {
+     "name": "Kupreanof Point",
+     "lat_dm": "55° 33.98' N. lat.",
+     "lon_dm": "159° 35.88' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": "55° 34.50' N. lat.",
+     "lon_dm": "159° 37.53' W. long."
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Kupreanof Point's coordinates here match 5 AAC 09.200(f)(3), (f)(7) and the (f) district description exactly. The September 1-30 half of this paragraph is a conditional emergency-order closure, not a standing one."
+  }
+ ]
+}

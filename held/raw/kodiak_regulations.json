@@ -1,0 +1,2969 @@
+{
+ "source": "2024-2027 Kodiak Area Commercial Salmon Fishing Regulations",
+ "source_url": "https://www.adfg.alaska.gov/static/regulations/fishregulations/pdfs/commercial/2024_2027_cf_kodiak_salmon.pdf",
+ "citation": "5 AAC 18.200 (districts and sections); 5 AAC 18.350 (closed waters)",
+ "retrieved": "2026-08-22",
+ "notation": "degrees and decimal minutes, e.g. \"57° 52.25' N. lat.\" / \"152° 31.27' W. long.\" — NOT degrees-minutes-seconds; recorded as printed, unconverted",
+ "areas": [
+  {
+   "kind": "district",
+   "name": "Afognak District",
+   "parent": null,
+   "citation": "5 AAC 18.200(a)",
+   "text": "Afognak District: all waters of Afognak and Shuyak Islands bounded by a line from Occident Point (57° 57.42' N. lat., 152° 51.75' W. long.), to Last Timber Point (57° 58.60' N. lat., 152° 59.05' W. long.), by the latitude of Dolphin Point on Whale Island (57° 59.17' N. lat.), by the latitude of Raspberry Cape (58° 03.58' N. lat.), by midstream Shelikof Strait, and by the latitude of Cape Douglas (58° 51.10' N. lat.).",
+   "points": [
+    {
+     "name": "Occident Point",
+     "lat_dm": "57° 57.42' N. lat.",
+     "lon_dm": "152° 51.75' W. long."
+    },
+    {
+     "name": "Last Timber Point",
+     "lat_dm": "57° 58.60' N. lat.",
+     "lon_dm": "152° 59.05' W. long."
+    },
+    {
+     "name": "Dolphin Point on Whale Island",
+     "lat_dm": "57° 59.17' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "Raspberry Cape",
+     "lat_dm": "58° 03.58' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "midstream Shelikof Strait",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Cape Douglas",
+     "lat_dm": "58° 51.10' N. lat.",
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "district",
+   "name": "Northwest Kodiak District",
+   "parent": null,
+   "citation": "5 AAC 18.200(b)",
+   "text": "Northwest Kodiak District: all waters of north and west Kodiak Island bounded by the latitude of Termination Point (57° 51.37' N. lat.), by the latitude of Dolphin Point on Whale Island (57° 59.17' N. lat.), by a line from Occident Point (57° 57.42' N. lat., 152° 51.75' W. long.) to Last Timber Point (57° 58.60' N. lat., 152° 59.05' W. long.), by the latitude of Raspberry Cape (58° 03.58' N. lat.), by the latitude of Rocky Point (57° 39.78' N. lat.), and by midstream Shelikof Strait.",
+   "points": [
+    {
+     "name": "Termination Point",
+     "lat_dm": "57° 51.37' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "Dolphin Point on Whale Island",
+     "lat_dm": "57° 59.17' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "Occident Point",
+     "lat_dm": "57° 57.42' N. lat.",
+     "lon_dm": "152° 51.75' W. long."
+    },
+    {
+     "name": "Last Timber Point",
+     "lat_dm": "57° 58.60' N. lat.",
+     "lon_dm": "152° 59.05' W. long."
+    },
+    {
+     "name": "Raspberry Cape",
+     "lat_dm": "58° 03.58' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "Rocky Point",
+     "lat_dm": "57° 39.78' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "midstream Shelikof Strait",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "district",
+   "name": "Southwest Kodiak District",
+   "parent": null,
+   "citation": "5 AAC 18.200(c)",
+   "text": "Southwest Kodiak District: all waters southwest of Kodiak Island bounded by the latitudes of Rocky Point (57° 39.78' N. lat.) and Low Cape (56° 59.50' N. lat.), and by midstream Shelikof Strait.",
+   "points": [
+    {
+     "name": "Rocky Point",
+     "lat_dm": "57° 39.78' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "Low Cape",
+     "lat_dm": "56° 59.50' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "midstream Shelikof Strait",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "district",
+   "name": "Alitak District",
+   "parent": null,
+   "citation": "5 AAC 18.200(d)",
+   "text": "Alitak District: all waters south of Kodiak Island bounded by the latitude of Low Cape, the latitude of Cape Trinity (56° 44.80' N. lat.), and by midstream Shelikof Strait.",
+   "points": [
+    {
+     "name": "Low Cape",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Cape Trinity",
+     "lat_dm": "56° 44.80' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "midstream Shelikof Strait",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "district",
+   "name": "Eastside Kodiak District",
+   "parent": null,
+   "citation": "5 AAC 18.200(e)",
+   "text": "Eastside Kodiak District: all waters south and east of Kodiak Island bounded by the latitude of Cape Trinity (56° 44.80' N. lat.), and the latitude of Cape Chiniak (57° 37.20' N. lat.), and by midstream Shelikof Strait.",
+   "points": [
+    {
+     "name": "Cape Trinity",
+     "lat_dm": "56° 44.80' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "Cape Chiniak",
+     "lat_dm": "57° 37.20' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "midstream Shelikof Strait",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "district",
+   "name": "Northeast Kodiak District",
+   "parent": null,
+   "citation": "5 AAC 18.200(f)",
+   "text": "Northeast Kodiak District: all waters northeast of Kodiak Island bounded by the latitude of Cape Chiniak (57° 37.20' N. lat.), and the latitude of Termination Point (57° 51.37' N. lat.).",
+   "points": [
+    {
+     "name": "Cape Chiniak",
+     "lat_dm": "57° 37.20' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "Termination Point",
+     "lat_dm": "57° 51.37' N. lat.",
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "district",
+   "name": "Mainland District",
+   "parent": null,
+   "citation": "5 AAC 18.200(g)",
+   "text": "Mainland District: all waters along the southside of the Alaska Peninsula bounded by the latitude of Cape Douglas (58° 51.10' N. lat.), midstream Shelikof Strait, and north and east of a line extending 135° southeast for three miles from a point near Kilokak Rocks at 57° 10.34' N. lat., 156° 20.22' W. long., then due south.",
+   "points": [
+    {
+     "name": "Cape Douglas",
+     "lat_dm": "58° 51.10' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "midstream Shelikof Strait",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "near Kilokak Rocks",
+     "lat_dm": "57° 10.34' N. lat.",
+     "lon_dm": "156° 20.22' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Raspberry Strait Section",
+   "parent": "Afognak District",
+   "citation": "5 AAC 18.200(a)(1)",
+   "text": "Raspberry Strait Section: all waters of Raspberry Strait bounded by the longitude of Dolphin Point on Afognak Island (153° 09.04' W. long.) and by a line from Head Point (57° 59.67' N. lat., 152° 46.75' W. long.) to Dolphin Point on Whale Island and a line from Occident Point to Last Timber Point",
+   "points": [
+    {
+     "name": "Dolphin Point on Afognak Island",
+     "lat_dm": null,
+     "lon_dm": "153° 09.04' W. long."
+    },
+    {
+     "name": "Head Point",
+     "lat_dm": "57° 59.67' N. lat.",
+     "lon_dm": "152° 46.75' W. long."
+    },
+    {
+     "name": "Dolphin Point on Whale Island",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Occident Point",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Last Timber Point",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Southwest Afognak Section",
+   "parent": "Afognak District",
+   "citation": "5 AAC 18.200(a)(2)",
+   "text": "Southwest Afognak Section: all waters west of Afognak Island bounded by the latitude of Raspberry Cape, the longitude of Dolphin Point on Afognak Island in Raspberry Strait, by the latitude of Cape Paramanof (58° 18.33' N. lat.), and by midstream Shelikof Strait",
+   "points": [
+    {
+     "name": "Raspberry Cape",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Dolphin Point on Afognak Island",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Cape Paramanof",
+     "lat_dm": "58° 18.33' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "midstream Shelikof Strait",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Northwest Afognak Section",
+   "parent": "Afognak District",
+   "citation": "5 AAC 18.200(a)(3)",
+   "text": "Northwest Afognak Section: all waters northwest of Afognak Island bounded by the latitude of Cape Paramanof, by a line extending along midstream Shuyak Straits and perpendicular to midstream Shelikof Strait to Cape Current (58° 27.60' N. lat., 152° 28.90' W. long.), and by midstream Shelikof Strait",
+   "points": [
+    {
+     "name": "Cape Paramanof",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Cape Current",
+     "lat_dm": "58° 27.60' N. lat.",
+     "lon_dm": "152° 28.90' W. long."
+    },
+    {
+     "name": "midstream Shelikof Strait",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Shuyak Island Section",
+   "parent": "Afognak District",
+   "citation": "5 AAC 18.200(a)(4)",
+   "text": "Shuyak Island Section: all waters in the vicinity of Shuyak Island bounded by a line extending along midstream Shuyak Straits and perpendicular to midstream Shelikof Strait to Cape Current, north of a line from Cape Current to Posliedni Point (58° 26.00' N. lat., 152° 19.50' W. long.), west of the longitude of Posliedni Point, south of the latitude of Cape Douglas, and by midstream Shelikof Strait",
+   "points": [
+    {
+     "name": "Cape Current",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Posliedni Point",
+     "lat_dm": "58° 26.00' N. lat.",
+     "lon_dm": "152° 19.50' W. long."
+    },
+    {
+     "name": "Cape Douglas",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "midstream Shelikof Strait",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Perenosa Bay Section",
+   "parent": "Afognak District",
+   "citation": "5 AAC 18.200(a)(5)",
+   "text": "Perenosa Bay Section: all waters of Perenosa Bay south of a line extending from Cape Current to Posliedni Point",
+   "points": [
+    {
+     "name": "Cape Current",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Posliedni Point",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Northeast Afognak Section",
+   "parent": "Afognak District",
+   "citation": "5 AAC 18.200(a)(6)",
+   "text": "Northeast Afognak Section: all waters northeast of Afognak Island bounded by the longitude of Posliedni Point and by the latitude of Pillar Cape (58° 08.90' N. lat.)",
+   "points": [
+    {
+     "name": "Posliedni Point",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Pillar Cape",
+     "lat_dm": "58° 08.90' N. lat.",
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Izhut Bay Section",
+   "parent": "Afognak District",
+   "citation": "5 AAC 18.200(a)(7)",
+   "text": "Izhut Bay Section: all waters of Izhut Bay, excluding the Inner and Outer Kitoi Bay Sections, bounded by a line from Pillar Cape at 58° 08.90' N. lat., 152° 06.77' W. long. to Peril Cape at 58° 08.06' N. lat., 152° 15.77' W. long.",
+   "points": [
+    {
+     "name": "Pillar Cape",
+     "lat_dm": "58° 08.90' N. lat.",
+     "lon_dm": "152° 06.77' W. long."
+    },
+    {
+     "name": "Peril Cape",
+     "lat_dm": "58° 08.06' N. lat.",
+     "lon_dm": "152° 15.77' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Outer Kitoi Bay Section",
+   "parent": "Afognak District",
+   "citation": "5 AAC 18.200(a)(8)",
+   "text": "Outer Kitoi Bay Section: all waters of Kitoi Bay bounded by a line from 58° 10.58' N. lat., 152° 17.36' W. long., to 58° 09.50' N. lat., 152° 18.70' W. long., and by a line at the jaws from 58° 11.25' N. lat., 152° 20.55' W. long., to 58° 11.05' N. lat., 152° 20.80' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "58° 10.58' N. lat.",
+     "lon_dm": "152° 17.36' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": "58° 09.50' N. lat.",
+     "lon_dm": "152° 18.70' W. long."
+    },
+    {
+     "name": "the jaws",
+     "lat_dm": "58° 11.25' N. lat.",
+     "lon_dm": "152° 20.55' W. long."
+    },
+    {
+     "name": "the jaws",
+     "lat_dm": "58° 11.05' N. lat.",
+     "lon_dm": "152° 20.80' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Inner Kitoi Bay Section",
+   "parent": "Afognak District",
+   "citation": "5 AAC 18.200(a)(9)",
+   "text": "Inner Kitoi Bay Section: all waters of inner Kitoi Bay bounded by a line at the jaws from 58° 11.25' N. lat., 152° 20.55' W. long. to 58° 11.05' N. lat., 152° 20.80' W. long.",
+   "points": [
+    {
+     "name": "the jaws",
+     "lat_dm": "58° 11.25' N. lat.",
+     "lon_dm": "152° 20.55' W. long."
+    },
+    {
+     "name": "the jaws",
+     "lat_dm": "58° 11.05' N. lat.",
+     "lon_dm": "152° 20.80' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Duck Bay Section",
+   "parent": "Afognak District",
+   "citation": "5 AAC 18.200(a)(10)",
+   "text": "Duck Bay Section: all waters of Duck Bay bounded by the latitude of Pillar Cape, by a line from Pillar Cape at 58° 08.90' N. lat., 152° 06.77' W. long. to Peril Cape at 58° 08.06' N. lat., 152° 15.77' W. long., and by a line along 152° 33.40' W. long.",
+   "points": [
+    {
+     "name": "Pillar Cape",
+     "lat_dm": "58° 08.90' N. lat.",
+     "lon_dm": "152° 06.77' W. long."
+    },
+    {
+     "name": "Peril Cape",
+     "lat_dm": "58° 08.06' N. lat.",
+     "lon_dm": "152° 15.77' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "152° 33.40' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Southeast Afognak Section",
+   "parent": "Afognak District",
+   "citation": "5 AAC 18.200(a)(11)",
+   "text": "Southeast Afognak Section: all waters of Kazakof Bay (Danger Bay) and Afognak Bay bounded by a line along 152° 33.40' W. long. from Cape Kostromitinof to the latitude of Dolphin Point on Whale Island",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "152° 33.40' W. long."
+    },
+    {
+     "name": "Cape Kostromitinof",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Dolphin Point on Whale Island",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Pauls Bay Section",
+   "parent": "Afognak District",
+   "citation": "5 AAC 18.200(a)(12)",
+   "text": "Pauls Bay Section: all waters of Pauls Bay east of 152° 21.67' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "152° 21.67' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Anton Larsen Bay Section",
+   "parent": "Northwest Kodiak District",
+   "citation": "5 AAC 18.200(b)(1)",
+   "text": "Anton Larsen Bay Section: all waters of Anton Larsen Bay south of 57° 52.25' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 52.25' N. lat.",
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Sharatin Bay Section",
+   "parent": "Northwest Kodiak District",
+   "citation": "5 AAC 18.200(b)(2)",
+   "text": "Sharatin Bay Section: all waters of Sharatin Bay south of 57° 51.07' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 51.07' N. lat.",
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Kizhuyak Bay Section",
+   "parent": "Northwest Kodiak District",
+   "citation": "5 AAC 18.200(b)(3)",
+   "text": "Kizhuyak Bay Section: all waters of Kizhuyak Bay south of 57° 50.00' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 50.00' N. lat.",
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Terror Bay Section",
+   "parent": "Northwest Kodiak District",
+   "citation": "5 AAC 18.200(b)(4)",
+   "text": "Terror Bay Section: all waters of Terror Bay and Uganik Bay passages south of 57° 50.00' N. lat., and east of 153° 12.60' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 50.00' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "153° 12.60' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Inner Uganik Bay Section",
+   "parent": "Northwest Kodiak District",
+   "citation": "5 AAC 18.200(b)(5)",
+   "text": "Inner Uganik Bay Section: all waters of the South and East Arms of Uganik Bay south of a line from Rock Point at 57° 46.47' N. lat., 153° 29.30' W. long., to 57° 46.27' N. lat., 153° 32.90' W. long.",
+   "points": [
+    {
+     "name": "Rock Point",
+     "lat_dm": "57° 46.47' N. lat.",
+     "lon_dm": "153° 29.30' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 46.27' N. lat.",
+     "lon_dm": "153° 32.90' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Spiridon Bay Section",
+   "parent": "Northwest Kodiak District",
+   "citation": "5 AAC 18.200(b)(6)",
+   "text": "Spiridon Bay Section: all waters of Spiridon Bay east of 153° 46.33' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "153° 46.33' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Zachar Bay Section",
+   "parent": "Northwest Kodiak District",
+   "citation": "5 AAC 18.200(b)(7)",
+   "text": "Zachar Bay Section: all waters of Zachar Bay east of a line from Carlsen Point at 57° 34.70' N. lat., 153° 50.15' W. long., to a point on the opposite shore at 57° 35.60' N. lat., 153° 49.10' W. long.",
+   "points": [
+    {
+     "name": "Carlsen Point",
+     "lat_dm": "57° 34.70' N. lat.",
+     "lon_dm": "153° 50.15' W. long."
+    },
+    {
+     "name": "opposite shore",
+     "lat_dm": "57° 35.60' N. lat.",
+     "lon_dm": "153° 49.10' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Uyak Bay Section",
+   "parent": "Northwest Kodiak District",
+   "citation": "5 AAC 18.200(b)(8)",
+   "text": "Uyak Bay Section: all waters of Inner Uyak Bay south of the latitude of the southernmost tip of Amook Island (57° 25.72' N. lat.) to the west shore, and south of the latitude of the northernmost tip of Amook Island (57° 33.16' N. lat.) to the east shore.",
+   "points": [
+    {
+     "name": "southernmost tip of Amook Island",
+     "lat_dm": "57° 25.72' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "northernmost tip of Amook Island",
+     "lat_dm": "57° 33.16' N. lat.",
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Central Section",
+   "parent": "Northwest Kodiak District",
+   "citation": "5 AAC 18.200(b)(9)",
+   "text": "Central Section: all waters of the Northwest Kodiak District bounded by a line from Termination Point (57° 51.37' N. lat., 152° 24.15' W. long.), to South Point (57° 53.00' N. lat., 152° 22.00' W. long.), to Ouzinkie Point (57° 54.80' N. lat., 152° 31.27' W. long.), to Shakmanof Point (57° 55.50' N. lat., 152° 35.36' W. long.), to a point at 57° 54.20' N. lat. on the east shore of Kizhuyak Bay; north of 57° 52.25' N. lat. in Anton Larsen Bay; north of 57° 51.07' N. lat. in Sharatin Bay; north of 57° 50.00' N. lat., and south of the latitude of Inner Point (57° 54.05' N. lat.) in Kizhuyak Bay; west of a line from Inner Point (57° 54.05' N. lat., 152° 47.75' W. long.) to Bird Point (57° 55.30' N. lat., 152° 47.50' W. long.); south of a line from Occident Point (57° 57.42' N. lat., 152° 51.75' W. long.) to Last Timber Point (57° 58.60' N. lat., 152° 59.05' W. long.); south of the latitude of Raspberry Cape (58° 03.58' N. lat.); north of 57° 50.00' N. lat., and west of 153° 12.60' W. long. in Terror Bay and Uganik Bay passages; north of the line from Rock Point at 57° 46.47' N. lat., 153° 29.30' W. long., to 57° 46.27' N. lat., 153° 32.90' W. long., in the South and East Arms of Uganik Bay; west of 153° 46.33' W. long. in Spiridon Bay; west of a line from Carlsen Point (57° 34.70' N. lat., 153° 50.15' W. long.) to 57° 35.60' N. lat., 153° 49.10' W. long., in Zachar Bay; all waters of Inner Uyak Bay north of the latitude of the southernmost tip of Amook Island (57° 25.72' N. lat.) to the west shore, and north of the latitude of the northernmost tip of Amook Island (57° 33.16' N. lat.) to the east shore; north of the latitude of Rocky Point (57° 39.78' N. lat.); and by midstream Shelikof Strait",
+   "points": [
+    {
+     "name": "Termination Point",
+     "lat_dm": "57° 51.37' N. lat.",
+     "lon_dm": "152° 24.15' W. long."
+    },
+    {
+     "name": "South Point",
+     "lat_dm": "57° 53.00' N. lat.",
+     "lon_dm": "152° 22.00' W. long."
+    },
+    {
+     "name": "Ouzinkie Point",
+     "lat_dm": "57° 54.80' N. lat.",
+     "lon_dm": "152° 31.27' W. long."
+    },
+    {
+     "name": "Shakmanof Point",
+     "lat_dm": "57° 55.50' N. lat.",
+     "lon_dm": "152° 35.36' W. long."
+    },
+    {
+     "name": "east shore of Kizhuyak Bay",
+     "lat_dm": "57° 54.20' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "Anton Larsen Bay",
+     "lat_dm": "57° 52.25' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "Sharatin Bay",
+     "lat_dm": "57° 51.07' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "Kizhuyak Bay",
+     "lat_dm": "57° 50.00' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "Inner Point",
+     "lat_dm": "57° 54.05' N. lat.",
+     "lon_dm": "152° 47.75' W. long."
+    },
+    {
+     "name": "Bird Point",
+     "lat_dm": "57° 55.30' N. lat.",
+     "lon_dm": "152° 47.50' W. long."
+    },
+    {
+     "name": "Occident Point",
+     "lat_dm": "57° 57.42' N. lat.",
+     "lon_dm": "152° 51.75' W. long."
+    },
+    {
+     "name": "Last Timber Point",
+     "lat_dm": "57° 58.60' N. lat.",
+     "lon_dm": "152° 59.05' W. long."
+    },
+    {
+     "name": "Raspberry Cape",
+     "lat_dm": "58° 03.58' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "Terror Bay and Uganik Bay passages",
+     "lat_dm": "57° 50.00' N. lat.",
+     "lon_dm": "153° 12.60' W. long."
+    },
+    {
+     "name": "Rock Point",
+     "lat_dm": "57° 46.47' N. lat.",
+     "lon_dm": "153° 29.30' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 46.27' N. lat.",
+     "lon_dm": "153° 32.90' W. long."
+    },
+    {
+     "name": "Spiridon Bay",
+     "lat_dm": null,
+     "lon_dm": "153° 46.33' W. long."
+    },
+    {
+     "name": "Carlsen Point",
+     "lat_dm": "57° 34.70' N. lat.",
+     "lon_dm": "153° 50.15' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 35.60' N. lat.",
+     "lon_dm": "153° 49.10' W. long."
+    },
+    {
+     "name": "southernmost tip of Amook Island",
+     "lat_dm": "57° 25.72' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "northernmost tip of Amook Island",
+     "lat_dm": "57° 33.16' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "Rocky Point",
+     "lat_dm": "57° 39.78' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "midstream Shelikof Strait",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "North Cape Section",
+   "parent": "Northwest Kodiak District",
+   "citation": "5 AAC 18.200(b)(10)",
+   "text": "North Cape Section: all other waters of the Northwest Kodiak District.",
+   "points": []
+  },
+  {
+   "kind": "section",
+   "name": "Outer Karluk Section",
+   "parent": "Southwest Kodiak District",
+   "citation": "5 AAC 18.200(c)(1)",
+   "text": "Outer Karluk Section: all waters west of Kodiak Island bounded by the latitude of Rocky Point, the latitude of Pafco Point (57° 36.78' N. lat.), and by midstream Shelikof Strait",
+   "points": [
+    {
+     "name": "Rocky Point",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Pafco Point",
+     "lat_dm": "57° 36.78' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "midstream Shelikof Strait",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Inner Karluk Section",
+   "parent": "Southwest Kodiak District",
+   "citation": "5 AAC 18.200(c)(2)",
+   "text": "Inner Karluk Section: all waters west of Kodiak Island bounded by the latitude of Pafco Point, the latitude of Cape Karluk (57° 34.20' N. lat.), and by midstream Shelikof Strait",
+   "points": [
+    {
+     "name": "Pafco Point",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Cape Karluk",
+     "lat_dm": "57° 34.20' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "midstream Shelikof Strait",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Sturgeon Section",
+   "parent": "Southwest Kodiak District",
+   "citation": "5 AAC 18.200(c)(3)",
+   "text": "Sturgeon Section: all waters west of Kodiak Island bounded by the latitude of Cape Karluk, the latitude of Sturgeon Head (57° 30.65' N. lat.), and by midstream Shelikof Strait",
+   "points": [
+    {
+     "name": "Cape Karluk",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Sturgeon Head",
+     "lat_dm": "57° 30.65' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "midstream Shelikof Strait",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Halibut Bay Section",
+   "parent": "Southwest Kodiak District",
+   "citation": "5 AAC 18.200(c)(4)",
+   "text": "Halibut Bay Section: all waters southwest of Kodiak Island bounded by the latitude of Sturgeon Head, the latitude of Cape Ikolik (57° 17.40' N. lat.), and by midstream Shelikof Strait",
+   "points": [
+    {
+     "name": "Sturgeon Head",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Cape Ikolik",
+     "lat_dm": "57° 17.40' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "midstream Shelikof Strait",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Outer Ayakulik Section",
+   "parent": "Southwest Kodiak District",
+   "citation": "5 AAC 18.200(c)(5)",
+   "text": "Outer Ayakulik Section: all waters southwest of Kodiak Island bounded on the north by the latitude of Cape Ikolik, and on the south at 57° 13.15' N. lat., and offshore at midstream Shelikof Strait",
+   "points": [
+    {
+     "name": "Cape Ikolik",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 13.15' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "midstream Shelikof Strait",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Inner Ayakulik Section",
+   "parent": "Southwest Kodiak District",
+   "citation": "5 AAC 18.200(c)(6)",
+   "text": "Inner Ayakulik Section: all waters southwest of Kodiak Island bounded on the north by 57° 13.15' N. lat., and on the south by the latitude of Low Cape, and offshore at midstream Shelikof Strait",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 13.15' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "Low Cape",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "midstream Shelikof Strait",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Cape Alitak Section",
+   "parent": "Alitak District",
+   "citation": "5 AAC 18.200(d)(1)",
+   "text": "Cape Alitak Section: all waters bounded by the latitude of Low Cape, the latitude of Cape Trinity, by midstream Shelikof Strait, by a line from Cape Trinity (56° 44.80' N. lat., 154° 08.90' W. long.) to Middle Reef (56° 54.00' N. lat., 154° 03.00' W. long.), and by a line from Middle Reef to Tanner Head at 56° 53.17' N. lat., 154° 13.90' W. long.",
+   "points": [
+    {
+     "name": "Low Cape",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Cape Trinity",
+     "lat_dm": "56° 44.80' N. lat.",
+     "lon_dm": "154° 08.90' W. long."
+    },
+    {
+     "name": "Middle Reef",
+     "lat_dm": "56° 54.00' N. lat.",
+     "lon_dm": "154° 03.00' W. long."
+    },
+    {
+     "name": "Tanner Head",
+     "lat_dm": "56° 53.17' N. lat.",
+     "lon_dm": "154° 13.90' W. long."
+    },
+    {
+     "name": "midstream Shelikof Strait",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Humpy-Deadman Section",
+   "parent": "Alitak District",
+   "citation": "5 AAC 18.200(d)(2)",
+   "text": "Humpy-Deadman Section: all waters of Alitak Bay east of a line from Cape Trinity, to Middle Reef, to the southernmost tip of Fox Island (56° 59.08' N. lat., 154° 02.10' W. long.), and from the northernmost tip of Fox Island (56° 59.68' N. lat., 154° 01.85' W. long.), to 57° 01.11' N. lat., 154° 00.85' W. long., to the Moser Peninsula at 57° 01.10' N. lat., 154° 01.15' W. long.",
+   "points": [
+    {
+     "name": "Cape Trinity",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Middle Reef",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "southernmost tip of Fox Island",
+     "lat_dm": "56° 59.08' N. lat.",
+     "lon_dm": "154° 02.10' W. long."
+    },
+    {
+     "name": "northernmost tip of Fox Island",
+     "lat_dm": "56° 59.68' N. lat.",
+     "lon_dm": "154° 01.85' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 01.11' N. lat.",
+     "lon_dm": "154° 00.85' W. long."
+    },
+    {
+     "name": "Moser Peninsula",
+     "lat_dm": "57° 01.10' N. lat.",
+     "lon_dm": "154° 01.15' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Alitak Bay Section",
+   "parent": "Alitak District",
+   "citation": "5 AAC 18.200(d)(3)",
+   "text": "Alitak Bay Section: all waters of Alitak Bay bounded on the south by a line from Tanner Head (56° 53.17' N. lat., 154° 13.90' W. long.), to Middle Reef, to the southernmost tip of Fox Island, and a line from the northernmost tip of Fox Island to 57° 01.11' lat., 154° 00.95' W. long., to the Moser Peninsula at 57° 01.10' N. lat., 154° 01.15' W. long., and bounded on the north by a line from Bun Point to Amik Island at 56° 58.04' N. lat., 154° 07.02' W. long., to the southwest end of Amik Island at 56° 57.85' N. lat., 154° 07.60' W. long., to the northeast end of Miller Island at 56° 57.80' N. lat., 154° 07.65' W. long., to the northwest end of Miller Island at 56° 57.80' N. lat. 154° 08.80' W. long., to Kodiak Island at 56° 57.90' N. lat., 154° 08.70' W. long.",
+   "points": [
+    {
+     "name": "Tanner Head",
+     "lat_dm": "56° 53.17' N. lat.",
+     "lon_dm": "154° 13.90' W. long."
+    },
+    {
+     "name": "Middle Reef",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "southernmost tip of Fox Island",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "northernmost tip of Fox Island",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 01.11' lat.",
+     "lon_dm": "154° 00.95' W. long."
+    },
+    {
+     "name": "Moser Peninsula",
+     "lat_dm": "57° 01.10' N. lat.",
+     "lon_dm": "154° 01.15' W. long."
+    },
+    {
+     "name": "Bun Point",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Amik Island",
+     "lat_dm": "56° 58.04' N. lat.",
+     "lon_dm": "154° 07.02' W. long."
+    },
+    {
+     "name": "southwest end of Amik Island",
+     "lat_dm": "56° 57.85' N. lat.",
+     "lon_dm": "154° 07.60' W. long."
+    },
+    {
+     "name": "northeast end of Miller Island",
+     "lat_dm": "56° 57.80' N. lat.",
+     "lon_dm": "154° 07.65' W. long."
+    },
+    {
+     "name": "northwest end of Miller Island",
+     "lat_dm": "56° 57.80' N. lat.",
+     "lon_dm": "154° 08.80' W. long."
+    },
+    {
+     "name": "Kodiak Island",
+     "lat_dm": "56° 57.90' N. lat.",
+     "lon_dm": "154° 08.70' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Moser Bay Section",
+   "parent": "Alitak District",
+   "citation": "5 AAC 18.200(d)(4)",
+   "text": "Moser Bay Section: all waters of Moser Bay bounded on the south by a line from Bun Point to Amik Island at 56° 58.04' N. lat., 154° 07.02' W. long., to the southwest end of Amik Island at 56° 57.85' N. lat., 154° 07.60' W. long., to the northeast end of Miller Island at 56° 57.80' N. lat., 154° 07.65' W. long., to the northwest end of Miller Island at 56° 57.80' N. lat., 154° 08.80' W. long., to Kodiak Island at 56° 57.90' N. lat., 154° 08.70' W. long., and bounded on the north by a line from 57° 01.37' N. lat., 154° 08.70' W. long., running east to a point 75 fathoms from the mean low tide mark, then to 57° 00.12' N. lat., 154° 08.08' W. long.",
+   "points": [
+    {
+     "name": "Bun Point",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Amik Island",
+     "lat_dm": "56° 58.04' N. lat.",
+     "lon_dm": "154° 07.02' W. long."
+    },
+    {
+     "name": "southwest end of Amik Island",
+     "lat_dm": "56° 57.85' N. lat.",
+     "lon_dm": "154° 07.60' W. long."
+    },
+    {
+     "name": "northeast end of Miller Island",
+     "lat_dm": "56° 57.80' N. lat.",
+     "lon_dm": "154° 07.65' W. long."
+    },
+    {
+     "name": "northwest end of Miller Island",
+     "lat_dm": "56° 57.80' N. lat.",
+     "lon_dm": "154° 08.80' W. long."
+    },
+    {
+     "name": "Kodiak Island",
+     "lat_dm": "56° 57.90' N. lat.",
+     "lon_dm": "154° 08.70' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 01.37' N. lat.",
+     "lon_dm": "154° 08.70' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 00.12' N. lat.",
+     "lon_dm": "154° 08.08' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Olga Bay Section",
+   "parent": "Alitak District",
+   "citation": "5 AAC 18.200(d)(5)",
+   "text": "Olga Bay Section: all waters of Olga Bay north of 57° 04.36' N. lat., and south of a line from Stockholm Point (57° 07.64' N. lat.,154° 06.70' W. long.) east to the opposite shore at 57° 07.64' N. lat., 154° 05.00' W. long., excluding the Dog Salmon Flats Section.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 04.36' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "Stockholm Point",
+     "lat_dm": "57° 07.64' N. lat.",
+     "lon_dm": "154° 06.70' W. long."
+    },
+    {
+     "name": "opposite shore",
+     "lat_dm": "57° 07.64' N. lat.",
+     "lon_dm": "154° 05.00' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Dog Salmon Flats Section",
+   "parent": "Alitak District",
+   "citation": "5 AAC 18.200(d)(6)",
+   "text": "Dog Salmon Flats Section: all waters of Lower Olga Bay northeast of a line from 57° 06.38' N. lat., 154° 00.00' W. long., to the opposite shore at 57° 07.53' N. lat., 154° 03.00' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 06.38' N. lat.",
+     "lon_dm": "154° 00.00' W. long."
+    },
+    {
+     "name": "opposite shore",
+     "lat_dm": "57° 07.53' N. lat.",
+     "lon_dm": "154° 03.00' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Outer Upper Station Section",
+   "parent": "Alitak District",
+   "citation": "5 AAC 18.200(d)(7)",
+   "text": "Outer Upper Station Section: all waters of Upper Olga Bay south of a line from 57° 07.64' N. lat., 154° 23.23' W. long., to 57° 07.79' N. lat., 154° 06.70' W. long., to Stockholm Point, excluding the Inner Upper Station Section.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 07.64' N. lat.",
+     "lon_dm": "154° 23.23' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 07.79' N. lat.",
+     "lon_dm": "154° 06.70' W. long."
+    },
+    {
+     "name": "Stockholm Point",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Inner Upper Station Section",
+   "parent": "Alitak District",
+   "citation": "5 AAC 18.200(d)(8)",
+   "text": "Inner Upper Station Section: all waters of Upper Olga Bay south of a line from 57° 03.41' N. lat., 154° 23.65' W. long., to 57° 04.20' N. lat., 154° 20.55' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 03.41' N. lat.",
+     "lon_dm": "154° 23.65' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 04.20' N. lat.",
+     "lon_dm": "154° 20.55' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Outer Akalura Section",
+   "parent": "Alitak District",
+   "citation": "5 AAC 18.200(d)(9)",
+   "text": "Outer Akalura Section: all waters of Upper Olga Bay north of a line from 57° 07.64' N. lat., 154° 23.23' W. long., to 57° 07.79' N. lat., 154° 06.70' W. long., to Stockholm Point, excluding the Inner Akalura Section",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 07.64' N. lat.",
+     "lon_dm": "154° 23.23' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 07.79' N. lat.",
+     "lon_dm": "154° 06.70' W. long."
+    },
+    {
+     "name": "Stockholm Point",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Inner Akalura Section",
+   "parent": "Alitak District",
+   "citation": "5 AAC 18.200(d)(10)",
+   "text": "Inner Akalura Section: all waters of Upper Olga Bay north of a line from 57° 08.70' N. lat., 154° 15.15' W. long., to 57° 08.70' N. lat., 154° 11.05' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 08.70' N. lat.",
+     "lon_dm": "154° 15.15' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 08.70' N. lat.",
+     "lon_dm": "154° 11.05' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Seven Rivers Section",
+   "parent": "Eastside Kodiak District",
+   "citation": "5 AAC 18.200(e)(1)",
+   "text": "Seven Rivers Section: all waters south and east of Kodiak Island bounded by midstream Shelikof Strait, by the latitude of Cape Trinity, and by the latitude of Boot Point (56° 49.98' N. lat.).",
+   "points": [
+    {
+     "name": "midstream Shelikof Strait",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Cape Trinity",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Boot Point",
+     "lat_dm": "56° 49.98' N. lat.",
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Two-Headed Section",
+   "parent": "Eastside Kodiak District",
+   "citation": "5 AAC 18.200(e)(2)",
+   "text": "Two-Headed Section: all waters east of Kodiak Island bounded by the latitude of Boot Point and by a line extending seaward 144° from Cape Kasiak (57° 03.98' N. lat., 153° 29.85' W. long.).",
+   "points": [
+    {
+     "name": "Boot Point",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Cape Kasiak",
+     "lat_dm": "57° 03.98' N. lat.",
+     "lon_dm": "153° 29.85' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Sitkalidak Section",
+   "parent": "Eastside Kodiak District",
+   "citation": "5 AAC 18.200(e)(3)",
+   "text": "Sitkalidak Section: all waters east of Kodiak Island bounded by a line extending seaward 144° from Cape Kasiak and by the latitude of Dangerous Cape (57° 16.58' N. lat.).",
+   "points": [
+    {
+     "name": "Cape Kasiak",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Dangerous Cape",
+     "lat_dm": "57° 16.58' N. lat.",
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Inner Ugak Bay Section",
+   "parent": "Eastside Kodiak District",
+   "citation": "5 AAC 18.200(e)(4)",
+   "text": "Inner Ugak Bay Section: all waters of Ugak Bay west of the longitude of Gull Point (152° 36.10' W. long.).",
+   "points": [
+    {
+     "name": "Gull Point",
+     "lat_dm": null,
+     "lon_dm": "152° 36.10' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Outer Ugak Bay Section",
+   "parent": "Eastside Kodiak District",
+   "citation": "5 AAC 18.200(e)(5)",
+   "text": "Outer Ugak Bay Section: all waters east of Kodiak Island bounded by the longitude of Gull Point, the latitude of Dangerous Cape, and the latitude of Cape Chiniak (57° 37.20' N. lat.).",
+   "points": [
+    {
+     "name": "Gull Point",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Dangerous Cape",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Cape Chiniak",
+     "lat_dm": "57° 37.20' N. lat.",
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Outer Chiniak Bay Section",
+   "parent": "Northeast Kodiak District",
+   "citation": "5 AAC 18.200(f)(1)",
+   "text": "Outer Chiniak Bay Section: all waters north of Kodiak Island bounded by the latitude of Cape Chiniak and the longitude of Isthmus Point (152° 19.06' W. long.)",
+   "points": [
+    {
+     "name": "Cape Chiniak",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Isthmus Point",
+     "lat_dm": null,
+     "lon_dm": "152° 19.06' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Inner Chiniak Bay Section",
+   "parent": "Northeast Kodiak District",
+   "citation": "5 AAC 18.200(f)(2)",
+   "text": "Inner Chiniak Bay Section: all waters of Chiniak Bay bounded by the longitude of Isthmus Point and the latitude of Spruce Cape (57° 49.57' N. lat.), excluding the Buskin River Section",
+   "points": [
+    {
+     "name": "Isthmus Point",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Spruce Cape",
+     "lat_dm": "57° 49.57' N. lat.",
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Buskin River Section",
+   "parent": "Northeast Kodiak District",
+   "citation": "5 AAC 18.200(f)(3)",
+   "text": "Buskin River Section: all waters of Chiniak Bay west of a line from Cliff Point (57° 43.51' N. lat., 152° 26.60' W. long.) to Spruce Cape (57° 49.57' N. lat., 152° 19.60' W. long.)",
+   "points": [
+    {
+     "name": "Cliff Point",
+     "lat_dm": "57° 43.51' N. lat.",
+     "lon_dm": "152° 26.60' W. long."
+    },
+    {
+     "name": "Spruce Cape",
+     "lat_dm": "57° 49.57' N. lat.",
+     "lon_dm": "152° 19.60' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Monashka/Mill Bay Section",
+   "parent": "Northeast Kodiak District",
+   "citation": "5 AAC 18.200(f)(4)",
+   "text": "Monashka/Mill Bay Section: all waters north of Kodiak Island bounded by the latitude of Spruce Cape and the latitude of Termination Point",
+   "points": [
+    {
+     "name": "Spruce Cape",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Termination Point",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Big River Section",
+   "parent": "Mainland District",
+   "citation": "5 AAC 18.200(g)(1)",
+   "text": "Big River Section: all waters bounded by the latitude of Cape Douglas, the latitude of Cape Chiniak on the mainland (58° 30.96' N. lat.), and by midstream Shelikof Strait",
+   "points": [
+    {
+     "name": "Cape Douglas",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Cape Chiniak on the mainland",
+     "lat_dm": "58° 30.96' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "midstream Shelikof Strait",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Hallo Bay Section",
+   "parent": "Mainland District",
+   "citation": "5 AAC 18.200(g)(2)",
+   "text": "Hallo Bay Section: all waters of Hallo Bay bounded by the latitude of Cape Chiniak on the mainland, the latitude of Cape Nukshak (58° 23.50' N. lat.), and by midstream Shelikof Strait",
+   "points": [
+    {
+     "name": "Cape Chiniak on the mainland",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Cape Nukshak",
+     "lat_dm": "58° 23.50' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "midstream Shelikof Strait",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Outer Kukak Bay Section",
+   "parent": "Mainland District",
+   "citation": "5 AAC 18.200(g)(3)",
+   "text": "Outer Kukak Bay Section: all waters bounded by the latitude of Cape Nukshak and the latitude of Cape Gull (58° 13.04' N. lat.), excluding the Inner Kukak Section",
+   "points": [
+    {
+     "name": "Cape Nukshak",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Cape Gull",
+     "lat_dm": "58° 13.04' N. lat.",
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Inner Kukak Bay Section",
+   "parent": "Mainland District",
+   "citation": "5 AAC 18.200(g)(4)",
+   "text": "Inner Kukak Bay Section: all waters of Kukak Bay west of 154° 13.70' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "154° 13.70' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Dakavak Bay Section",
+   "parent": "Mainland District",
+   "citation": "5 AAC 18.200(g)(5)",
+   "text": "Dakavak Bay Section: all waters bounded by the latitude of Cape Gull, the latitude of the southern entrance of Dakavak Bay (58° 01.00' N. lat.), and by midstream Shelikof Strait",
+   "points": [
+    {
+     "name": "Cape Gull",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "southern entrance of Dakavak Bay",
+     "lat_dm": "58° 01.00' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "midstream Shelikof Strait",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Katmai Section",
+   "parent": "Mainland District",
+   "citation": "5 AAC 18.200(g)(6)",
+   "text": "Katmai Section: all waters bounded by the latitude of the southern entrance of Dakavak Bay, the latitude of Cape Kubugakli (57° 53.85' N. lat.), and by midstream Shelikof Strait",
+   "points": [
+    {
+     "name": "southern entrance of Dakavak Bay",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Cape Kubugakli",
+     "lat_dm": "57° 53.85' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "midstream Shelikof Strait",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Alinchak Section",
+   "parent": "Mainland District",
+   "citation": "5 AAC 18.200(g)(7)",
+   "text": "Alinchak Section: all waters bounded by the latitude of Cape Kubugakli, the latitude of Cape Aklek (57° 41.30' N. lat.), and by midstream Shelikof Strait",
+   "points": [
+    {
+     "name": "Cape Kubugakli",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Cape Aklek",
+     "lat_dm": "57° 41.30' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "midstream Shelikof Strait",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Cape Igvak Section",
+   "parent": "Mainland District",
+   "citation": "5 AAC 18.200(g)(8)",
+   "text": "Cape Igvak Section: all waters bounded by the latitude of Cape Aklek, a line extending 135° southeast for three miles from a point near Kilokak Rocks at 57° 10.34' N. lat., 156° 20.22' W. long. then due south, excluding the Wide Bay Section",
+   "points": [
+    {
+     "name": "Cape Aklek",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "near Kilokak Rocks",
+     "lat_dm": "57° 10.34' N. lat.",
+     "lon_dm": "156° 20.22' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "name": "Wide Bay Section",
+   "parent": "Mainland District",
+   "citation": "5 AAC 18.200(g)(9)",
+   "text": "Wide Bay Section: all waters of Wide Bay enclosed by a line from Cape Kayakliut (57° 17.63' N. lat., 156° 18.98' W. long.) to the easternmost tip of Terrace Island at 156° 15.00' N. lat., to Cape Igvak (57° 26.04' N. lat., 156° 01.43' W. long.)",
+   "points": [
+    {
+     "name": "Cape Kayakliut",
+     "lat_dm": "57° 17.63' N. lat.",
+     "lon_dm": "156° 18.98' W. long."
+    },
+    {
+     "name": "easternmost tip of Terrace Island",
+     "lat_dm": "156° 15.00' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "Cape Igvak",
+     "lat_dm": "57° 26.04' N. lat.",
+     "lon_dm": "156° 01.43' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Humpy Cove",
+   "parent": "Alitak District",
+   "citation": "5 AAC 18.350(a)(1)(A)",
+   "text": "Humpy Cove: all waters east of a line from the northern entrance of Seaborg Cove at 56° 53.55' N. lat., 153° 58.95' W. long., to a point approximately two and three-quarters miles northeast of Hawk Point at 56° 50.95' N. lat., 154° 03.80' W. long.",
+   "points": [
+    {
+     "name": "northern entrance of Seaborg Cove",
+     "lat_dm": "56° 53.55' N. lat.",
+     "lon_dm": "153° 58.95' W. long."
+    },
+    {
+     "name": "approximately two and three-quarters miles northeast of Hawk Point",
+     "lat_dm": "56° 50.95' N. lat.",
+     "lon_dm": "154° 03.80' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Olga Bay — Upper Olga Bay",
+   "parent": "Alitak District",
+   "citation": "5 AAC 18.350(a)(1)(B)(i)",
+   "text": "Olga Bay: (i) Upper Olga Bay: north and west of a line from Stockholm Point at 57° 07.64' N. lat., 154° 06.70' W. long., east to the opposite shore at 57° 07.64' N. lat., 154° 05.00' W. long.",
+   "points": [
+    {
+     "name": "Stockholm Point",
+     "lat_dm": "57° 07.64' N. lat.",
+     "lon_dm": "154° 06.70' W. long."
+    },
+    {
+     "name": "opposite shore",
+     "lat_dm": "57° 07.64' N. lat.",
+     "lon_dm": "154° 05.00' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Olga Bay — Horse Marine",
+   "parent": "Alitak District",
+   "citation": "5 AAC 18.350(a)(1)(B)(ii)",
+   "text": "Olga Bay: (ii) Horse Marine: northeast of a line from 57° 06.38' N. lat., 154° 00.00' W. long., to 57° 07.53' N. lat., 154° 03.00' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 06.38' N. lat.",
+     "lon_dm": "154° 00.00' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 07.53' N. lat.",
+     "lon_dm": "154° 03.00' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Olga Bay — Olga Narrows",
+   "parent": "Alitak District",
+   "citation": "5 AAC 18.350(a)(1)(B)(iii)",
+   "text": "Olga Bay: (iii) Olga Narrows: south of 57° 04.36' N. lat., and north of a line from 57° 01.37' N. lat., 154° 08.70' W. long., running east to a point 75 fathoms from the mean low tide mark to 57° 00.12' N. lat., 154° 08.08' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 04.36' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 01.37' N. lat.",
+     "lon_dm": "154° 08.70' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 00.12' N. lat.",
+     "lon_dm": "154° 08.08' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Portage Bay — Southeast Arm",
+   "parent": "Alitak District",
+   "citation": "5 AAC 18.350(a)(1)(C)(i)",
+   "text": "Portage Bay: (i) Southeast Arm: east of the longitude of Bert Point (153° 51.50' W. long.)",
+   "points": [
+    {
+     "name": "Bert Point",
+     "lat_dm": null,
+     "lon_dm": "153° 51.50' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Portage Bay — Sulua Bay",
+   "parent": "Alitak District",
+   "citation": "5 AAC 18.350(a)(1)(C)(ii)",
+   "text": "Portage Bay: (ii) Sulua Bay: north of 56° 58.54' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "56° 58.54' N. lat.",
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Deadman Bay",
+   "parent": "Alitak District",
+   "citation": "5 AAC 18.350(a)(1)(D)",
+   "text": "Deadman Bay: east of 153° 51.30' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "153° 51.30' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Sukhoi Lagoon",
+   "parent": "Alitak District",
+   "citation": "5 AAC 18.350(a)(1)(E)",
+   "text": "Sukhoi Lagoon: in the bay and the lagoon.",
+   "points": []
+  },
+  {
+   "kind": "closed_water",
+   "name": "Ayakulik River (Red River) terminus",
+   "parent": "Southwest Kodiak District",
+   "citation": "5 AAC 18.350(a)(2)(A)",
+   "text": "all waters east of the terminus of the Ayakulik River (Red River)",
+   "points": []
+  },
+  {
+   "kind": "closed_water",
+   "name": "Unnamed stream terminus",
+   "parent": "Southwest Kodiak District",
+   "citation": "5 AAC 18.350(a)(2)(B)",
+   "text": "all waters east of the terminus of the unnamed stream at 57° 16.30' N. lat., 154° 37.33' W. long.",
+   "points": [
+    {
+     "name": "unnamed stream terminus",
+     "lat_dm": "57° 16.30' N. lat.",
+     "lon_dm": "154° 37.33' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Sturgeon Section",
+   "parent": "Southwest Kodiak District",
+   "citation": "5 AAC 18.350(a)(2)(C)",
+   "text": "Sturgeon Section: south of 57° 33.20' N. lat. and east of 154° 33.20' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 33.20' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "154° 33.20' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Grant's Lagoon and Halibut Bay Lagoon",
+   "parent": "Southwest Kodiak District",
+   "citation": "5 AAC 18.350(a)(2)(D)",
+   "text": "all waters of Grant's Lagoon and Halibut Bay Lagoon",
+   "points": []
+  },
+  {
+   "kind": "closed_water",
+   "name": "Inner Karluk Section",
+   "parent": "Southwest Kodiak District",
+   "citation": "5 AAC 18.350(a)(2)(E)",
+   "text": "Inner Karluk Section: south of 57° 34.50' N. lat. and east of 154° 28.20' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 34.50' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "154° 28.20' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Uyak Bay",
+   "parent": "Northwest Kodiak District",
+   "citation": "5 AAC 18.350(a)(3)(A)",
+   "text": "Uyak Bay: south of 57° 23.00' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 23.00' N. lat.",
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Zachar Bay",
+   "parent": "Northwest Kodiak District",
+   "citation": "5 AAC 18.350(a)(3)(B)",
+   "text": "Zachar Bay: east of 153° 47.60' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "153° 47.60' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Spiridon Bay",
+   "parent": "Northwest Kodiak District",
+   "citation": "5 AAC 18.350(a)(3)(C)",
+   "text": "Spiridon Bay: east of 153° 42.59' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "153° 42.59' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Little River",
+   "parent": "Northwest Kodiak District",
+   "citation": "5 AAC 18.350(a)(3)(D)",
+   "text": "Little River: south of 57° 50.70' N. lat. and east of 153° 51.89' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 50.70' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "153° 51.89' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Cannon's Lagoon (Campbell's)",
+   "parent": "Northwest Kodiak District",
+   "citation": "5 AAC 18.350(a)(3)(E)",
+   "text": "Cannon's Lagoon (Campbell's): north of 57° 51.24' N. lat. and west of 153° 37.91' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 51.24' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "153° 37.91' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Uganik Bay — South Arm",
+   "parent": "Northwest Kodiak District",
+   "citation": "5 AAC 18.350(a)(3)(F)(i)",
+   "text": "Uganik Bay: (i) South Arm: south of 57° 39.65' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 39.65' N. lat.",
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Uganik Bay — East Arm (Mush Bay)",
+   "parent": "Northwest Kodiak District",
+   "citation": "5 AAC 18.350(a)(3)(F)(ii)",
+   "text": "Uganik Bay: (ii) East Arm (Mush Bay): all waters south and east of a line between the ADF&G regulatory markers located on Mink Point at 57° 43.10' N. lat., 153° 30.95' W. long., and on Packers Spit at 57° 43.95' N. lat., 153° 30.00' W. long.",
+   "points": [
+    {
+     "name": "Mink Point",
+     "lat_dm": "57° 43.10' N. lat.",
+     "lon_dm": "153° 30.95' W. long."
+    },
+    {
+     "name": "Packers Spit",
+     "lat_dm": "57° 43.95' N. lat.",
+     "lon_dm": "153° 30.00' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "North Uganik Passage",
+   "parent": "Northwest Kodiak District",
+   "citation": "5 AAC 18.350(a)(3)(G)",
+   "text": "North Uganik Passage: south of 57° 49.48' N. lat., to 57° 48.40' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 49.48' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 48.40' N. lat.",
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Terror Bay",
+   "parent": "Northwest Kodiak District",
+   "citation": "5 AAC 18.350(a)(3)(H)",
+   "text": "Terror Bay: south of 57° 46.32' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 46.32' N. lat.",
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Kizhuyak Bay — Barabara Cove",
+   "parent": "Northwest Kodiak District",
+   "citation": "5 AAC 18.350(a)(3)(I)(i)",
+   "text": "Kizhuyak Bay: (i) Barabara Cove: west of 152° 54.20' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "152° 54.20' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Kizhuyak Bay",
+   "parent": "Northwest Kodiak District",
+   "citation": "5 AAC 18.350(a)(3)(I)(ii)",
+   "text": "Kizhuyak Bay: (ii) south of 57° 46.84' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 46.84' N. lat.",
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Sharatin Bay",
+   "parent": "Northwest Kodiak District",
+   "citation": "5 AAC 18.350(a)(3)(J)",
+   "text": "Sharatin Bay: south of 57° 50.63' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 50.63' N. lat.",
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Soldier's Bay",
+   "parent": "Northwest Kodiak District",
+   "citation": "5 AAC 18.350(a)(3)(K)",
+   "text": "Soldier's Bay: within a line from Otmeloi Point to Entrance Point to the southern tip of Low Island to Seredni Point",
+   "points": [
+    {
+     "name": "Otmeloi Point",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Entrance Point",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "southern tip of Low Island",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Seredni Point",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Anton Larsen Bay",
+   "parent": "Northwest Kodiak District",
+   "citation": "5 AAC 18.350(a)(3)(L)",
+   "text": "Anton Larsen Bay: south of 57° 51.83' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 51.83' N. lat.",
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Ouzinkie Harbor",
+   "parent": "Northwest Kodiak District",
+   "citation": "5 AAC 18.350(a)(3)(M)",
+   "text": "Ouzinkie Harbor: north of a line from Ouzinkie Point at 57° 54.80' N. lat., 152° 31.27' W. long., to a point on Prokoda Island at 57° 54.64' N. lat., 152° 30.39' W. long., and north of a line from Black Point at 57° 54.79' N. lat., 152° 29.24' W. long., to a point on Prokoda Island at 57° 54.66' N. lat., 152° 30.18' W. long.",
+   "points": [
+    {
+     "name": "Ouzinkie Point",
+     "lat_dm": "57° 54.80' N. lat.",
+     "lon_dm": "152° 31.27' W. long."
+    },
+    {
+     "name": "Prokoda Island",
+     "lat_dm": "57° 54.64' N. lat.",
+     "lon_dm": "152° 30.39' W. long."
+    },
+    {
+     "name": "Black Point",
+     "lat_dm": "57° 54.79' N. lat.",
+     "lon_dm": "152° 29.24' W. long."
+    },
+    {
+     "name": "Prokoda Island",
+     "lat_dm": "57° 54.66' N. lat.",
+     "lon_dm": "152° 30.18' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Monks Lagoon",
+   "parent": "Northwest Kodiak District",
+   "citation": "5 AAC 18.350(a)(3)(N)",
+   "text": "Monks Lagoon: all waters of the lagoon northwest of a line between ADF&G regulatory markers located on both sides of the entrance to the lagoon",
+   "points": []
+  },
+  {
+   "kind": "closed_water",
+   "name": "Mill Bay",
+   "parent": "Northeast Kodiak District",
+   "citation": "5 AAC 18.350(a)(4)(A)",
+   "text": "Mill Bay: all those waters bounded by a line from Spruce Cape, to the northernmost point of Woody Island, to the northernmost point of Holiday Island, to the northernmost point of Near Island, to the opposite shore on Kodiak Island at 57° 47.32' N. lat., 152° 23.80' W. long.",
+   "points": [
+    {
+     "name": "Spruce Cape",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "northernmost point of Woody Island",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "northernmost point of Holiday Island",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "northernmost point of Near Island",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "opposite shore on Kodiak Island",
+     "lat_dm": "57° 47.32' N. lat.",
+     "lon_dm": "152° 23.80' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Womens Bay",
+   "parent": "Northeast Kodiak District",
+   "citation": "5 AAC 18.350(a)(4)(B)",
+   "text": "Womens Bay: west of 152° 31.50' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "152° 31.50' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Middle Bay",
+   "parent": "Northeast Kodiak District",
+   "citation": "5 AAC 18.350(a)(4)(C)",
+   "text": "Middle Bay: south of 57° 39.70' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 39.70' N. lat.",
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Kalsin Bay",
+   "parent": "Northeast Kodiak District",
+   "citation": "5 AAC 18.350(a)(4)(D)",
+   "text": "Kalsin Bay: south of 57° 36.45' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 36.45' N. lat.",
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Ugak Bay",
+   "parent": "Eastside Kodiak District",
+   "citation": "5 AAC 18.350(a)(5)(A)(i)",
+   "text": "Ugak Bay: (i) west of 152° 52.65' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "152° 52.65' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Ugak Bay — Eagle Harbor",
+   "parent": "Eastside Kodiak District",
+   "citation": "5 AAC 18.350(a)(5)(A)(ii)",
+   "text": "Ugak Bay: (ii) Eagle Harbor: south of 57° 25.60' N. lat. and west of 152° 42.40' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 25.60' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "152° 42.40' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Ugak Bay — Gull Cape Lagoon",
+   "parent": "Eastside Kodiak District",
+   "citation": "5 AAC 18.350(a)(5)(A)(iii)",
+   "text": "Ugak Bay: (iii) Gull Cape Lagoon: in the lagoon",
+   "points": []
+  },
+  {
+   "kind": "closed_water",
+   "name": "Ugak Bay — Saltery Cove",
+   "parent": "Eastside Kodiak District",
+   "citation": "5 AAC 18.350(a)(5)(A)(iv)",
+   "text": "Ugak Bay: (iv) Saltery Cove: all waters north of a line from a point at 57° 29.00' N. lat., 152° 43.29' W. long., to a point on the opposite shore at 57° 29.79' N. lat., 152° 47.70' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 29.00' N. lat.",
+     "lon_dm": "152° 43.29' W. long."
+    },
+    {
+     "name": "opposite shore",
+     "lat_dm": "57° 29.79' N. lat.",
+     "lon_dm": "152° 47.70' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Ugak Bay — Pasagshak Bay",
+   "parent": "Eastside Kodiak District",
+   "citation": "5 AAC 18.350(a)(5)(A)(v)",
+   "text": "Ugak Bay: (v) Pasagshak Bay: north of 57° 27.00' N. lat. and east of 152° 27.60' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 27.00' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "152° 27.60' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Kiliuda Bay",
+   "parent": "Eastside Kodiak District",
+   "citation": "5 AAC 18.350(a)(5)(B)(i)",
+   "text": "Kiliuda Bay: (i) west of 153° 03.79' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "153° 03.79' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Kiliuda Bay — Dog Bay",
+   "parent": "Eastside Kodiak District",
+   "citation": "5 AAC 18.350(a)(5)(B)(ii)",
+   "text": "Kiliuda Bay: (ii) Dog Bay: north of 57° 19.85' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 19.85' N. lat.",
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Shearwater Bay",
+   "parent": "Eastside Kodiak District",
+   "citation": "5 AAC 18.350(a)(5)(C)",
+   "text": "Shearwater Bay: east of 152° 53.60' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "152° 53.60' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Sitkalidak Strait",
+   "parent": "Eastside Kodiak District",
+   "citation": "5 AAC 18.350(a)(5)(D)",
+   "text": "Sitkalidak Strait: north of the latitude of Old Harbor Village (57° 12.08' N. lat.) and west of 153° 13.00' W. long.",
+   "points": [
+    {
+     "name": "Old Harbor Village",
+     "lat_dm": "57° 12.08' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "153° 13.00' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Barling Bay",
+   "parent": "Eastside Kodiak District",
+   "citation": "5 AAC 18.350(a)(5)(E)",
+   "text": "Barling Bay: inside a line from 57° 10.70' N. lat., 153° 21.90' W. long., to 57° 11.42' N. lat., 153° 20.59' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 10.70' N. lat.",
+     "lon_dm": "153° 21.90' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 11.42' N. lat.",
+     "lon_dm": "153° 20.59' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Kaiugnak Bay",
+   "parent": "Eastside Kodiak District",
+   "citation": "5 AAC 18.350(a)(5)(F)",
+   "text": "Kaiugnak Bay: west of 153° 39.68' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "153° 39.68' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Kiavak Bay",
+   "parent": "Eastside Kodiak District",
+   "citation": "5 AAC 18.350(a)(5)(G)",
+   "text": "Kiavak Bay: south of 57° 01.10' N. lat. and west of 153° 35.70' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 01.10' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "153° 35.70' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Kaguyak Bay",
+   "parent": "Eastside Kodiak District",
+   "citation": "5 AAC 18.350(a)(5)(H)",
+   "text": "Kaguyak Bay: west of 153° 45.45' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "153° 45.45' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Seven Rivers",
+   "parent": "Eastside Kodiak District",
+   "citation": "5 AAC 18.350(a)(5)(I)",
+   "text": "Seven Rivers: all waters west of the stream terminus of Seven Rivers (stream No. 258-701).",
+   "points": []
+  },
+  {
+   "kind": "closed_water",
+   "name": "Natalia Bay Lagoon",
+   "parent": "Eastside Kodiak District",
+   "citation": "5 AAC 18.350(a)(5)(J)",
+   "text": "Natalia Bay Lagoon: in the lagoon inside of a line from 57° 05.49' N. lat., 153° 19.30' W. long. to 57° 05.42' N. lat., 153° 19.19' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 05.49' N. lat.",
+     "lon_dm": "153° 19.30' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 05.42' N. lat.",
+     "lon_dm": "153° 19.19' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Three Saints Bay",
+   "parent": "Eastside Kodiak District",
+   "citation": "5 AAC 18.350(a)(5)(K)",
+   "text": "Three Saints Bay: west of 153° 32.00' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "153° 32.00' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Kazakof Bay (Danger Bay)",
+   "parent": "Afognak District",
+   "citation": "5 AAC 18.350(a)(6)(A)",
+   "text": "Kazakof Bay (Danger Bay): north of 58° 10.88' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "58° 10.88' N. lat.",
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Kitoi Bay",
+   "parent": "Afognak District",
+   "citation": "5 AAC 18.350(a)(6)(B)",
+   "text": "Kitoi Bay: all waters near the terminus of Big Kitoi Creek (stream No. 252-324) west of a line from 58° 11.53' N. lat., 152° 21.77' W. long., to 58° 11.25' N. lat., 152° 21.69' W. long., and all waters near the terminus of Little Kitoi Creek (stream No. 252-323) west of a line from 58° 11.69' N. lat., 152° 21.59' W. long., to 58° 11.55' N. lat., 152° 21.59' W. long.",
+   "points": [
+    {
+     "name": "Big Kitoi Creek terminus",
+     "lat_dm": "58° 11.53' N. lat.",
+     "lon_dm": "152° 21.77' W. long."
+    },
+    {
+     "name": "Big Kitoi Creek terminus",
+     "lat_dm": "58° 11.25' N. lat.",
+     "lon_dm": "152° 21.69' W. long."
+    },
+    {
+     "name": "Little Kitoi Creek terminus",
+     "lat_dm": "58° 11.69' N. lat.",
+     "lon_dm": "152° 21.59' W. long."
+    },
+    {
+     "name": "Little Kitoi Creek terminus",
+     "lat_dm": "58° 11.55' N. lat.",
+     "lon_dm": "152° 21.59' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Seal Bay",
+   "parent": "Afognak District",
+   "citation": "5 AAC 18.350(a)(6)(C)",
+   "text": "Seal Bay: south of 58° 21.60' N. lat., in the inner West Bay",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "58° 21.60' N. lat.",
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Pauls Bay (Perenosa)",
+   "parent": "Afognak District",
+   "citation": "5 AAC 18.350(a)(6)(D)",
+   "text": "Pauls Bay (Perenosa): south and east of a line from 58° 23.85' N. lat., 152° 20.80' W. long. to 58° 23.53' N. lat., 152° 21.35' W. long. to 58° 23.30' N. lat., l52° 21.35' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "58° 23.85' N. lat.",
+     "lon_dm": "152° 20.80' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": "58° 23.53' N. lat.",
+     "lon_dm": "152° 21.35' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": "58° 23.30' N. lat.",
+     "lon_dm": "l52° 21.35' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Discoverer Bay",
+   "parent": "Afognak District",
+   "citation": "5 AAC 18.350(a)(6)(E)",
+   "text": "Discoverer Bay: south of 58° 19.00' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "58° 19.00' N. lat.",
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Paramanof Bay — East Arm",
+   "parent": "Afognak District",
+   "citation": "5 AAC 18.350(a)(6)(F)(i)",
+   "text": "Paramanof Bay: (i) East Arm: east of 152° 45.05' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "152° 45.05' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Paramanof Bay — South Arm",
+   "parent": "Afognak District",
+   "citation": "5 AAC 18.350(a)(6)(F)(ii)",
+   "text": "Paramanof Bay: (ii) South Arm: south of 58° 15.95' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "58° 15.95' N. lat.",
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Paramanof Bay — Thorsheim Bay",
+   "parent": "Afognak District",
+   "citation": "5 AAC 18.350(a)(6)(F)(iii)",
+   "text": "Paramanof Bay: (iii) Thorsheim Bay (includes stream No. 251-302): south of a line from 58° 17.15' N. lat., 152° 50.40' W. long., to 58° 17.08' N. lat., 152° 50.88' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "58° 17.15' N. lat.",
+     "lon_dm": "152° 50.40' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": "58° 17.08' N. lat.",
+     "lon_dm": "152° 50.88' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Paramanof Bay — Long Lagoon Bay",
+   "parent": "Afognak District",
+   "citation": "5 AAC 18.350(a)(6)(F)(iv)",
+   "text": "Paramanof Bay: (iv) Long Lagoon Bay: south of 58° 16.38' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "58° 16.38' N. lat.",
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Malina Bay",
+   "parent": "Afognak District",
+   "citation": "5 AAC 18.350(a)(6)(G)(i)",
+   "text": "Malina Bay: (i) east of 152° 55.19' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "152° 55.19' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Malina Bay — Malka Bay",
+   "parent": "Afognak District",
+   "citation": "5 AAC 18.350(a)(6)(G)(ii)",
+   "text": "Malina Bay: (ii) Malka Bay: south of 58° 10.53' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "58° 10.53' N. lat.",
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Afognak Bay",
+   "parent": "Afognak District",
+   "citation": "5 AAC 18.350(a)(6)(H)",
+   "text": "Afognak Bay: north of a line from Otrubisoi Point at 58° 02.00' N. lat., 152° 45.50' W. long. to Settlement Point at 58° 03.00' N. lat., 152° 43.70' W. long.",
+   "points": [
+    {
+     "name": "Otrubisoi Point",
+     "lat_dm": "58° 02.00' N. lat.",
+     "lon_dm": "152° 45.50' W. long."
+    },
+    {
+     "name": "Settlement Point",
+     "lat_dm": "58° 03.00' N. lat.",
+     "lon_dm": "152° 43.70' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Muskomee Bay",
+   "parent": "Afognak District",
+   "citation": "5 AAC 18.350(a)(6)(I)",
+   "text": "Muskomee Bay: east of 153° 04.00' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "153° 04.00' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Selief Bay",
+   "parent": "Afognak District",
+   "citation": "5 AAC 18.350(a)(6)(J)",
+   "text": "Selief Bay: south of 58° 02.15' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "58° 02.15' N. lat.",
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Shuyak Strait — Shangin Bay",
+   "parent": "Afognak District",
+   "citation": "5 AAC 18.350(a)(6)(K)(i)",
+   "text": "Shuyak Strait: (i) Shangin Bay (includes streams No. 251-702 to 251-704): south of 58° 33.75' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "58° 33.75' N. lat.",
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Shuyak Strait — Whitey's Hole",
+   "parent": "Afognak District",
+   "citation": "5 AAC 18.350(a)(6)(K)(ii)",
+   "text": "Shuyak Strait: (ii) Whitey's Hole (includes stream No. 251-702): south of 58° 34.74' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "58° 34.74' N. lat.",
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Shuyak Strait — Carry Inlet",
+   "parent": "Afognak District",
+   "citation": "5 AAC 18.350(a)(6)(K)(iii)",
+   "text": "Shuyak Strait: (iii) Carry Inlet (includes stream No. 251-710): south of 58° 34.15' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "58° 34.15' N. lat.",
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Shuyak Strait — Big Bay",
+   "parent": "Afognak District",
+   "citation": "5 AAC 18.350(a)(6)(K)(iv)",
+   "text": "Shuyak Strait: (iv) Big Bay (includes streams No. 251-601 and 251-603): south of 58° 32.75' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "58° 32.75' N. lat.",
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Redfox Bay",
+   "parent": "Afognak District",
+   "citation": "5 AAC 18.350(a)(6)(L)",
+   "text": "Redfox Bay: south of 58° 27.10' N. lat., and southwest of a line from 58° 27.15' N. lat., 152° 36.85' W. long. to 58° 27.30' N. lat., 152° 37.00' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "58° 27.10' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": null,
+     "lat_dm": "58° 27.15' N. lat.",
+     "lon_dm": "152° 36.85' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": "58° 27.30' N. lat.",
+     "lon_dm": "152° 37.00' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Bluefox Bay",
+   "parent": "Afognak District",
+   "citation": "5 AAC 18.350(a)(6)(M)",
+   "text": "Bluefox Bay: south of 58° 25.70' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "58° 25.70' N. lat.",
+     "lon_dm": null
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Izhut Bay",
+   "parent": "Afognak District",
+   "citation": "5 AAC 18.350(a)(6)(N)",
+   "text": "Izhut Bay: all waters near the terminus of stream No. 252-302, north of 58° 14.36' N. lat. and west of 152° 17.73' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "58° 14.36' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "152° 17.73' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Marka Bay",
+   "parent": "Afognak District",
+   "citation": "5 AAC 18.350(a)(6)(O)",
+   "text": "Marka Bay: all waters near the terminus of stream No. 252-343 west of 152° 39.42' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "152° 39.42' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Swikshak Lagoon",
+   "parent": "Mainland District",
+   "citation": "5 AAC 18.350(a)(7)(A)",
+   "text": "Swikshak Lagoon: all waters of the lagoon",
+   "points": []
+  },
+  {
+   "kind": "closed_water",
+   "name": "Kukak Bay",
+   "parent": "Mainland District",
+   "citation": "5 AAC 18.350(a)(7)(B)",
+   "text": "Kukak Bay: all waters west of a line from a point at 58° 18.86' N. lat., 154° 16.49' W. long., then to a point at 58° 18.69' N. lat., 154° 16.33' W. long., then to a point at 58° 17.58' N. lat., 154° 17.20' W. long., then to a point at 58° 15.90' N. lat., 154° 16.63' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "58° 18.86' N. lat.",
+     "lon_dm": "154° 16.49' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": "58° 18.69' N. lat.",
+     "lon_dm": "154° 16.33' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": "58° 17.58' N. lat.",
+     "lon_dm": "154° 17.20' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": "58° 15.90' N. lat.",
+     "lon_dm": "154° 16.63' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Kaflia Bay",
+   "parent": "Mainland District",
+   "citation": "5 AAC 18.350(a)(7)(C)",
+   "text": "Kaflia Bay: west of 154° 10.50' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "154° 10.50' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Wide Bay",
+   "parent": "Mainland District",
+   "citation": "5 AAC 18.350(a)(7)(D)(i)",
+   "text": "Wide Bay: (i) west of 156° 30.00' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "156° 30.00' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Wide Bay — Big Creek",
+   "parent": "Mainland District",
+   "citation": "5 AAC 18.350(a)(7)(D)(ii)",
+   "text": "Wide Bay: (ii) Big Creek (stream No. 262-851): north of 57° 28.20' N. lat. and west of 156° 11.94' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 28.20' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "156° 11.94' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Chiniak Lagoon",
+   "parent": "Mainland District",
+   "citation": "5 AAC 18.350(a)(7)(E)",
+   "text": "Chiniak Lagoon (stream No. 262-154): south of 58° 31.50' N. lat. and west of 153° 54.50' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "58° 31.50' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "153° 54.50' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Big River flats",
+   "parent": "Mainland District",
+   "citation": "5 AAC 18.350(a)(7)(F)",
+   "text": "all waters of Big River (stream No. 262-152) flats west of 153° 52.50' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "153° 52.50' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Hallo Bay — Niniagiak River",
+   "parent": "Mainland District",
+   "citation": "5 AAC 18.350(a)(7)(G)(i)",
+   "text": "Hallo Bay: (i) Niniagiak River: north of 58° 28.10' N. lat. and west of 154° 04.00' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "58° 28.10' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "154° 04.00' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Hallo Bay — Serpent Creek",
+   "parent": "Mainland District",
+   "citation": "5 AAC 18.350(a)(7)(G)(ii)",
+   "text": "Hallo Bay: (ii) Serpent Creek: south of 58° 26.40' N. lat. and west of 154° 03.70' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "58° 26.40' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "154° 03.70' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Village Creek",
+   "parent": "Mainland District",
+   "citation": "5 AAC 18.350(a)(7)(H)",
+   "text": "Village Creek (stream No. 262-153): north of 58° 33.00' N. lat. and west of 153° 53.80' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "58° 33.00' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "153° 53.80' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Kinak Bay",
+   "parent": "Mainland District",
+   "citation": "5 AAC 18.350(a)(7)(I)",
+   "text": "Kinak Bay (includes stream No. 262-451): north of 58° 10.64' N. lat. and east of 154° 27.45' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "58° 10.64' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "154° 27.45' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Dry Bay",
+   "parent": "Mainland District",
+   "citation": "5 AAC 18.350(a)(7)(J)",
+   "text": "Dry Bay: all waters of Dry Bay (includes stream No. 262-752) west of 155° 44.00' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "155° 44.00' W. long."
+    }
+   ]
+  },
+  {
+   "kind": "closed_water",
+   "name": "Freshwater salmon streams and rivers of the Kodiak Area",
+   "parent": null,
+   "citation": "5 AAC 18.350(a)(8)",
+   "text": "within the freshwater salmon streams and rivers of the Kodiak Area, including streams not listed in this subsection designated on the ADF&G Kodiak Area Salmon Statistical Chart (Revision, January 2014)",
+   "points": []
+  },
+  {
+   "kind": "closed_water",
+   "name": "Repealed",
+   "parent": null,
+   "citation": "5 AAC 18.350(a)(9)",
+   "text": "repealed 4/9/2005",
+   "points": []
+  },
+  {
+   "kind": "closed_water",
+   "name": "Waters seaward of the territorial sea of Alaska",
+   "parent": null,
+   "citation": "5 AAC 18.350(a)(10)",
+   "text": "all waters seaward of the territorial sea of Alaska as shown on National Oceanic and Atmospheric Nautical Chart Number 16580 (13th Edition, January 2005)",
+   "points": []
+  }
+ ]
+}

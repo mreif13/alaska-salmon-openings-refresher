@@ -1,0 +1,57 @@
+{
+ "release_id": "1827614562",
+ "region": "AYK",
+ "office": "Headquarters Office",
+ "published": "2026-08-18T00:00",
+ "emergency_order": null,
+ "gear": [
+  "drift gillnet"
+ ],
+ "species": "salmon",
+ "units": [
+  {
+   "name": "Norton Sound Subdistrict 2",
+   "kind": "subdistrict",
+   "parent": "Norton Sound District",
+   "status": "open",
+   "period_text": "Golovin Subdistrict 2: will open to commercial salmon fishing for one 24-hour period: from 6:00 p.m. Thursday, August 20, until 6:00 p.m. Friday, August 21",
+   "rules": []
+  },
+  {
+   "name": "Norton Sound Subdistrict 3",
+   "kind": "subdistrict",
+   "parent": "Norton Sound District",
+   "status": "open",
+   "period_text": "Elim Subdistrict 3: will open to commercial salmon fishing for one 24-hour period: from 6:00 p.m. Thursday, August 20, until 6:00 p.m. Friday, August 21",
+   "rules": []
+  },
+  {
+   "name": "Norton Sound Subdistrict 4",
+   "kind": "subdistrict",
+   "parent": "Norton Sound District",
+   "status": "open",
+   "period_text": "Norton Bay Subdistrict 4: will open to commercial salmon fishing for one 24-hour period: from 6:00 p.m. Thursday, August 20, until 6:00 p.m. Friday, August 21",
+   "rules": []
+  },
+  {
+   "name": "Norton Sound Subdistrict 5",
+   "kind": "subdistrict",
+   "parent": "Norton Sound District",
+   "status": "open",
+   "period_text": "Shaktoolik Subdistrict 5: will open to commercial salmon fishing for one 24-hour period: from 6:00 p.m. Thursday, August 20, until 6:00 p.m. Friday, August 21",
+   "rules": []
+  },
+  {
+   "name": "Norton Sound Subdistrict 6",
+   "kind": "subdistrict",
+   "parent": "Norton Sound District",
+   "status": "open",
+   "period_text": "Unalakleet Subdistrict 6: will open to commercial salmon fishing for one 24-hour period: from 6:00 p.m. Thursday, August 20, until 6:00 p.m. Friday, August 21",
+   "rules": []
+  }
+ ],
+ "all_others_closed": false,
+ "_unparsed": [],
+ "full_text": "Forrest Bowers, Acting Director\n\nDoug Vincent-Lang, Commissioner\n\nHeadquarters Office Juneau, AK 99811-5526\n\nJuneau, AK 99811-5526\n\nAdvisory Announcement For Immediate Release: August 18, 2026\n\nCONTACT: Kevin Clark or Luke Henslee Norton Sound Area Manager and Assistant Manager (907) 443-5167 or (800) 560-2271\n\nNorton Sound Advisory Announcement #18 COMMERCIAL FISHING TO OPEN IN NORTON SOUND SUBDISTRICTS 2-6 Emergency Order: 3-S-Z-11-26\n\nCommercial salmon gillnet fishing will open for one 24-hour period in Norton Sound Subdistricts 2–6, the Golovin, Elim, Norton Bay, Shaktoolik, and Unalakleet Subdistricts.\n\n• Golovin Subdistrict 2\n\no will open to commercial salmon fishing for one 24-hour period:\n\nfrom 6:00 p.m. Thursday, August 20, until 6:00 p.m. Friday, August 21.\n\n\n\n\n\n\n\n\n\n\n\n• Elim Subdistrict 3\n\no will open to commercial salmon fishing for one 24-hour period:\n\nfrom 6:00 p.m. Thursday, August 20, until 6:00 p.m. Friday, August 21.\n\n• Norton Bay Subdistrict 4\n\no will open to commercial salmon fishing for one 24-hour period:\n\nfrom 6:00 p.m. Thursday, August 20, until 6:00 p.m. Friday, August 21.\n\n• Shaktoolik Subdistrict 5\n\no will open to commercial salmon fishing for one 24-hour period:\n\nfrom 6:00 p.m. Thursday, August 20, until 6:00 p.m. Friday, August 21.\n\n• Unalakleet Subdistrict 6:\n\no will open to commercial salmon fishing for one 24-hour period:\n\nfrom 6:00 p.m. Thursday, August 20, until 6:00 p.m. Friday, August 21.\n\nAll commercial fishing periods are directed to target chum and coho salmon with gillnet mesh size restricted to 6 inches or smaller.\n\nThe previous commercial periods in Subdistricts 2–6 had slightly below average catch rates and salmon monitoring projects in the region are generally inoperable. Kwiniuk River tower is the exception and is operationally and coho salmon in this system is projected to meet the escapement goal and provide for subsistence needs with a harvestable surplus available for commercial fishing. This commercial period will continue to gauge coho salmon abundance in marine waters and maybe used to justify additional commercial periods targeting coho salmon.\n\nPermit holders are reminded to ensure they have a market for their catch. This commercial fishing period does not affect current subsistence fisheries schedules, restrictions, or closures.\n\n-end-",
+ "_parser": "9d390c40"
+}

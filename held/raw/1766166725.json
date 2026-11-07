@@ -1,0 +1,264 @@
+{
+ "release_id": "1766166725",
+ "title": "Thomas Bay Terminal Harvest Area Fisheries Announcement",
+ "published": "2026-04-10T00:00",
+ "region": "Southeast",
+ "gear": [
+  "purse seine",
+  "troll"
+ ],
+ "species": "salmon",
+ "emergency_order": "1E0126",
+ "contact": "Emily Klosterman, (907) 772-3801",
+ "next_announcement": null,
+ "areas": [
+  {
+   "district": null,
+   "section": null,
+   "status": "partial",
+   "period_text": "Purse seine: will be open from 5:00 a.m. to 8:00 p.m., Sunday and Thursday each week, from Sunday, June 21, through Thursday, August 6, 2026.",
+   "rules": [
+    {
+     "subject": "Thomas Bay THA boundary",
+     "status": "open",
+     "geometry": "polygon",
+     "side": null,
+     "points": [
+      {
+       "name": "Point Vandeput",
+       "lat_dm": "57°00.96′ N",
+       "lon_dm": "133°00.02′ W"
+      },
+      {
+       "name": "Wood Point",
+       "lat_dm": "56°59.55′ N",
+       "lon_dm": "132°56.96′ W"
+      },
+      {
+       "name": "a point on the mainland shoreline",
+       "lat_dm": "56°59.57′ N",
+       "lon_dm": "132°54.02′ W"
+      },
+      {
+       "name": "Ruth Island",
+       "lat_dm": "57°00.42′ N",
+       "lon_dm": "132°51.07′ W"
+      },
+      {
+       "name": "a point on the southeastern shoreline of Ruth Island",
+       "lat_dm": "56°58.70′ N",
+       "lon_dm": "132°49.16′ W"
+      },
+      {
+       "name": "the mainland shoreline",
+       "lat_dm": "56°58.70′ N",
+       "lon_dm": "132°47.32′ W"
+      },
+      {
+       "name": "the mainland shoreline",
+       "lat_dm": "56°59.38′ N",
+       "lon_dm": "132°47.60′ W"
+      },
+      {
+       "name": "the southern tip of Spray Island",
+       "lat_dm": "56°59.80′ N",
+       "lon_dm": "132°47.73′ W"
+      },
+      {
+       "name": "the northern tip of Spray Island",
+       "lat_dm": "57°00.07′ N",
+       "lon_dm": "132°47.80′ W"
+      },
+      {
+       "name": "the mainland shoreline",
+       "lat_dm": "57°00.56′ N",
+       "lon_dm": "132°47.57′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "57°03.00′ N",
+       "lon_dm": "132°49.62′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "57°03.00′ N",
+       "lon_dm": "132°52.03′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "The Thomas Bay THA are those waters of Thomas Bay northeast of a line from Point Vandeput at 57°00.96′ N lat, 133°00.02′ W long, to Wood Point at 56°59.55′ N lat, 132°56.96′ W long, northwest of a line from a point on the mainland shoreline at 56°59.57′ N lat, 132°54.02′ W long to Ruth Island at 57°00.42′ N lat, 132°51.07′ W long, north of line from a point on the southeastern shoreline of Ruth Island at 56°58.70′ N lat, 132°49.16′ W long, to the mainland shoreline at 56°58.70′ N lat, 132°47.32′ W long, west of a line from the mainland shoreline at 56°59.38′ N lat, 132°47.60′ W long, to the southern tip of Spray Island at 56°59.80′ N lat, 132°47.73′ W long, to the northern tip of Spray Island at 57°00.07′ N lat, 132°47.80′ W long, to the mainland shoreline at 57°00.56′ N lat, 132°47.57′ W long, and south of a line from 57°03.00′ N lat, 132°49.62′ W long, to 57°03.00′ N lat, 132°52.03′ W long"
+    },
+    {
+     "subject": "Spurt Cove",
+     "status": "closed",
+     "geometry": "line",
+     "side": "northwest",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": "57°01.98′ N",
+       "lon_dm": "132°52.49′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "57°02.08′ N",
+       "lon_dm": "132°52.37′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "Spurt Cove: waters of Spurt Cove are closed northwest of a line from 57°01.98′ N lat, 132°52.49′ W long, to 57°02.08′ N lat, 132°52.37′ W long"
+    },
+    {
+     "subject": "Thomas Bay Bluffs (closed every Saturday and Sunday)",
+     "status": "closed",
+     "geometry": "line",
+     "side": "northeast",
+     "points": [
+      {
+       "name": "the northern tip of Spray Island",
+       "lat_dm": "57°00.07′ N",
+       "lon_dm": "132°47.80′ W"
+      },
+      {
+       "name": "a point on the northern boundary line approximately 0.5 nautical mile from the mainland shoreline",
+       "lat_dm": "57°03.00′ N",
+       "lon_dm": "132°50.55′ W"
+      }
+     ],
+     "distance_nmi": 0.5,
+     "text": "Thomas Bay Bluffs: waters northeast of a line from the northern tip of Spray Island at 57°00.07′ N lat, 132°47.80′ W long to a point on the northern boundary line approximately 0.5 nautical mile from the mainland shoreline at 57°03.00′ N lat, 132°50.55′ W long, are closed every Saturday and Sunday"
+    }
+   ]
+  },
+  {
+   "district": null,
+   "section": null,
+   "status": "partial",
+   "period_text": "Troll: will be open during those periods the purse seine fishery is closed from 12:01 a.m., Sunday, June 21, through 11:59 p.m., Saturday, August 8, 2026.",
+   "rules": [
+    {
+     "subject": "Thomas Bay THA boundary",
+     "status": "open",
+     "geometry": "polygon",
+     "side": null,
+     "points": [
+      {
+       "name": "Point Vandeput",
+       "lat_dm": "57°00.96′ N",
+       "lon_dm": "133°00.02′ W"
+      },
+      {
+       "name": "Wood Point",
+       "lat_dm": "56°59.55′ N",
+       "lon_dm": "132°56.96′ W"
+      },
+      {
+       "name": "a point on the mainland shoreline",
+       "lat_dm": "56°59.57′ N",
+       "lon_dm": "132°54.02′ W"
+      },
+      {
+       "name": "Ruth Island",
+       "lat_dm": "57°00.42′ N",
+       "lon_dm": "132°51.07′ W"
+      },
+      {
+       "name": "a point on the southeastern shoreline of Ruth Island",
+       "lat_dm": "56°58.70′ N",
+       "lon_dm": "132°49.16′ W"
+      },
+      {
+       "name": "the mainland shoreline",
+       "lat_dm": "56°58.70′ N",
+       "lon_dm": "132°47.32′ W"
+      },
+      {
+       "name": "the mainland shoreline",
+       "lat_dm": "56°59.38′ N",
+       "lon_dm": "132°47.60′ W"
+      },
+      {
+       "name": "the southern tip of Spray Island",
+       "lat_dm": "56°59.80′ N",
+       "lon_dm": "132°47.73′ W"
+      },
+      {
+       "name": "the northern tip of Spray Island",
+       "lat_dm": "57°00.07′ N",
+       "lon_dm": "132°47.80′ W"
+      },
+      {
+       "name": "the mainland shoreline",
+       "lat_dm": "57°00.56′ N",
+       "lon_dm": "132°47.57′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "57°03.00′ N",
+       "lon_dm": "132°49.62′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "57°03.00′ N",
+       "lon_dm": "132°52.03′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "The Thomas Bay THA are those waters of Thomas Bay northeast of a line from Point Vandeput at 57°00.96′ N lat, 133°00.02′ W long, to Wood Point at 56°59.55′ N lat, 132°56.96′ W long, northwest of a line from a point on the mainland shoreline at 56°59.57′ N lat, 132°54.02′ W long to Ruth Island at 57°00.42′ N lat, 132°51.07′ W long, north of line from a point on the southeastern shoreline of Ruth Island at 56°58.70′ N lat, 132°49.16′ W long, to the mainland shoreline at 56°58.70′ N lat, 132°47.32′ W long, west of a line from the mainland shoreline at 56°59.38′ N lat, 132°47.60′ W long, to the southern tip of Spray Island at 56°59.80′ N lat, 132°47.73′ W long, to the northern tip of Spray Island at 57°00.07′ N lat, 132°47.80′ W long, to the mainland shoreline at 57°00.56′ N lat, 132°47.57′ W long, and south of a line from 57°03.00′ N lat, 132°49.62′ W long, to 57°03.00′ N lat, 132°52.03′ W long"
+    },
+    {
+     "subject": "Spurt Cove",
+     "status": "closed",
+     "geometry": "line",
+     "side": "northwest",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": "57°01.98′ N",
+       "lon_dm": "132°52.49′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "57°02.08′ N",
+       "lon_dm": "132°52.37′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "Spurt Cove: waters of Spurt Cove are closed northwest of a line from 57°01.98′ N lat, 132°52.49′ W long, to 57°02.08′ N lat, 132°52.37′ W long"
+    },
+    {
+     "subject": "Thomas Bay Bluffs (closed every Saturday and Sunday)",
+     "status": "closed",
+     "geometry": "line",
+     "side": "northeast",
+     "points": [
+      {
+       "name": "the northern tip of Spray Island",
+       "lat_dm": "57°00.07′ N",
+       "lon_dm": "132°47.80′ W"
+      },
+      {
+       "name": "a point on the northern boundary line approximately 0.5 nautical mile from the mainland shoreline",
+       "lat_dm": "57°03.00′ N",
+       "lon_dm": "132°50.55′ W"
+      }
+     ],
+     "distance_nmi": 0.5,
+     "text": "Thomas Bay Bluffs: waters northeast of a line from the northern tip of Spray Island at 57°00.07′ N lat, 132°47.80′ W long to a point on the northern boundary line approximately 0.5 nautical mile from the mainland shoreline at 57°03.00′ N lat, 132°50.55′ W long, are closed every Saturday and Sunday"
+    },
+    {
+     "subject": "Chinook salmon retention (troll)",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Chinook salmon retention is permitted in the troll fishery only during general summer troll Chinook salmon retention periods established under 5 AAC 29.100; trollers may retain and sell only those Chinook salmon that are 28 inches or greater in length."
+    }
+   ]
+  }
+ ],
+ "_parser": "9d390c40",
+ "_parser_kept": "new parse placed 1 where the old placed 2",
+ "full_text": "Forrest Bowers, Acting Director\n\nDoug Vincent-Lang, Commissioner\n\nPetersburg Area Office Petersburg, AK 99833\n\nAdvisory Announcement For Immediate Release: April 10, 2026\n\nJuneau, AK 99811-5526\n\nCONTACT: Emily Klosterman Petersburg Assistant Area Management Biologist emily.klosterman@alaska.gov (907) 772-3801\n\nTHOMAS BAY TERMINAL HARVEST AREA FISHERIES ANNOUNCEMENT\n\nThe following information details the Northern Southeast Alaska Regional Aquaculture Association (NSRAA) commercial fishing open waters and fishing schedules in the Thomas Bay Terminal Harvest Area (THA) for the 2026 season.\n\nNSRAA is forecasting a total run of 115,000 chum salmon to Thomas Bay THA (Figure 1). This year’s run will be the 8th for this project and will be comprised of all age classes. A portion of the run may be harvested in common property fisheries in Chatham Strait and Frederick Sound.\n\nThe Thomas Bay THA are those waters of Thomas Bay northeast of a line from Point Vandeput at 57°00.96′ N lat, 133°00.02′ W long, to Wood Point at 56°59.55′ N lat, 132°56.96′ W long, northwest of a line from a point on the mainland shoreline at 56°59.57′ N lat, 132°54.02′ W long to Ruth Island at 57°00.42′ N lat, 132°51.07′ W long, north of line from a point on the southeastern shoreline of Ruth Island at 56°58.70′ N lat, 132°49.16′ W long, to the mainland shoreline at 56°58.70′ N lat, 132°47.32′ W long, west of a line from the mainland shoreline at 56°59.38′ N lat, 132°47.60′ W long, to the southern tip of Spray Island at 56°59.80′ N lat, 132°47.73′ W long, to the northern tip of Spray Island at 57°00.07′ N lat, 132°47.80′ W long, to the mainland shoreline at 57°00.56′ N lat, 132°47.57′ W long, and south of a line from 57°03.00′ N lat, 132°49.62′ W long, to 57°03.00′ N lat, 132°52.03′ W long, with the following restrictions:\n\nSpurt Cove: waters of Spurt Cove are closed northwest of a line from 57°01.98′ N lat, 132°52.49′ W long, to 57°02.08′ N lat, 132°52.37′ W long;\n\nThomas Bay Bluffs: waters northeast of a line from the northern tip of Spray Island at 57°00.07′ N lat, 132°47.80′ W long to a point on the northern boundary line approximately 0.5 nautical mile from the mainland shoreline at 57°03.00′ N lat, 132°50.55′ W long, are closed every Saturday and Sunday of each week from 12:01 a.m., Saturday, to 11:59 p.m., Sunday.\n\nPurse seine: will be open from 5:00 a.m. to 8:00 p.m., Sunday and Thursday each week, from Sunday, June 21, through Thursday, August 6, 2026.\n\nTroll: will be open during those periods the purse seine fishery is closed from 12:01 a.m., Sunday, June 21, through 11:59 p.m., Saturday, August 8, 2026.\n\nChinook Salmon Landing Restrictions for Thomas Bay THA: Chinook salmon retention is permitted in the troll fishery only during general summer troll Chinook salmon retention periods established under 5 AAC 29.100; trollers may retain and sell only those Chinook salmon that are 28 inches or greater in length. Chinook salmon caught in the purse seine fishery 28 inches or greater in length may only be retained during retention periods established by emergency order for the Southeast Alaska purse seine fishery, and Chinook salmon less than 28 inches may be retained but not sold.\n\nThe Emergency Order corresponding with this announcement is EO 1E0126.\n\nThomas Bay THA\n\nApril 10, 2026\n\nThomas Bay THA\n\nApril 10, 2026\n\nFigure 1. –Map of Thomas Bay THA\n\nAdvisory Announcement web site: http://www.adfg.alaska.gov/index.cfm?adfg=cfnews.main.\n\nOffice\n\nKetchikan\n\nPetersburg\n\nWrangell\n\n225-5195\n\n225-5111\n\n772-3801\n\n772-3983\n\n874-3215\n\nSitka\n\n747-6688\n\n747-3254\n\nJuneau\n\n465-4250\n\n465-4000\n\nHaines\n\n766-2830\n\n766-2533\n\nYakutat\n\n784-3255\n\n784-3220"
+}

@@ -1,0 +1,117 @@
+{
+ "release_id": "1767371202",
+ "title": "Little Port Walter Terminal Harvest Area Troll Fishery",
+ "published": "2026-04-15T00:00",
+ "region": "Southeast",
+ "gear": [
+  "troll"
+ ],
+ "species": "salmon",
+ "emergency_order": "1E0326",
+ "contact": "Grant Hagerman, (907) 747-6688",
+ "next_announcement": null,
+ "areas": [
+  {
+   "district": null,
+   "section": null,
+   "status": "open",
+   "period_text": "The Little Port Walter Terminal Harvest Area (THA) commercial salmon troll fishery will open for the harvest of all salmon from 12:01 a.m., Monday, June 1, through 11:59 p.m., Tuesday, June 30, 2026, unless closed by emergency order.",
+   "rules": [
+    {
+     "subject": "Little Port Walter THA boundary",
+     "status": "open",
+     "geometry": "line",
+     "side": "west",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": "56°24.14' N",
+       "lon_dm": "134° 38.05' W"
+      },
+      {
+       "name": null,
+       "lat_dm": "56°23.14' N",
+       "lon_dm": "134° 38.01' W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "The Little Port Walter THA consists of the waters of Port Walter and Little Port Walter, west of a line from 56°24.14' N lat, 134° 38.05' W long to 56°23.14' N lat, 134° 38.01' W long."
+    },
+    {
+     "subject": "Chinook salmon retention June 1–30",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Chinook salmon retention is permitted in the THA during the spring troll fishery from June 1 through June 30."
+    }
+   ]
+  },
+  {
+   "district": null,
+   "section": null,
+   "status": "partial",
+   "period_text": "Beginning at 12:0 a.m., Wednesday, July 1, 2026, the waters of Little Port Walter south and west of a line from 56°23.14' N lat, 134°38.01' W long to 56°23.36' N lat, 134°38.35' W long to 56°23.26' N lat, 134°38.64' W long are closed to troll gear. The waters of Port Walter will remain open to common property commercial troll fisheries through September 20, unless closed by emergency order.",
+   "rules": [
+    {
+     "subject": "Little Port Walter THA boundary",
+     "status": "open",
+     "geometry": "line",
+     "side": "west",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": "56°24.14' N",
+       "lon_dm": "134° 38.05' W"
+      },
+      {
+       "name": null,
+       "lat_dm": "56°23.14' N",
+       "lon_dm": "134° 38.01' W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "The Little Port Walter THA consists of the waters of Port Walter and Little Port Walter, west of a line from 56°24.14' N lat, 134° 38.05' W long to 56°23.14' N lat, 134° 38.01' W long."
+    },
+    {
+     "subject": "Little Port Walter closure to troll gear from July 1",
+     "status": "closed",
+     "geometry": "line",
+     "side": "south and west",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": "56°23.14' N",
+       "lon_dm": "134°38.01' W"
+      },
+      {
+       "name": null,
+       "lat_dm": "56°23.36' N",
+       "lon_dm": "134°38.35' W"
+      },
+      {
+       "name": null,
+       "lat_dm": "56°23.26' N",
+       "lon_dm": "134°38.64' W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "Beginning at 12:0 a.m., Wednesday, July 1, 2026, the waters of Little Port Walter south and west of a line from 56°23.14' N lat, 134°38.01' W long to 56°23.36' N lat, 134°38.35' W long to 56°23.26' N lat, 134°38.64' W long are closed to troll gear."
+    },
+    {
+     "subject": "Chinook salmon retention from July 1",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Beginning at 12:01 a.m., July 1, Chinook salmon may be retained and possessed in the waters of Port Walter only during open Chinook salmon retention periods."
+    }
+   ]
+  }
+ ],
+ "_parser": "9d390c40",
+ "_parser_kept": "new parse would open what the old kept closed or partial: a region-wide opening",
+ "full_text": "Forrest Bowers, Acting Director\n\nDoug Vincent-Lang, Commissioner\n\nSitka Area Office 304 Lake Street Room 103 Sitka, AK 99835\n\nAdvisory Announcement For Immediate Release: April 15, 2026\n\nJuneau, AK 99811-5526\n\nCONTACT: Grant Hagerman Region I Commercial Troll Management Biologist grant.hagerman@alaska.gov (907) 747-6688\n\nLITTLE PORT WALTER TERMINAL HARVEST AREA TROLL FISHERY\n\nThe Little Port Walter Terminal Harvest Area (THA) commercial salmon troll fishery will open for the harvest of all salmon from 12:01 a.m., Monday, June 1, through 11:59 p.m., Tuesday, June 30, 2026, unless closed by emergency order. The Northern Southeast Regional Aquaculture Association is forecasting a total run of approximately 1,100 hatcheryproduced Chinook salmon for the Little Port Walter THA.\n\nThe Little Port Walter THA (statistical area 109-10) consists of the waters of Port Walter and Little Port Walter, west of a line from 56°24.14' N lat, 134° 38.05' W long to 56°23.14' N lat, 134° 38.01' W long.\n\nBeginning 12:0 a.m., Wednesday, July 1, 2026, the waters of Little Port Walter south and west of a line from 56°23.14' N lat, 134°38.01' W long to 56°23.36' N lat, 134°38.35' W long to 56°23.26' N lat, 134°38.64' W long are closed to troll gear. The waters of Port Walter will remain open to common property commercial troll fisheries through September 20, unless closed by emergency order.\n\nChinook salmon retention is permitted in the THA during the spring troll fishery from June 1 through June 30. Beginning at 12:01 a.m., July 1, Chinook salmon may be retained and possessed in the waters of Port Walter only during open Chinook salmon retention periods established for the summer troll fishery under 5 AAC 29.100(c).\n\nThe Emergency Order corresponding to this announcement is EO 1E0326.\n\nAdvisory Announcement web site: http://www.adfg.alaska.gov/index.cfm?adfg=cfnews.main.\n\nOffice\n\nTroll Hotline\n\nKetchikan\n\nPetersburg\n\nSitka\n\nJuneau\n\nHaines\n\nHoonah\n\nYakutat\n\n225-5195 225-5111 225-6870\n\n772-3801 772-3983\n\n747-6688 747-3254 747-8765\n\n465-4250 465-4000 465-8765\n\n766-2830\n\n784-3255\n\n945-3620\n\nLittle Port Walter THA Troll Fishery\n\nApril 15, 2026\n\nLittle Port Walter THA Troll Fishery page 2 of 2\n\nApril 15, 2026\n\nFigure 1.–Little Port Walter Terminal Harvest Area (THA)."
+}

@@ -1,0 +1,84 @@
+{
+ "source": "2025-2028 Southeastern Alaska/Yakutat Areas Commercial Salmon Fishing Regulations",
+ "source_url": "https://www.adfg.alaska.gov/static/regulations/fishregulations/pdfs/commercial/cf_se_yakutat_salmon_regs_2025_2028.pdf",
+ "text_source_url": "https://www.law.cornell.edu/regulations/alaska/5-AAC-33.200",
+ "extraction_note": "The ADF&G booklet PDF could not be read past Chapter 30 (Yakutat) through the available fetch channel - Chapter 33 was truncated and returned NOT FOUND on repeated attempts, and direct download of the PDF is blocked by this environment's egress policy. The regulation text below was therefore taken from the Cornell LII published text of 5 AAC 33.200 (the same Alaska Administrative Code section the booklet reprints), whose amendment history runs through am 7/28/2023, Register 247, October 2023. Every coordinate was extracted three independent times using differently-worded prompts (chunked verbatim transcription, one-token-per-line enumeration, comma-split fragment listing) and only values identical across passes were recorded. Verbatim 'text' fields are reconstructed from consecutive <=100-character verbatim chunks and confirmed against a comma-split pass; the degree symbol was normalized to U+00B0 where the upstream rendering intermittently emitted a double-quote character.",
+ "citation": "5 AAC 33.200",
+ "retrieved": "2026-08-23",
+ "notation": "degrees and decimal minutes, e.g. \"55° 46.87' N. lat.\" / \"133° 42.10' W. long.\" — NOT degrees-minutes-seconds; minutes are printed to two decimal places; recorded as printed, unconverted",
+ "areas": [
+  {
+   "kind": "district",
+   "name": "District 3",
+   "parent": null,
+   "citation": "5 AAC 33.200(c)",
+   "text": "(c) District 3: all waters north and west of a line from Point Marsh Light at 54° 42.70' N. lat., 132° 17.72' W. long., then due south to a point in Dixon Entrance at 54° 40.00' N. lat., 132° 17.50' W. long., to the southernmost tip of Cape Muzon at 54° 39.82' N. lat., 132° 41.29' W. long., and east of a line from the northernmost tip of Eagle Point on Dall Island at 55° 14.53' N. lat., 133° 13.28' W. long., and passing successively through the westernmost tip of Point Arboleda at 55° 19.10' N. lat., 133° 27.81' W. long., the southernmost tip of Point San Roque at 55° 20.13' N. lat., 133° 32.70' W. long., the northernmost tip of Cape Ulitka at 55° 33.76' N. lat., 133° 43.73' W. long., the Cape Lynch Light at 55° 46.87' N. lat., 133° 42.10' W. long., to the southwest entrance point of Halibut Harbor on Kosciusko Island at 55° 54.99' N. lat., 133° 47.64' W. long., and south of the latitude of Aneskett Point at 56° 08.85' N. lat.;",
+   "points": [
+    {"name": "Point Marsh Light", "lat_dm": "54° 42.70' N. lat.", "lon_dm": "132° 17.72' W. long."},
+    {"name": "point in Dixon Entrance", "lat_dm": "54° 40.00' N. lat.", "lon_dm": "132° 17.50' W. long."},
+    {"name": "southernmost tip of Cape Muzon", "lat_dm": "54° 39.82' N. lat.", "lon_dm": "132° 41.29' W. long."},
+    {"name": "northernmost tip of Eagle Point on Dall Island", "lat_dm": "55° 14.53' N. lat.", "lon_dm": "133° 13.28' W. long."},
+    {"name": "westernmost tip of Point Arboleda", "lat_dm": "55° 19.10' N. lat.", "lon_dm": "133° 27.81' W. long."},
+    {"name": "southernmost tip of Point San Roque", "lat_dm": "55° 20.13' N. lat.", "lon_dm": "133° 32.70' W. long."},
+    {"name": "northernmost tip of Cape Ulitka", "lat_dm": "55° 33.76' N. lat.", "lon_dm": "133° 43.73' W. long."},
+    {"name": "Cape Lynch Light", "lat_dm": "55° 46.87' N. lat.", "lon_dm": "133° 42.10' W. long."},
+    {"name": "southwest entrance point of Halibut Harbor on Kosciusko Island", "lat_dm": "55° 54.99' N. lat.", "lon_dm": "133° 47.64' W. long."},
+    {"name": "Aneskett Point", "lat_dm": "56° 08.85' N. lat.", "lon_dm": null}
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "section",
+   "name": "Section 3-A",
+   "parent": "District 3",
+   "citation": "5 AAC 33.200(c)(1)",
+   "text": "(1) Section 3-A: waters of District 3 south and east of a line through Tlevak Narrows beginning at the easternmost tip of Turn Point at 55° 15.74' N. lat., 133° 07.33' W. long., to a point on Prince of Wales Island at 55° 15.70' N. lat., 133° 06.50' W. long., including Soda Bay and its contiguous waters, but excluding all waters of Meares Pass and its contiguous waters;",
+   "points": [
+    {"name": "Tlevak Narrows", "lat_dm": null, "lon_dm": null},
+    {"name": "easternmost tip of Turn Point", "lat_dm": "55° 15.74' N. lat.", "lon_dm": "133° 07.33' W. long."},
+    {"name": "point on Prince of Wales Island", "lat_dm": "55° 15.70' N. lat.", "lon_dm": "133° 06.50' W. long."}
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "section",
+   "name": "Section 3-B",
+   "parent": "District 3",
+   "citation": "5 AAC 33.200(c)(2)",
+   "text": "(2) Section 3-B: waters of District 3 south of the latitude of Point Swift at 55° 45.78' N. lat., including all waters of Warm Chuck Inlet, Iphigenia Bay south of Cape Lynch Light at 55° 46.87' N. lat., 133° 42.10' W. long., excluding all waters of Tuxekan Passage and its contiguous waters, and waters of District 3 north of a line through Tlevak Narrows beginning at the easternmost tip of Turn Point located at 55° 15.74' N. lat., 133° 07.33' W. long., to a point on Prince of Wales Island at 55° 15.70' N. lat., 133° 06.50' W. long., including all waters of Meares Pass and its contiguous waters, but excluding all of waters of Soda Bay and its contiguous waters;",
+   "points": [
+    {"name": "Point Swift", "lat_dm": "55° 45.78' N. lat.", "lon_dm": null},
+    {"name": "Cape Lynch Light", "lat_dm": "55° 46.87' N. lat.", "lon_dm": "133° 42.10' W. long."},
+    {"name": "Tlevak Narrows", "lat_dm": null, "lon_dm": null},
+    {"name": "easternmost tip of Turn Point", "lat_dm": "55° 15.74' N. lat.", "lon_dm": "133° 07.33' W. long."},
+    {"name": "point on Prince of Wales Island", "lat_dm": "55° 15.70' N. lat.", "lon_dm": "133° 06.50' W. long."}
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "section",
+   "name": "Section 3-C",
+   "parent": "District 3",
+   "citation": "5 AAC 33.200(c)(3)",
+   "text": "(3) Section 3-C: waters of District 3 north of the latitude of Point Swift at 55° 45.78' N. lat., including all waters of Tuxekan Passage and its contiguous waters, but excluding all waters of Warm Chuck Inlet, Iphigenia Bay south of Cape Lynch Light at 55° 46.87' N. lat., 133° 42.10' W. long.",
+   "points": [
+    {"name": "Point Swift", "lat_dm": "55° 45.78' N. lat.", "lon_dm": null},
+    {"name": "Cape Lynch Light", "lat_dm": "55° 46.87' N. lat.", "lon_dm": "133° 42.10' W. long."}
+   ],
+   "verified_twice": true
+  },
+  {
+   "kind": "district",
+   "name": "District 4",
+   "parent": null,
+   "citation": "5 AAC 33.200(d)",
+   "text": "(d) District 4: all waters north of the latitude of the southernmost tip of Cape Muzon, at 54° 39.82' N. lat., 132° 41.29' W. long., west of District 3, and south of a line from Helm Point Light on Coronation Island at 55° 49.59' N. lat., 134° 16.19' W. long., to Cape Lynch Light at 55° 46.87' N. lat., 133° 42.10' W. long.",
+   "points": [
+    {"name": "southernmost tip of Cape Muzon", "lat_dm": "54° 39.82' N. lat.", "lon_dm": "132° 41.29' W. long."},
+    {"name": "Helm Point Light on Coronation Island", "lat_dm": "55° 49.59' N. lat.", "lon_dm": "134° 16.19' W. long."},
+    {"name": "Cape Lynch Light", "lat_dm": "55° 46.87' N. lat.", "lon_dm": "133° 42.10' W. long."}
+   ],
+   "verified_twice": true
+  }
+ ]
+}
