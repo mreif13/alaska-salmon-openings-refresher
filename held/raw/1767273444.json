@@ -1,0 +1,117 @@
+{
+ "release_id": "1767273444",
+ "title": "Crawfish Inlet Terminal Harvest Area Troll Fishery",
+ "published": "2026-04-15T00:00",
+ "region": "Southeast",
+ "gear": [
+  "troll"
+ ],
+ "species": "salmon",
+ "emergency_order": "1E0926",
+ "contact": "Grant Hagerman, (907) 747-6688",
+ "next_announcement": null,
+ "areas": [
+  {
+   "district": null,
+   "section": null,
+   "status": "open",
+   "period_text": "The Crawfish Inlet Terminal Harvest Area (THA) salmon troll fishery will be open for the harvest of salmon from 12:01 a.m., Monday, June 1, through 11:59 p.m., Sunday, September 20, 2026, unless closed by emergency order.",
+   "rules": [
+    {
+     "subject": "Crawfish Inlet THA boundary",
+     "status": "open",
+     "geometry": "polygon",
+     "side": null,
+     "points": [
+      {
+       "name": null,
+       "lat_dm": "56°44.21′ N",
+       "lon_dm": "135°15.76′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "56°43.30′ N",
+       "lon_dm": "135°17.80′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "56°41.93′ N",
+       "lon_dm": "135°17.54′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "56°41.14′ N",
+       "lon_dm": "135°13.80′ W"
+      },
+      {
+       "name": "Jamboree Bay and Cedar Pass northern limit",
+       "lat_dm": "56°47.14′ N",
+       "lon_dm": null
+      },
+      {
+       "name": "Crawfish Inlet eastern limit",
+       "lat_dm": null,
+       "lon_dm": "135°11.05′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "The Crawfish Inlet THA (statistical area 113-33) consists of the waters east of a line from 56°44.21′ N lat, 135°15.76′ W long, to 56°43.30′ N lat, 135°17.80′ W long, to 56°41.93′ N lat, 135°17.54′ W long, to 56°41.14′ N lat, 135°13.80′ W long, including the waters of Jamboree Bay and Cedar Pass south of 56°47.14′ N lat, and Crawfish Inlet west of 135°11.05′ W long."
+    },
+    {
+     "subject": "Crawfish Inlet Special Harvest Area (SHA)",
+     "status": "closed",
+     "geometry": "lon_cutoff",
+     "side": "east",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": null,
+       "lon_dm": "135°11.05′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "The waters of the Crawfish Inlet Special Harvest Area (SHA) east of 135°11.05′ W long are closed"
+    },
+    {
+     "subject": "Chinook salmon retention June 1–30",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Chinook salmon retention is permitted in the Crawfish Inlet THA during the spring troll fishery from June 1 through June 30."
+    },
+    {
+     "subject": "Chinook salmon retention from July 1",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Beginning at 12:01 a.m., July 1, Chinook salmon may be retained and possessed in the Crawfish THA only during open Chinook salmon retention periods established for the summer troll fishery under 5 AAC 29.100(c)."
+    },
+    {
+     "subject": "Retention during troll fishery closure (5 AAC 29.112)",
+     "status": "closed",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "coho and Chinook salmon may not be retained during the troll fishery closure (5 AAC 29.112)."
+    },
+    {
+     "subject": "Troll exclusive area outside the SHA",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The troll fishery will remain open continuously in the troll exclusive area outside the waters of the Crawfish Inlet SHA from June 1 through September 20, unless closed by emergency order."
+    }
+   ]
+  }
+ ],
+ "_parser": "9d390c40",
+ "_parser_kept": "new parse would open what the old kept closed or partial: a region-wide opening",
+ "full_text": "Forrest Bowers, Acting Director\n\nDoug Vincent-Lang, Commissioner\n\nSitka Area Office 304 Lake Street Room 103 Sitka, AK 99835\n\nAdvisory Announcement For Immediate Release: April 15, 2026\n\nJuneau, AK 99811-5526\n\nCONTACT: Grant Hagerman Region I Commercial Troll Management Biologist grant.hagerman@alaska.gov (907) 747-6688\n\nCRAWFISH INLET TERMINAL HARVEST AREA TROLL FISHERY\n\nThe Crawfish Inlet Terminal Harvest Area (THA) salmon troll fishery will be open for the harvest of salmon from 12:01 a.m., Monday, June 1, through 11:59 p.m., Sunday, September 20, 2026, unless closed by emergency order.\n\nThe Crawfish Inlet THA (statistical area 113-33) consists of the waters east of a line from 56°44.21′ N lat, 135°15.76′ W long, to 56°43.30′ N lat, 135°17.80′ W long, to 56°41.93′ N lat, 135°17.54′ W long, to 56°41.14′ N lat, 135°13.80′ W long, including the waters of Jamboree Bay and Cedar Pass south of 56°47.14′ N lat, and Crawfish Inlet west of 135°11.05′ W long (Figure 1). The waters of the Crawfish Inlet Special Harvest Area (SHA) east of 135°11.05′ W long are closed for the season. Troll fishery participants are advised that the bolded coordinates have been modified by emergency order to position the location of the THA boundary point on the shoreline of Lodge Island.\n\nChinook salmon Chinook salmon retention is permitted in the Crawfish Inlet THA during the spring troll fishery from June 1 through June 30. Beginning at 12:01 a.m., July 1, Chinook salmon may be retained and possessed in the Crawfish THA only during open Chinook salmon retention periods established for the summer troll fishery under 5 AAC 29.100(c).\n\nOther salmon Coho, chum, pink, and sockeye salmon retention is permitted during open fishing periods from June 1 through September 20. Under the provisions of the Chum Salmon Troll Fishery Management Plan, the commissioner may open a hatchery chum salmon troll fishery in the Crawfish Inlet THA and adjacent waters of West Crawfish Inlet where trollers may target chum salmon during the summer coho troll fishery closure. Chum, pink, and sockeye salmon may be retained; however, coho and Chinook salmon may not be retained during the troll fishery closure (5 AAC 29.112). Information on modifications to the THA and open fishing area in West Crawfish Inlet under provisions of the chum salmon fishery plan will be provided in a future advisory announcement detailing any summer troll fishery coho salmon conservation closures. THA Troll fishery NSRAA is forecasting a total run of 281,000 chum salmon to Crawfish Inlet THA in 2026. The troll fishery will remain open continuously in the troll exclusive area outside the waters of the Crawfish Inlet SHA from June 1 through September 20, unless closed by emergency order.\n\nChum salmon cost recovery and seine fishery The remainder of the Crawfish Inlet THA chum salmon run will be taken for cost recovery. Notwithstanding the troll exclusive area fishery, no common property fishery openings will occur in the THA in 2026.\n\nThe Emergency Order corresponding to this announcement is EO 1E0926 Advisory Announcement web site: http://www.adfg.alaska.gov/index.cfm?adfg=cfnews.main.\n\nOffice\n\nTroll Hotline\n\nKetchikan\n\nPetersburg\n\nSitka\n\nJuneau\n\nHaines\n\nHoonah\n\nYakutat\n\n225-5195 225-5111 225-6870\n\n772-3801 772-3983\n\n747-6688 747-3254 747-8765\n\n465-4250 465-4000 465-8765\n\n766-2830\n\n784-3255\n\n945-3620\n\nCrawfish Inlet THA Troll Fishery\n\nApril 15, 2026\n\nCrawfish Inlet THA Troll Fishery page 2 of 2\n\nApril 15, 2026\n\nFigure 1.–West Crawfish Inlet Spring Troll and Crawfish Inlet Terminal and Special Harvest Areas."
+}

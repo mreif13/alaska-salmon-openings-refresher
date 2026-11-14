@@ -1,0 +1,5967 @@
+{
+ "source": "5 AAC 33 (Southeastern Alaska Area), Article 3 - Salmon Fishery; content of the 2025-2028 Southeastern Alaska/Yakutat Areas Commercial Salmon Fishing Regulations",
+ "source_url": "https://www.adfg.alaska.gov/static/regulations/fishregulations/pdfs/commercial/cf_se_yakutat_salmon_regs_2025_2028.pdf",
+ "text_retrieved_from": [
+  "https://www.law.cornell.edu/regulations/alaska/5-AAC-33.350 (and per-section pages 5-AAC-33.369 through 5-AAC-33.389)",
+  "https://regulations.justia.com/states/alaska/title-5/part-1/chapter-33/article-3/section-5-aac-33-350/"
+ ],
+ "citation": "5 AAC 33.350 (closed waters); 5 AAC 33.369-33.389 (terminal harvest area management plans)",
+ "retrieved": "2026-08-23",
+ "notation": "degrees and decimal minutes, e.g. \"57° 16.28' N. lat.\" / \"134° 48.00' W. long.\" - NOT degrees-minutes-seconds. lat_dm/lon_dm hold the value EXACTLY as printed, including source typos. lat/lon hold decimal degrees computed as degrees + minutes/60, negative for west longitude, and are null wherever the printed value falls outside the Southeast bounding box (lat 54-60, lon -138 to -130) - such values were never corrected or guessed.",
+ "source_document_caveat": "The ADF&G PDF named in source_url could not be read past its Chapter 30 (Yakutat) material: the fetch relay truncates the document before 5 AAC 33 Article 3, and direct download of the PDF is blocked by network policy. All text here therefore comes from two independent Alaska Administrative Code mirrors, cross-checked against each other. The History note on 5 AAC 33.350 ends at 'am 7/28/2023, Register 247, October 2023', so the mirrors may not reflect any Board of Fisheries amendment adopted after that date. VERIFY AGAINST THE PRINTED REGULATION BEFORE RELYING ON ANY LINE FOR ENFORCEMENT OR FISHING DECISIONS.",
+ "verification_method": "Every area was read twice, by two differently-worded fetches, and in most cases across two different hosts. Only values identical in both reads are recorded as verified_twice=true. Items marked verified_twice=false were reproduced by a single read and are flagged in their notes as provisional.",
+ "areas": [
+  {
+   "kind": "closed_water",
+   "name": "Southeastern Alaska Area closed waters - applicability",
+   "parent": null,
+   "citation": "5 AAC 33.350(a)",
+   "subsection": "(a)",
+   "text": "The waters listed in this section are closed to the taking of salmon with net gear.",
+   "points": [],
+   "verified_twice": true,
+   "notes": "Scope statement for the whole section. These closures stand on their own: they apply whether or not an emergency-order announcement repeats them."
+  },
+  {
+   "kind": "closed_water",
+   "name": "Behm Canal",
+   "parent": "District 1",
+   "citation": "5 AAC 33.350(b)(1)",
+   "subsection": "(b)",
+   "text": "Behm Canal: waters between a line from Nose Point at 55° 48.32' N. lat., 131°42.53' W. long., to Snail Point at 55° 49.47' N. lat., 131° 46.25' W. long., and a line from Cactus Point at 55° 33.29' N. lat., 130° 56.59' W. long., to Point Eva at 55° 33.61' N. lat. 130° 52.60' W. long.",
+   "points": [
+    {
+     "name": "Nose Point",
+     "lat_dm": "55° 48.32' N. lat.",
+     "lon_dm": "131°42.53' W. long.",
+     "lat": 55.805333,
+     "lon": -131.708833
+    },
+    {
+     "name": "Snail Point",
+     "lat_dm": "55° 49.47' N. lat.",
+     "lon_dm": "131° 46.25' W. long.",
+     "lat": 55.8245,
+     "lon": -131.770833
+    },
+    {
+     "name": "Cactus Point",
+     "lat_dm": "55° 33.29' N. lat.",
+     "lon_dm": "130° 56.59' W. long.",
+     "lat": 55.554833,
+     "lon": -130.943167
+    },
+    {
+     "name": "Point Eva",
+     "lat_dm": "55° 33.61' N. lat.",
+     "lon_dm": "130° 52.60' W. long.",
+     "lat": 55.560167,
+     "lon": -130.876667
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Boca De Quadra",
+   "parent": "District 1",
+   "citation": "5 AAC 33.350(b)(2)",
+   "subsection": "(b)",
+   "text": "Boca De Quadra: waters east of 130° 50'.00 W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "130° 50'.00 W. long.",
+     "lat": null,
+     "lon": -130.833333
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Bostwick Inlet",
+   "parent": "District 1",
+   "citation": "5 AAC 33.350(b)(3)",
+   "subsection": "(b)",
+   "text": "Bostwick Inlet: waters north and west of a line from 55° 13.40' N. lat., 131° 41.90' W. long., to 55° 11.83' N. lat., 131° 42.95' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "55° 13.40' N. lat.",
+     "lon_dm": "131° 41.90' W. long.",
+     "lat": 55.223333,
+     "lon": -131.698333
+    },
+    {
+     "name": null,
+     "lat_dm": "55° 11.83' N. lat.",
+     "lon_dm": "131° 42.95' W. long.",
+     "lat": 55.197167,
+     "lon": -131.715833
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Carroll Inlet",
+   "parent": "District 1",
+   "citation": "5 AAC 33.350(b)(4)",
+   "subsection": "(b)",
+   "text": "Carroll Inlet: waters north of 55° 24.27' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "55° 24.27' N. lat.",
+     "lon_dm": null,
+     "lat": 55.4045,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Clover Passage",
+   "parent": "District 1",
+   "citation": "5 AAC 33.350(b)(5)",
+   "subsection": "(b)",
+   "text": "Clover Passage: waters east of a line from the easternmost tip of Survey Point at 55° 28.09' N. lat., 131° 49.87' W. long., to the southernmost tip of Betton Island at 55° 29.11' N. lat., 131° 49.69' W. long., and south of the latitude of the southernmost tip of Hump Island at 55° 30.95' N. lat.",
+   "points": [
+    {
+     "name": "Survey Point",
+     "lat_dm": "55° 28.09' N. lat.",
+     "lon_dm": "131° 49.87' W. long.",
+     "lat": 55.468167,
+     "lon": -131.831167
+    },
+    {
+     "name": "Betton Island",
+     "lat_dm": "55° 29.11' N. lat.",
+     "lon_dm": "131° 49.69' W. long.",
+     "lat": 55.485167,
+     "lon": -131.828167
+    },
+    {
+     "name": "Hump Island",
+     "lat_dm": "55° 30.95' N. lat.",
+     "lon_dm": null,
+     "lat": 55.515833,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Willard Inlet, Fillmore Inlet and Edwards Passage",
+   "parent": "District 1",
+   "citation": "5 AAC 33.350(b)(6)",
+   "subsection": "(b)",
+   "text": "Willard Inlet, Fillmore Inlet and Edwards Passage: waters north of the latitudes of Male Point at 54° 47.58' N. lat., and of Akeku Point at 54° 50.03' N. lat.",
+   "points": [
+    {
+     "name": "Male Point",
+     "lat_dm": "54° 47.58' N. lat.",
+     "lon_dm": null,
+     "lat": 54.793,
+     "lon": null
+    },
+    {
+     "name": "Akeku Point",
+     "lat_dm": "54° 50.03' N. lat.",
+     "lon_dm": null,
+     "lat": 54.833833,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "George Inlet",
+   "parent": "District 1",
+   "citation": "5 AAC 33.350(b)(7)",
+   "subsection": "(b)",
+   "text": "George Inlet: waters north of the latitude of California Head at 55° 19.57' N. lat.",
+   "points": [
+    {
+     "name": "California Head",
+     "lat_dm": "55° 19.57' N. lat.",
+     "lon_dm": null,
+     "lat": 55.326167,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Helm Bay and Smugglers Cove",
+   "parent": "District 1",
+   "citation": "5 AAC 33.350(b)(8)",
+   "subsection": "(b)",
+   "text": "Helm Bay and Smugglers Cove: waters west of a line from the southernmost tip of Helm Point at 55° 36.01' N. lat., 131° 53.71' W. long., to Helm Bay Light at 55° 34.84' N. lat., 131° 55.72' W. long., to the Cleveland Peninsula at 55° 34.16' N. lat., 131° 56.42' W. long.",
+   "points": [
+    {
+     "name": "Helm Point",
+     "lat_dm": "55° 36.01' N. lat.",
+     "lon_dm": "131° 53.71' W. long.",
+     "lat": 55.600167,
+     "lon": -131.895167
+    },
+    {
+     "name": "Helm Bay",
+     "lat_dm": "55° 34.84' N. lat.",
+     "lon_dm": "131° 55.72' W. long.",
+     "lat": 55.580667,
+     "lon": -131.928667
+    },
+    {
+     "name": "Cleveland Peninsula",
+     "lat_dm": "55° 34.16' N. lat.",
+     "lon_dm": "131° 56.42' W. long.",
+     "lat": 55.569333,
+     "lon": -131.940333
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Hidden Inlet",
+   "parent": "District 1",
+   "citation": "5 AAC 33.350(b)(9)",
+   "subsection": "(b)",
+   "text": "Hidden Inlet: waters north of the latitude of Hidden Point at 54° 56.75' N. lat.",
+   "points": [
+    {
+     "name": "Hidden Point",
+     "lat_dm": "54° 56.75' N. lat.",
+     "lon_dm": null,
+     "lat": 54.945833,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Lucky Cove",
+   "parent": "District 1",
+   "citation": "5 AAC 33.350(b)(10)",
+   "subsection": "(b)",
+   "text": "Lucky Cove: waters within 1,000 yards of the stream terminus at 55° 12.65' N. lat, 13° 15.95' W long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "55° 12.65' N. lat",
+     "lon_dm": "13° 15.95' W long.",
+     "lat": 55.210833,
+     "lon": null,
+     "flag": "longitude out of Southeast bbox -138 to -130; recorded as printed, decimal withheld"
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Moser Bay and Long Arm",
+   "parent": "District 1",
+   "citation": "5 AAC 33.350(b)(11)",
+   "subsection": "(b)",
+   "text": "Moser Bay and Long Arm: waters south and east of a line from Cod Point at 55° 34.35' N. lat., 131° 39.45' W long., to 55° 33.96' N. lat., 131° 40.99' W. long.",
+   "points": [
+    {
+     "name": "Cod Point",
+     "lat_dm": "55° 34.35' N. lat.",
+     "lon_dm": "131° 39.45' W long.",
+     "lat": 55.5725,
+     "lon": -131.6575
+    },
+    {
+     "name": null,
+     "lat_dm": "55° 33.96' N. lat.",
+     "lon_dm": "131° 40.99' W. long.",
+     "lat": 55.566,
+     "lon": -131.683167
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Naha Bay",
+   "parent": "District 1",
+   "citation": "5 AAC 33.350(b)(12)",
+   "subsection": "(b)",
+   "text": "Naha Bay: waters east of 131° 38.30' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "131° 38.30' W. long.",
+     "lat": null,
+     "lon": -131.638333
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Nakat Bay",
+   "parent": "District 1",
+   "citation": "5 AAC 33.350(b)(13)",
+   "subsection": "(b)",
+   "text": "Nakat Bay: waters north of the latitude of High Point at 54° 47.57' N. lat.",
+   "points": [
+    {
+     "name": "High Point",
+     "lat_dm": "54° 47.57' N. lat.",
+     "lon_dm": null,
+     "lat": 54.792833,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Port Stewart",
+   "parent": "District 1",
+   "citation": "5 AAC 33.350(b)(14)",
+   "subsection": "(b)",
+   "text": "Port Stewart: waters west of a line from 55° 43.11' N. lat., 131° 49.57' W. long., to 55° 41.52' N. lat., 131° 50.14' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "55° 43.11' N. lat.",
+     "lon_dm": "131° 49.57' W. long.",
+     "lat": 55.7185,
+     "lon": -131.826167
+    },
+    {
+     "name": null,
+     "lat_dm": "55° 41.52' N. lat.",
+     "lon_dm": "131° 50.14' W. long.",
+     "lat": 55.692,
+     "lon": -131.835667
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Portland Canal",
+   "parent": "District 1",
+   "citation": "5 AAC 33.350(b)(15)",
+   "subsection": "(b)",
+   "text": "Portland Canal: waters north of the latitude of Engineer Point at 55° 47.85' N. lat.",
+   "points": [
+    {
+     "name": "Engineer Point",
+     "lat_dm": "55° 47.85' N. lat.",
+     "lon_dm": null,
+     "lat": 55.7975,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Ray Anchorage",
+   "parent": "District 1",
+   "citation": "5 AAC 33.350(b)(16)",
+   "subsection": "(b)",
+   "text": "Ray Anchorage: waters inside a line between 54° 56.67' N. lat., 131° 14.06' W. long., and 54° 55.68' N. lat., 131° 13.02' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "54° 56.67' N. lat.",
+     "lon_dm": "131° 14.06' W. long.",
+     "lat": 54.9445,
+     "lon": -131.234333
+    },
+    {
+     "name": null,
+     "lat_dm": "54° 55.68' N. lat.",
+     "lon_dm": "131° 13.02' W. long.",
+     "lat": 54.928,
+     "lon": -131.217
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Raymond Cove",
+   "parent": "District 1",
+   "citation": "5 AAC 33.350(b)(17)",
+   "subsection": "(b)",
+   "text": "Raymond Cove: waters west of a line from Mike Point at 55° 37.38' N. lat., 131° 52.90' W. long., to 55° 37.86' N. lat., 131° 51.83' W. long.",
+   "points": [
+    {
+     "name": "Mike Point",
+     "lat_dm": "55° 37.38' N. lat.",
+     "lon_dm": "131° 52.90' W. long.",
+     "lat": 55.623,
+     "lon": -131.881667
+    },
+    {
+     "name": null,
+     "lat_dm": "55° 37.86' N. lat.",
+     "lon_dm": "131° 51.83' W. long.",
+     "lat": 55.631,
+     "lon": -131.863833
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Rudyerd Bay",
+   "parent": "District 1",
+   "citation": "5 AAC 33.350(b)(18)",
+   "subsection": "(b)",
+   "text": "Rudyerd Bay: waters east of 130° 42.45' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "130° 42.45' W. long.",
+     "lat": null,
+     "lon": -130.7075
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Smeaton Bay",
+   "parent": "District 1",
+   "citation": "5 AAC 33.350(b)(19)",
+   "subsection": "(b)",
+   "text": "Smeaton Bay: waters east of 130° 43.50' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "130° 43.50' W. long.",
+     "lat": null,
+     "lon": -130.725
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Thome Arm",
+   "parent": "District 1",
+   "citation": "5 AAC 33.350(b)(20)",
+   "subsection": "(b)",
+   "text": "Thome Arm: waters north of the latitude of Eve Point at 55° 18.89 N. lat.",
+   "points": [
+    {
+     "name": "Eve Point",
+     "lat_dm": "55° 18.89 N. lat.",
+     "lon_dm": null,
+     "lat": 55.314833,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Tombstone Bay",
+   "parent": "District 1",
+   "citation": "5 AAC 33.350(b)(21)",
+   "subsection": "(b)",
+   "text": "Tombstone Bay: waters of Portland Canal south of the latitude of Turn Point at 55° 24.90' N. lat., and Breezy Point at 55° 21.50' N. lat.",
+   "points": [
+    {
+     "name": "Turn Point",
+     "lat_dm": "55° 24.90' N. lat.",
+     "lon_dm": null,
+     "lat": 55.415,
+     "lon": null
+    },
+    {
+     "name": "Breezy Point",
+     "lat_dm": "55° 21.50' N. lat.",
+     "lon_dm": null,
+     "lat": 55.358333,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Tongass Narrows",
+   "parent": "District 1",
+   "citation": "5 AAC 33.350(b)(22)",
+   "subsection": "(b)",
+   "text": "Tongass Narrows: waters south of a line from Point Higgins at 55° 27.43' N. lat, 131° 50.03' W. long., to Vallenar Point at 55° 25.58' N. at, 131° 51.10' W. long., and north of a line from Gravina Point at 55° 17.13' N. lat, 131° 37.17' W. long., to the Mountain Point Light at 55° 17.62' N. lat. 131° 32.91' W. long.",
+   "points": [
+    {
+     "name": "Point Higgins",
+     "lat_dm": "55° 27.43' N. lat",
+     "lon_dm": "131° 50.03' W. long.",
+     "lat": 55.457167,
+     "lon": -131.833833
+    },
+    {
+     "name": "Vallenar Point",
+     "lat_dm": "55° 25.58' N. at",
+     "lon_dm": "131° 51.10' W. long.",
+     "lat": 55.426333,
+     "lon": -131.851667
+    },
+    {
+     "name": "Gravina Point",
+     "lat_dm": "55° 17.13' N. lat",
+     "lon_dm": "131° 37.17' W. long.",
+     "lat": 55.2855,
+     "lon": -131.6195
+    },
+    {
+     "name": "Mountain Point",
+     "lat_dm": "55° 17.62' N. lat.",
+     "lon_dm": "131° 32.91' W. long.",
+     "lat": 55.293667,
+     "lon": -131.5485
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Traitors Cove",
+   "parent": "District 1",
+   "citation": "5 AAC 33.350(b)(23)",
+   "subsection": "(b)",
+   "text": "Traitors Cove: waters east of 131 41.88' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "131 41.88' W. long.",
+     "lat": null,
+     "lon": -131.698
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Vallenar Bay",
+   "parent": "District 1",
+   "citation": "5 AAC 33.350(b)(24)",
+   "subsection": "(b)",
+   "text": "Vallenar Bay: waters south of a line from 55° 23.75' N. lat., 131° 50.94' W. long., to 55° 22.88' N. lat, 131° 51.92' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "55° 23.75' N. lat.",
+     "lon_dm": "131° 50.94' W. long.",
+     "lat": 55.395833,
+     "lon": -131.849
+    },
+    {
+     "name": null,
+     "lat_dm": "55° 22.88' N. lat",
+     "lon_dm": "131° 51.92' W. long.",
+     "lat": 55.381333,
+     "lon": -131.865333
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Very Inlet",
+   "parent": "District 1",
+   "citation": "5 AAC 33.350(b)(25)",
+   "subsection": "(b)",
+   "text": "Very Inlet: waters inside of a line from 54° 57.73' N. lat., 130° 57.73' W. long., to 54° 57.73' N. lat., 130° 56.98' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "54° 57.73' N. lat.",
+     "lon_dm": "130° 57.73' W. long.",
+     "lat": 54.962167,
+     "lon": -130.962167
+    },
+    {
+     "name": null,
+     "lat_dm": "54° 57.73' N. lat.",
+     "lon_dm": "130° 56.98' W. long.",
+     "lat": 54.962167,
+     "lon": -130.949667
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Cholmondeley Sound",
+   "parent": "District 2",
+   "citation": "5 AAC 33.350(c)(1)",
+   "subsection": "(c)",
+   "text": "Cholmondeley Sound: (A) Dora Bay, Kitkun Bay, and Lancaster Cove: waters south of 55° 13.05' N. lat.; (B) South Arm, West Arm, and Sunny Cove: waters west of 132° 14.47 W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "55° 13.05' N. lat.",
+     "lon_dm": null,
+     "lat": 55.2175,
+     "lon": null
+    },
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "132° 14.47 W. long.",
+     "lat": null,
+     "lon": -132.241167
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Kasaan Bay",
+   "parent": "District 2",
+   "citation": "5 AAC 33.350(c)(2)",
+   "subsection": "(c)",
+   "text": "Kasaan Bay: (A) Karta Bay: waters west of a line from 55° 35.05' N. lat., 132° 29.95' W. long., to 55° 33.84' N. lat., 132° 32.70' W. long.; (B) Polk Inlet, Paul Bight, and McKenzie Inlet: waters west of the longitude of Khayyam Point at 132° 21.06' W. long.; (C) Twelvemile Arm: waters south of 55° 29.17' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "55° 35.05' N. lat.",
+     "lon_dm": "132° 29.95' W. long.",
+     "lat": 55.584167,
+     "lon": -132.499167
+    },
+    {
+     "name": null,
+     "lat_dm": "55° 33.84' N. lat.",
+     "lon_dm": "132° 32.70' W. long.",
+     "lat": 55.564,
+     "lon": -132.545
+    },
+    {
+     "name": "Khayyam Point",
+     "lat_dm": null,
+     "lon_dm": "132° 21.06' W. long.",
+     "lat": null,
+     "lon": -132.351
+    },
+    {
+     "name": null,
+     "lat_dm": "55° 29.17' N. lat.",
+     "lon_dm": null,
+     "lat": 55.486167,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Moira Sound",
+   "parent": "District 2",
+   "citation": "5 AAC 33.350(c)(3)",
+   "subsection": "(c)",
+   "text": "Moira Sound: (A) North Arm: waters north of a line from Crowell Point at 55° 04.14' N. lat., 132° 05.07' W. long., to Point Halliday at 55° 04.80' N. lat., 132° 04.60' W. long.; (B) Johnson Cove: waters south of 54° 59.72' N. lat.; (C) West Arm: waters west of 132 12.00' W. long.; (D) South Arm: waters south of 54 57.00' N. lat.",
+   "points": [
+    {
+     "name": "Crowell Point",
+     "lat_dm": "55° 04.14' N. lat.",
+     "lon_dm": "132° 05.07' W. long.",
+     "lat": 55.069,
+     "lon": -132.0845
+    },
+    {
+     "name": "Point Halliday",
+     "lat_dm": "55° 04.80' N. lat.",
+     "lon_dm": "132° 04.60' W. long.",
+     "lat": 55.08,
+     "lon": -132.076667
+    },
+    {
+     "name": null,
+     "lat_dm": "54° 59.72' N. lat.",
+     "lon_dm": null,
+     "lat": 54.995333,
+     "lon": null
+    },
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "132 12.00' W. long.",
+     "lat": null,
+     "lon": -132.2
+    },
+    {
+     "name": null,
+     "lat_dm": "54 57.00' N. lat.",
+     "lon_dm": null,
+     "lat": 54.95,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Nichols Bay",
+   "parent": "District 2",
+   "citation": "5 AAC 33.350(c)(4)",
+   "subsection": "(c)",
+   "text": "Nichols Bay: waters north of 54° 42.12' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "54° 42.12' N. lat.",
+     "lon_dm": null,
+     "lat": 54.702,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Port Johnson and Dolomi Bay",
+   "parent": "District 2",
+   "citation": "5 AAC 33.350(c)(5)",
+   "subsection": "(c)",
+   "text": "Port Johnson and Dolomi Bay: waters west of the longitude of Moss Point at 132° 02.82' W. long.",
+   "points": [
+    {
+     "name": "Moss Point",
+     "lat_dm": null,
+     "lon_dm": "132° 02.82' W. long.",
+     "lat": null,
+     "lon": -132.047
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Thome Bay",
+   "parent": "District 2",
+   "citation": "5 AAC 33.350(c)(6)",
+   "subsection": "(c)",
+   "text": "Thome Bay: waters west of 132° 28.58' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "132° 28.58' W. long.",
+     "lat": null,
+     "lon": -132.476333
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Tolstoi Bay",
+   "parent": "District 2",
+   "citation": "5 AAC 33.350(c)(7)",
+   "subsection": "(c)",
+   "text": "Tolstoi Bay: waters south of 55° 39.00' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "55° 39.00' N. lat.",
+     "lon_dm": null,
+     "lat": 55.65,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Devilfish Bay",
+   "parent": "District 3",
+   "citation": "5 AAC 33.350(d)(1)",
+   "subsection": "(d)",
+   "text": "Devilfish Bay: waters west of 133 20.00' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "133 20.00' W. long.",
+     "lat": null,
+     "lon": -133.333333
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Edna Bay",
+   "parent": "District 3",
+   "citation": "5 AAC 33.350(d)(2)",
+   "subsection": "(d)",
+   "text": "Edna Bay: waters north of a line from Entrance Light at 55° 56.31' N. lat., 133° 36.96' W. long., to 55° 55.89' N. lat., 133° 37.78' W. long.",
+   "points": [
+    {
+     "name": "Entrance",
+     "lat_dm": "55° 56.31' N. lat.",
+     "lon_dm": "133° 36.96' W. long.",
+     "lat": 55.9385,
+     "lon": -133.616
+    },
+    {
+     "name": null,
+     "lat_dm": "55° 55.89' N. lat.",
+     "lon_dm": "133° 37.78' W. long.",
+     "lat": 55.9315,
+     "lon": -133.629667
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Eek Inlet",
+   "parent": "District 3",
+   "citation": "5 AAC 33.350(d)(3)",
+   "subsection": "(d)",
+   "text": "Eek Inlet: waters west of a line from 55° 08.85' N. lat., 132° 39.34' W. long., to 55° 08.69' N. lat., 132° 39.39' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "55° 08.85' N. lat.",
+     "lon_dm": "132° 39.34' W. long.",
+     "lat": 55.1475,
+     "lon": -132.655667
+    },
+    {
+     "name": null,
+     "lat_dm": "55° 08.69' N. lat.",
+     "lon_dm": "132° 39.39' W. long.",
+     "lat": 55.144833,
+     "lon": -132.6565
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "El Capitan and Tuxekan Passages",
+   "parent": "District 3",
+   "citation": "5 AAC 33.350(d)(4)",
+   "subsection": "(d)",
+   "text": "El Capitan and Tuxekan Passages: all contiguous waters east of 133° 20.00' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "133° 20.00' W. long.",
+     "lat": null,
+     "lon": -133.333333
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Ham Cove",
+   "parent": "District 3",
+   "citation": "5 AAC 33.350(d)(5)",
+   "subsection": "(d)",
+   "text": "Ham Cove: waters south of a line from 54° 53.00' N. lat., 132° 51.01' W. long., to 54° 52.97' N. lat., 132° 50.84' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "54° 53.00' N. lat.",
+     "lon_dm": "132° 51.01' W. long.",
+     "lat": 54.883333,
+     "lon": -132.850167
+    },
+    {
+     "name": null,
+     "lat_dm": "54° 52.97' N. lat.",
+     "lon_dm": "132° 50.84' W. long.",
+     "lat": 54.882833,
+     "lon": -132.847333
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Hessa Inlet",
+   "parent": "District 3",
+   "citation": "5 AAC 33.350(d)(6)",
+   "subsection": "(d)",
+   "text": "Hessa Inlet: waters east of the longitude of Whirlpool Point: at 132° 17.94' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "132° 17.94' W. long.",
+     "lat": null,
+     "lon": -132.299
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Hetta Harbor",
+   "parent": "District 3",
+   "citation": "5 AAC 33.350(d)(7)",
+   "subsection": "(d)",
+   "text": "Hetta Harbor: waters east of the longitude of Hetta Point at 132°35.78' W. long.",
+   "points": [
+    {
+     "name": "Hetta Point",
+     "lat_dm": null,
+     "lon_dm": "132°35.78' W. long.",
+     "lat": null,
+     "lon": -132.596333
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Hetta Inlet",
+   "parent": "District 3",
+   "citation": "5 AAC 33.350(d)(8)",
+   "subsection": "(d)",
+   "text": "Hetta Inlet: waters north of the latitude of Simmons Point at 55° 12.38' N. lat.",
+   "points": [
+    {
+     "name": "Simmons Point",
+     "lat_dm": "55° 12.38' N. lat.",
+     "lon_dm": null,
+     "lat": 55.206333,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Hunter Bay",
+   "parent": "District 3",
+   "citation": "5 AAC 33.350(d)(9)",
+   "subsection": "(d)",
+   "text": "Hunter Bay: waters east of a line from the tip of Turn Point at 54° 52.63' N. at., 132° 21.80' W. long., to 54° 52.75' N. lat, 132° 21.36' W. long.",
+   "points": [
+    {
+     "name": "Turn Point",
+     "lat_dm": "54° 52.63' N. at.",
+     "lon_dm": "132° 21.80' W. long.",
+     "lat": 54.877167,
+     "lon": -132.363333
+    },
+    {
+     "name": null,
+     "lat_dm": "54° 52.75' N. lat",
+     "lon_dm": "132° 21.36' W. long.",
+     "lat": 54.879167,
+     "lon": -132.356
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Kasook Inlet",
+   "parent": "District 3",
+   "citation": "5 AAC 33.350(d)(10)",
+   "subsection": "(d)",
+   "text": "Kasook Inlet: waters north of 55° 01.67' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "55° 01.67' N. lat.",
+     "lon_dm": null,
+     "lat": 55.027833,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Keete Inlet",
+   "parent": "District 3",
+   "citation": "5 AAC 33.350(d)(11)",
+   "subsection": "(d)",
+   "text": "Keete Inlet: waters east of the longitude of Keete Point at 132° 33.38' W. long.",
+   "points": [
+    {
+     "name": "Keete Point",
+     "lat_dm": null,
+     "lon_dm": "132° 33.38' W. long.",
+     "lat": null,
+     "lon": -132.556333
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Klakas Inlet",
+   "parent": "District 3",
+   "citation": "5 AAC 33.350(d)(12)",
+   "subsection": "(d)",
+   "text": "Klakas Inlet: waters north of 55° 00.00' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "55° 00.00' N. lat.",
+     "lon_dm": null,
+     "lat": 55.0,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Klawock Inlet",
+   "parent": "District 3",
+   "citation": "5 AAC 33.350(d)(13)",
+   "subsection": "(d)",
+   "text": "Klawock Inlet: waters east of 133° 06.38' W. long., and north of a line from the northern tip of Wadleigh Island at 55° 35.42' N. at., 133° 07.83' W. long., to the northern tip of Peratrovich Island at 55° 35.79' N. lat., 133° 06.79' W. long., including Big Sah Lake.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "133° 06.38' W. long.",
+     "lat": null,
+     "lon": -133.106333
+    },
+    {
+     "name": "Wadleigh Island",
+     "lat_dm": "55° 35.42' N. at.",
+     "lon_dm": "133° 07.83' W. long.",
+     "lat": 55.590333,
+     "lon": -133.1305
+    },
+    {
+     "name": "Peratrovich Island",
+     "lat_dm": "55° 35.79' N. lat.",
+     "lon_dm": "133° 06.79' W. long.",
+     "lat": 55.5965,
+     "lon": -133.113167
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Nossuk Bay",
+   "parent": "District 3",
+   "citation": "5 AAC 33.350(d)(14)",
+   "subsection": "(d)",
+   "text": "Nossuk Bay: waters south of 55° 44.00' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "55° 44.00' N. lat.",
+     "lon_dm": null,
+     "lat": 55.733333,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Nutkwa Inlet",
+   "parent": "District 3",
+   "citation": "5 AAC 33.350(d)(15)",
+   "subsection": "(d)",
+   "text": "Nutkwa Inlet: waters north of 55° 06.00' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "55° 06.00' N. lat.",
+     "lon_dm": null,
+     "lat": 55.1,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Port Estrella",
+   "parent": "District 3",
+   "citation": "5 AAC 33.350(d)(16)",
+   "subsection": "(d)",
+   "text": "Port Estrella: waters east of the longitude of Point Providence at 133° 16.00' W. long.",
+   "points": [
+    {
+     "name": "Point Providence",
+     "lat_dm": null,
+     "lon_dm": "133° 16.00' W. long.",
+     "lat": null,
+     "lon": -133.266667
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Port Real Marina",
+   "parent": "District 3",
+   "citation": "5 AAC 33.350(d)(17)",
+   "subsection": "(d)",
+   "text": "Port Real Marina: waters east of 133° 34.60' W. long., west of a line from Point Arrecife at 55° 26.93' N. lat. 133° 25.90' W. long., to Point Gorda, at 55° 25.49' N. at., 133° 26.13' W. long., and north of a line from Point San Leonardo at 55° 24.25' N. lat., 133° 26.74' W. long., to Canal Point at 55° 23.91' N. lat., 133° 27.51' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "133° 34.60' W. long.",
+     "lat": null,
+     "lon": -133.576667
+    },
+    {
+     "name": "Point Arrecife",
+     "lat_dm": "55° 26.93' N. lat.",
+     "lon_dm": "133° 25.90' W. long.",
+     "lat": 55.448833,
+     "lon": -133.431667
+    },
+    {
+     "name": null,
+     "lat_dm": "55° 25.49' N. at.",
+     "lon_dm": "133° 26.13' W. long.",
+     "lat": 55.424833,
+     "lon": -133.4355
+    },
+    {
+     "name": "Point San Leonardo",
+     "lat_dm": "55° 24.25' N. lat.",
+     "lon_dm": "133° 26.74' W. long.",
+     "lat": 55.404167,
+     "lon": -133.445667
+    },
+    {
+     "name": "Canal Point",
+     "lat_dm": "55° 23.91' N. lat.",
+     "lon_dm": "133° 27.51' W. long.",
+     "lat": 55.3985,
+     "lon": -133.4585
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Port Refugio",
+   "parent": "District 3",
+   "citation": "5 AAC 33.350(d)(18)",
+   "subsection": "(d)",
+   "text": "Port Refugio: waters south and west of a line from Point Verde at 55° 18.42' N. lat., 133° 17.84' W. long., to Bocas Point at 55° 17.63' N. lat., 133° 16.45' W. long.",
+   "points": [
+    {
+     "name": "Point Verde",
+     "lat_dm": "55° 18.42' N. lat.",
+     "lon_dm": "133° 17.84' W. long.",
+     "lat": 55.307,
+     "lon": -133.297333
+    },
+    {
+     "name": "Bocas Point",
+     "lat_dm": "55° 17.63' N. lat.",
+     "lon_dm": "133° 16.45' W. long.",
+     "lat": 55.293833,
+     "lon": -133.274167
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Port Saint Nicholas",
+   "parent": "District 3",
+   "citation": "5 AAC 33.350(d)(19)",
+   "subsection": "(d)",
+   "text": "Port Saint Nicholas: waters east of 133° 04.00' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "133° 04.00' W. long.",
+     "lat": null,
+     "lon": -133.066667
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Portillo Channel",
+   "parent": "District 3",
+   "citation": "5 AAC 33.350(d)(20)",
+   "subsection": "(d)",
+   "text": "Portillo Channel: waters north of a line from Point Arrecife at 55° 26.93' N. lat., 133° 25.90' W. long., to Point Amargura at 55° 27.00' N. lat., 133° 21.64' W. long., and south of a line from Point Santa Gertrudis at 55° 31.79' N. lat., 133° 31.32' W. long., to Point Animas at 55° 32.04' N. lat, 133° 27.35' W. long.",
+   "points": [
+    {
+     "name": "Point Arrecife",
+     "lat_dm": "55° 26.93' N. lat.",
+     "lon_dm": "133° 25.90' W. long.",
+     "lat": 55.448833,
+     "lon": -133.431667
+    },
+    {
+     "name": "Point Amargura",
+     "lat_dm": "55° 27.00' N. lat.",
+     "lon_dm": "133° 21.64' W. long.",
+     "lat": 55.45,
+     "lon": -133.360667
+    },
+    {
+     "name": "Point Santa Gertrudis",
+     "lat_dm": "55° 31.79' N. lat.",
+     "lon_dm": "133° 31.32' W. long.",
+     "lat": 55.529833,
+     "lon": -133.522
+    },
+    {
+     "name": "Point Animas",
+     "lat_dm": "55° 32.04' N. lat",
+     "lon_dm": "133° 27.35' W. long.",
+     "lat": 55.534,
+     "lon": -133.455833
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Salt Lake Bay",
+   "parent": "District 3",
+   "citation": "5 AAC 33.350(d)(21)",
+   "subsection": "(d)",
+   "text": "Salt Lake Bay: waters east of 133° 23.37' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "133° 23.37' W. long.",
+     "lat": null,
+     "lon": -133.3895
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Shinaku Inlet and Big Salt Lake",
+   "parent": "District 3",
+   "citation": "5 AAC 33.350(d)(22)",
+   "subsection": "(d)",
+   "text": "Shinaku Inlet and Big Salt Lake: waters north of the latitude of Point Ildefonso at 55° 34.11' N. lat., and east of a line from Point Ildcfonso at 55° 34.11' N. lat., 133° 15.91' W. long., to 55° 34.71' N. lat., 133° 15.30' W. long.",
+   "points": [
+    {
+     "name": "Point Ildefonso",
+     "lat_dm": "55° 34.11' N. lat.",
+     "lon_dm": null,
+     "lat": 55.5685,
+     "lon": null
+    },
+    {
+     "name": "Point Ildcfonso",
+     "lat_dm": "55° 34.11' N. lat.",
+     "lon_dm": "133° 15.91' W. long.",
+     "lat": 55.5685,
+     "lon": -133.265167
+    },
+    {
+     "name": null,
+     "lat_dm": "55° 34.71' N. lat.",
+     "lon_dm": "133° 15.30' W. long.",
+     "lat": 55.5785,
+     "lon": -133.255
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Soda Bay",
+   "parent": "District 3",
+   "citation": "5 AAC 33.350(d)(23)",
+   "subsection": "(d)",
+   "text": "Soda Bay: waters east of 133.00.00' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "133.00.00' W. long.",
+     "lat": null,
+     "lon": -133.0
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Sukkwan Strait and Natzuhini Bay",
+   "parent": "District 3",
+   "citation": "5 AAC 33.350(d)(24)",
+   "subsection": "(d)",
+   "text": "Sukkwan Strait and Natzuhini Bay: waters of Sukkwan Strait west of the longitude of Saltery Point at 132° 48.07' W. long., including South Pass east of the longitude of Goat Island Light at 132° 53.58' W. long., and all waters of North Pass east of line from 55° 12.35' N. lat., 132° 56.25' W. long., to 55° 12.84' N. lat. 132° 57.54' W. long.",
+   "points": [
+    {
+     "name": "Saltery Point",
+     "lat_dm": null,
+     "lon_dm": "132° 48.07' W. long.",
+     "lat": null,
+     "lon": -132.801167
+    },
+    {
+     "name": "Goat Island",
+     "lat_dm": null,
+     "lon_dm": "132° 53.58' W. long.",
+     "lat": null,
+     "lon": -132.893
+    },
+    {
+     "name": null,
+     "lat_dm": "55° 12.35' N. lat.",
+     "lon_dm": "132° 56.25' W. long.",
+     "lat": 55.205833,
+     "lon": -132.9375
+    },
+    {
+     "name": null,
+     "lat_dm": "55° 12.84' N. lat.",
+     "lon_dm": "132° 57.54' W. long.",
+     "lat": 55.214,
+     "lon": -132.959
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Tlevak Straits",
+   "parent": "District 3",
+   "citation": "5 AAC 33.350(d)(25)",
+   "subsection": "(d)",
+   "text": "Tlevak Straits: waters north of 55° 15.00' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "55° 15.00' N. lat.",
+     "lon_dm": null,
+     "lat": 55.25,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Tokeen Bay",
+   "parent": "District 3",
+   "citation": "5 AAC 33.350(d)(26)",
+   "subsection": "(d)",
+   "text": "Tokeen Bay: waters east of a line from the tip of Holbrook Point at 56° 00.29' N. lat. 133° 28.64' W. long., to 55° 59.86' N. lat., 133° 27.84' W. long., and waters north of 55° 58.54' N. lat. in Marble Pass.",
+   "points": [
+    {
+     "name": "Holbrook Point",
+     "lat_dm": "56° 00.29' N. lat.",
+     "lon_dm": "133° 28.64' W. long.",
+     "lat": 56.004833,
+     "lon": -133.477333
+    },
+    {
+     "name": null,
+     "lat_dm": "55° 59.86' N. lat.",
+     "lon_dm": "133° 27.84' W. long.",
+     "lat": 55.997667,
+     "lon": -133.464
+    },
+    {
+     "name": null,
+     "lat_dm": "55° 58.54' N. lat.",
+     "lon_dm": null,
+     "lat": 55.975667,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Trocadero Bay",
+   "parent": "District 3",
+   "citation": "5 AAC 33.350(d)(27)",
+   "subsection": "(d)",
+   "text": "Trocadero Bay: (A) waters east of 133° 01.00' W. long.; (B) waters within 500 yards of the terminus of an unnamed stream located immediately west of Perlas Point at 55° 22.04' N. lat., 133° 04.79' W. long.; (C) waters within 500 yards of the terminus of an unnamed stream located approximately 1.1 miles west of Perlas Point at 55° 22.47' N. lat., 133° 06.21' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "133° 01.00' W. long.",
+     "lat": null,
+     "lon": -133.016667
+    },
+    {
+     "name": "Perlas Point",
+     "lat_dm": "55° 22.04' N. lat.",
+     "lon_dm": "133° 04.79' W. long.",
+     "lat": 55.367333,
+     "lon": -133.079833
+    },
+    {
+     "name": "Perlas Point",
+     "lat_dm": "55° 22.47' N. lat.",
+     "lon_dm": "133° 06.21' W. long.",
+     "lat": 55.3745,
+     "lon": -133.1035
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Ulloa Channel",
+   "parent": "District 3",
+   "citation": "5 AAC 33.350(d)(28)",
+   "subsection": "(d)",
+   "text": "Ulloa Channel: waters east of 133° 10.00' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "133° 10.00' W. long.",
+     "lat": null,
+     "lon": -133.166667
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Van Sant Cove",
+   "parent": "District 3",
+   "citation": "5 AAC 33.350(d)(29)",
+   "subsection": "(d)",
+   "text": "Van Sant Cove: waters within 1,000 yards of the stream terminus at 55° 59.43' N. lat., 133° 32.28' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "55° 59.43' N. lat.",
+     "lon_dm": "133° 32.28' W. long.",
+     "lat": 55.9905,
+     "lon": -133.538
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Warm Chuck Inlet",
+   "parent": "District 3",
+   "citation": "5 AAC 33.350(d)(30)",
+   "subsection": "(d)",
+   "text": "Warm Chuck Inlet: waters north of 55° 44.50' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "55° 44.50' N. lat.",
+     "lon_dm": null,
+     "lat": 55.741667,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Waterfall Bay",
+   "parent": "District 3",
+   "citation": "5 AAC 33.350(d)(31)",
+   "subsection": "(d)",
+   "text": "Waterfall Bay: waters within 1,000 yards of the terminus of Waterfall Creek at 55° 18.24' N. lat., 133° 14.33' W. long.",
+   "points": [
+    {
+     "name": "Waterfall Creek",
+     "lat_dm": "55° 18.24' N. lat.",
+     "lon_dm": "133° 14.33' W. long.",
+     "lat": 55.304,
+     "lon": -133.238833
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Port Caldera",
+   "parent": "District 3",
+   "citation": "5 AAC 33.350(d)(32)",
+   "subsection": "(d)",
+   "text": "Port Caldera: waters within 500 yards of the terminus of an unnamed stream located immediately south of Point Lomas at 55° 22.46' N. lat., 133° 10.59' W. long.",
+   "points": [
+    {
+     "name": "Point Lomas",
+     "lat_dm": "55° 22.46' N. lat.",
+     "lon_dm": "133° 10.59' W. long.",
+     "lat": 55.374333,
+     "lon": -133.1765
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Manhattan Arm",
+   "parent": "District 4",
+   "citation": "5 AAC 33.350(e)(1)",
+   "subsection": "(e)",
+   "text": "Manhattan Arm: waters east of 133° 10.00' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "133° 10.00' W. long.",
+     "lat": null,
+     "lon": -133.166667
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Affleck Canal",
+   "parent": "District 5",
+   "citation": "5 AAC 33.350(f)(1)",
+   "subsection": "(f)",
+   "text": "Affleck Canal: (A) Bear Harbor: waters north and west of a line from 56° 13.37' N. lat., 134° 05.94' W. long., to 56° 13.71' N. lat., 134° 05.18' W. long.; (B) waters of Kell Bay west of a line from 56° 08.79' N. lat. 134° 08.51' W. long., to 56° 09.81' N. lat., 134° 08.39' W. long.; (C) waters north of 56° 16.43' N. lat.; (D) small unnamed bay on the east side: waters east of a line from 56° 11.37' N. lat., 134° 02.06' W. long., to 56° 11.15' N. lat., 134° 01.92' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "56° 13.37' N. lat.",
+     "lon_dm": "134° 05.94' W. long.",
+     "lat": 56.222833,
+     "lon": -134.099
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 13.71' N. lat.",
+     "lon_dm": "134° 05.18' W. long.",
+     "lat": 56.2285,
+     "lon": -134.086333
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 08.79' N. lat.",
+     "lon_dm": "134° 08.51' W. long.",
+     "lat": 56.1465,
+     "lon": -134.141833
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 09.81' N. lat.",
+     "lon_dm": "134° 08.39' W. long.",
+     "lat": 56.1635,
+     "lon": -134.139833
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 16.43' N. lat.",
+     "lon_dm": null,
+     "lat": 56.273833,
+     "lon": null
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 11.37' N. lat.",
+     "lon_dm": "134° 02.06' W. long.",
+     "lat": 56.1895,
+     "lon": -134.034333
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 11.15' N. lat.",
+     "lon_dm": "134° 01.92' W. long.",
+     "lat": 56.185833,
+     "lon": -134.032
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Alvin Bay",
+   "parent": "District 5",
+   "citation": "5 AAC 33.350(f)(2)",
+   "subsection": "(f)",
+   "text": "Alvin Bay: waters west of 133° 53.56' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "133° 53.56' W. long.",
+     "lat": null,
+     "lon": -133.892667
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Kushneahin Creek",
+   "parent": "District 5",
+   "citation": "5 AAC 33.350(f)(3)",
+   "subsection": "(f)",
+   "text": "Kushneahin Creek: waters east of a line from 56° 27.74' N. lat., 133° 40.24' W. long., to Trouble Island at 56° 27.86' N. lat., 133° 41.04' 133° 40.75' W. long., to 56° 29.16' N. lat., 133° 40.17' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "56° 27.74' N. lat.",
+     "lon_dm": "133° 40.24' W. long.",
+     "lat": 56.462333,
+     "lon": -133.670667
+    },
+    {
+     "name": "Trouble Island",
+     "lat_dm": "56° 27.86' N. lat.",
+     "lon_dm": "133° 40.75' W. long.",
+     "lat": 56.464333,
+     "lon": -133.679167
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 29.16' N. lat.",
+     "lon_dm": "133° 40.17' W. long.",
+     "lat": 56.486,
+     "lon": -133.6695
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Calder Bay",
+   "parent": "District 5",
+   "citation": "5 AAC 33.350(f)(4)",
+   "subsection": "(f)",
+   "text": "Calder Bay: waters north of 56° 11.18' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "56° 11.18' N. lat.",
+     "lon_dm": null,
+     "lat": 56.186333,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "El Capitan Passage",
+   "parent": "District 5",
+   "citation": "5 AAC 33.350(f)(5)",
+   "subsection": "(f)",
+   "text": "El Capitan Passage: waters east of a line from 56° 09.12' N. lat., 133° 27.55' W. long., to 56° 09.24' N. lat., 133° 27.60' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "56° 09.12' N. lat.",
+     "lon_dm": "133° 27.55' W. long.",
+     "lat": 56.152,
+     "lon": -133.459167
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 09.24' N. lat.",
+     "lon_dm": "133° 27.60' W. long.",
+     "lat": 56.154,
+     "lon": -133.46
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Hole in the Wall, northwest coast of Prince of Wales Island",
+   "parent": "District 5",
+   "citation": "5 AAC 33.350(f)(6)",
+   "subsection": "(f)",
+   "text": "Hole in the Wall, northwest coast of Prince of Wales Island: waters east of a line from 56° 15.63' N. lat., 133° 38.60' W. long., to 56° 15.67' N. lat, 133° 38.72' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "56° 15.63' N. lat.",
+     "lon_dm": "133° 38.60' W. long.",
+     "lat": 56.2605,
+     "lon": -133.643333
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 15.67' N. lat",
+     "lon_dm": "133° 38.72' W. long.",
+     "lat": 56.261167,
+     "lon": -133.645333
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Keku Strait",
+   "parent": "District 5",
+   "citation": "5 AAC 33.350(f)(7)",
+   "subsection": "(f)",
+   "text": "Keku Strait: waters north of 56° 32.00' N. lat. (north end of Monte Carlo Island)",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "56° 32.00' N. lat.",
+     "lon_dm": null,
+     "lat": 56.533333,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Port Beauclerc",
+   "parent": "District 5",
+   "citation": "5 AAC 33.350(f)(8)",
+   "subsection": "(f)",
+   "text": "Port Beauclerc: (A) waters north of 56° 20.00' N. lat.; (B) waters of the southern arm south of the latitude of 56° 16.94' N. lat.; (C) waters of the unnamed cove located 0.7 miles west of the northern tip of Edwards Island west of a line from 56° 18.18' N. lat., 133° 58.62' W. long., to 56° 19.28' N. lat., 133° 58.49' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "56° 20.00' N. lat.",
+     "lon_dm": null,
+     "lat": 56.333333,
+     "lon": null
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 16.94' N. lat.",
+     "lon_dm": null,
+     "lat": 56.282333,
+     "lon": null
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 18.18' N. lat.",
+     "lon_dm": "133° 58.62' W. long.",
+     "lat": 56.303,
+     "lon": -133.977
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 19.28' N. lat.",
+     "lon_dm": "133° 58.49' W. long.",
+     "lat": 56.321333,
+     "lon": -133.974833
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Reid Bay",
+   "parent": "District 5",
+   "citation": "5 AAC 33.350(f)(9)",
+   "subsection": "(f)",
+   "text": "Reid Bay: waters west of 133° 53.92' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "133° 53.92' W. long.",
+     "lat": null,
+     "lon": -133.898667
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Shipley Bay",
+   "parent": "District 5",
+   "citation": "5 AAC 33.350(f)(10)",
+   "subsection": "(f)",
+   "text": "Shipley Bay: waters east of 133° 33.53' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "133° 33.53' W. long.",
+     "lat": null,
+     "lon": -133.558833
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Barnes Lake",
+   "parent": "District 6",
+   "citation": "5 AAC 33.350(g)(1)",
+   "subsection": "(g)",
+   "text": "Barnes Lake: waters inside the western side of Stevenson Island south of 56° 03.10' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "56° 03.10' N. lat.",
+     "lon_dm": null,
+     "lat": 56.051667,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Duncan Canal",
+   "parent": "District 6",
+   "citation": "5 AAC 33.350(g)(2)",
+   "subsection": "(g)",
+   "text": "Duncan Canal: waters north of the latitude of the northern tip of Butterworth Island at 56° 32.73' N. lat.",
+   "points": [
+    {
+     "name": "Butterworth Island",
+     "lat_dm": "56° 32.73' N. lat.",
+     "lon_dm": null,
+     "lat": 56.5455,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Exchange Cove",
+   "parent": "District 6",
+   "citation": "5 AAC 33.350(g)(3)",
+   "subsection": "(g)",
+   "text": "Exchange Cove: waters south of a line from 56° 13.13' N. lat., 133° 03.87' W. long., to 56° 12.87' N. lat., 133° 03.43' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "56° 13.13' N. lat.",
+     "lon_dm": "133° 03.87' W. long.",
+     "lat": 56.218833,
+     "lon": -133.0645
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 12.87' N. lat.",
+     "lon_dm": "133° 03.43' W. long.",
+     "lat": 56.2145,
+     "lon": -133.057167
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Kah Sheets Bay",
+   "parent": "District 6",
+   "citation": "5 AAC 33.350(g)(4)",
+   "subsection": "(g)",
+   "text": "Kah Sheets Bay: waters west of a line from 56° 31.47' N. lat., 133° 05.25' W. long., to 56° 29.74' N. lat., 133° 07.31' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "56° 31.47' N. lat.",
+     "lon_dm": "133° 05.25' W. long.",
+     "lat": 56.5245,
+     "lon": -133.0875
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 29.74' N. lat.",
+     "lon_dm": "133° 07.31' W. long.",
+     "lat": 56.495667,
+     "lon": -133.121833
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Lake Bay",
+   "parent": "District 6",
+   "citation": "5 AAC 33.350(g)(5)",
+   "subsection": "(g)",
+   "text": "Lake Bay: waters south and west of a line from Keg Point at 56° 02.02' N. lat., 132° 55.45' W. long., to 56° 01.66' N. lat., 132° 54.47' W. long.",
+   "points": [
+    {
+     "name": "Keg Point",
+     "lat_dm": "56° 02.02' N. lat.",
+     "lon_dm": "132° 55.45' W. long.",
+     "lat": 56.033667,
+     "lon": -132.924167
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 01.66' N. lat.",
+     "lon_dm": "132° 54.47' W. long.",
+     "lat": 56.027667,
+     "lon": -132.907833
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "McHenry Inlet",
+   "parent": "District 6",
+   "citation": "5 AAC 33.350(g)(6)",
+   "subsection": "(g)",
+   "text": "McHenry Inlet: waters east of 132° 24.79' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "132° 24.79' W. long.",
+     "lat": null,
+     "lon": -132.413167
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Mosman Inlet",
+   "parent": "District 6",
+   "citation": "5 AAC 33.350(g)(7)",
+   "subsection": "(g)",
+   "text": "Mosman Inlet: waters north of 56° 05.35' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "56° 05.35' N. lat.",
+     "lon_dm": null,
+     "lat": 56.089167,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Navy Creek",
+   "parent": "District 6",
+   "citation": "5 AAC 33.350(g)(8)",
+   "subsection": "(g)",
+   "text": "Navy Creek: waters east of a line from 56° 03.48' N. lat., 132° 28.01' W. long., to the southwest tip of South Burnett Island at 56° 03.81' N. lat., 132° 27.79' W. long., and east of a line from the northern tip of South Burnett Island at 56° 04.08' N. lat., 132° 27.61' W. long., to the southern tip of North Burnett Island at 56° 04.17' N. lat., 132° 27.59' W. long., and south of a line from the northern tip of North Burnett Island at 56° 04.47' N. lat., 132° 27.84' W. long., to 56° 04.50' N. lat., 132° 27.59' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "56° 03.48' N. lat.",
+     "lon_dm": "132° 28.01' W. long.",
+     "lat": 56.058,
+     "lon": -132.466833
+    },
+    {
+     "name": "South Burnett Island",
+     "lat_dm": "56° 03.81' N. lat.",
+     "lon_dm": "132° 27.79' W. long.",
+     "lat": 56.0635,
+     "lon": -132.463167
+    },
+    {
+     "name": "South Burnett Island",
+     "lat_dm": "56° 04.08' N. lat.",
+     "lon_dm": "132° 27.61' W. long.",
+     "lat": 56.068,
+     "lon": -132.460167
+    },
+    {
+     "name": "North Burnett Island",
+     "lat_dm": "56° 04.17' N. lat.",
+     "lon_dm": "132° 27.59' W. long.",
+     "lat": 56.0695,
+     "lon": -132.459833
+    },
+    {
+     "name": "North Burnett Island",
+     "lat_dm": "56° 04.47' N. lat.",
+     "lon_dm": "132° 27.84' W. long.",
+     "lat": 56.0745,
+     "lon": -132.464
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 04.50' N. lat.",
+     "lon_dm": "132° 27.59' W. long.",
+     "lat": 56.075,
+     "lon": -132.459833
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Ratz Harbor",
+   "parent": "District 6",
+   "citation": "5 AAC 33.350(g)(9)",
+   "subsection": "(g)",
+   "text": "Ratz Harbor: waters south and west of a line from 55° 53.03' N. lat., 132° 35.64' W. long., to 55° 53.27' N. lat., 132° 35.92' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "55° 53.03' N. lat.",
+     "lon_dm": "132° 35.64' W. long.",
+     "lat": 55.883833,
+     "lon": -132.594
+    },
+    {
+     "name": null,
+     "lat_dm": "55° 53.27' N. lat.",
+     "lon_dm": "132° 35.92' W. long.",
+     "lat": 55.887833,
+     "lon": -132.598667
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Red Bay",
+   "parent": "District 6",
+   "citation": "5 AAC 33.350(g)(10)",
+   "subsection": "(g)",
+   "text": "Red Bay: waters south of the latitude of Pine Point at 56° 20.14' N. lat.",
+   "points": [
+    {
+     "name": "Pine Point",
+     "lat_dm": "56° 20.14' N. lat.",
+     "lon_dm": null,
+     "lat": 56.335667,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Rocky Bay, west coast of Etolin Island",
+   "parent": "District 6",
+   "citation": "5 AAC 33.350(g)(11)",
+   "subsection": "(g)",
+   "text": "Rocky Bay, west coast of Etolin Island: waters north of a line from 56° 04.39' N. lat., 132° 36.67' W. long., to 56° 04.38' N. lat., 132° 36.20' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "56° 04.39' N. lat.",
+     "lon_dm": "132° 36.67' W. long.",
+     "lat": 56.073167,
+     "lon": -132.611167
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 04.38' N. lat.",
+     "lon_dm": "132° 36.20' W. long.",
+     "lat": 56.073,
+     "lon": -132.603333
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Salmon Bay",
+   "parent": "District 6",
+   "citation": "5 AAC 33.350(g)(12)",
+   "subsection": "(g)",
+   "text": "Salmon Bay: waters within a line extending from 56° 17.39' N. lat., 133° 08.30' W. long., to Rookery Island at 56° 18.81' N. lat., 133° 07.22' W. long., to 56° 19.08' N. lat., 133° 09.82' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "56° 17.39' N. lat.",
+     "lon_dm": "133° 08.30' W. long.",
+     "lat": 56.289833,
+     "lon": -133.138333
+    },
+    {
+     "name": "Rookery Island",
+     "lat_dm": "56° 18.81' N. lat.",
+     "lon_dm": "133° 07.22' W. long.",
+     "lat": 56.3135,
+     "lon": -133.120333
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 19.08' N. lat.",
+     "lon_dm": "133° 09.82' W. long.",
+     "lat": 56.318,
+     "lon": -133.163667
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Steamer Bay",
+   "parent": "District 6",
+   "citation": "5 AAC 33.350(g)(13)",
+   "subsection": "(g)",
+   "text": "Steamer Bay: waters south of a line from 56° 10.28' N. lat., 132° 41.66' W. long., to Point Harrington at 56° 10.25' N. lat., 132° 43.55' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "56° 10.28' N. lat.",
+     "lon_dm": "132° 41.66' W. long.",
+     "lat": 56.171333,
+     "lon": -132.694333
+    },
+    {
+     "name": "Point Harrington",
+     "lat_dm": "56° 10.25' N. lat.",
+     "lon_dm": "132° 43.55' W. long.",
+     "lat": 56.170833,
+     "lon": -132.725833
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Totem Bay",
+   "parent": "District 6",
+   "citation": "5 AAC 33.350(g)(14)",
+   "subsection": "(g)",
+   "text": "Totem Bay: waters north and east of a line from Totem Point at 56° 27.07' N. lat., 133° 26.07' W. long., to the southern tip of Shingle Island at 56° 26.29' N. lat., 133° 23.57' W. long., to Mitchell Point at 56° 26.85' N. lat., 133° 12.08' W. long.",
+   "points": [
+    {
+     "name": "Totem Point",
+     "lat_dm": "56° 27.07' N. lat.",
+     "lon_dm": "133° 26.07' W. long.",
+     "lat": 56.451167,
+     "lon": -133.4345
+    },
+    {
+     "name": "Shingle Island",
+     "lat_dm": "56° 26.29' N. lat.",
+     "lon_dm": "133° 23.57' W. long.",
+     "lat": 56.438167,
+     "lon": -133.392833
+    },
+    {
+     "name": "Mitchell Point",
+     "lat_dm": "56° 26.85' N. lat.",
+     "lon_dm": "133° 12.08' W. long.",
+     "lat": 56.4475,
+     "lon": -133.201333
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Whale Pass",
+   "parent": "District 6",
+   "citation": "5 AAC 33.350(g)(15)",
+   "subsection": "(g)",
+   "text": "Whale Pass: waters at the southern entrance west of 132° 59.16' W. long., and at the northern entrance west of the longitude of the northernmost tip of Thorne Island at 133° 03.53' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "132° 59.16' W. long.",
+     "lat": null,
+     "lon": -132.986
+    },
+    {
+     "name": "Thorne Island",
+     "lat_dm": null,
+     "lon_dm": "133° 03.53' W. long.",
+     "lat": null,
+     "lon": -133.058833
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Wrangell Narrows",
+   "parent": "District 6",
+   "citation": "5 AAC 33.350(g)(16)",
+   "subsection": "(g)",
+   "text": "Wrangell Narrows: waters north of a line from the tip of Point Alexander at 56° 30.55' N. lat., 132° 57.01' W. long., to Woewodski Island at 56° 30.66' N. lat., 132° 59.30' W. long.",
+   "points": [
+    {
+     "name": "Point Alexander",
+     "lat_dm": "56° 30.55' N. lat.",
+     "lon_dm": "132° 57.01' W. long.",
+     "lat": 56.509167,
+     "lon": -132.950167
+    },
+    {
+     "name": "Woewodski Island",
+     "lat_dm": "56° 30.66' N. lat.",
+     "lon_dm": "132° 59.30' W. long.",
+     "lat": 56.511,
+     "lon": -132.988333
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Blake Channel Eastern Passage and Bradfleld Canal",
+   "parent": "District 7",
+   "citation": "5 AAC 33.350(h)(1)",
+   "subsection": "(h)",
+   "text": "Blake Channel Eastern Passage and Bradfleld Canal: waters south and east of a line from Babbler Point at 56° 29.08' N. lat., 132° 17.37' W. long., Hour Point at 56° 27.73' N. lat., 132° 16.79' W. long., and north and east of a line from 56° 10.80' N. lat., 13° 55.50' W. long., to 56° 12.12' N. lat., 131° 55.50' W. long.",
+   "points": [
+    {
+     "name": "Babbler Point",
+     "lat_dm": "56° 29.08' N. lat.",
+     "lon_dm": "132° 17.37' W. long.",
+     "lat": 56.484667,
+     "lon": -132.2895
+    },
+    {
+     "name": "Hour Point",
+     "lat_dm": "56° 27.73' N. lat.",
+     "lon_dm": "132° 16.79' W. long.",
+     "lat": 56.462167,
+     "lon": -132.279833
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 10.80' N. lat.",
+     "lon_dm": "13° 55.50' W. long.",
+     "lat": 56.18,
+     "lon": null,
+     "flag": "longitude out of Southeast bbox -138 to -130; recorded as printed, decimal withheld"
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 12.12' N. lat.",
+     "lon_dm": "131° 55.50' W. long.",
+     "lat": 56.202,
+     "lon": -131.925
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Canoe Pass and Fishermen's Chuck",
+   "parent": "District 7",
+   "citation": "5 AAC 33.350(h)(2)",
+   "subsection": "(h)",
+   "text": "Canoe Pass and Fishermen's Chuck: waters north of 56° 00.00' N. lat., and west of a line from 56° 02.39' N. lat., 132° 12.06' W. long., to 56° 02.62' N. lat., 132° 12.16' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "56° 00.00' N. lat.",
+     "lon_dm": null,
+     "lat": 56.0,
+     "lon": null
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 02.39' N. lat.",
+     "lon_dm": "132° 12.06' W. long.",
+     "lat": 56.039833,
+     "lon": -132.201
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 02.62' N. lat.",
+     "lon_dm": "132° 12.16' W. long.",
+     "lat": 56.043667,
+     "lon": -132.202667
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Emerald Bay",
+   "parent": "District 7",
+   "citation": "5 AAC 33.350(h)(3)",
+   "subsection": "(h)",
+   "text": "Emerald Bay: waters east of a line from 55° 53.62' N. lat., 132° 02.73' W. long., to 55° 52.89' N. lat., 132° 03.30' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "55° 53.62' N. lat.",
+     "lon_dm": "132° 02.73' W. long.",
+     "lat": 55.893667,
+     "lon": -132.0455
+    },
+    {
+     "name": null,
+     "lat_dm": "55° 52.89' N. lat.",
+     "lon_dm": "132° 03.30' W. long.",
+     "lat": 55.8815,
+     "lon": -132.055
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Fool's Inlet",
+   "parent": "District 7",
+   "citation": "5 AAC 33.350(h)(4)",
+   "subsection": "(h)",
+   "text": "Fool's Inlet: waters north of a line from 56° 12.48' N. lat., 132° 02.10' W. long., to 56° 12.74' N. lat., 132° 01.22' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "56° 12.48' N. lat.",
+     "lon_dm": "132° 02.10' W. long.",
+     "lat": 56.208,
+     "lon": -132.035
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 12.74' N. lat.",
+     "lon_dm": "132° 01.22' W. long.",
+     "lat": 56.212333,
+     "lon": -132.020333
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Menefee Inlet",
+   "parent": "District 7",
+   "citation": "5 AAC 33.350(h)(5)",
+   "subsection": "(h)",
+   "text": "Menefee Inlet: waters north of 56° 05.00' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "56° 05.00' N. lat.",
+     "lon_dm": null,
+     "lat": 56.083333,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Santa Anna Inlet",
+   "parent": "District 7",
+   "citation": "5 AAC 33.350(h)(6)",
+   "subsection": "(h)",
+   "text": "Santa Anna Inlet: waters south of the latitude of the tip of Point Santa Anna at 55° 59.77' N. lat.",
+   "points": [
+    {
+     "name": "Point Santa Anna",
+     "lat_dm": "55° 59.77' N. lat.",
+     "lon_dm": null,
+     "lat": 55.996167,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Union Bay",
+   "parent": "District 7",
+   "citation": "5 AAC 33.350(h)(7)",
+   "subsection": "(h)",
+   "text": "Union Bay: waters south of a line from 55° 44.78' N. lat., 132° 14.23' W. long., to 55° 45.54' N. lat., 132° 11.27' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "55° 44.78' N. lat.",
+     "lon_dm": "132° 14.23' W. long.",
+     "lat": 55.746333,
+     "lon": -132.237167
+    },
+    {
+     "name": null,
+     "lat_dm": "55° 45.54' N. lat.",
+     "lon_dm": "132° 11.27' W. long.",
+     "lat": 55.759,
+     "lon": -132.187833
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Vixen Inlet",
+   "parent": "District 7",
+   "citation": "5 AAC 33.350(h)(8)",
+   "subsection": "(h)",
+   "text": "Vixen Inlet: waters east of the longitude of the westernmost tip of Sunshine Island at 132° 05.28' W. long.",
+   "points": [
+    {
+     "name": "Sunshine Island",
+     "lat_dm": null,
+     "lon_dm": "132° 05.28' W. long.",
+     "lat": null,
+     "lon": -132.088
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Zimovia Strait",
+   "parent": "District 7",
+   "citation": "5 AAC 33.350(h)(9)",
+   "subsection": "(h)",
+   "text": "Zimovia Strait: waters north of a line from Thorns Point at 56° 06.97' N. lat. 132° 04.43' W. long., to a point on Etolin Island at 56° 07.14' N. lat., 132° 07.07' W. long.",
+   "points": [
+    {
+     "name": "Thorns Point",
+     "lat_dm": "56° 06.97' N. lat.",
+     "lon_dm": "132° 04.43' W. long.",
+     "lat": 56.116167,
+     "lon": -132.073833
+    },
+    {
+     "name": "Etolin Island",
+     "lat_dm": "56° 07.14' N. lat.",
+     "lon_dm": "132° 07.07' W. long.",
+     "lat": 56.119,
+     "lon": -132.117833
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Blind Slough",
+   "parent": "District 8",
+   "citation": "5 AAC 33.350(i)(1)",
+   "subsection": "(i)",
+   "text": "Blind Slough: waters north of a line from 56° 30.71' N. lat., 132° 43.48' W. long., to 56° 31.88' N. lat., 132° 40.66' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "56° 30.71' N. lat.",
+     "lon_dm": "132° 43.48' W. long.",
+     "lat": 56.511833,
+     "lon": -132.724667
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 31.88' N. lat.",
+     "lon_dm": "132° 40.66' W. long.",
+     "lat": 56.531333,
+     "lon": -132.677667
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Five Mile Creek",
+   "parent": "District 8",
+   "citation": "5 AAC 33.350(i)(2)",
+   "subsection": "(i)",
+   "text": "Five Mile Creek: waters south of the latitude and west of the longitude of Sukoi Island Light at 56° 53.73' N. lat., 132° 56.64' W. long.",
+   "points": [
+    {
+     "name": "Sukoi Island",
+     "lat_dm": "56° 53.73' N. lat.",
+     "lon_dm": "132° 56.64' W. long.",
+     "lat": 56.8955,
+     "lon": -132.944
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Stikine River",
+   "parent": "District 8",
+   "citation": "5 AAC 33.350(i)(3)",
+   "subsection": "(i)",
+   "text": "Stikine River: (A) waters east of a line from Indian Point at 56° 44.93' N. lat., 132° 31.67' W. long., to Point Rothsay at 56° 35.64' N. lat., 132° 22.05' W. long., from the first Monday in May through the first Saturday in August; (B) after the first Saturday in August, waters north and west of a line from Babbler Point at 56° 29.08' N. lat., 132° 17.37' W. long., to Hour Point at 56° 27.73' N. lat., 132° 16.79' W. long., north and east of a line from Point Highfield at 56° 29.34' N. lat., 132° 23.36' W. long., to the southern end of Liesnoi Island at 56° 29.83' N. lat., 132° 29.19' W. long., to the southern end of Greys Island at 56° 30.67' N. lat., 132° 33.05' W. long., to the small island near the eastern entrance of Blind Slough at 56° 31.83' N. lat., 132° 40.17' W. long., to the nearest point on Mitkof Island at 56° 31.88' N. lat., 132° 40.66' W. long., and south and east of a line from the prominent point on Mitkof Island nearest Coney Island at 56° 40.77' N. lat., 132° 39.28' W. long., to the western end of Coney Island at 56° 41.62' N. lat., 132° 38.92' W. long., to a point 800 yards north of Japanese Creek on the mainland shore at 56° 46.62' N. lat., 132° 37.11' W. long.",
+   "points": [
+    {
+     "name": "Indian Point",
+     "lat_dm": "56° 44.93' N. lat.",
+     "lon_dm": "132° 31.67' W. long.",
+     "lat": 56.748833,
+     "lon": -132.527833
+    },
+    {
+     "name": "Point Rothsay",
+     "lat_dm": "56° 35.64' N. lat.",
+     "lon_dm": "132° 22.05' W. long.",
+     "lat": 56.594,
+     "lon": -132.3675
+    },
+    {
+     "name": "Babbler Point",
+     "lat_dm": "56° 29.08' N. lat.",
+     "lon_dm": "132° 17.37' W. long.",
+     "lat": 56.484667,
+     "lon": -132.2895
+    },
+    {
+     "name": "Hour Point",
+     "lat_dm": "56° 27.73' N. lat.",
+     "lon_dm": "132° 16.79' W. long.",
+     "lat": 56.462167,
+     "lon": -132.279833
+    },
+    {
+     "name": "Point Highfield",
+     "lat_dm": "56° 29.34' N. lat.",
+     "lon_dm": "132° 23.36' W. long.",
+     "lat": 56.489,
+     "lon": -132.389333
+    },
+    {
+     "name": "Liesnoi Island",
+     "lat_dm": "56° 29.83' N. lat.",
+     "lon_dm": "132° 29.19' W. long.",
+     "lat": 56.497167,
+     "lon": -132.4865
+    },
+    {
+     "name": "Greys Island",
+     "lat_dm": "56° 30.67' N. lat.",
+     "lon_dm": "132° 33.05' W. long.",
+     "lat": 56.511167,
+     "lon": -132.550833
+    },
+    {
+     "name": "Blind Slough",
+     "lat_dm": "56° 31.83' N. lat.",
+     "lon_dm": "132° 40.17' W. long.",
+     "lat": 56.5305,
+     "lon": -132.6695
+    },
+    {
+     "name": "Mitkof Island",
+     "lat_dm": "56° 31.88' N. lat.",
+     "lon_dm": "132° 40.66' W. long.",
+     "lat": 56.531333,
+     "lon": -132.677667
+    },
+    {
+     "name": "Mitkof Island nearest Coney Island",
+     "lat_dm": "56° 40.77' N. lat.",
+     "lon_dm": "132° 39.28' W. long.",
+     "lat": 56.6795,
+     "lon": -132.654667
+    },
+    {
+     "name": "Coney Island",
+     "lat_dm": "56° 41.62' N. lat.",
+     "lon_dm": "132° 38.92' W. long.",
+     "lat": 56.693667,
+     "lon": -132.648667
+    },
+    {
+     "name": "Creek on the mainland shore",
+     "lat_dm": "56° 46.62' N. lat.",
+     "lon_dm": "132° 37.11' W. long.",
+     "lat": 56.777,
+     "lon": -132.6185
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Babbler Point",
+   "parent": "District 8",
+   "citation": "5 AAC 33.350(i)(4)",
+   "subsection": "(i)",
+   "text": "Babbler Point: waters within one-quarter mile of the mainland shoreline south and east of 56° 30.47' N. lat., from the first Monday in May through the second Saturday in June.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "56° 30.47' N. lat.",
+     "lon_dm": null,
+     "lat": 56.507833,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Wrangell Harbor",
+   "parent": "District 8",
+   "citation": "5 AAC 33.350(i)(5)",
+   "subsection": "(i)",
+   "text": "Wrangell Harbor: waters within one-quarter mile of the shoreline on the western side of Wrangell Island, south of the latitude of Point Highfield at 56° 29.34' N. lat., and north of the latitude of Cemetery Point at 56° 27.25' N. lat., from the first Monday in May through the second Saturday in June.",
+   "points": [
+    {
+     "name": "Point Highfield",
+     "lat_dm": "56° 29.34' N. lat.",
+     "lon_dm": null,
+     "lat": 56.489,
+     "lon": null
+    },
+    {
+     "name": "Cemetery Point",
+     "lat_dm": "56° 27.25' N. lat.",
+     "lon_dm": null,
+     "lat": 56.454167,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Woronkofski Point (The Nose)",
+   "parent": "District 8",
+   "citation": "5 AAC 33.350(i)(6)",
+   "subsection": "(i)",
+   "text": "Woronkofski Point (The Nose): waters of Stikine Strait within one-quarter mile of the Woronkofski Island shoreline west of the longitude of the Woronkofski Point day beacon at 132° 28.85' W. long., and north of the latitude of Ancon Point Light at 56° 24.30' N. lat., from the first Monday in May through the second Saturday in June for the entirety of a drift gillnet fishing period when the drift gillnet salmon fishery is open for more than 48 hours.",
+   "points": [
+    {
+     "name": "Woronkofski Point day beacon",
+     "lat_dm": null,
+     "lon_dm": "132° 28.85' W. long.",
+     "lat": null,
+     "lon": -132.480833
+    },
+    {
+     "name": "Ancon Point",
+     "lat_dm": "56° 24.30' N. lat.",
+     "lon_dm": null,
+     "lat": 56.405,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Woodpecker Cove",
+   "parent": "District 8",
+   "citation": "5 AAC 33.350(i)(7)",
+   "subsection": "(i)",
+   "text": "Woodpecker Cove: waters of Sumner Strait north of a line from 56° 30.02' N. lat., 132° 53.89' W. long., to Point Howe at 56° 29.68' N. lat., 132° 49.03' W. long., to the southeasternmost tip of Station Island at 56° 29.55' N. lat., 132° 46.24' W. long., and west of a line from Station Island Light at 56° 29.66' N. lat., 132° 45.81' W. long., to a point on Mitkof Island at 56° 30.41' N. lat., 132° 44.88' W. long., from the first Monday in May through the second Saturday in June, for the entirety of a drift gillnet fishing period when the drift gillnet salmon fishery is open for more than 48 hours.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "56° 30.02' N. lat.",
+     "lon_dm": "132° 53.89' W. long.",
+     "lat": 56.500333,
+     "lon": -132.898167
+    },
+    {
+     "name": "Point Howe",
+     "lat_dm": "56° 29.68' N. lat.",
+     "lon_dm": "132° 49.03' W. long.",
+     "lat": 56.494667,
+     "lon": -132.817167
+    },
+    {
+     "name": "Station Island",
+     "lat_dm": "56° 29.55' N. lat.",
+     "lon_dm": "132° 46.24' W. long.",
+     "lat": 56.4925,
+     "lon": -132.770667
+    },
+    {
+     "name": "Station Island",
+     "lat_dm": "56° 29.66' N. lat.",
+     "lon_dm": "132° 45.81' W. long.",
+     "lat": 56.494333,
+     "lon": -132.7635
+    },
+    {
+     "name": "Mitkof Island",
+     "lat_dm": "56° 30.41' N. lat.",
+     "lon_dm": "132° 44.88' W. long.",
+     "lat": 56.506833,
+     "lon": -132.748
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Bear Creek (Eastern Mitkof Island)",
+   "parent": "District 8",
+   "citation": "5 AAC 33.350(i)(8)",
+   "subsection": "(i)",
+   "text": "Bear Creek (Eastern Mitkof Island): waters of Frederick Sound south of 56° 42.93' N. lat., and west of 132° 41.47' W. long., from the first Monday in May through the second Saturday in June.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "56° 42.93' N. lat.",
+     "lon_dm": "132° 41.47' W. long.",
+     "lat": 56.7155,
+     "lon": -132.691167
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Beacon Point/Frederick Point",
+   "parent": "District 8",
+   "citation": "5 AAC 33.350(i)(9)",
+   "subsection": "(i)",
+   "text": "Beacon Point/Frederick Point: waters of Frederick Sound west of a line from the District 10 boundary line one nautical mile off Kupreanof Island shoreline at 56° 57.27' N. lat., 132° 58.96' W. long., to Sukoi Island Light at 56° 53.73' N. lat., 132° 56.64' W. long., to Frederick Point at 56° 47.55' N. lat., 132° 49.27' W. long., from the first Monday in May through the second Saturday in June.",
+   "points": [
+    {
+     "name": "Kupreanof Island shoreline",
+     "lat_dm": "56° 57.27' N. lat.",
+     "lon_dm": "132° 58.96' W. long.",
+     "lat": 56.9545,
+     "lon": -132.982667
+    },
+    {
+     "name": "Sukoi Island",
+     "lat_dm": "56° 53.73' N. lat.",
+     "lon_dm": "132° 56.64' W. long.",
+     "lat": 56.8955,
+     "lon": -132.944
+    },
+    {
+     "name": "Frederick Point",
+     "lat_dm": "56° 47.55' N. lat.",
+     "lon_dm": "132° 49.27' W. long.",
+     "lat": 56.7925,
+     "lon": -132.821167
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Bay of Pillars",
+   "parent": "District 9",
+   "citation": "5 AAC 33.350(j)(1)",
+   "subsection": "(j)",
+   "text": "Bay of Pillars: waters east of 134° 11.74' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "134° 11.74' W. long.",
+     "lat": null,
+     "lon": -134.195667
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Deep Cove",
+   "parent": "District 9",
+   "citation": "5 AAC 33.350(j)(2)",
+   "subsection": "(j)",
+   "text": "Deep Cove: waters west of 134° 43.63' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "134° 43.63' W. long.",
+     "lat": null,
+     "lon": -134.727167
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Eliza Harbor",
+   "parent": "District 9",
+   "citation": "5 AAC 33.350(j)(3)",
+   "subsection": "(j)",
+   "text": "Eliza Harbor: waters north of 57° 14.30' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 14.30' N. lat.",
+     "lon_dm": null,
+     "lat": 57.238333,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Gedney Harbor",
+   "parent": "District 9",
+   "citation": "5 AAC 33.350(j)(4)",
+   "subsection": "(j)",
+   "text": "Gedney Harbor: waters east of 134° 14.80' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "134° 14.80' W. long.",
+     "lat": null,
+     "lon": -134.246667
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Gut Bay",
+   "parent": "District 9",
+   "citation": "5 AAC 33.350(j)(5)",
+   "subsection": "(j)",
+   "text": "Gut Bay: waters west of 134° 43.47' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "134° 43.47' W. long.",
+     "lat": null,
+     "lon": -134.7245
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Hamilton Bay",
+   "parent": "District 9",
+   "citation": "5 AAC 33.350(j)(6)",
+   "subsection": "(j)",
+   "text": "Hamilton Bay: waters south of the latitude of Point Hamilton at 56° 54.11' N. lat.",
+   "points": [
+    {
+     "name": "Point Hamilton",
+     "lat_dm": "56° 54.11' N. lat.",
+     "lon_dm": null,
+     "lat": 56.901833,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Kadake Bay",
+   "parent": "District 9",
+   "citation": "5 AAC 33.350(j)(7)",
+   "subsection": "(j)",
+   "text": "Kadake Bay: waters south of a line from 56° 48.90' N. lat., 133° 58.06' W. long., to 56° 48.38' N. lat., 133° 56.58' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "56° 48.90' N. lat.",
+     "lon_dm": "133° 58.06' W. long.",
+     "lat": 56.815,
+     "lon": -133.967667
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 48.38' N. lat.",
+     "lon_dm": "133° 56.58' W. long.",
+     "lat": 56.806333,
+     "lon": -133.943
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Little Pybus Bay",
+   "parent": "District 9",
+   "citation": "5 AAC 33.350(j)(8)",
+   "subsection": "(j)",
+   "text": "Little Pybus Bay: waters north of 57° 14.72' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 14.72' N. lat.",
+     "lon_dm": null,
+     "lat": 57.245333,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Murder Cove",
+   "parent": "District 9",
+   "citation": "5 AAC 33.350(j)(9)",
+   "subsection": "(j)",
+   "text": "Murder Cove: waters north of 57° 01.72' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 01.72' N. lat.",
+     "lon_dm": null,
+     "lat": 57.028667,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Patterson Bay",
+   "parent": "District 9",
+   "citation": "5 AAC 33.350(j)(10)",
+   "subsection": "(j)",
+   "text": "Patterson Bay: waters north of 56° 36.73' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "56° 36.73' N. lat.",
+     "lon_dm": null,
+     "lat": 56.612167,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Port Camden",
+   "parent": "District 9",
+   "citation": "5 AAC 33.350(j)(11)",
+   "subsection": "(j)",
+   "text": "Port Camden: waters south of 56° 41.67' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "56° 41.67' N. lat.",
+     "lon_dm": null,
+     "lat": 56.6945,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Port Malmesbury",
+   "parent": "District 9",
+   "citation": "5 AAC 33.350(j)(12)",
+   "subsection": "(j)",
+   "text": "Port Malmesbury: waters east of a line from 56° 18.90' N. lat., 134° 10.84' W. long., to 56° 19.59' N. lat., 134° 11.42' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "56° 18.90' N. lat.",
+     "lon_dm": "134° 10.84' W. long.",
+     "lat": 56.315,
+     "lon": -134.180667
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 19.59' N. lat.",
+     "lon_dm": "134° 11.42' W. long.",
+     "lat": 56.3265,
+     "lon": -134.190333
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Port Walter and Little Port Walter",
+   "parent": "District 9",
+   "citation": "5 AAC 33.350(j)(13)",
+   "subsection": "(j)",
+   "text": "Port Walter and Little Port Walter: waters west of a line from 56° 23.25' N. lat., 134° 38.20' W. long., to 56° 23.71' N. lat., 134° 38.38' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "56° 23.25' N. lat.",
+     "lon_dm": "134° 38.20' W. long.",
+     "lat": 56.3875,
+     "lon": -134.636667
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 23.71' N. lat.",
+     "lon_dm": "134° 38.38' W. long.",
+     "lat": 56.395167,
+     "lon": -134.639667
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Red Bluff Bay",
+   "parent": "District 9",
+   "citation": "5 AAC 33.350(j)(14)",
+   "subsection": "(j)",
+   "text": "Red Bluff Bay: waters west of 134° 45.47' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "134° 45.47' W. long.",
+     "lat": null,
+     "lon": -134.757833
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Rowan Bay",
+   "parent": "District 9",
+   "citation": "5 AAC 33.350(j)(15)",
+   "subsection": "(j)",
+   "text": "Rowan Bay: waters north and east of a line from 56° 40.55' N. lat., 134° 15.20' W. long., to 56° 39.75' N. lat., 134° 13.48' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "56° 40.55' N. lat.",
+     "lon_dm": "134° 15.20' W. long.",
+     "lat": 56.675833,
+     "lon": -134.253333
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 39.75' N. lat.",
+     "lon_dm": "134° 13.48' W. long.",
+     "lat": 56.6625,
+     "lon": -134.224667
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Skanax Bay",
+   "parent": "District 9",
+   "citation": "5 AAC 33.350(j)(16)",
+   "subsection": "(j)",
+   "text": "Skanax Bay: waters south and east of a line from 56° 51.72' N. lat., 134° 11.39' W. long., to the southwestemmost tip of an unnamed island at 56° 52.70' N. lat., 134° 09.67' W. long., and east of a line from the northwestemmost tip of the same unnamed island at 56° 52.91' N. tat.. 134° 09.71' W. long., to 56° 53.25' N. lat., 134° 10.14' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "56° 51.72' N. lat.",
+     "lon_dm": "134° 11.39' W. long.",
+     "lat": 56.862,
+     "lon": -134.189833
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 52.70' N. lat.",
+     "lon_dm": "134° 09.67' W. long.",
+     "lat": 56.878333,
+     "lon": -134.161167
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 52.91' N. tat.",
+     "lon_dm": "134° 09.71' W. long.",
+     "lat": 56.881833,
+     "lon": -134.161833
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 53.25' N. lat.",
+     "lon_dm": "134° 10.14' W. long.",
+     "lat": 56.8875,
+     "lon": -134.169
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Security Bay",
+   "parent": "District 9",
+   "citation": "5 AAC 33.350(j)(17)",
+   "subsection": "(j)",
+   "text": "Security Bay: waters south of the latitude of Expedition Point at 56° 50.62' N. lat.",
+   "points": [
+    {
+     "name": "Expedition Point",
+     "lat_dm": "56° 50.62' N. lat.",
+     "lon_dm": null,
+     "lat": 56.843667,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Tebenkof Bay",
+   "parent": "District 9",
+   "citation": "5 AAC 33.350(j)(18)",
+   "subsection": "(j)",
+   "text": "Tebenkof Bay: (A) Elena Bay: waters north and east of a line from 56° 29.88' N. lat., 134° 06.61' W. long., to Elena Point at 56° 28.95' N. lat., 134° 05.66' W. long.; (B) Petrof Bay: waters south of 56° 22.42' N. lat.; (C) Thetis Bay: waters south of 56° 23.37' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "56° 29.88' N. lat.",
+     "lon_dm": "134° 06.61' W. long.",
+     "lat": 56.498,
+     "lon": -134.110167
+    },
+    {
+     "name": "Elena Point",
+     "lat_dm": "56° 28.95' N. lat.",
+     "lon_dm": "134° 05.66' W. long.",
+     "lat": 56.4825,
+     "lon": -134.094333
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 22.42' N. lat.",
+     "lon_dm": null,
+     "lat": 56.373667,
+     "lon": null
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 23.37' N. lat.",
+     "lon_dm": null,
+     "lat": 56.3895,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Dry Bay",
+   "parent": "District 10",
+   "citation": "5 AAC 33.350(k)(1)",
+   "subsection": "(k)",
+   "text": "Dry Bay: waters east of 133° 01.92' W. long., and north of 57° 02.82' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "133° 01.92' W. long.",
+     "lat": null,
+     "lon": -133.032
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 02.82' N. lat.",
+     "lon_dm": null,
+     "lat": 57.047,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Farragut Bay",
+   "parent": "District 10",
+   "citation": "5 AAC 33.350(k)(2)",
+   "subsection": "(k)",
+   "text": "Farragut Bay: waters of Francis Anchorage inside a line from 57° 08.70' N. lat., 133° 10.45' W. long., to 57° 08.65' N. lat., 133° 11.82' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 08.70' N. lat.",
+     "lon_dm": "133° 10.45' W. long.",
+     "lat": 57.145,
+     "lon": -133.174167
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 08.65' N. lat.",
+     "lon_dm": "133° 11.82' W. long.",
+     "lat": 57.144167,
+     "lon": -133.197
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Gambier Bay",
+   "parent": "District 10",
+   "citation": "5 AAC 33.350(k)(3)",
+   "subsection": "(k)",
+   "text": "Gambier Bay: (A) waters west of 134° 00.06' W. long.; (B) waters of Snug Cove south of a line from Scald Point at 57° 25.98' N. lat., 133° 58.52' W. long., to the northwest tip of Pain Island at 57° 26.06' N. lat., 133° 57.35' W. long., to a point on Admiralty Island at 57° 26.04' N. lat., 133° 56.85' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "134° 00.06' W. long.",
+     "lat": null,
+     "lon": -134.001
+    },
+    {
+     "name": "Scald Point",
+     "lat_dm": "57° 25.98' N. lat.",
+     "lon_dm": "133° 58.52' W. long.",
+     "lat": 57.433,
+     "lon": -133.975333
+    },
+    {
+     "name": "Pain Island",
+     "lat_dm": "57° 26.06' N. lat.",
+     "lon_dm": "133° 57.35' W. long.",
+     "lat": 57.434333,
+     "lon": -133.955833
+    },
+    {
+     "name": "Admiralty Island",
+     "lat_dm": "57° 26.04' N. lat.",
+     "lon_dm": "133° 56.85' W. long.",
+     "lat": 57.434,
+     "lon": -133.9475
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Hobart Bay",
+   "parent": "District 10",
+   "citation": "5 AAC 33.350(k)(4)",
+   "subsection": "(k)",
+   "text": "Hobart Bay: waters east of 133° 23.71' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "133° 23.71' W. long.",
+     "lat": null,
+     "lon": -133.395167
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Port Houghton",
+   "parent": "District 10",
+   "citation": "5 AAC 33.350(k)(5)",
+   "subsection": "(k)",
+   "text": "Port Houghton: (A) waters south of the latitude and east of the longitude of a point on the southern tip of Walter Island at 57° 18.20' N. lat., 133° 17.01' W. long.; (B) waters east of a line from 57° 19.62' N. lat., 133° 11.27' W. long., to 57° 19.96' N. lat., 133° 11.72' W. long.",
+   "points": [
+    {
+     "name": "Walter Island",
+     "lat_dm": "57° 18.20' N. lat.",
+     "lon_dm": "133° 17.01' W. long.",
+     "lat": 57.303333,
+     "lon": -133.2835
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 19.62' N. lat.",
+     "lon_dm": "133° 11.27' W. long.",
+     "lat": 57.327,
+     "lon": -133.187833
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 19.96' N. lat.",
+     "lon_dm": "133° 11.72' W. long.",
+     "lat": 57.332667,
+     "lon": -133.195333
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Pybus Bay",
+   "parent": "District 10",
+   "citation": "5 AAC 33.350(k)(6)",
+   "subsection": "(k)",
+   "text": "Pybus Bay: waters of Cannery Cove and West Arm north and west of a line running from 57° 18.34' N. lat., 134° 07.88' W. long., to an unnamed island at 57° 18.70' N. lat., 134° 07.58' W. long., and then to a point at 57° 19.29' N. lat., 134° 06.36' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 18.34' N. lat.",
+     "lon_dm": "134° 07.88' W. long.",
+     "lat": 57.305667,
+     "lon": -134.131333
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 18.70' N. lat.",
+     "lon_dm": "134° 07.58' W. long.",
+     "lat": 57.311667,
+     "lon": -134.126333
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 19.29' N. lat.",
+     "lon_dm": "134° 06.36' W. long.",
+     "lat": 57.3215,
+     "lon": -134.106
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Windham Bay",
+   "parent": "District 10",
+   "citation": "5 AAC 33.350(k)(7)",
+   "subsection": "(k)",
+   "text": "Windham Bay: waters east of a line from 57° 35.01' N. lat., 133° 27.35' W. long., to 57° 35.14' N. lat., 133° 27.49' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 35.01' N. lat.",
+     "lon_dm": "133° 27.35' W. long.",
+     "lat": 57.5835,
+     "lon": -133.455833
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 35.14' N. lat.",
+     "lon_dm": "133° 27.49' W. long.",
+     "lat": 57.585667,
+     "lon": -133.458167
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Limestone Inlet",
+   "parent": "District 11",
+   "citation": "5 AAC 33.350(l)(1)",
+   "subsection": "(l)",
+   "text": "Limestone Inlet: waters east of a line from 58° 01.75' N. lat., 133° 59.40' W. long., to 58° 02.04' N. lat., 133° 59.60' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "58° 01.75' N. lat.",
+     "lon_dm": "133° 59.40' W. long.",
+     "lat": 58.029167,
+     "lon": -133.99
+    },
+    {
+     "name": null,
+     "lat_dm": "58° 02.04' N. lat.",
+     "lon_dm": "133° 59.60' W. long.",
+     "lat": 58.034,
+     "lon": -133.993333
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Port Snettisham",
+   "parent": "District 11",
+   "citation": "5 AAC 33.350(l)(2)",
+   "subsection": "(l)",
+   "text": "Port Snettisham: (A) Speel River: waters north and west of a line from 58° 07.09' N. lat., 133° 44.11' W. long., to 58° 07.59' N. lat., 133° 42.80' W. long.; (B) Gilbert Bay: waters east and south of a line from Sentinel Point at 57° 59.72' N. lat., 133° 45.65' W. long., to 58° 01.45' N. lat., 133° 45.33' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "58° 07.09' N. lat.",
+     "lon_dm": "133° 44.11' W. long.",
+     "lat": 58.118167,
+     "lon": -133.735167
+    },
+    {
+     "name": null,
+     "lat_dm": "58° 07.59' N. lat.",
+     "lon_dm": "133° 42.80' W. long.",
+     "lat": 58.1265,
+     "lon": -133.713333
+    },
+    {
+     "name": "Sentinel Point",
+     "lat_dm": "57° 59.72' N. lat.",
+     "lon_dm": "133° 45.65' W. long.",
+     "lat": 57.995333,
+     "lon": -133.760833
+    },
+    {
+     "name": null,
+     "lat_dm": "58° 01.45' N. lat.",
+     "lon_dm": "133° 45.33' W. long.",
+     "lat": 58.024167,
+     "lon": -133.7555
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Seymour Canal",
+   "parent": "District 11",
+   "citation": "5 AAC 33.350(l)(3)",
+   "subsection": "(l)",
+   "text": "Seymour Canal: (A) Mole Harbor: waters west and south of a line from the easternmost tip of Flaw Point at 57° 40.54' N. lat., 134° 02.74' W. long., to 57° 39.40' N. lat., 134° 00.73' W. long.; (B) Pleasant Bay: waters west and south of a line from 57° 38.83' N. lat., 133° 59.72' W. long., to 57° 38.43' N. lat., 133° 58.66' W. long.",
+   "points": [
+    {
+     "name": "Flaw Point",
+     "lat_dm": "57° 40.54' N. lat.",
+     "lon_dm": "134° 02.74' W. long.",
+     "lat": 57.675667,
+     "lon": -134.045667
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 39.40' N. lat.",
+     "lon_dm": "134° 00.73' W. long.",
+     "lat": 57.656667,
+     "lon": -134.012167
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 38.83' N. lat.",
+     "lon_dm": "133° 59.72' W. long.",
+     "lat": 57.647167,
+     "lon": -133.995333
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 38.43' N. lat.",
+     "lon_dm": "133° 58.66' W. long.",
+     "lat": 57.6405,
+     "lon": -133.977667
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Slocum Inlet",
+   "parent": "District 11",
+   "citation": "5 AAC 33.350(l)(4)",
+   "subsection": "(l)",
+   "text": "Slocum Inlet: waters east of a line from 58° 08.35' N. lat., 134° 04.33' W. long., to 58° 07.80' N. lat., 134° 04.42' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "58° 08.35' N. lat.",
+     "lon_dm": "134° 04.33' W. long.",
+     "lat": 58.139167,
+     "lon": -134.072167
+    },
+    {
+     "name": null,
+     "lat_dm": "58° 07.80' N. lat.",
+     "lon_dm": "134° 04.42' W. long.",
+     "lat": 58.13,
+     "lon": -134.073667
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Taku Harbor",
+   "parent": "District 11",
+   "citation": "5 AAC 33.350(l)(5)",
+   "subsection": "(l)",
+   "text": "Taku Harbor: waters east and north of a line from 58° 03.77' N. lat., 134° 01.50' W. long., to 58° 03.77' N. lat., 134° 02.04' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "58° 03.77' N. lat.",
+     "lon_dm": "134° 01.50' W. long.",
+     "lat": 58.062833,
+     "lon": -134.025
+    },
+    {
+     "name": null,
+     "lat_dm": "58° 03.77' N. lat.",
+     "lon_dm": "134° 02.04' W. long.",
+     "lat": 58.062833,
+     "lon": -134.034
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Taku Inlet",
+   "parent": "District 11",
+   "citation": "5 AAC 33.350(l)(6)",
+   "subsection": "(l)",
+   "text": "Taku Inlet: waters north and east of a line from the Annex Creek Power House at 58° 19.06' N. lat., 134° 05.93' W. long., to 58° 17.60' N. lat., 134° 00.78' W. long.",
+   "points": [
+    {
+     "name": "Annex Creek Power House",
+     "lat_dm": "58° 19.06' N. lat.",
+     "lon_dm": "134° 05.93' W. long.",
+     "lat": 58.317667,
+     "lon": -134.098833
+    },
+    {
+     "name": null,
+     "lat_dm": "58° 17.60' N. lat.",
+     "lon_dm": "134° 00.78' W. long.",
+     "lat": 58.293333,
+     "lon": -134.013
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "waters within two nautical miles of the Chichagof Island sho",
+   "parent": "District 12",
+   "citation": "5 AAC 33.350(m)(1)",
+   "subsection": "(m)",
+   "text": "waters within two nautical miles of the Chichagof Island shoreline south of the latitude of 57° 41.65' N. lat., and north of the latitude of 57° 37.91' N. lat., including the waters of Basket Bay",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 41.65' N. lat.",
+     "lon_dm": null,
+     "lat": 57.694167,
+     "lon": null
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 37.91' N. lat.",
+     "lon_dm": null,
+     "lat": 57.631833,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Chaik Bay",
+   "parent": "District 12",
+   "citation": "5 AAC 33.350(m)(2)",
+   "subsection": "(m)",
+   "text": "Chaik Bay: waters east of 134° 30.53' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "134° 30.53' W. long.",
+     "lat": null,
+     "lon": -134.508833
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "False Bay",
+   "parent": "District 12",
+   "citation": "5 AAC 33.350(m)(3)",
+   "subsection": "(m)",
+   "text": "False Bay: waters west of a line from 57° 58.53' N. lat., 134° 54.92' W. long., to 57° 57.03' N. lat., 134° 55.43' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 58.53' N. lat.",
+     "lon_dm": "134° 54.92' W. long.",
+     "lat": 57.9755,
+     "lon": -134.915333
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 57.03' N. lat.",
+     "lon_dm": "134° 55.43' W. long.",
+     "lat": 57.9505,
+     "lon": -134.923833
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Freshwater Bay",
+   "parent": "District 12",
+   "citation": "5 AAC 33.350(m)(4)",
+   "subsection": "(m)",
+   "text": "Freshwater Bay: waters west and north of a line from 57° 53.23' N. lat., 135° 07.92' W. long., to 57° 54.88' N. lat., 135° 05.97' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 53.23' N. lat.",
+     "lon_dm": "135° 07.92' W. long.",
+     "lat": 57.887167,
+     "lon": -135.132
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 54.88' N. lat.",
+     "lon_dm": "135° 05.97' W. long.",
+     "lat": 57.914667,
+     "lon": -135.0995
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Funter Bay",
+   "parent": "District 12",
+   "citation": "5 AAC 33.350(m)(5)",
+   "subsection": "(m)",
+   "text": "Funter Bay: waters east of the longitude of the southernmost tip of Clear Point at 134° 54.99' W. long.",
+   "points": [
+    {
+     "name": "Clear Point",
+     "lat_dm": null,
+     "lon_dm": "134° 54.99' W. long.",
+     "lat": null,
+     "lon": -134.9165
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Hawk Inlet",
+   "parent": "District 12",
+   "citation": "5 AAC 33.350(m)(6)",
+   "subsection": "(m)",
+   "text": "Hawk Inlet: waters east and north of a line from Point Marsden at 58° 03.40' N. lat., 134° 48.66' W. long., to a point one nautical mile northwest of Point Marsden at 58° 04.33' N. lat., 134° 49.25' W. long., to Hawk Point at 58° 05.81' N. lat., 134° 47.09' W. long.",
+   "points": [
+    {
+     "name": "Point Marsden",
+     "lat_dm": "58° 03.40' N. lat.",
+     "lon_dm": "134° 48.66' W. long.",
+     "lat": 58.056667,
+     "lon": -134.811
+    },
+    {
+     "name": "Point Marsden",
+     "lat_dm": "58° 04.33' N. lat.",
+     "lon_dm": "134° 49.25' W. long.",
+     "lat": 58.072167,
+     "lon": -134.820833
+    },
+    {
+     "name": "Hawk Point",
+     "lat_dm": "58° 05.81' N. lat.",
+     "lon_dm": "134° 47.09' W. long.",
+     "lat": 58.096833,
+     "lon": -134.784833
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Hood Bay",
+   "parent": "District 12",
+   "citation": "5 AAC 33.350(m)(7)",
+   "subsection": "(m)",
+   "text": "Hood Bay: waters east of 134° 24.66' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "134° 24.66' W. long.",
+     "lat": null,
+     "lon": -134.411
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Howard Bay",
+   "parent": "District 12",
+   "citation": "5 AAC 33.350(m)(8)",
+   "subsection": "(m)",
+   "text": "Howard Bay: waters north of the latitude of the southernmost tip of Point Howard at 58° 17.37' N. lat",
+   "points": [
+    {
+     "name": "Point Howard",
+     "lat_dm": "58° 17.37' N. lat",
+     "lon_dm": null,
+     "lat": 58.2895,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Kelp Bay, Middle Arm, and South Arm",
+   "parent": "District 12",
+   "citation": "5 AAC 33.350(m)(9)",
+   "subsection": "(m)",
+   "text": "Kelp Bay, Middle Arm, and South Arm: waters west of 134° 57.07' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "134° 57.07' W. long.",
+     "lat": null,
+     "lon": -134.951167
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "waters within two nautical miles of the Admiralty and Killis",
+   "parent": "District 12",
+   "citation": "5 AAC 33.350(m)(10)",
+   "subsection": "(m)",
+   "text": "waters within two nautical miles of the Admiralty and Killisnoo Islands shorelines south of the latitude of Parker Point at 57° 36.73' N. lat., and north of the latitude of Point Samuel at 57° 28.45' N. lat., including the waters of Kootznahoo Inlet",
+   "points": [
+    {
+     "name": "Parker Point",
+     "lat_dm": "57° 36.73' N. lat.",
+     "lon_dm": null,
+     "lat": 57.612167,
+     "lon": null
+    },
+    {
+     "name": "Point Samuel",
+     "lat_dm": "57° 28.45' N. lat.",
+     "lon_dm": null,
+     "lat": 57.474167,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Tenakee Inlet",
+   "parent": "District 12",
+   "citation": "5 AAC 33.350(m)(11)",
+   "subsection": "(m)",
+   "text": "Tenakee Inlet: (A) waters west of 135° 27.84' W. long.; (B) waters of Saltery Bay west of 135° 22.40' W. long.; (C) waters of Kadashan Bay, Comer Bay, and Crab Bay south of a line from 57° 44.87' N. lat., 135° 19.60' W. long., to 57° 45.58' N. lat., 135° 06.67' W. long.; (D) waters of Trap Bay south of a line from 57° 45.29' N. lat., 135° 02.53' W. long., to 57° 45.47' N. lat., 134° 59.06' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "135° 27.84' W. long.",
+     "lat": null,
+     "lon": -135.464
+    },
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "135° 22.40' W. long.",
+     "lat": null,
+     "lon": -135.373333
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 44.87' N. lat.",
+     "lon_dm": "135° 19.60' W. long.",
+     "lat": 57.747833,
+     "lon": -135.326667
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 45.58' N. lat.",
+     "lon_dm": "135° 06.67' W. long.",
+     "lat": 57.759667,
+     "lon": -135.111167
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 45.29' N. lat.",
+     "lon_dm": "135° 02.53' W. long.",
+     "lat": 57.754833,
+     "lon": -135.042167
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 45.47' N. lat.",
+     "lon_dm": "134° 59.06' W. long.",
+     "lat": 57.757833,
+     "lon": -134.984333
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Warm Springs Bay",
+   "parent": "District 12",
+   "citation": "5 AAC 33.350(m)(12)",
+   "subsection": "(m)",
+   "text": "Warm Springs Bay: waters west of 134° 46.79' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "134° 46.79' W. long.",
+     "lat": null,
+     "lon": -134.779833
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Whitewater Bay",
+   "parent": "District 12",
+   "citation": "5 AAC 33.350(m)(13)",
+   "subsection": "(m)",
+   "text": "Whitewater Bay: waters east and south of a line from Point Caution at 57° 14.79' N. lat., 134° 38.22' W. long., to 57° 15.41' N. lat., 134° 36.46' W. long.",
+   "points": [
+    {
+     "name": "Point Caution",
+     "lat_dm": "57° 14.79' N. lat.",
+     "lon_dm": "134° 38.22' W. long.",
+     "lat": 57.2465,
+     "lon": -134.637
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 15.41' N. lat.",
+     "lon_dm": "134° 36.46' W. long.",
+     "lat": 57.256833,
+     "lon": -134.607667
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Wilson Cove",
+   "parent": "District 12",
+   "citation": "5 AAC 33.350(m)(14)",
+   "subsection": "(m)",
+   "text": "Wilson Cove: waters east of the longitude of Point Wilson at 134° 38.29' W. long.",
+   "points": [
+    {
+     "name": "Point Wilson",
+     "lat_dm": null,
+     "lon_dm": "134° 38.29' W. long.",
+     "lat": null,
+     "lon": -134.638167
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Wukuklook Creek",
+   "parent": "District 12",
+   "citation": "5 AAC 33.350(m)(15)",
+   "subsection": "(m)",
+   "text": "Wukuklook Creek: waters north and west of a line from 57° 55.18' N. lat., 134° 55.69' W. long., to Flints Point at 57° 54.45' N. lat., 134° 57.48' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 55.18' N. lat.",
+     "lon_dm": "134° 55.69' W. long.",
+     "lat": 57.919667,
+     "lon": -134.928167
+    },
+    {
+     "name": "Flints Point",
+     "lat_dm": "57° 54.45' N. lat.",
+     "lon_dm": "134° 57.48' W. long.",
+     "lat": 57.9075,
+     "lon": -134.958
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Big Branch Bay",
+   "parent": "District 13",
+   "citation": "5 AAC 33.350(n)(1)",
+   "subsection": "(n)",
+   "text": "Big Branch Bay: waters north and east of a line from 56° 19.47' N. lat., 134° 50.53' W. long., to 56° 19.31' N. lat., 134° 50.16' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "56° 19.47' N. lat.",
+     "lon_dm": "134° 50.53' W. long.",
+     "lat": 56.3245,
+     "lon": -134.842167
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 19.31' N. lat.",
+     "lon_dm": "134° 50.16' W. long.",
+     "lat": 56.321833,
+     "lon": -134.836
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Black Bay",
+   "parent": "District 13",
+   "citation": "5 AAC 33.350(n)(2)",
+   "subsection": "(n)",
+   "text": "Black Bay: waters north and east of a line from 57° 42.54' N. lat., 136° 09.28' W. long., to 57° 42.35' N. lat., 136° 09.10' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 42.54' N. lat.",
+     "lon_dm": "136° 09.28' W. long.",
+     "lat": 57.709,
+     "lon": -136.154667
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 42.35' N. lat.",
+     "lon_dm": "136° 09.10' W. long.",
+     "lat": 57.705833,
+     "lon": -136.151667
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Deep Bay",
+   "parent": "District 13",
+   "citation": "5 AAC 33.350(n)(3)",
+   "subsection": "(n)",
+   "text": "Deep Bay: waters west of a line from 57° 26.83' N. lat., 135° 37.38' W. long., to 57° 26.47' N. lat., 135° 37.85' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 26.83' N. lat.",
+     "lon_dm": "135° 37.38' W. long.",
+     "lat": 57.447167,
+     "lon": -135.623
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 26.47' N. lat.",
+     "lon_dm": "135° 37.85' W. long.",
+     "lat": 57.441167,
+     "lon": -135.630833
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Pick Cove",
+   "parent": "District 13",
+   "citation": "5 AAC 33.350(n)(4)",
+   "subsection": "(n)",
+   "text": "Pick Cove: waters south and west of a line from 57° 37.82' N. lat, 135° 39.70' W. long., to 57° 38.42' N. lat., 135° 40.77' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 37.82' N. lat",
+     "lon_dm": "135° 39.70' W. long.",
+     "lat": 57.630333,
+     "lon": -135.661667
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 38.42' N. lat.",
+     "lon_dm": "135° 40.77' W. long.",
+     "lat": 57.640333,
+     "lon": -135.6795
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Fish Bay",
+   "parent": "District 13",
+   "citation": "5 AAC 33.350(n)(5)",
+   "subsection": "(n)",
+   "text": "Fish Bay: waters east of 135° 35.17' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "135° 35.17' W. long.",
+     "lat": null,
+     "lon": -135.586167
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Goulding Harbor",
+   "parent": "District 13",
+   "citation": "5 AAC 33.350(n)(6)",
+   "subsection": "(n)",
+   "text": "Goulding Harbor: waters north of a line from 57° 46.32' N. lat., 136° 15.17' W. long., to 57° 46.39' N. lat., 136° 15.54' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 46.32' N. lat.",
+     "lon_dm": "136° 15.17' W. long.",
+     "lat": 57.772,
+     "lon": -136.252833
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 46.39' N. lat.",
+     "lon_dm": "136° 15.54' W. long.",
+     "lat": 57.773167,
+     "lon": -136.259
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Hanus Bay",
+   "parent": "District 13",
+   "citation": "5 AAC 33.350(n)(7)",
+   "subsection": "(n)",
+   "text": "Hanus Bay: waters south of a line from 57° 25.47' N. lat., 134° 59.11' W. long., to 57° 25.28' N. lat., 135° 03.73' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 25.47' N. lat.",
+     "lon_dm": "134° 59.11' W. long.",
+     "lat": 57.4245,
+     "lon": -134.985167
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 25.28' N. lat.",
+     "lon_dm": "135° 03.73' W. long.",
+     "lat": 57.421333,
+     "lon": -135.062167
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Hoonah Sound",
+   "parent": "District 13",
+   "citation": "5 AAC 33.350(n)(8)",
+   "subsection": "(n)",
+   "text": "Hoonah Sound: waters west and north of a line from 57° 44.16' N. lat, 135° 43.76' W. long., to 57° 43.70' N. lat., 135° 44.78' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 44.16' N. lat",
+     "lon_dm": "135° 43.76' W. long.",
+     "lat": 57.736,
+     "lon": -135.729333
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 43.70' N. lat.",
+     "lon_dm": "135° 44.78' W. long.",
+     "lat": 57.728333,
+     "lon": -135.746333
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Katlian Bay",
+   "parent": "District 13",
+   "citation": "5 AAC 33.350(n)(9)",
+   "subsection": "(n)",
+   "text": "Katlian Bay: waters north and east of a line from 57° 09.45' N. lat., 135° 22.66' W. long., to 57° 09.08' N. lat., 135° 21.83' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 09.45' N. lat.",
+     "lon_dm": "135° 22.66' W. long.",
+     "lat": 57.1575,
+     "lon": -135.377667
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 09.08' N. lat.",
+     "lon_dm": "135° 21.83' W. long.",
+     "lat": 57.151333,
+     "lon": -135.363833
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Lisianski Inlet",
+   "parent": "District 13",
+   "citation": "5 AAC 33.350(n)(10)",
+   "subsection": "(n)",
+   "text": "Lisianski Inlet: (A) waters south of a line from 57° 56.72' N. lat., 136° 14.31' W. long., to 57° 57.22' N. lat., 136° 12.97' W. long.; (B) waters north of a line from Ewe Ledge at 58° 05.27' N. lat., 136° 27.44' W. long., to Dace Rock at 58° 05.48' N. lat., 136° 26.17' W. long., during inseason coho salmon troll closures as set out under 5 AAC 29.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 56.72' N. lat.",
+     "lon_dm": "136° 14.31' W. long.",
+     "lat": 57.945333,
+     "lon": -136.2385
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 57.22' N. lat.",
+     "lon_dm": "136° 12.97' W. long.",
+     "lat": 57.953667,
+     "lon": -136.216167
+    },
+    {
+     "name": "Ewe Ledge",
+     "lat_dm": "58° 05.27' N. lat.",
+     "lon_dm": "136° 27.44' W. long.",
+     "lat": 58.087833,
+     "lon": -136.457333
+    },
+    {
+     "name": "Dace Rock",
+     "lat_dm": "58° 05.48' N. lat.",
+     "lon_dm": "136° 26.17' W. long.",
+     "lat": 58.091333,
+     "lon": -136.436167
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Nakwasina Passage",
+   "parent": "District 13",
+   "citation": "5 AAC 33.350(n)(11)",
+   "subsection": "(n)",
+   "text": "Nakwasina Passage: waters north and east of a line from 57° 14.17' N. lat., 135° 29.96' W. long., to 57° 14.87' N. lat., 135° 30.56' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 14.17' N. lat.",
+     "lon_dm": "135° 29.96' W. long.",
+     "lat": 57.236167,
+     "lon": -135.499333
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 14.87' N. lat.",
+     "lon_dm": "135° 30.56' W. long.",
+     "lat": 57.247833,
+     "lon": -135.509333
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Nakwasina Sound",
+   "parent": "District 13",
+   "citation": "5 AAC 33.350(n)(12)",
+   "subsection": "(n)",
+   "text": "Nakwasina Sound: waters north and east of a line from 57° 11.65' N. lat., 135° 23.61' W. long., to 57° 12.20' N. lat., 135° 24.73' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 11.65' N. lat.",
+     "lon_dm": "135° 23.61' W. long.",
+     "lat": 57.194167,
+     "lon": -135.3935
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 12.20' N. lat.",
+     "lon_dm": "135° 24.73' W. long.",
+     "lat": 57.203333,
+     "lon": -135.412167
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Patterson Bay",
+   "parent": "District 13",
+   "citation": "5 AAC 33.350(n)(13)",
+   "subsection": "(n)",
+   "text": "Patterson Bay: waters west of a line from 57° 40.40' N. lat., 135° 42.71' W. long., to 57° 39.52' N. lat., 135° 42.28' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 40.40' N. lat.",
+     "lon_dm": "135° 42.71' W. long.",
+     "lat": 57.673333,
+     "lon": -135.711833
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 39.52' N. lat.",
+     "lon_dm": "135° 42.28' W. long.",
+     "lat": 57.658667,
+     "lon": -135.704667
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Port Banks",
+   "parent": "District 13",
+   "citation": "5 AAC 33.350(n)(14)",
+   "subsection": "(n)",
+   "text": "Port Banks: waters south and east of a line from 56° 36.11' N. lat, 135° 00.44' W. long., to 56° 35.86' N. lat., 135° 01.17' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "56° 36.11' N. lat",
+     "lon_dm": "135° 00.44' W. long.",
+     "lat": 56.601833,
+     "lon": -135.007333
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 35.86' N. lat.",
+     "lon_dm": "135° 01.17' W. long.",
+     "lat": 56.597667,
+     "lon": -135.0195
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Redfish Bay",
+   "parent": "District 13",
+   "citation": "5 AAC 33.350(n)(15)",
+   "subsection": "(n)",
+   "text": "Redfish Bay: waters north and west of a line from 56° 20.68' N. lat., 134° 51.54' W. long., to 56° 20.80' N. lat., 134° 51.16' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "56° 20.68' N. lat.",
+     "lon_dm": "134° 51.54' W. long.",
+     "lat": 56.344667,
+     "lon": -134.859
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 20.80' N. lat.",
+     "lon_dm": "134° 51.16' W. long.",
+     "lat": 56.346667,
+     "lon": -134.852667
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Redoubt Bay",
+   "parent": "District 13",
+   "citation": "5 AAC 33.350(n)(16)",
+   "subsection": "(n)",
+   "text": "Redoubt Bay: waters east of 135° 18.88' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "135° 18.88' W. long.",
+     "lat": null,
+     "lon": -135.314667
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Rodman Bay",
+   "parent": "District 13",
+   "citation": "5 AAC 33.350(n)(17)",
+   "subsection": "(n)",
+   "text": "Rodman Bay: waters west and south of a line from 57° 28.37' N, lat., 135°21'.05 W. long., to 57° 28.87' N. lat., 135° 21.72' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 28.37' N, lat.",
+     "lon_dm": "135°21'.05 W. long.",
+     "lat": 57.472833,
+     "lon": -135.350833
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 28.87' N. lat.",
+     "lon_dm": "135° 21.72' W. long.",
+     "lat": 57.481167,
+     "lon": -135.362
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Salt Lake Lagoon, Takanis Bay",
+   "parent": "District 13",
+   "citation": "5 AAC 33.350(n)(18)",
+   "subsection": "(n)",
+   "text": "Salt Lake Lagoon, Takanis Bay: waters north and east of a line from 57° 55.11' N. lat., 136° 30.43' W. long., to 57° 55.46' N. lat., 136° 31.08' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 55.11' N. lat.",
+     "lon_dm": "136° 30.43' W. long.",
+     "lat": 57.9185,
+     "lon": -136.507167
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 55.46' N. lat.",
+     "lon_dm": "136° 31.08' W. long.",
+     "lat": 57.924333,
+     "lon": -136.518
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Saook Bay",
+   "parent": "District 13",
+   "citation": "5 AAC 33.350(n)(19)",
+   "subsection": "(n)",
+   "text": "Saook Bay: waters west and south of a line from 57° 26.21' N. lat., 135° 11.60' W. long., to 57° 26.71' N. lat., 135° 12.42' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 26.21' N. lat.",
+     "lon_dm": "135° 11.60' W. long.",
+     "lat": 57.436833,
+     "lon": -135.193333
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 26.71' N. lat.",
+     "lon_dm": "135° 12.42' W. long.",
+     "lat": 57.445167,
+     "lon": -135.207
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Sister Lake",
+   "parent": "District 13",
+   "citation": "5 AAC 33.350(n)(20)",
+   "subsection": "(n)",
+   "text": "Sister Lake: waters inside a line from 57° 37.59' N. lat., 136° 00.80' W. long., to 57° 38.00' N. lat., 136° 00.84' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 37.59' N. lat.",
+     "lon_dm": "136° 00.80' W. long.",
+     "lat": 57.6265,
+     "lon": -136.013333
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 38.00' N. lat.",
+     "lon_dm": "136° 00.84' W. long.",
+     "lat": 57.633333,
+     "lon": -136.014
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Sitkoh Bay",
+   "parent": "District 13",
+   "citation": "5 AAC 33.350(n)(21)",
+   "subsection": "(n)",
+   "text": "Sitkoh Bay: waters west of a line from 57° 29.19' N. lat., 134° 53.71' W. long., to 57° 29.64' N. lat., 134° 53.51' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 29.19' N. lat.",
+     "lon_dm": "134° 53.71' W. long.",
+     "lat": 57.4865,
+     "lon": -134.895167
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 29.64' N. lat.",
+     "lon_dm": "134° 53.51' W. long.",
+     "lat": 57.494,
+     "lon": -134.891833
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Stag Bay",
+   "parent": "District 13",
+   "citation": "5 AAC 33.350(n)(22)",
+   "subsection": "(n)",
+   "text": "Stag Bay: waters east of 136° 21.42' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "136° 21.42' W. long.",
+     "lat": null,
+     "lon": -136.357
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Starrigavan Bay",
+   "parent": "District 13",
+   "citation": "5 AAC 33.350(n)(23)",
+   "subsection": "(n)",
+   "text": "Starrigavan Bay: waters east of a line from the ferry terminal dock at 57° 07.76' N. lat., 135° 22.82' W. long., to 57° 08.39' N. lat., 135° 22.59' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 07.76' N. lat.",
+     "lon_dm": "135° 22.82' W. long.",
+     "lat": 57.129333,
+     "lon": -135.380333
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 08.39' N. lat.",
+     "lon_dm": "135° 22.59' W. long.",
+     "lat": 57.139833,
+     "lon": -135.3765
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Still Harbor",
+   "parent": "District 13",
+   "citation": "5 AAC 33.350(n)(24)",
+   "subsection": "(n)",
+   "text": "Still Harbor: waters south and east of a line from 56° 33.18' N. lat., 135° 02.71' W. long., to 56° 33.63' N. lat., 135° 02.42' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "56° 33.18' N. lat.",
+     "lon_dm": "135° 02.71' W. long.",
+     "lat": 56.553,
+     "lon": -135.045167
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 33.63' N. lat.",
+     "lon_dm": "135° 02.42' W. long.",
+     "lat": 56.5605,
+     "lon": -135.040333
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Ushk Bay",
+   "parent": "District 13",
+   "citation": "5 AAC 33.350(n)(25)",
+   "subsection": "(n)",
+   "text": "Ushk Bay: waters west of 135° 35.00' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "135° 35.00' W. long.",
+     "lat": null,
+     "lon": -135.583333
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Waterfall Cove, Slocum Arm",
+   "parent": "District 13",
+   "citation": "5 AAC 33.350(n)(26)",
+   "subsection": "(n)",
+   "text": "Waterfall Cove, Slocum Arm: waters north and east of a line from 57° 31.27' N. lat., 135° 56.17' W. long., to 57° 30.92' N. lat., 135° 55.18' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 31.27' N. lat.",
+     "lon_dm": "135° 56.17' W. long.",
+     "lat": 57.521167,
+     "lon": -135.936167
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 30.92' N. lat.",
+     "lon_dm": "135° 55.18' W. long.",
+     "lat": 57.515333,
+     "lon": -135.919667
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Dundas Bay",
+   "parent": "District 14",
+   "citation": "5 AAC 33.350(o)(1)",
+   "subsection": "(o)",
+   "text": "Dundas Bay: waters north of 58° 19.94' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "58° 19.94' N. lat.",
+     "lon_dm": null,
+     "lat": 58.332333,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Excursion Inlet",
+   "parent": "District 14",
+   "citation": "5 AAC 33.350(o)(2)",
+   "subsection": "(o)",
+   "text": "Excursion Inlet: waters north of a line from 58° 27.01' N. lat., 135° 28.77' W. long., to a point at 58° 26.97' N. lat., 135° 27.41' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "58° 27.01' N. lat.",
+     "lon_dm": "135° 28.77' W. long.",
+     "lat": 58.450167,
+     "lon": -135.4795
+    },
+    {
+     "name": null,
+     "lat_dm": "58° 26.97' N. lat.",
+     "lon_dm": "135° 27.41' W. long.",
+     "lat": 58.4495,
+     "lon": -135.456833
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Idaho Inlet",
+   "parent": "District 14",
+   "citation": "5 AAC 33.350(o)(3)",
+   "subsection": "(o)",
+   "text": "Idaho Inlet: waters south of 58° 08.30' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "58° 08.30' N. lat.",
+     "lon_dm": null,
+     "lat": 58.138333,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Port Althorp and Salt Chuck Bay",
+   "parent": "District 14",
+   "citation": "5 AAC 33.350(o)(4)",
+   "subsection": "(o)",
+   "text": "Port Althorp and Salt Chuck Bay: waters east of 136° 18.00' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "136° 18.00' W. long.",
+     "lat": null,
+     "lon": -136.3
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Port Frederick",
+   "parent": "District 14",
+   "citation": "5 AAC 33.350(o)(5)",
+   "subsection": "(o)",
+   "text": "Port Frederick: waters south and west of a line from Cannery Point at 58° 07.93' N. lat., 135° 27.92' W. long., to the westernmost tip of Halibut Island at 58° 09.04' N. lat., 135° 29.91' W. long., to 58° 09.66' N. lat., 135° 30.16' W. long",
+   "points": [
+    {
+     "name": "Cannery Point",
+     "lat_dm": "58° 07.93' N. lat.",
+     "lon_dm": "135° 27.92' W. long.",
+     "lat": 58.132167,
+     "lon": -135.465333
+    },
+    {
+     "name": "Halibut Island",
+     "lat_dm": "58° 09.04' N. lat.",
+     "lon_dm": "135° 29.91' W. long.",
+     "lat": 58.150667,
+     "lon": -135.4985
+    },
+    {
+     "name": null,
+     "lat_dm": "58° 09.66' N. lat.",
+     "lon_dm": "135° 30.16' W. long",
+     "lat": 58.161,
+     "lon": -135.502667
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Mud Bay",
+   "parent": "District 14",
+   "citation": "5 AAC 33.350(o)(6)",
+   "subsection": "(o)",
+   "text": "Mud Bay: waters south of the latitude of Quartz Point at 58° 12.96' N. lat.",
+   "points": [
+    {
+     "name": "Quartz Point",
+     "lat_dm": "58° 12.96' N. lat.",
+     "lon_dm": null,
+     "lat": 58.216,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Spasski Bay",
+   "parent": "District 14",
+   "citation": "5 AAC 33.350(o)(7)",
+   "subsection": "(o)",
+   "text": "Spasski Bay: waters south of a line from Neck Point at 58° 07.07' N. lat., 135° 19.23' W. long., to Spasski Island Light at 58° 07.97' N. lat., 135° 16.30' W. long., to 58° 05.67' N. lat., 135° 13.47' W. long.",
+   "points": [
+    {
+     "name": "Neck Point",
+     "lat_dm": "58° 07.07' N. lat.",
+     "lon_dm": "135° 19.23' W. long.",
+     "lat": 58.117833,
+     "lon": -135.3205
+    },
+    {
+     "name": "Spasski Island",
+     "lat_dm": "58° 07.97' N. lat.",
+     "lon_dm": "135° 16.30' W. long.",
+     "lat": 58.132833,
+     "lon": -135.271667
+    },
+    {
+     "name": null,
+     "lat_dm": "58° 05.67' N. lat.",
+     "lon_dm": "135° 13.47' W. long.",
+     "lat": 58.0945,
+     "lon": -135.2245
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Whitestone Harbor",
+   "parent": "District 14",
+   "citation": "5 AAC 33.350(o)(8)",
+   "subsection": "(o)",
+   "text": "Whitestone Harbor: waters west of a line from 58° 04.27' N. lat., 135° 04.73' W. long., to 58° 03.62' N. lat., 135° 04.33' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "58° 04.27' N. lat.",
+     "lon_dm": "135° 04.73' W. long.",
+     "lat": 58.071167,
+     "lon": -135.078833
+    },
+    {
+     "name": null,
+     "lat_dm": "58° 03.62' N. lat.",
+     "lon_dm": "135° 04.33' W. long.",
+     "lat": 58.060333,
+     "lon": -135.072167
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Chilkat Inlet",
+   "parent": "District 15",
+   "citation": "5 AAC 33.350(p)(1)",
+   "subsection": "(p)",
+   "text": "Chilkat Inlet: waters north of the latitude of Letnikof Cove Light at 59° 10.42' N. lat.",
+   "points": [
+    {
+     "name": "Letnikof Cove",
+     "lat_dm": "59° 10.42' N. lat.",
+     "lon_dm": null,
+     "lat": 59.173667,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Lutak Inlet",
+   "parent": "District 15",
+   "citation": "5 AAC 33.350(p)(2)",
+   "subsection": "(p)",
+   "text": "Lutak Inlet: waters northwest of a line between Tanani Point at 59° 16.39' N. lat., 135° 26.46' W. long., and Taiya Point at 59° 17.27' N. lat., 135° 24.12' W. long.",
+   "points": [
+    {
+     "name": "Tanani Point",
+     "lat_dm": "59° 16.39' N. lat.",
+     "lon_dm": "135° 26.46' W. long.",
+     "lat": 59.273167,
+     "lon": -135.441
+    },
+    {
+     "name": "Taiya Point",
+     "lat_dm": "59° 17.27' N. lat.",
+     "lon_dm": "135° 24.12' W. long.",
+     "lat": 59.287833,
+     "lon": -135.402
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "St. James Bay",
+   "parent": "District 15",
+   "citation": "5 AAC 33.350(p)(3)",
+   "subsection": "(p)",
+   "text": "St. James Bay: waters north of a line from Point Whidbey at 58° 34.65' N. lat., 135° 08.69' W. long., to St. James Point at 58° 33.75' N. lat., 135° 09.91' W. long.",
+   "points": [
+    {
+     "name": "Point Whidbey",
+     "lat_dm": "58° 34.65' N. lat.",
+     "lon_dm": "135° 08.69' W. long.",
+     "lat": 58.5775,
+     "lon": -135.144833
+    },
+    {
+     "name": "St. James Point",
+     "lat_dm": "58° 33.75' N. lat.",
+     "lon_dm": "135° 09.91' W. long.",
+     "lat": 58.5625,
+     "lon": -135.165167
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "closed_water",
+   "name": "Taiya Inlet",
+   "parent": "District 15",
+   "citation": "5 AAC 33.350(p)(4)",
+   "subsection": "(p)",
+   "text": "Taiya Inlet: waters north of the latitude of Taiya Point at 59° 17.27' N. lat.",
+   "points": [
+    {
+     "name": "Taiya Point",
+     "lat_dm": "59° 17.27' N. lat.",
+     "lon_dm": null,
+     "lat": 59.287833,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": null
+  },
+  {
+   "kind": "tha",
+   "name": "Herring Bay Troll Terminal Harvest Area",
+   "parent": "District 1",
+   "citation": "5 AAC 33.369(b)",
+   "subsection": "(b)",
+   "text": null,
+   "points": [
+    {
+     "name": "George Inlet southern boundary",
+     "lat_dm": "55º 20.80' N. lat.",
+     "lon_dm": null,
+     "lat": 55.346667,
+     "lon": null
+    },
+    {
+     "name": "point on the southeastern shore of Gravina Island",
+     "lat_dm": "55º 17.65' N. lat.",
+     "lon_dm": "131º 37.03' W. long.",
+     "lat": 55.294167,
+     "lon": -131.617167
+    },
+    {
+     "name": "point on the southwest shore of Tongass Narrows",
+     "lat_dm": "55º 18.63' N. lat.",
+     "lon_dm": "131º 35.20' W. long.",
+     "lat": 55.3105,
+     "lon": -131.586667
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Coordinate list agreed across two differently-worded fetches. Full verbatim boundary sentence not obtainable (relay quote-length limit); the boundary also relies on named landmarks Carroll Point, Spire Island light, Annette Island, Gravina Point and Walden Point, for which no coordinates are printed."
+  },
+  {
+   "kind": "tha",
+   "name": "Herring Bay Personal Use Terminal Harvest Area",
+   "parent": "District 1",
+   "citation": "5 AAC 33.369(c)",
+   "subsection": "(c)",
+   "text": null,
+   "points": [
+    {
+     "name": "Carroll Inlet southern boundary (July)",
+     "lat_dm": "55º 24.27' N. lat.",
+     "lon_dm": null,
+     "lat": 55.4045,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Single coordinate, agreed across two fetches. Same latitude as the standing Carroll Inlet closed-water line in 5 AAC 33.350(b)(4)."
+  },
+  {
+   "kind": "tha",
+   "name": "Neets Bay Hatchery harvest area",
+   "parent": "District 1",
+   "citation": "5 AAC 33.370",
+   "subsection": null,
+   "text": null,
+   "points": [
+    {
+     "name": "easternmost tip of Bug Island",
+     "lat_dm": null,
+     "lon_dm": null,
+     "lat": null,
+     "lon": null
+    },
+    {
+     "name": "Chin Point",
+     "lat_dm": null,
+     "lon_dm": null,
+     "lat": null,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": "NO numeric coordinates are printed anywhere in this section — confirmed by two differently-worded fetches. The area is defined by named landmarks and ADF&G regulatory markers only. Landmarks recorded with null coordinates; do not infer positions."
+  },
+  {
+   "kind": "tha",
+   "name": "Nakat Inlet Terminal Harvest Area",
+   "parent": "District 1",
+   "citation": "5 AAC 33.372(b)",
+   "subsection": "(b)",
+   "text": "the waters of Nakat Inlet north of Surprise Point at 54º 49.10' N. lat. and west of 130º 42.75' W. long.",
+   "points": [
+    {
+     "name": "Inlet north of Surprise Point",
+     "lat_dm": "54º 49.10' N. lat.",
+     "lon_dm": "130º 42.75' W. long.",
+     "lat": 54.818333,
+     "lon": -130.7125
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Managed June 1 through November 10. Both fetches agree."
+  },
+  {
+   "kind": "tha",
+   "name": "Hidden Falls Hatchery Terminal Harvest Area",
+   "parent": "District 12",
+   "citation": "5 AAC 33.374(a)",
+   "subsection": "(a)",
+   "text": "The Hidden Falls Terminal Harvest Area for chum, king, and coho salmon consists of the waters of District 12 south of the latitude of South Point at 57° 16.28' N. lat., and north of 57° 06.76' N. lat., and west of a line from a point offshore at 57° 16.28' N. lat., 134° 48.00' W. long., to a point offshore at 57° 06.76' N. lat., 134° 43.00' W. long., excluding the waters of Kelp Bay.",
+   "points": [
+    {
+     "name": "South Point",
+     "lat_dm": "57° 16.28' N. lat.",
+     "lon_dm": null,
+     "lat": 57.271333,
+     "lon": null
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 06.76' N. lat.",
+     "lon_dm": null,
+     "lat": 57.112667,
+     "lon": null
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 16.28' N. lat.",
+     "lon_dm": "134° 48.00' W. long.",
+     "lat": 57.271333,
+     "lon": -134.8
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 06.76' N. lat.",
+     "lon_dm": "134° 43.00' W. long.",
+     "lat": 57.112667,
+     "lon": -134.716667
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Agreed across Cornell LII and Justia."
+  },
+  {
+   "kind": "tha",
+   "name": "Hidden Falls THA - restricted coho area",
+   "parent": "Hidden Falls Hatchery Terminal Harvest Area",
+   "citation": "5 AAC 33.374(e)",
+   "subsection": "(e)",
+   "text": "The open area will be restricted to an area within one mile from shore south of 57° 15.00' N. lat., north of 57° 10.00' N. lat., and west of a line from 57° 15.00' N. lat., 134° 48.60' W. long. to 57° 10.00' N. lat., 134° 46.40' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 15.00' N. lat.",
+     "lon_dm": null,
+     "lat": 57.25,
+     "lon": null
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 10.00' N. lat.",
+     "lon_dm": null,
+     "lat": 57.166667,
+     "lon": null
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 15.00' N. lat.",
+     "lon_dm": "134° 48.60' W. long.",
+     "lat": 57.25,
+     "lon": -134.81
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 10.00' N. lat.",
+     "lon_dm": "134° 46.40' W. long.",
+     "lat": 57.166667,
+     "lon": -134.773333
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Applies during mid-August coho closures. Agreed across Cornell LII and Justia."
+  },
+  {
+   "kind": "tha",
+   "name": "Hidden Falls THA - expanded area",
+   "parent": "Hidden Falls Hatchery Terminal Harvest Area",
+   "citation": "5 AAC 33.374(f)",
+   "subsection": "(f)",
+   "text": "south of 57° 27.00' N. lat., north of 57° 01.00' N. lat., and west of a line from 57° 27.00' N. lat., 134° 45.50' W. long. to 57° 01.00' N. lat., 134° 41.50' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57° 27.00' N. lat.",
+     "lon_dm": null,
+     "lat": 57.45,
+     "lon": null
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 01.00' N. lat.",
+     "lon_dm": null,
+     "lat": 57.016667,
+     "lon": null
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 27.00' N. lat.",
+     "lon_dm": "134° 45.50' W. long.",
+     "lat": 57.45,
+     "lon": -134.758333
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 01.00' N. lat.",
+     "lon_dm": "134° 41.50' W. long.",
+     "lat": 57.016667,
+     "lon": -134.691667
+    }
+   ],
+   "verified_twice": false,
+   "notes": "NOT VERIFIED TWICE - quoted by one fetch (Justia) only; the Cornell read did not reproduce subsection (f). Treat coordinates as provisional and confirm against the printed regulation before relying on them."
+  },
+  {
+   "kind": "tha",
+   "name": "Hidden Falls THA - closed sub-area at regulatory markers",
+   "parent": "Hidden Falls Hatchery Terminal Harvest Area",
+   "citation": "5 AAC 33.374(g)",
+   "subsection": "(g)",
+   "text": "north and west of a line from ADF&G regulatory markers located at 57° 13.17' N. lat., 134° 51.86' W. long. to 57° 13.08' N. lat., 134° 52.02' W. long. and north of a line from 57° 13.05' N. lat., 134° 52.24' W. long. to 57° 13.06' N. lat., 134° 52.20' W. long.",
+   "points": [
+    {
+     "name": "G regulatory markers located",
+     "lat_dm": "57° 13.17' N. lat.",
+     "lon_dm": "134° 51.86' W. long.",
+     "lat": 57.2195,
+     "lon": -134.864333
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 13.08' N. lat.",
+     "lon_dm": "134° 52.02' W. long.",
+     "lat": 57.218,
+     "lon": -134.867
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 13.05' N. lat.",
+     "lon_dm": "134° 52.24' W. long.",
+     "lat": 57.2175,
+     "lon": -134.870667
+    },
+    {
+     "name": null,
+     "lat_dm": "57° 13.06' N. lat.",
+     "lon_dm": "134° 52.20' W. long.",
+     "lat": 57.217667,
+     "lon": -134.87
+    }
+   ],
+   "verified_twice": false,
+   "notes": "NOT VERIFIED TWICE - quoted by one fetch (Justia) only; the Cornell read confirmed subsection (g) exists and contains regulatory-marker coordinates but did not reproduce them. Provisional."
+  },
+  {
+   "kind": "tha",
+   "name": "Silver Bay (Medvejie Creek Hatchery) harvest area",
+   "parent": "District 13",
+   "citation": "5 AAC 33.375(a)",
+   "subsection": "(a)",
+   "text": "a line from Entry Point Light at 57° 01.98' N. lat, 135° 15.00' W. long., to Silver Point at 57° 00.82' N. lat., 135° 18.10' W. long.",
+   "points": [
+    {
+     "name": "Entry Point",
+     "lat_dm": "57° 01.98' N. lat",
+     "lon_dm": "135° 15.00' W. long.",
+     "lat": 57.033,
+     "lon": -135.25
+    },
+    {
+     "name": "Silver Point",
+     "lat_dm": "57° 00.82' N. lat.",
+     "lon_dm": "135° 18.10' W. long.",
+     "lat": 57.013667,
+     "lon": -135.301667
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Both fetches agree."
+  },
+  {
+   "kind": "tha",
+   "name": "Silver Bay - Bear Cove closure line",
+   "parent": "Silver Bay (Medvejie Creek Hatchery) harvest area",
+   "citation": "5 AAC 33.375(b)",
+   "subsection": "(b)",
+   "text": "a line from a point on the south shore at 57º 00.77' N. lat., 135º 09.08' W. long. to the north shore at 57º 00.94' N. lat., 135º 09.23' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "57º 00.77' N. lat.",
+     "lon_dm": "135º 09.08' W. long.",
+     "lat": 57.012833,
+     "lon": -135.151333
+    },
+    {
+     "name": null,
+     "lat_dm": "57º 00.94' N. lat.",
+     "lon_dm": "135º 09.23' W. long.",
+     "lat": 57.015667,
+     "lon": -135.153833
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Both fetches agree; second fetch identifies the shores as Bear Cove."
+  },
+  {
+   "kind": "tha",
+   "name": "Deep Inlet Terminal Harvest Area",
+   "parent": "District 13",
+   "citation": "5 AAC 33.376(b)",
+   "subsection": "(b)",
+   "text": "the waters of Deep Inlet, Aleutkina Bay, and contiguous waters south of a line from a point west of Pirates Cove at 56º 59.35' N. lat., 135º 22.63' W. long., to the westernmost tip of Long Island, to the easternmost tip of Long Island, to the westernmost tip of Emgeten Island, to the westernmost tip of Error Island, to the westernmost tip of Berry Island, to the southernmost tip of Berry Island, to the westernmost tip of the southernmost island in the Kutchuma Island group, to the easternmost tip of the southernmost island in the Kutchuma Island group, to the westernmost tip of an unnamed island at 57º 00.30' N. lat., 135º 17.67' W. long., to a point on the southern side of the unnamed island at 57º 00.08' N. lat., 135º 16.78' W. long., and then to a point on the Baranof Island shore at 56º 59.93' N. lat., 135º 16.53' W. long.",
+   "points": [
+    {
+     "name": "Pirates Cove",
+     "lat_dm": "56º 59.35' N. lat.",
+     "lon_dm": "135º 22.63' W. long.",
+     "lat": 56.989167,
+     "lon": -135.377167
+    },
+    {
+     "name": "westernmost tip of Long Island",
+     "lat_dm": null,
+     "lon_dm": null,
+     "lat": null,
+     "lon": null,
+     "flag": "named boundary vertex; no coordinate printed in the regulation"
+    },
+    {
+     "name": "easternmost tip of Long Island",
+     "lat_dm": null,
+     "lon_dm": null,
+     "lat": null,
+     "lon": null,
+     "flag": "named boundary vertex; no coordinate printed in the regulation"
+    },
+    {
+     "name": "westernmost tip of Emgeten Island",
+     "lat_dm": null,
+     "lon_dm": null,
+     "lat": null,
+     "lon": null,
+     "flag": "named boundary vertex; no coordinate printed in the regulation"
+    },
+    {
+     "name": "westernmost tip of Error Island",
+     "lat_dm": null,
+     "lon_dm": null,
+     "lat": null,
+     "lon": null,
+     "flag": "named boundary vertex; no coordinate printed in the regulation"
+    },
+    {
+     "name": "westernmost tip of Berry Island",
+     "lat_dm": null,
+     "lon_dm": null,
+     "lat": null,
+     "lon": null,
+     "flag": "named boundary vertex; no coordinate printed in the regulation"
+    },
+    {
+     "name": "southernmost tip of Berry Island",
+     "lat_dm": null,
+     "lon_dm": null,
+     "lat": null,
+     "lon": null,
+     "flag": "named boundary vertex; no coordinate printed in the regulation"
+    },
+    {
+     "name": "westernmost tip of the southernmost island in the Kutchuma Island group",
+     "lat_dm": null,
+     "lon_dm": null,
+     "lat": null,
+     "lon": null,
+     "flag": "named boundary vertex; no coordinate printed in the regulation"
+    },
+    {
+     "name": "easternmost tip of the southernmost island in the Kutchuma Island group",
+     "lat_dm": null,
+     "lon_dm": null,
+     "lat": null,
+     "lon": null,
+     "flag": "named boundary vertex; no coordinate printed in the regulation"
+    },
+    {
+     "name": null,
+     "lat_dm": "57º 00.30' N. lat.",
+     "lon_dm": "135º 17.67' W. long.",
+     "lat": 57.005,
+     "lon": -135.2945
+    },
+    {
+     "name": null,
+     "lat_dm": "57º 00.08' N. lat.",
+     "lon_dm": "135º 16.78' W. long.",
+     "lat": 57.001333,
+     "lon": -135.279667
+    },
+    {
+     "name": "Baranof Island shore",
+     "lat_dm": "56º 59.93' N. lat.",
+     "lon_dm": "135º 16.53' W. long.",
+     "lat": 56.998833,
+     "lon": -135.2755
+    }
+   ],
+   "verified_twice": true,
+   "notes": "DISCREPANCY RESOLVED: the unnamed-island latitude was returned as 56º 00.30' by one Justia fetch and 57º 00.30' by two independent Cornell fetches. 57º 00.30' is recorded - 56º 00.30' is ~60 nautical miles south of Sitka Sound, geographically impossible for this line, and was a single-fetch digit slip. Eight named island tips on this boundary carry NO printed coordinates and are recorded with null lat/lon."
+  },
+  {
+   "kind": "tha",
+   "name": "Deep Inlet THA - early-season gear closure",
+   "parent": "Deep Inlet Terminal Harvest Area",
+   "citation": "5 AAC 33.376(d)",
+   "subsection": "(d)",
+   "text": "The waters described in (b) of this section, west of 135º 20.75' W. long., will be closed to purse seine and drift gillnet gear beginning with the first emergency order of the season through the third Saturday in June.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "135º 20.75' W. long.",
+     "lat": null,
+     "lon": -135.345833
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Both fetches agree."
+  },
+  {
+   "kind": "tha",
+   "name": "Kendrick Bay Terminal Harvest Area",
+   "parent": "District 2",
+   "citation": "5 AAC 33.377(b)",
+   "subsection": "(b)",
+   "text": "The Kendrick Bay Terminal Harvest Area consists of the waters of Kendrick Bay west of 131º 59' W. long. and the waters of McLean Arm west of 131º 57.80' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "131º 59' W. long.",
+     "lat": null,
+     "lon": -131.983333
+    },
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "131º 57.80' W. long.",
+     "lat": null,
+     "lon": -131.963333
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Both fetches agree, including that the Kendrick Bay longitude is printed as whole minutes (131º 59') with no decimal, unlike the McLean Arm value. Managed June 15 through September 30."
+  },
+  {
+   "kind": "tha",
+   "name": "Snettisham Hatchery special harvest area",
+   "parent": "District 11",
+   "citation": "5 AAC 33.378",
+   "subsection": null,
+   "text": null,
+   "points": [],
+   "verified_twice": true,
+   "notes": "NO numeric coordinates and NO named boundary landmarks are printed in this section - confirmed by fetch; the section refers to 'the special harvest area' without defining it geographically. Boundary must be obtained from another source."
+  },
+  {
+   "kind": "tha",
+   "name": "Carroll Inlet Terminal Harvest Area (Fishery A)",
+   "parent": "District 1",
+   "citation": "5 AAC 33.379(b)",
+   "subsection": "(b)",
+   "text": "the waters of Carroll Inlet north of the latitude of Nigelius Point at 55° 33.50' N. lat., 131° 21.14 W. long.",
+   "points": [
+    {
+     "name": "Nigelius Point",
+     "lat_dm": "55° 33.50' N. lat.",
+     "lon_dm": "131° 21.14 W. long.",
+     "lat": 55.558333,
+     "lon": -131.352333
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Both fetches agree, including the missing prime on the longitude as printed. Note this is a different line from the standing Carroll Inlet closed water at 55° 24.27' N. lat. in 5 AAC 33.350(b)(4)."
+  },
+  {
+   "kind": "tha",
+   "name": "Crawfish Inlet Terminal Harvest Area",
+   "parent": "District 13",
+   "citation": "5 AAC 33.380(c)",
+   "subsection": "(c)",
+   "text": "waters east of a line from 56° 44.16' N. lat., 135° 15.80' W. long., to 56° 43.30' N. lat., 135° 17.81' W. long., to 56° 41.93' N. lat., 135° 17.54' W. long., to 56° 41.14' N. lat., 135° 13.80' W. long.; Cedar Pass south of 56° 47.14' N. lat.; Crawfish Inlet west of 135° 11.05' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "56° 44.16' N. lat.",
+     "lon_dm": "135° 15.80' W. long.",
+     "lat": 56.736,
+     "lon": -135.263333
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 43.30' N. lat.",
+     "lon_dm": "135° 17.81' W. long.",
+     "lat": 56.721667,
+     "lon": -135.296833
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 41.93' N. lat.",
+     "lon_dm": "135° 17.54' W. long.",
+     "lat": 56.698833,
+     "lon": -135.292333
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 41.14' N. lat.",
+     "lon_dm": "135° 13.80' W. long.",
+     "lat": 56.685667,
+     "lon": -135.23
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 47.14' N. lat.",
+     "lon_dm": null,
+     "lat": 56.785667,
+     "lon": null
+    },
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "135° 11.05' W. long.",
+     "lat": null,
+     "lon": -135.184167
+    },
+    {
+     "name": "Jamboree Bay",
+     "lat_dm": null,
+     "lon_dm": null,
+     "lat": null,
+     "lon": null,
+     "flag": "named boundary vertex; no coordinate printed in the regulation"
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Agreed across Cornell LII and Justia (all six values). The section also names Jamboree Bay as a sub-area with no printed coordinate. The three clauses are joined here for transcription; consult the printed regulation for the exact clause order."
+  },
+  {
+   "kind": "tha",
+   "name": "Wrangell Narrows-Blind Slough Terminal Harvest Area",
+   "parent": "District 6",
+   "citation": "5 AAC 33.381(a)",
+   "subsection": "(a)",
+   "text": "south of 56° 46.00' N. lat., and north and east of the northern tip of Woewodski Island at 56° 35.75' N. lat., 132° 59.35' W. long.; for Blind Slough the boundary is between Blind Point at 56° 38.84' N. lat., 132° 54.94' W. long., and Anchor Point at 56° 38.30' N. lat., 132° 55.67' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "56° 46.00' N. lat.",
+     "lon_dm": null,
+     "lat": 56.766667,
+     "lon": null
+    },
+    {
+     "name": "Woewodski Island",
+     "lat_dm": "56° 35.75' N. lat.",
+     "lon_dm": "132° 59.35' W. long.",
+     "lat": 56.595833,
+     "lon": -132.989167
+    },
+    {
+     "name": "Blind Point",
+     "lat_dm": "56° 38.84' N. lat.",
+     "lon_dm": "132° 54.94' W. long.",
+     "lat": 56.647333,
+     "lon": -132.915667
+    },
+    {
+     "name": "Anchor Point",
+     "lat_dm": "56° 38.30' N. lat.",
+     "lon_dm": "132° 55.67' W. long.",
+     "lat": 56.638333,
+     "lon": -132.927833
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Agreed across two differently-worded fetches. Subsections (b), (c) and (h)(1) carry ADDITIONAL sport-fishing zone markers (56° 37.97' N./132° 53.47' W.; 56° 37.97' N./132° 53.63' W.; 56° 36.87' N./132° 49.40' W.; 56° 36.82' N./132° 49.40' W.) returned by only one fetch - NOT verified twice and deliberately excluded from the points list."
+  },
+  {
+   "kind": "tha",
+   "name": "Port Saint Nicholas Terminal Harvest Area",
+   "parent": "District 3",
+   "citation": "5 AAC 33.382(b)",
+   "subsection": "(b)",
+   "text": "all waters of Port Saint Nicholas east of the longitude of Point Miraballes at 133º 05.23' W. long., and west of the longitude at 132º 59.50' W. long.",
+   "points": [
+    {
+     "name": "Point Miraballes",
+     "lat_dm": null,
+     "lon_dm": "133º 05.23' W. long.",
+     "lat": null,
+     "lon": -133.087167
+    },
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "132º 59.50' W. long.",
+     "lat": null,
+     "lon": -132.991667
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Both fetches agree."
+  },
+  {
+   "kind": "tha",
+   "name": "Port Saint Nicholas THA - expanded troll area",
+   "parent": "Port Saint Nicholas Terminal Harvest Area",
+   "citation": "5 AAC 33.382(c)",
+   "subsection": "(c)",
+   "text": "Cape Suspiro at 55º 27.48' N. lat., 133º 08.54' W long., to the northernmost tip of Toti Island at 55º 24.90' N. lat., 133º 07.34' W. long., to Point Miraballes at 55º 25.86' N. lat., 133º 05.23' W. long.",
+   "points": [
+    {
+     "name": "Cape Suspiro",
+     "lat_dm": "55º 27.48' N. lat.",
+     "lon_dm": "133º 08.54' W long.",
+     "lat": 55.458,
+     "lon": -133.142333
+    },
+    {
+     "name": "Toti Island",
+     "lat_dm": "55º 24.90' N. lat.",
+     "lon_dm": "133º 07.34' W. long.",
+     "lat": 55.415,
+     "lon": -133.122333
+    },
+    {
+     "name": "Point Miraballes",
+     "lat_dm": "55º 25.86' N. lat.",
+     "lon_dm": "133º 05.23' W. long.",
+     "lat": 55.431,
+     "lon": -133.087167
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Both fetches agree. The Point Miraballes longitude matches the value in subsection (b)."
+  },
+  {
+   "kind": "tha",
+   "name": "Anita Bay Terminal Harvest Area",
+   "parent": "District 7",
+   "citation": "5 AAC 33.383(a)",
+   "subsection": "(a)",
+   "text": "waters of Anita Bay south and west of a line from the tip of Anita Point at 56º 13.68' N. lat., 132º 22.48' W. long., to a point on the northern shore at 56º 14.26' N. lat., 132º 23.93' W. long.",
+   "points": [
+    {
+     "name": "Anita Point",
+     "lat_dm": "56º 13.68' N. lat.",
+     "lon_dm": "132º 22.48' W. long.",
+     "lat": 56.228,
+     "lon": -132.374667
+    },
+    {
+     "name": null,
+     "lat_dm": "56º 14.26' N. lat.",
+     "lon_dm": "132º 23.93' W. long.",
+     "lat": 56.237667,
+     "lon": -132.398833
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Both fetches agree."
+  },
+  {
+   "kind": "tha",
+   "name": "Anita Bay THA - subsection (b) closure lines",
+   "parent": "Anita Bay Terminal Harvest Area",
+   "citation": "5 AAC 33.383(b)",
+   "subsection": "(b)",
+   "text": "(b)(1) reference line points 56º12.33' N. lat, 132º 26.19' W. long.; 56º 12.06' N. lat, 132º 26.19' W. long.; 56º 11.96' N. lat, 132º 29.57' W. long.; 56º 11.73' N. lat, 132º 29.36' W. long. (b)(2)(A) 132º 26.19' W. long.; (b)(2)(B) 132º 26.98' W. long.; (b)(2)(C) 132º 28.00' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "56º12.33' N. lat",
+     "lon_dm": "132º 26.19' W. long.",
+     "lat": 56.2055,
+     "lon": -132.4365
+    },
+    {
+     "name": null,
+     "lat_dm": "56º 12.06' N. lat",
+     "lon_dm": "132º 26.19' W. long.",
+     "lat": 56.201,
+     "lon": -132.4365
+    },
+    {
+     "name": null,
+     "lat_dm": "56º 11.96' N. lat",
+     "lon_dm": "132º 29.57' W. long.",
+     "lat": 56.199333,
+     "lon": -132.492833
+    },
+    {
+     "name": null,
+     "lat_dm": "56º 11.73' N. lat",
+     "lon_dm": "132º 29.36' W. long.",
+     "lat": 56.1955,
+     "lon": -132.489333
+    },
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "132º 26.19' W. long.",
+     "lat": null,
+     "lon": -132.4365
+    },
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "132º 26.98' W. long.",
+     "lat": null,
+     "lon": -132.449667
+    },
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "132º 28.00' W. long.",
+     "lat": null,
+     "lon": -132.466667
+    }
+   ],
+   "verified_twice": false,
+   "notes": "NOT VERIFIED TWICE - returned by one fetch only; the other Cornell read reproduced subsection (a) alone. Coordinates provisional; confirm against the printed regulation."
+  },
+  {
+   "kind": "tha",
+   "name": "Mist Cove Terminal Harvest Area",
+   "parent": "Southeastern Alaska Area",
+   "citation": "5 AAC 33.385(a)",
+   "subsection": "(a)",
+   "text": "north of the latitude of 56° 28.00' N. lat., west of a line from 56° 28.00' N. lat., 134° 37.00' W. long. to Patterson Point Light to a point on the Baranof Island shore at 56° 32.52' N. lat., 134° 40.18' W. long. and east of the longitude of 134° 41.00' W. long. in Deep Cove.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "56° 28.00' N. lat.",
+     "lon_dm": null,
+     "lat": 56.466667,
+     "lon": null
+    },
+    {
+     "name": "Patterson Point Light",
+     "lat_dm": null,
+     "lon_dm": null,
+     "lat": null,
+     "lon": null,
+     "flag": "named boundary vertex; no coordinate printed in the regulation"
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 28.00' N. lat.",
+     "lon_dm": "134° 37.00' W. long.",
+     "lat": 56.466667,
+     "lon": -134.616667
+    },
+    {
+     "name": "Baranof Island shore",
+     "lat_dm": "56° 32.52' N. lat.",
+     "lon_dm": "134° 40.18' W. long.",
+     "lat": 56.542,
+     "lon": -134.669667
+    },
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "134° 41.00' W. long.",
+     "lat": null,
+     "lon": -134.683333
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Both fetches agree. Patterson Point Light is a boundary vertex with NO printed coordinate."
+  },
+  {
+   "kind": "tha",
+   "name": "Mist Cove Special Harvest Area closure lines",
+   "parent": "Mist Cove Terminal Harvest Area",
+   "citation": "5 AAC 33.385(c)",
+   "subsection": "(c)",
+   "text": "56° 31.70' N. lat., 134° 39.97' W. long.; 56° 31.27' N. lat., 134° 39.85' W. long.; 56° 31.07' N. lat., 134° 40.20' W. long.; 134° 40.12' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "56° 31.70' N. lat.",
+     "lon_dm": "134° 39.97' W. long.",
+     "lat": 56.528333,
+     "lon": -134.666167
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 31.27' N. lat.",
+     "lon_dm": "134° 39.85' W. long.",
+     "lat": 56.521167,
+     "lon": -134.664167
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 31.07' N. lat.",
+     "lon_dm": "134° 40.20' W. long.",
+     "lat": 56.517833,
+     "lon": -134.67
+    },
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "134° 40.12' W. long.",
+     "lat": null,
+     "lon": -134.668667
+    }
+   ],
+   "verified_twice": false,
+   "notes": "NOT VERIFIED TWICE - returned by one fetch only; the first Cornell read reproduced subsection (a) alone. Coordinates provisional, and the connecting wording was not captured."
+  },
+  {
+   "kind": "tha",
+   "name": "Boat Harbor Terminal Harvest Area",
+   "parent": "District 15",
+   "citation": "5 AAC 33.386(a)",
+   "subsection": "(a)",
+   "text": "waters within two nautical miles of the western shoreline of Lynn Canal from the latitude of Lance Point at 58º 43.95' N. lat. south to the latitude of a point located approximately 2.4 miles north of Point Whidbey at 58º 37.05' N. lat.; western boundary 135º 09.57' W. long.",
+   "points": [
+    {
+     "name": "Lance Point",
+     "lat_dm": "58º 43.95' N. lat.",
+     "lon_dm": null,
+     "lat": 58.7325,
+     "lon": null
+    },
+    {
+     "name": "Point Whidbey",
+     "lat_dm": "58º 37.05' N. lat.",
+     "lon_dm": null,
+     "lat": 58.6175,
+     "lon": null
+    },
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "135º 09.57' W. long.",
+     "lat": null,
+     "lon": -135.1595
+    }
+   ],
+   "verified_twice": true,
+   "notes": "All three values agreed across two independent fetches. The two hosts attribute the 135º 09.57' W. long. western boundary to different subsections ((a) per Cornell LII, (b)(1) per Justia); the VALUE is identical in both. Verify the subsection letter against the printed regulation. The section also cites stream number 115-10-10500, which is a stream catalogue number and NOT a coordinate."
+  },
+  {
+   "kind": "tha",
+   "name": "Southeast Cove Terminal Harvest Area",
+   "parent": "District 9",
+   "citation": "5 AAC 33.387(b)",
+   "subsection": "(b)",
+   "text": "The Southeast Cove Terminal Harvest Area consists of the waters of Keku Strait enclosed by a line from a rocky point on the northern end of Kuiu Island located on the east side of Southeast Cove at 56° 52.95' N. lat., 134° 01.33' W. long. to the northwest corner of Hound Island at 56° 53.12' N. lat., 133° 56.77' W. long., then northwest connecting points along the northern shore of Keku Islands at 56° 53.98' N. lat., 133° 57.58' W. long. to 56° 54.90' N. lat., 133° 59.53' W. long. to 56° 55.93' N. lat., 134° 00.97' W. long. to 56° 55.95' N. lat., 134° 02.15' W. long. to 56° 55.22' N. lat., 134° 02.53' W. long. to 56° 56.37' N. lat., 134° 06.62' W. long., then to the northwest corner of Payne Island at 56° 57.45' N. lat., 134° 08.75' W. long., then south to a point on Kuiu Island at 56° 55.08' N. lat., 134° 09.25' W. long.",
+   "points": [
+    {
+     "name": "Southeast Cove",
+     "lat_dm": "56° 52.95' N. lat.",
+     "lon_dm": "134° 01.33' W. long.",
+     "lat": 56.8825,
+     "lon": -134.022167
+    },
+    {
+     "name": "Hound Island",
+     "lat_dm": "56° 53.12' N. lat.",
+     "lon_dm": "133° 56.77' W. long.",
+     "lat": 56.885333,
+     "lon": -133.946167
+    },
+    {
+     "name": "Keku Islands",
+     "lat_dm": "56° 53.98' N. lat.",
+     "lon_dm": "133° 57.58' W. long.",
+     "lat": 56.899667,
+     "lon": -133.959667
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 54.90' N. lat.",
+     "lon_dm": "133° 59.53' W. long.",
+     "lat": 56.915,
+     "lon": -133.992167
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 55.93' N. lat.",
+     "lon_dm": "134° 00.97' W. long.",
+     "lat": 56.932167,
+     "lon": -134.016167
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 55.95' N. lat.",
+     "lon_dm": "134° 02.15' W. long.",
+     "lat": 56.9325,
+     "lon": -134.035833
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 55.22' N. lat.",
+     "lon_dm": "134° 02.53' W. long.",
+     "lat": 56.920333,
+     "lon": -134.042167
+    },
+    {
+     "name": null,
+     "lat_dm": "56° 56.37' N. lat.",
+     "lon_dm": "134° 06.62' W. long.",
+     "lat": 56.9395,
+     "lon": -134.110333
+    },
+    {
+     "name": "Payne Island",
+     "lat_dm": "56° 57.45' N. lat.",
+     "lon_dm": "134° 08.75' W. long.",
+     "lat": 56.9575,
+     "lon": -134.145833
+    },
+    {
+     "name": "Kuiu Island",
+     "lat_dm": "56° 55.08' N. lat.",
+     "lon_dm": "134° 09.25' W. long.",
+     "lat": 56.918,
+     "lon": -134.154167
+    }
+   ],
+   "verified_twice": true,
+   "notes": "All ten vertices agreed across two differently-worded fetches."
+  },
+  {
+   "kind": "tha",
+   "name": "Port Asumcion Terminal Harvest Area",
+   "parent": "District 3",
+   "citation": "5 AAC 33.388(b)",
+   "subsection": "(b)",
+   "text": "the waters of Port Asumcion north and west of a line from Point Cosinas at 55º 21.80' N. lat., 133º 30.64' W. long., to a point west of Point Maria located at 55º 22.04' N. lat., 133º 30.26' W. long.",
+   "points": [
+    {
+     "name": "Point Cosinas",
+     "lat_dm": "55º 21.80' N. lat.",
+     "lon_dm": "133º 30.64' W. long.",
+     "lat": 55.363333,
+     "lon": -133.510667
+    },
+    {
+     "name": "Point Maria located",
+     "lat_dm": "55º 22.04' N. lat.",
+     "lon_dm": "133º 30.26' W. long.",
+     "lat": 55.367333,
+     "lon": -133.504333
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Both fetches agree."
+  },
+  {
+   "kind": "tha",
+   "name": "Burnett Inlet Terminal Harvest Area",
+   "parent": "District 6",
+   "citation": "5 AAC 33.389(c)",
+   "subsection": "(c)",
+   "text": "waters of Burnett Inlet north of 56° 04.65' N. lat.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "56° 04.65' N. lat.",
+     "lon_dm": null,
+     "lat": 56.0775,
+     "lon": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Both fetches agree that this is the only coordinate in the section and that no longitude is printed."
+  }
+ ]
+}

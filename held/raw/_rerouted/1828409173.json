@@ -1,0 +1,205 @@
+{
+ "release_id": "1828409173",
+ "title": "Sand Point Commercial Salmon Fishery Advisory Announcement #23",
+ "published": "2026-08-20T16:00",
+ "region": "Sand Point",
+ "gear": [
+  "purse seine",
+  "set gillnet",
+  "drift gillnet"
+ ],
+ "species": "salmon",
+ "emergency_order": "4-FS-M-SP-21-26",
+ "contact": "Matt Keyse, (907) 383-2066",
+ "next_announcement": "Salmon fishery announcements will be broadcast on VHF channels 6 and 73 daily at 9:30 a.m. and 4:30 p.m.",
+ "areas": [
+  {
+   "district": "Unimak District",
+   "section": null,
+   "status": "open",
+   "period_text": "Commercial salmon fishing by purse seine and set gillnet gear will be extended for 48 hours from 9:00 p.m. Friday, August 21 until 9:00 p.m. Sunday August 23 in the following districts and sections: Unimak District, Southwestern District, South Central District, and Shumagin Islands, Beaver Bay, Balboa Bay, Southwest Stepovak, Northwest Stepovak, and East Stepovak Sections of the Southeastern District.",
+   "rules": [
+    {
+     "subject": "all closed waters in the above locations",
+     "status": "closed",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "All closed waters in the above locations will be as described in the regulation book or as adjusted by emergency order."
+    }
+   ]
+  },
+  {
+   "district": "Southwestern District",
+   "section": null,
+   "status": "open",
+   "period_text": "Commercial salmon fishing by purse seine and set gillnet gear will be extended for 48 hours from 9:00 p.m. Friday, August 21 until 9:00 p.m. Sunday August 23 in the following districts and sections: Unimak District, Southwestern District, South Central District, and Shumagin Islands, Beaver Bay, Balboa Bay, Southwest Stepovak, Northwest Stepovak, and East Stepovak Sections of the Southeastern District.",
+   "rules": [
+    {
+     "subject": "all closed waters in the above locations",
+     "status": "closed",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "All closed waters in the above locations will be as described in the regulation book or as adjusted by emergency order."
+    }
+   ]
+  },
+  {
+   "district": "South Central District",
+   "section": null,
+   "status": "open",
+   "period_text": "Commercial salmon fishing by purse seine and set gillnet gear will be extended for 48 hours from 9:00 p.m. Friday, August 21 until 9:00 p.m. Sunday August 23 in the following districts and sections: Unimak District, Southwestern District, South Central District, and Shumagin Islands, Beaver Bay, Balboa Bay, Southwest Stepovak, Northwest Stepovak, and East Stepovak Sections of the Southeastern District.",
+   "rules": [
+    {
+     "subject": "all closed waters in the above locations",
+     "status": "closed",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "All closed waters in the above locations will be as described in the regulation book or as adjusted by emergency order."
+    }
+   ]
+  },
+  {
+   "district": "Southeastern District",
+   "section": "Shumagin Islands Section",
+   "status": "open",
+   "period_text": "Commercial salmon fishing by purse seine and set gillnet gear will be extended for 48 hours from 9:00 p.m. Friday, August 21 until 9:00 p.m. Sunday August 23 in the following districts and sections: Unimak District, Southwestern District, South Central District, and Shumagin Islands, Beaver Bay, Balboa Bay, Southwest Stepovak, Northwest Stepovak, and East Stepovak Sections of the Southeastern District.",
+   "rules": [
+    {
+     "subject": "all closed waters in the above locations",
+     "status": "closed",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "All closed waters in the above locations will be as described in the regulation book or as adjusted by emergency order."
+    }
+   ]
+  },
+  {
+   "district": "Southeastern District",
+   "section": "Beaver Bay Section",
+   "status": "open",
+   "period_text": "Commercial salmon fishing by purse seine and set gillnet gear will be extended for 48 hours from 9:00 p.m. Friday, August 21 until 9:00 p.m. Sunday August 23 in the following districts and sections: Unimak District, Southwestern District, South Central District, and Shumagin Islands, Beaver Bay, Balboa Bay, Southwest Stepovak, Northwest Stepovak, and East Stepovak Sections of the Southeastern District.",
+   "rules": [
+    {
+     "subject": "all closed waters in the above locations",
+     "status": "closed",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "All closed waters in the above locations will be as described in the regulation book or as adjusted by emergency order."
+    }
+   ]
+  },
+  {
+   "district": "Southeastern District",
+   "section": "Balboa Bay Section",
+   "status": "open",
+   "period_text": "Commercial salmon fishing by purse seine and set gillnet gear will be extended for 48 hours from 9:00 p.m. Friday, August 21 until 9:00 p.m. Sunday August 23 in the following districts and sections: Unimak District, Southwestern District, South Central District, and Shumagin Islands, Beaver Bay, Balboa Bay, Southwest Stepovak, Northwest Stepovak, and East Stepovak Sections of the Southeastern District.",
+   "rules": [
+    {
+     "subject": "all closed waters in the above locations",
+     "status": "closed",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "All closed waters in the above locations will be as described in the regulation book or as adjusted by emergency order."
+    }
+   ]
+  },
+  {
+   "district": "Southeastern District",
+   "section": "Southwest Stepovak Section",
+   "status": "open",
+   "period_text": "Commercial salmon fishing by purse seine and set gillnet gear will be extended for 48 hours from 9:00 p.m. Friday, August 21 until 9:00 p.m. Sunday August 23 in the following districts and sections: Unimak District, Southwestern District, South Central District, and Shumagin Islands, Beaver Bay, Balboa Bay, Southwest Stepovak, Northwest Stepovak, and East Stepovak Sections of the Southeastern District.",
+   "rules": [
+    {
+     "subject": "all closed waters in the above locations",
+     "status": "closed",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "All closed waters in the above locations will be as described in the regulation book or as adjusted by emergency order."
+    }
+   ]
+  },
+  {
+   "district": "Southeastern District",
+   "section": "Northwest Stepovak Section",
+   "status": "open",
+   "period_text": "Commercial salmon fishing by purse seine and set gillnet gear will be extended for 48 hours from 9:00 p.m. Friday, August 21 until 9:00 p.m. Sunday August 23 in the following districts and sections: Unimak District, Southwestern District, South Central District, and Shumagin Islands, Beaver Bay, Balboa Bay, Southwest Stepovak, Northwest Stepovak, and East Stepovak Sections of the Southeastern District.",
+   "rules": [
+    {
+     "subject": "all closed waters in the above locations",
+     "status": "closed",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "All closed waters in the above locations will be as described in the regulation book or as adjusted by emergency order."
+    }
+   ]
+  },
+  {
+   "district": "Southeastern District",
+   "section": "East Stepovak Section",
+   "status": "open",
+   "period_text": "Commercial salmon fishing by purse seine and set gillnet gear will be extended for 48 hours from 9:00 p.m. Friday, August 21 until 9:00 p.m. Sunday August 23 in the following districts and sections: Unimak District, Southwestern District, South Central District, and Shumagin Islands, Beaver Bay, Balboa Bay, Southwest Stepovak, Northwest Stepovak, and East Stepovak Sections of the Southeastern District.",
+   "rules": [
+    {
+     "subject": "all closed waters in the above locations",
+     "status": "closed",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "All closed waters in the above locations will be as described in the regulation book or as adjusted by emergency order."
+    }
+   ]
+  },
+  {
+   "district": "Unimak District",
+   "section": null,
+   "status": "open",
+   "period_text": "Commercial salmon fishing by drift gillnet gear will be extended for 48 hours from 9:00 p.m. Friday, August 21 until 9:00 p.m. Sunday August 23 in the following districts and sections: Unimak District Ikatan Bay Section of the Southwestern District",
+   "rules": [
+    {
+     "subject": "all closed waters in the above locations",
+     "status": "closed",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "All closed waters in the above locations will be as described in the regulation book or as adjusted by emergency order."
+    }
+   ]
+  },
+  {
+   "district": "Southwestern District",
+   "section": "Ikatan Bay Section",
+   "status": "open",
+   "period_text": "Commercial salmon fishing by drift gillnet gear will be extended for 48 hours from 9:00 p.m. Friday, August 21 until 9:00 p.m. Sunday August 23 in the following districts and sections: Unimak District Ikatan Bay Section of the Southwestern District",
+   "rules": [
+    {
+     "subject": "all closed waters in the above locations",
+     "status": "closed",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "All closed waters in the above locations will be as described in the regulation book or as adjusted by emergency order."
+    }
+   ]
+  }
+ ],
+ "full_text": "Forrest Bowers, Acting Director\n\nDoug Vincent-Lang, Commissioner\n\nSand Point ADF&G Office Sand Point, AK 99661\n\nAdvisory Announcement: For Immediate Release: August 20, 2026 Time: 4:00 p.m.\n\nJuneau, AK 99811-5526\n\nCONTACT: Matt Keyse, Finfish Area Management Biologist\n\nAnnie Brewster, Assist. Area Management Biologist (907) 383-2066\n\nSand Point Commercial Salmon Fishery Advisory Announcement #23 For Emergency Order #4-FS-M-SP-21-26\n\nCommercial salmon fishing by purse seine and set gillnet gear will be extended for 48 hours from 9:00 p.m. Friday, August 21 until 9:00 p.m. Sunday August 23 in the following districts and sections:\n\nUnimak District, Southwestern District, South Central District, and Shumagin Islands, Beaver Bay, Balboa Bay, Southwest Stepovak, Northwest Stepovak, and East Stepovak Sections of the Southeastern District.\n\nCommercial salmon fishing by drift gillnet gear will be extended for 48 hours from 9:00 p.m. Friday, August 21 until 9:00 p.m. Sunday August 23 in the following districts and sections:\n\nUnimak District Ikatan Bay Section of the Southwestern District\n\nAll closed waters in the above locations will be as described in the regulation book or as adjusted by emergency order.\n\nStatistical charts and management strategies are available at the Sand Point, Cold Bay, and Port Moller ADF&G offices. Commercial salmon fishing regulations, commercial harvest, escapement, and news releases can be found on the ADF&G website at:\n\nSalmon fishery announcements will be broadcast on VHF channels 6 and 73 daily at 9:30 a.m. and 4:30 p.m. and may also be obtained from ADF&G in Sand Point at 383-2334 (383-ADFG).\n\n-end-"
+}

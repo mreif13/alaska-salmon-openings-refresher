@@ -1,0 +1,75 @@
+{
+ "release_id": "1788110685",
+ "title": "Mist Cove Terminal Harvest Area Troll Fishery",
+ "published": "2026-06-24T00:00",
+ "region": "Southeast",
+ "gear": [
+  "troll"
+ ],
+ "species": "salmon",
+ "emergency_order": "1E1826",
+ "contact": "Grant Hagerman, (907) 747-6688",
+ "next_announcement": null,
+ "areas": [
+  {
+   "district": null,
+   "section": null,
+   "status": "open",
+   "period_text": "The Mist Cove Terminal Harvest Area (THA) commercial salmon troll fishery will open for the harvest of coho, chum, pink, and sockeye salmon at 12:01 a.m., Wednesday, July 1, through 11:59 p.m., Sunday, September 20, 2026, unless closed by emergency order.",
+   "rules": [
+    {
+     "subject": "Mist Cove THA boundary",
+     "status": "open",
+     "geometry": "line",
+     "side": "south and west",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": "56°31.72′ N",
+       "lon_dm": "134°39.97′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "56°31.17′ N",
+       "lon_dm": "134°39.83′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "The Mist Cove THA (statistical area 109-13) consists of all waters south and west of a line from 56°31.72′ N lat, 134°39.97′ W long to 56°31.17′ N lat, 134°39.83′ W long."
+    },
+    {
+     "subject": "Closed waters south of the ADF&G regulatory markers",
+     "status": "closed",
+     "geometry": "line",
+     "side": "south",
+     "points": [
+      {
+       "name": "ADF&G regulatory marker",
+       "lat_dm": "56°31.07′ N",
+       "lon_dm": "134°40.20′ W"
+      },
+      {
+       "name": "ADF&G regulatory marker",
+       "lat_dm": "56°31.07′ N",
+       "lon_dm": "134°40.12′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "The waters south of a line from ADF&G regulatory markers located at 56°31.07′ N lat, 134°40.20′ W long to 56°31.07′ N lat, 134°40.12′ W long are closed to commercial salmon fishing."
+    },
+    {
+     "subject": "Chinook salmon retention",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Chinook salmon may be retained and possessed in the THA only during open Chinook salmon retention periods established for the summer troll fishery under 5 AAC 29.100(c)."
+    }
+   ]
+  }
+ ],
+ "_parser": "9d390c40",
+ "_parser_kept": "new parse would open what the old kept closed or partial: a region-wide opening",
+ "full_text": "Forrest Bowers, Acting Director\n\nDoug Vincent-Lang, Commissioner\n\nSitka Area Office 304 Lake Street Room 103 Sitka, AK 99835\n\nAdvisory Announcement For Immediate Release: June 24, 2026\n\nJuneau, AK 99811-5526\n\nCONTACT: Grant Hagerman Region I Commercial Troll Management Biologist grant.hagerman@alaska.gov (907) 747-6688\n\nMIST COVE TERMINAL HARVEST AREA TROLL FISHERY\n\nThe Mist Cove Terminal Harvest Area (THA) commercial salmon troll fishery will open for the harvest of coho, chum, pink, and sockeye salmon at 12:01 a.m., Wednesday, July 1, through 11:59 p.m., Sunday, September 20, 2026, unless closed by emergency order. Chinook salmon may be retained and possessed in the THA only during open Chinook salmon retention periods established for the summer troll fishery under 5 AAC 29.100(c).\n\nThe Mist Cove THA (statistical area 109-13) consists of all waters south and west of a line from 56°31.72′ N lat, 134°39.97′ W long to 56°31.17′ N lat, 134°39.83′ W long (Figure 1). The waters south of a line from ADF&G regulatory markers located at 56°31.07′ N lat, 134°40.20′ W long to 56°31.07′ N lat, 134°40.12′ W long are closed to commercial salmon fishing.\n\nThe Northern Southeast Aquaculture Association is forecasting a return of approximately 44,000 hatchery-produced coho salmon to the Mist Cove THA. Trollers are advised that cost-recovery operations may be conducted at times within the THA and the THA may be closed if conflicts arise.\n\nTrollers and processors are instructed to report statistical area 109-10 on fish tickets when documenting salmon harvested in the waters of Chatham Strait adjacent to the Mist Cove THA.\n\nThe Emergency Order corresponding to this announcement is 1E1826.\n\nAdvisory Announcement web site: http://www.adfg.alaska.gov/index.cfm?adfg=cfnews.main.\n\nOffice\n\nTroll Hotline\n\nKetchikan\n\nPetersburg\n\nSitka\n\nJuneau\n\nHaines\n\nHoonah\n\nYakutat\n\n225-5195 225-5111 225-6870\n\n772-3801 772-3983\n\n747-6688 747-3254 747-8765\n\n465-4250 465-4000 465-8765\n\n766-2830\n\n784-3255\n\n945-3620\n\nMist Cove THA\n\nJune 24, 2026\n\nMist Cove THA\n\nJune 24, 2026\n\nFigure 1.–Mist Cove Terminal Harvest Area."
+}

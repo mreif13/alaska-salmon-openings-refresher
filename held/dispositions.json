@@ -1,0 +1,315 @@
+{
+ "checked_at": "2026-11-14T04:01:08",
+ "listed": 14,
+ "releases": {
+  "1841667973": {
+   "disposition": "subsistence-only",
+   "region": "AYK",
+   "published": "2026-10-16T00:00",
+   "why": [
+    "no named units parsed"
+   ],
+   "title": "Forrest R. Bowers, Acting Director",
+   "was": "no-units"
+  },
+  "1841566912": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1841464175": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1841334171": {
+   "disposition": "subsistence-only",
+   "region": "AYK",
+   "published": "2026-10-14T00:00",
+   "why": [
+    "no named units parsed"
+   ],
+   "title": "Norton Sound-Port Clarence Salmon Season Summary"
+  },
+  "1841213015": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1829361326": {
+   "disposition": "no-units",
+   "why": [
+    "self-audit: held but placed nothing on the chart"
+   ],
+   "was": null
+  },
+  "1830678323": {
+   "disposition": "subsistence-only",
+   "why": [
+    "self-audit: held but placed nothing on the chart"
+   ],
+   "was": null,
+   "published": "2026-08-26T00:00"
+  },
+  "1830731761": {
+   "disposition": "subsistence-only",
+   "why": [
+    "self-audit: held but placed nothing on the chart"
+   ],
+   "was": null,
+   "published": "2026-08-26T00:00"
+  },
+  "1830860791": {
+   "disposition": "subsistence-only",
+   "why": [
+    "self-audit: held but placed nothing on the chart"
+   ],
+   "was": null,
+   "published": "2026-08-26T00:00"
+  },
+  "1830997341": {
+   "disposition": "subsistence-only",
+   "why": [
+    "self-audit: held but placed nothing on the chart"
+   ],
+   "was": null,
+   "published": "2026-08-26T00:00"
+  },
+  "1831245036": {
+   "disposition": "subsistence-only",
+   "why": [
+    "self-audit: held but placed nothing on the chart"
+   ],
+   "was": null,
+   "published": "2026-08-26T00:00"
+  },
+  "1827718207": {
+   "disposition": "subsistence-only",
+   "why": [
+    "self-audit: held but placed nothing on the chart"
+   ],
+   "was": null,
+   "published": "2026-08-18T16:00"
+  },
+  "1828137209": {
+   "disposition": "subsistence-only",
+   "why": [
+    "self-audit: held but placed nothing on the chart"
+   ],
+   "was": null,
+   "published": "2026-08-20T12:00"
+  },
+  "1828933804": {
+   "disposition": "no-units",
+   "why": [
+    "self-audit: held but placed nothing on the chart"
+   ],
+   "was": null,
+   "published": "2026-08-21T14:20"
+  },
+  "1841785545": {
+   "disposition": "no-units",
+   "why": "list index out of range",
+   "was": "error",
+   "published": "2026-10-20T00:00"
+  },
+  "1841850464": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1841960483": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1842033068": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1842144276": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1842289248": {
+   "disposition": "no-units",
+   "why": "list index out of range",
+   "was": "error",
+   "published": "2026-10-22T00:00"
+  },
+  "1842346073": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1842451323": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1842584138": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1842650304": {
+   "disposition": "no-units",
+   "why": "list index out of range",
+   "was": "error",
+   "published": "2026-10-20T00:00"
+  },
+  "1842758036": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1842958985": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1843014750": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1843172767": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1843207829": {
+   "disposition": "no-units",
+   "why": "list index out of range",
+   "was": "error",
+   "published": "2026-10-28T00:00"
+  },
+  "1843327915": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1843460801": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1843558165": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1843723589": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1843679356": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1843892767": {
+   "disposition": "subsistence-only",
+   "region": "AYK",
+   "published": "2026-11-03T00:00",
+   "why": [
+    "no named units parsed"
+   ],
+   "title": "Forrest Bowers, Director"
+  },
+  "1843968353": {
+   "disposition": "subsistence-only",
+   "region": "AYK",
+   "published": "2026-11-03T00:00",
+   "why": [
+    "no named units parsed"
+   ],
+   "title": "Forrest Bowers, Director"
+  },
+  "1844061724": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1844220154": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1844360604": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1844150625": {
+   "disposition": "no-units",
+   "region": "AreaM",
+   "published": null,
+   "why": [
+    "no named units parsed"
+   ],
+   "title": "Forrest Bowers, Director"
+  },
+  "1844479944": {
+   "disposition": "no-units",
+   "region": "PWS",
+   "published": "2026-11-06T00:00",
+   "why": [
+    "no named units parsed"
+   ],
+   "title": "Forrest Bowers, Director"
+  },
+  "1844538396": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1844695278": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1844716772": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1844819143": {
+   "disposition": "no-units",
+   "region": "Kodiak",
+   "published": "2026-11-09T00:00",
+   "why": [
+    "no named units parsed"
+   ],
+   "title": "Forrest Bowers, Acting Director"
+  },
+  "1844999408": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1845135632": {
+   "disposition": "no-units",
+   "region": "Kodiak",
+   "published": "2026-11-10T00:00",
+   "why": [
+    "no named units parsed"
+   ],
+   "title": "Forrest R. Bowers, Director"
+  },
+  "1845246128": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1845379303": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1845479710": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1845514041": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1845612181": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1845757472": {
+   "disposition": "no-units",
+   "region": "PWS",
+   "published": "2026-11-12T00:00",
+   "why": [
+    "no named units parsed"
+   ],
+   "title": "Forrest Bowers, Director"
+  },
+  "1845886777": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  },
+  "1845936553": {
+   "disposition": "not-salmon",
+   "test": "gear+unit-1"
+  }
+ }
+}

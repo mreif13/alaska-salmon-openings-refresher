@@ -1,0 +1,36 @@
+{
+ "release_id": "1768070800",
+ "title": "2026 Kendrick Bay Terminal Harvest Area Fishery Announcement",
+ "published": "2026-04-17T00:00",
+ "region": "Southeast",
+ "gear": [
+  "purse seine",
+  "troll"
+ ],
+ "species": "salmon",
+ "emergency_order": "1E1126",
+ "contact": "Bo Meredith, (907) 225-5195",
+ "next_announcement": "If this goal is reached, a separate advisory announcement will be issued opening the THA for common property purse seine and troll harvest. This could occur in early July.",
+ "areas": [
+  {
+   "district": null,
+   "section": null,
+   "status": "closed",
+   "period_text": "The Kendrick Bay Terminal Harvest Area (THA) will NOT OPEN. The Southern Southeast Regional Aquaculture Association (SSRAA) will be conducting cost recovery operations in the Kendrick Bay THA beginning June 15, 2026, with the goal of taking approximately 1.5 million pounds of chum salmon designated for cost recovery.",
+   "rules": [
+    {
+     "subject": "Kendrick Bay THA will not open",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Kendrick Bay Terminal Harvest Area (THA) will NOT OPEN. The Southern Southeast Regional Aquaculture Association (SSRAA) will be conducting cost recovery operations in the Kendrick Bay THA beginning June 15, 2026, with the goal of taking approximately 1.5 million pounds of chum salmon designated for cost recovery. If this goal is reached, a separate advisory announcement will be issued opening the THA for common property purse seine and troll harvest. This could occur in early July."
+    }
+   ]
+  }
+ ],
+ "_parser": "9d390c40",
+ "_parser_kept": "new parse placed 0 where the old placed 1",
+ "full_text": "Forrest Bowers, Acting Director\n\nDoug Vincent-Lang, Commissioner\n\nKetchikan Area Office 2030 Sea Level Drive, Suite 205 Ketchikan, AK 99901\n\nAdvisory Announcement For Immediate Release: April 17, 2026\n\nJuneau, AK 99811-5526\n\nCONTACT: Bo Meredith Ketchikan Area Management Biologist bo.meredith@alaska.gov (907) 225-5195\n\n2026 KENDRICK BAY TERMINAL HARVEST AREA FISHERY ANNOUNCEMENT\n\nThe following information details the Southern Southeast Regional Aquaculture Association (SSRAA) Kendrick Bay Terminal Harvest Area (THA) commercial fishing schedule for the 2026 season.\n\nSSRAA is forecasting a total run of 809,000 chum salmon for the Kendrick Bay THA with an anticipated terminal run of 405,000 chum salmon.\n\nThe Kendrick Bay Terminal Harvest Area (THA) will NOT OPEN. The Southern Southeast Regional Aquaculture Association (SSRAA) will be conducting cost recovery operations in the Kendrick Bay THA beginning June 15, 2026, with the goal of taking approximately 1.5 million pounds of chum salmon designated for cost recovery. If this goal is reached, a separate advisory announcement will be issued opening the THA for common property purse seine and troll harvest. This could occur in early July.\n\nThe Emergency Order corresponding with this announcement is EO 1E1126.\n\nAdvisory Announcement web site: http://www.adfg.alaska.gov/index.cfm?adfg=cfnews.main.\n\nOffice\n\nKetchikan\n\nPetersburg\n\nWrangell\n\n225-5195\n\n225-5111\n\n772-3801\n\n772-3983\n\n874-3215\n\nSitka\n\n747-6688\n\n747-3254\n\nJuneau\n\n465-4250\n\n465-4000\n\nHaines\n\n766-2830\n\n766-2533\n\nYakutat\n\n784-3255\n\n784-3220\n\nKendrick Bay THA\n\nApril 17, 2026"
+}

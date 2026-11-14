@@ -1,0 +1,154 @@
+{
+ "release_id": "1831725647",
+ "region": "Yakutat",
+ "office": "Yakutat Area Office",
+ "published": "2026-08-27T00:00",
+ "emergency_order": "1Y1626",
+ "gear": [
+  "set gillnet"
+ ],
+ "species": "salmon",
+ "units": [
+  {
+   "name": "East Alsek River",
+   "kind": "other",
+   "parent": null,
+   "status": "open",
+   "period_text": "will open from 12:01 p.m., Sunday, August 30, through 12:00 noon, Wednesday, September 2, 2026.",
+   "rules": []
+  },
+  {
+   "name": "Alsek River",
+   "kind": "other",
+   "parent": null,
+   "status": "open",
+   "period_text": "will be open from 12:01 p.m., Sunday, August 30, through 12:00 noon, Wednesday, September 2, 2026.",
+   "rules": []
+  },
+  {
+   "name": "Akwe River",
+   "kind": "other",
+   "parent": null,
+   "status": "open",
+   "period_text": "will be open from 12:01 p.m., Sunday, August 30, through 12:00 noon, Wednesday, September 2, 2026.",
+   "rules": []
+  },
+  {
+   "name": "Dangerous River",
+   "kind": "other",
+   "parent": null,
+   "status": "open",
+   "period_text": "will be open from 12:01 p.m., Sunday, August 30, through 12:00 noon, Wednesday, September 2, 2026.",
+   "rules": []
+  },
+  {
+   "name": "Yakutat Bay",
+   "kind": "other",
+   "parent": null,
+   "status": "open",
+   "period_text": "will be open from 12:01 p.m., Sunday, August 30, through 12:00 noon, Thursday, September 3, 2026.",
+   "rules": []
+  },
+  {
+   "name": "Situk-Ahrnklin Inlet",
+   "kind": "other",
+   "parent": null,
+   "status": "partial",
+   "period_text": "will be open from 12:01 p.m., Sunday, August 30, through 12:00 noon, Thursday, September 3, 2026, with the following restrictions:",
+   "rules": []
+  },
+  {
+   "name": "Lost River",
+   "kind": "other",
+   "parent": null,
+   "status": "closed",
+   "period_text": "will be closed to commercial set gillnet fishing north of a line from an ADF&G regulation marker located at 59°27.38′ N lat, 139°36.55′ W long (approximately 500 yards southeast from the Lost River-Situk Inlet confluence) to a regulation marker at 59°27.82′ N lat, 139°37.46′ W long (approximately 600 yards northwest from the Lost RiverSituk Inlet confluence); Situk River mouth (including upstream of Johnson Slough):",
+   "rules": [
+    {
+     "status": "closed",
+     "side": "north",
+     "geometry": "line",
+     "points": [
+      {
+       "lat_dm": "59°27.38′ N",
+       "lon_dm": "139°36.55′ W"
+      },
+      {
+       "lat_dm": "59°27.82′ N",
+       "lon_dm": "139°37.46′ W"
+      }
+     ],
+     "text": "will be closed to commercial set gillnet fishing north of a line from an ADF&G regulation marker located at 59°27.38′ N lat, 139°36.55′ W long (approximately 500 yards southeast from the Lost River-Situk Inlet confluence) to a regulation marker at 59°27.82′ N lat, 139°37.46′ W long (approximately 60"
+    }
+   ]
+  },
+  {
+   "name": "Lost River",
+   "kind": "other",
+   "parent": null,
+   "status": "closed",
+   "period_text": "will remain closed until further notice.",
+   "rules": []
+  },
+  {
+   "name": "Manby Shore-Outside Waters",
+   "kind": "other",
+   "parent": null,
+   "status": "open",
+   "period_text": "will be open from 12:01 p.m., Sunday, August 30, through 12:00 noon, Thursday, September 3, 2026.",
+   "rules": []
+  },
+  {
+   "name": "Manby Shore-Inside Waters",
+   "kind": "other",
+   "parent": null,
+   "status": "open",
+   "period_text": "will be open from 12:01 p.m., Sunday, August 30, through 12:00 noon, Wednesday, September 2, 2026.",
+   "rules": []
+  },
+  {
+   "name": "Remainder of the Yakutat District",
+   "kind": "district",
+   "parent": null,
+   "status": "open",
+   "period_text": "will be open from 12:01 p.m., Sunday, August 30, through 12:00 noon, Wednesday, September 2, 2026. Yakutat Set Gillnet Week 36 August 27, 2026 Yakutat Set Gillnet Week 36 August 27, 2026",
+   "rules": []
+  },
+  {
+   "name": "Yakataga District",
+   "kind": "district",
+   "parent": null,
+   "status": "open",
+   "period_text": "will be open from 9:00 a.m., Sunday, August 30, through 9:00 a.m., Wednesday, September 2, 2026.",
+   "rules": []
+  },
+  {
+   "name": "Kaliakh River",
+   "kind": "other",
+   "parent": null,
+   "status": "open",
+   "period_text": "will be open from 9:00 a.m., Sunday, August 30, through 9:00 p.m., Monday, August 31, 2026, and 8:00 a.m., Wednesday, September 2, through 8:00 p.m., Thursday, September 3, 2026. Kaliakh River: the Tsiu River delta at the confluence of the Tsiu and Kaliakh Rivers and the eastern bank of the Kaliakh River across from the Tsiu River delta will be closed. The closure extends 100 yards from the Tsiu River delta beginning",
+   "rules": []
+  },
+  {
+   "name": "Tsiu River",
+   "kind": "other",
+   "parent": null,
+   "status": "closed",
+   "period_text": "is closed until further notice.",
+   "rules": []
+  },
+  {
+   "name": "Seal River",
+   "kind": "other",
+   "parent": null,
+   "status": "partial",
+   "period_text": "will open from 9:00 a.m., Sunday, August 30, through 9:00 a.m., Wednesday, September 2, 2026, with the following restriction: Seal River: waters of the Seal River will be closed upstream of the confluence of the East Fork tributary of the Seal River (located downstream of Vitus Lake). Dual Permits: The use of dual permits is being allowed in the Situk-Ahrnklin Inlet and Yakutat Bay north of a line from Point Manby to",
+   "rules": []
+  }
+ ],
+ "all_others_closed": false,
+ "_unparsed": [],
+ "full_text": "Forrest Bowers, Acting Director\n\nDoug Vincent-Lang, Commissioner\n\nYakutat Area Office Yakutat, AK 99689\n\nAdvisory Announcement For Immediate Release: August 27, 2026\n\nJuneau, AK 99811-5526\n\nCONTACT: Rick Hoffman Yakutat Area Management Biologist rick.hoffman@alaska.gov (907) 784-3255\n\nYAKUTAT COMMERCIAL SET GILLNET OPENING ANNOUNCEMENT\n\nEast Alsek River: will open from 12:01 p.m., Sunday, August 30, through 12:00 noon, Wednesday, September 2, 2026.\n\nAlsek River: will be open from 12:01 p.m., Sunday, August 30, through 12:00 noon, Wednesday, September 2, 2026.\n\nAkwe River: will be open from 12:01 p.m., Sunday, August 30, through 12:00 noon, Wednesday, September 2, 2026.\n\nDangerous River: will be open from 12:01 p.m., Sunday, August 30, through 12:00 noon, Wednesday, September 2, 2026.\n\nYakutat Bay: will be open from 12:01 p.m., Sunday, August 30, through 12:00 noon, Thursday, September 3, 2026.\n\nSituk-Ahrnklin Inlet: will be open from 12:01 p.m., Sunday, August 30, through 12:00 noon, Thursday, September 3, 2026, with the following restrictions:\n\nLost River: will be closed to commercial set gillnet fishing north of a line from an ADF&G regulation marker located at 59°27.38′ N lat, 139°36.55′ W long (approximately 500 yards southeast from the Lost River-Situk Inlet confluence) to a regulation marker at 59°27.82′ N lat, 139°37.46′ W long (approximately 600 yards northwest from the Lost RiverSituk Inlet confluence);\n\nSituk River mouth (including upstream of Johnson Slough): will be closed to commercial set gillnet fishing west of a line from an ADF&G regulation marker located at the eastern bank of Johnson Slough at 59°26.73′ N lat, 139°33.25′ W long, to a buoyed regulation marker located at 59°26.33′ N lat, 139°34.15′ W long, to a regulation marker west of the Yakutat Seafoods buying station at 59°26.69′ N lat, 139°34.55′ W long on Sunny Point;\n\nChinook salmon retention: the Situk River commercial set gillnet fishery is closed to the retention of Chinook salmon. Chinook salmon of any size may not be retained for sale or personal use. Chinook salmon found dead in the net must have the dorsal fin removed immediately and recorded on a fish ticket at the time of landing. On the fish ticket, the number and weight of the fish must be recorded and the disposition code ‶86-Donated″ must be used. Retained Chinook can either be delivered to a buyer at the time of sockeye salmon sale or to the Yakutat ADF&G office for distribution to those in need in the community.\n\nLost River: will remain closed until further notice.\n\nManby Shore-Outside Waters: will be open from 12:01 p.m., Sunday, August 30, through 12:00 noon, Thursday, September 3, 2026.\n\nManby Shore-Inside Waters: will be open from 12:01 p.m., Sunday, August 30, through 12:00 noon, Wednesday, September 2, 2026.\n\nRemainder of the Yakutat District: will be open from 12:01 p.m., Sunday, August 30, through 12:00 noon, Wednesday, September 2, 2026.\n\nYakutat Set Gillnet Week 36\n\nAugust 27, 2026\n\nYakutat Set Gillnet Week 36 August 27, 2026 Yakataga District: will be open from 9:00 a.m., Sunday, August 30, through 9:00 a.m., Wednesday, September 2, 2026.\n\nKaliakh River: will be open from 9:00 a.m., Sunday, August 30, through 9:00 p.m., Monday, August 31, 2026, and 8:00 a.m., Wednesday, September 2, through 8:00 p.m., Thursday, September 3, 2026.\n\nKaliakh River: the Tsiu River delta at the confluence of the Tsiu and Kaliakh Rivers and the eastern bank of the Kaliakh River across from the Tsiu River delta will be closed. The closure extends 100 yards from the Tsiu River delta beginning at but not including the edge of the upriver extent of the Tsiu River delta.\n\nTsiu River: is closed until further notice.\n\nSeal River: will open from 9:00 a.m., Sunday, August 30, through 9:00 a.m., Wednesday, September 2, 2026, with the following restriction:\n\nSeal River: waters of the Seal River will be closed upstream of the confluence of the East Fork tributary of the Seal River (located downstream of Vitus Lake).\n\nDual Permits: The use of dual permits is being allowed in the Situk-Ahrnklin Inlet and Yakutat Bay north of a line from Point Manby to Ocean Cape. Individuals are reminded that if going to fish with two permits they are to notify the Yakutat Fish and Game office when they plan to begin fishing with two permits and when they stop fishing with two permits.\n\nThe Emergency Order corresponding to this announcement is EO 1Y1626.\n\nAdvisory Announcement web site: http://www.adfg.alaska.gov/index.cfm?adfg=cfnews.main.\n\nOffice\n\nKetchikan\n\nPetersburg\n\nWrangell\n\n225-5195\n\n225-5111\n\n772-3801\n\n772-3983\n\n874-3215\n\nSitka\n\n747-6688\n\n747-3254\n\nJuneau\n\n465-4250\n\n465-4000\n\nHaines\n\n766-2830\n\n766-2533\n\nYakutat\n\n784-3255",
+ "_parser": "9d390c40"
+}

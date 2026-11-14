@@ -1,0 +1,53 @@
+{
+ "release_id": "1820336970",
+ "published": "2026-08-04T00:00",
+ "species": "salmon",
+ "gear": [
+  "purse seine"
+ ],
+ "_unparsed": [],
+ "emergency_order": "1E2626",
+ "contact": "Bo Meredith, (907) 225-5195",
+ "title": "2026 Port Asumcion Terminal Harvest Area Fishery Announcement",
+ "next_announcement": null,
+ "region": "Southeast",
+ "full_text": "Forrest Bowers, Acting Director\n\nDoug Vincent-Lang, Commissioner\n\nKetchikan Area Office 2030 Sea Level Drive, Suite 205 Ketchikan, AK 99901\n\nAdvisory Announcement For Immediate Release: August 4, 2026\n\nJuneau, AK 99811-5526\n\nCONTACT: Bo Meredith Ketchikan Area Management Biologist bo.meredith@alaska.gov (907) 225-5195\n\n2026 PORT ASUMCION TERMINAL HARVEST AREA FISHERY ANNOUNCEMENT\n\nThe Southern Southeast Regional Aquaculture Association (SSRAA) has achieved their cost recovery goal. The Port Asumcion Terminal Harvest Area (THA) will be open for the harvest of salmon by purse seine from 5:00 a.m., Thursday, August 6, through 11:59 p.m., Tuesday, September 15, 2026.\n\nThe Port Asumcion THA (103-55) consists of those waters of Port Asumcion north and west of a line from Point Cosinas at 55°21.80′ N lat, 133°30.64′ W long to a point west of Point Maria at 55°22.04′ N lat, 133°30.26′ W long.\n\nFishermen, tenders, and processors are reminded that harvest from the Port Asumcion THA should be kept separate and reported on a separate fish ticket from harvest outside of the Port Asumcion THA.\n\nChinook Salmon Landing Restrictions in the Port Asumcion THA: Chinook salmon 28 inches or greater in length may be retained and sold. Chinook salmon less than 28 inches MAY be retained but not sold in the purse seine fishery.\n\nFishermen, tenders, and processors are reminded that all salmon, including steelhead, commercially harvested but retained for personal use and not sold, must be reported on fish tickets at the time of delivery (harvest code 95).\n\nThe Emergency Order corresponding to this announcement is EO 1E2626.\n\nAdvisory Announcement web site: http://www.adfg.alaska.gov/index.cfm?adfg=cfnews.main.\n\nOffice\n\nKetchikan\n\nPetersburg\n\nWrangell\n\n225-5195\n\n225-5111\n\n772-3801\n\n772-3983\n\n874-3215\n\nSitka\n\n747-6688\n\n747-3254\n\nJuneau\n\n465-4250\n\n465-4000\n\nHaines\n\n766-2830\n\n766-2533\n\nYakutat\n\n784-3255\n\n784-3220\n\nPort Asumcion THA\n\nAugust 4, 2026",
+ "areas": [
+  {
+   "district": null,
+   "section": null,
+   "status": "partial",
+   "period_text": null,
+   "rules": [
+    {
+     "subject": "Port Asumcion THA boundary",
+     "status": "open",
+     "side": null,
+     "geometry": "line",
+     "points": [
+      {
+       "name": "a line from Point Cosinas",
+       "lat_dm": "55°21.80′ N",
+       "lon_dm": "133°30.64′ W"
+      },
+      {
+       "name": "a point west of Point Maria",
+       "lat_dm": "55°22.04′ N",
+       "lon_dm": "133°30.26′ W"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "district": null,
+   "section": null,
+   "status": "open",
+   "period_text": "The Port Asumcion Terminal Harvest Area (THA) will be open for the harvest of salmon by purse seine from 5:00 a.m., Thursday, August 6, through 11:59 p.m., Tuesday, September 15, 2026.",
+   "region_wide": false,
+   "tha_pocket": "Port Asumcion",
+   "rules": []
+  }
+ ],
+ "_parser": "9d390c40"
+}
