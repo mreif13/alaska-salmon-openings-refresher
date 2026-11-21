@@ -1,0 +1,154 @@
+{
+ "release_id": "1767666157",
+ "title": "2026 Neets Bay Terminal Harvest Area Fisheries Announcement",
+ "published": "2026-04-15T00:00",
+ "region": "Southeast",
+ "gear": [
+  "troll"
+ ],
+ "species": "salmon",
+ "emergency_order": "1E1026",
+ "contact": "Grant Hagerman, (907) 747-6688",
+ "next_announcement": "If chum abundance is sufficient and cost recovery and broodstock goals are met, rotational openings for net gear may occur and will be announced in a separate advisory announcement.",
+ "areas": [
+  {
+   "district": null,
+   "section": null,
+   "status": "partial",
+   "period_text": "Salmon may be taken in the Neets Bay THA by troll gear, unless closed by emergency order, from 12:01 a.m., Saturday, June 27, through 11:59 p.m., Friday, July 31: Troll — 12:01 a.m., Saturday, June 27, to 11:59 p.m., Tuesday, June 30, east of the Bug Island line.",
+   "rules": [
+    {
+     "subject": "Neets Bay THA boundary (Bug Island line)",
+     "status": "open",
+     "geometry": "lon_cutoff",
+     "side": "east",
+     "points": [
+      {
+       "name": "the easternmost tip of Bug Island (Bug Island line)",
+       "lat_dm": null,
+       "lon_dm": "131°39.14′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "The Neets Bay THA (101-95) consists of those waters east of the longitude of the easternmost tip of Bug Island at 131°39.14′ W long (Bug Island line)."
+    },
+    {
+     "subject": "Head of the bay closure",
+     "status": "closed",
+     "geometry": "lon_cutoff",
+     "side": "east",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": null,
+       "lon_dm": "131°29.86′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "Waters at the head of the bay east of 131°29.86′ W long will be closed until the barrier net is in place; at that time, waters at the head of the bay east of the barrier net will be closed."
+    },
+    {
+     "subject": "Chinook salmon retention (troll)",
+     "status": "closed",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Chinook salmon retention and possession in the Neets Bay THA is prohibited for vessels operating commercial troll gear within the THA."
+    },
+    {
+     "subject": "Commercial net rotations will not open in 2026",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Neets Bay THA will NOT open for commercial net rotations in 2026 to allow for exclusive troller access through July, cost recovery fishing, and broodstock collection."
+    }
+   ]
+  },
+  {
+   "district": null,
+   "section": null,
+   "status": "partial",
+   "period_text": "Salmon may be taken in the Neets Bay THA by troll gear, unless closed by emergency order, from 12:01 a.m., Saturday, June 27, through 11:59 p.m., Friday, July 31: Troll — 12:01 a.m., Wednesday, July 1, to 11:59 p.m., Friday, July 31, east of the Chin Point line.",
+   "rules": [
+    {
+     "subject": "Neets Bay THA boundary (Bug Island line)",
+     "status": "open",
+     "geometry": "lon_cutoff",
+     "side": "east",
+     "points": [
+      {
+       "name": "the easternmost tip of Bug Island (Bug Island line)",
+       "lat_dm": null,
+       "lon_dm": "131°39.14′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "The Neets Bay THA (101-95) consists of those waters east of the longitude of the easternmost tip of Bug Island at 131°39.14′ W long (Bug Island line)."
+    },
+    {
+     "subject": "Neets Bay THA expansion to the Chin Point line (troll only, from July 1)",
+     "status": "open",
+     "geometry": "lon_cutoff",
+     "side": "east",
+     "points": [
+      {
+       "name": "Chin Point (Chin Point Line)",
+       "lat_dm": null,
+       "lon_dm": "131°42.10′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "The Neets Bay THA will be expanded on July 1 to Chin Point at 131°42.10′ W long (Chin Point Line) for troll gear only."
+    },
+    {
+     "subject": "Head of the bay closure",
+     "status": "closed",
+     "geometry": "lon_cutoff",
+     "side": "east",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": null,
+       "lon_dm": "131°29.86′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "Waters at the head of the bay east of 131°29.86′ W long will be closed until the barrier net is in place; at that time, waters at the head of the bay east of the barrier net will be closed."
+    },
+    {
+     "subject": "Chinook salmon retention (troll)",
+     "status": "closed",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Chinook salmon retention and possession in the Neets Bay THA is prohibited for vessels operating commercial troll gear within the THA."
+    },
+    {
+     "subject": "Chinook salmon retention in the expanded area",
+     "status": "closed",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Chinook salmon may NOT be retained in this expanded area."
+    },
+    {
+     "subject": "Commercial net rotations will not open in 2026",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Neets Bay THA will NOT open for commercial net rotations in 2026 to allow for exclusive troller access through July, cost recovery fishing, and broodstock collection."
+    }
+   ]
+  }
+ ],
+ "_parser": "9d390c40",
+ "_parser_kept": "new parse placed 0 where the old placed 2",
+ "full_text": "Forrest Bowers, Acting Director\n\nDoug Vincent-Lang, Commissioner\n\nSitka Area Office 304 Lake Street Room 103 Sitka, AK 99835\n\nAdvisory Announcement For Immediate Release: April 15, 2026\n\nJuneau, AK 99811-5526\n\nCONTACT: Grant Hagerman Region I Commercial Troll Management Biologist grant.hagerman@alaska.gov (907) 747-6688\n\n2026 NEETS BAY TERMINAL HARVEST AREA FISHERIES ANNOUNCEMENT\n\nThe following information details the Southern Southeast Regional Aquaculture Association (SSRAA) Neets Bay Terminal Harvest Area (THA) commercial fishing open waters and fishing schedules for the 2026 season.\n\nSSRAA is forecasting total runs of 1,372,000 summer chum and 95,500 coho salmon with anticipated terminal runs of 886,000 summer chum and 38,200 coho salmon.\n\nThe Neets Bay THA (101-95) consists of those waters east of the longitude of the easternmost tip of Bug Island at 131°39.14′ W long (Bug Island line). Waters at the head of the bay east of 131°29.86′ W long will be closed until the barrier net is in place; at that time, waters at the head of the bay east of the barrier net will be closed. The Neets Bay THA will be expanded on July 1 to Chin Point at 131°42.10′ W long (Chin Point Line) for troll gear only. Chinook salmon may NOT be retained in this expanded area. A map of Neets Bay including the THA boundaries and fishery lines are included in Figure 1.\n\nTroll Fishery\n\nSalmon may be taken in the Neets Bay THA by troll gear, unless closed by emergency order, from 12:01 a.m., Saturday, June 27, through 11:59 p.m., Friday, July 31, as follows:\n\n12:01 a.m., Saturday, June 27, to 11:59 p.m., Tuesday, June 30, east of the Bug Island line to the closed waters at the head of the bay;\n\n12:01 a.m., Wednesday, July 1, to 11:59 p.m., Friday, July 31, east of the Chin Point line to the closed waters at the head of the bay.\n\nAll Commercial Fisheries\n\nThe Neets Bay THA will NOT open for commercial net rotations in 2026 to allow for exclusive troller access through July, cost recovery fishing, and broodstock collection. If chum abundance is sufficient and cost recovery and broodstock goals are met, rotational openings for net gear may occur and will be announced in a separate advisory announcement.\n\nChinook Salmon Landing Restrictions for Neets Bay THA: Chinook salmon retention and possession in the Neets Bay THA is prohibited for vessels operating commercial troll gear within the THA.\n\nThe Emergency Order corresponding to this announcement is EO 1E1026.\n\nNeets Bay THA\n\nApril 15, 2026\n\nNeets Bay THA\n\nApril 15, 2026\n\nFigure 1. Map of Neets Bay THA.\n\nAdvisory Announcement web site: http://www.adfg.alaska.gov/index.cfm?adfg=cfnews.main.\n\nOffice\n\nKetchikan\n\nPetersburg\n\nWrangell\n\n225-5195\n\n225-5111\n\n772-3801\n\n772-3983\n\n874-3215\n\nSitka\n\n747-6688\n\n747-3254\n\nJuneau\n\n465-4250\n\n465-4000\n\nHaines\n\n766-2830\n\n766-2533\n\nYakutat\n\n784-3255\n\n784-3220"
+}

@@ -1,0 +1,249 @@
+{
+ "release_id": "1768115624",
+ "title": "2026 Carroll Inlet Terminal Harvest Area Fisheries Announcement",
+ "published": "2026-04-17T00:00",
+ "region": "Southeast",
+ "gear": [
+  "troll",
+  "purse seine",
+  "drift gillnet"
+ ],
+ "species": "salmon",
+ "emergency_order": "1E1226",
+ "contact": "Bo Meredith, (907) 225-5195",
+ "next_announcement": null,
+ "areas": [
+  {
+   "district": null,
+   "section": null,
+   "status": "partial",
+   "period_text": "Troll — The Carroll Inlet THA will be open to troll gear from 12:01 a.m., Monday, June 1, through 11:59 p.m., Tuesday, June 30, 2026. The troll fleet will have exclusive access to the lower portion of the Carroll Inlet THA north of the latitude of Nigelius Point at 55°33.50′ N lat and south of the latitude of 55°34.83′ N lat (approximately 1.3 nautical miles [nmi] north of Nigelius), from June 1 through June 7.",
+   "rules": [
+    {
+     "subject": "Carroll Inlet THA boundary",
+     "status": "open",
+     "geometry": "lat_cutoff",
+     "side": "north",
+     "points": [
+      {
+       "name": "Nigelius Point",
+       "lat_dm": "55°33.50′ N",
+       "lon_dm": null
+      }
+     ],
+     "distance_nmi": null,
+     "text": "The Carroll Inlet THA (101-48) consists of those waters of Carroll Inlet north of the latitude of Nigelius Point at 55°33.50′ N lat."
+    },
+    {
+     "subject": "500-yard stream closure suspended (5 AAC 39.290(a)(2))",
+     "status": "open",
+     "geometry": "buffer",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The 500-yard stream closure regulation under 5 AAC 39.290(a)(2) will NOT be in effect in the Carroll Inlet THA."
+    },
+    {
+     "subject": "Troll exclusive access area (June 1–7)",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [
+      {
+       "name": "Nigelius Point",
+       "lat_dm": "55°33.50′ N",
+       "lon_dm": null
+      },
+      {
+       "name": "approximately 1.3 nautical miles north of Nigelius Point",
+       "lat_dm": "55°34.83′ N",
+       "lon_dm": null
+      }
+     ],
+     "distance_nmi": null,
+     "text": "The troll fleet will have exclusive access to the lower portion of the Carroll Inlet THA north of the latitude of Nigelius Point at 55°33.50′ N lat and south of the latitude of 55°34.83′ N lat (approximately 1.3 nautical miles [nmi] north of Nigelius), from June 1 through June 7."
+    },
+    {
+     "subject": "Chinook salmon landing restrictions (troll)",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Chinook salmon harvested within the Carroll Inlet THA that are 28 inches or greater in length may be retained and sold."
+    }
+   ]
+  },
+  {
+   "district": null,
+   "section": null,
+   "status": "partial",
+   "period_text": "Purse Seine and Drift Gillnet (concurrent) — Waters of Carroll Inlet north of the latitude of 55°34.83′ N lat will be open to drift gillnet and purse seine gear concurrently from 5:00 a.m., Monday, June 1, through 11:59 p.m., Sunday, June 7. Beginning 12:01 a.m., Monday, June 8, the entire THA will open to drift gillnet and purse seine gear concurrently through 12:00 noon, Thursday, June 11.",
+   "rules": [
+    {
+     "subject": "Carroll Inlet THA boundary",
+     "status": "open",
+     "geometry": "lat_cutoff",
+     "side": "north",
+     "points": [
+      {
+       "name": "Nigelius Point",
+       "lat_dm": "55°33.50′ N",
+       "lon_dm": null
+      }
+     ],
+     "distance_nmi": null,
+     "text": "The Carroll Inlet THA (101-48) consists of those waters of Carroll Inlet north of the latitude of Nigelius Point at 55°33.50′ N lat."
+    },
+    {
+     "subject": "500-yard stream closure suspended (5 AAC 39.290(a)(2))",
+     "status": "open",
+     "geometry": "buffer",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The 500-yard stream closure regulation under 5 AAC 39.290(a)(2) will NOT be in effect in the Carroll Inlet THA."
+    },
+    {
+     "subject": "Net gear opening area June 1–7",
+     "status": "open",
+     "geometry": "lat_cutoff",
+     "side": "north",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": "55°34.83′ N",
+       "lon_dm": null
+      }
+     ],
+     "distance_nmi": null,
+     "text": "Waters of Carroll Inlet north of the latitude of 55°34.83′ N lat will be open to drift gillnet and purse seine gear concurrently from 5:00 a.m., Monday, June 1, through 11:59 p.m., Sunday, June 7."
+    },
+    {
+     "subject": "Chinook salmon landing restrictions (net gear)",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "All Chinook salmon harvested within the Carroll Inlet THA may be retained and sold."
+    }
+   ]
+  },
+  {
+   "district": null,
+   "section": null,
+   "status": "partial",
+   "period_text": "Beginning 12:00 noon, Monday, June 15, salmon may be taken in the Carroll Inlet THA by drift gillnet and purse seine gear as follows: Purse Seine — 12:00 noon, Monday, June 15, to 12:00 noon, Tuesday, June 16; 12:00 noon, Friday, June 19, to 12:00 noon, Saturday, June 20; 12:00 noon, Tuesday, June 23, to 12:00 noon, Wednesday, June 24; 12:00 noon, Saturday, June 27, to 12:00 noon, Sunday, June 28.",
+   "rules": [
+    {
+     "subject": "Carroll Inlet THA boundary",
+     "status": "open",
+     "geometry": "lat_cutoff",
+     "side": "north",
+     "points": [
+      {
+       "name": "Nigelius Point",
+       "lat_dm": "55°33.50′ N",
+       "lon_dm": null
+      }
+     ],
+     "distance_nmi": null,
+     "text": "The Carroll Inlet THA (101-48) consists of those waters of Carroll Inlet north of the latitude of Nigelius Point at 55°33.50′ N lat."
+    },
+    {
+     "subject": "500-yard stream closure suspended (5 AAC 39.290(a)(2))",
+     "status": "open",
+     "geometry": "buffer",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The 500-yard stream closure regulation under 5 AAC 39.290(a)(2) will NOT be in effect in the Carroll Inlet THA."
+    },
+    {
+     "subject": "Net gear opening area June 1–7",
+     "status": "open",
+     "geometry": "lat_cutoff",
+     "side": "north",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": "55°34.83′ N",
+       "lon_dm": null
+      }
+     ],
+     "distance_nmi": null,
+     "text": "Waters of Carroll Inlet north of the latitude of 55°34.83′ N lat will be open to drift gillnet and purse seine gear concurrently from 5:00 a.m., Monday, June 1, through 11:59 p.m., Sunday, June 7."
+    },
+    {
+     "subject": "Chinook salmon landing restrictions (net gear)",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "All Chinook salmon harvested within the Carroll Inlet THA may be retained and sold."
+    }
+   ]
+  },
+  {
+   "district": null,
+   "section": null,
+   "status": "partial",
+   "period_text": "Beginning 12:00 noon, Monday, June 15, salmon may be taken in the Carroll Inlet THA by drift gillnet and purse seine gear as follows: Drift Gillnet — 12:00 noon, Wednesday, June 17, to 12:00 noon, Thursday, June 18; 12:00 noon, Sunday, June 21, to 12:00 noon, Monday, June 22; 12:00 noon, Thursday, June 25, to 12:00 noon, Friday, June 26; 12:00 noon, Monday, June 29, to 12:00 noon, Tuesday, June 30.",
+   "rules": [
+    {
+     "subject": "Carroll Inlet THA boundary",
+     "status": "open",
+     "geometry": "lat_cutoff",
+     "side": "north",
+     "points": [
+      {
+       "name": "Nigelius Point",
+       "lat_dm": "55°33.50′ N",
+       "lon_dm": null
+      }
+     ],
+     "distance_nmi": null,
+     "text": "The Carroll Inlet THA (101-48) consists of those waters of Carroll Inlet north of the latitude of Nigelius Point at 55°33.50′ N lat."
+    },
+    {
+     "subject": "500-yard stream closure suspended (5 AAC 39.290(a)(2))",
+     "status": "open",
+     "geometry": "buffer",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The 500-yard stream closure regulation under 5 AAC 39.290(a)(2) will NOT be in effect in the Carroll Inlet THA."
+    },
+    {
+     "subject": "Net gear opening area June 1–7",
+     "status": "open",
+     "geometry": "lat_cutoff",
+     "side": "north",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": "55°34.83′ N",
+       "lon_dm": null
+      }
+     ],
+     "distance_nmi": null,
+     "text": "Waters of Carroll Inlet north of the latitude of 55°34.83′ N lat will be open to drift gillnet and purse seine gear concurrently from 5:00 a.m., Monday, June 1, through 11:59 p.m., Sunday, June 7."
+    },
+    {
+     "subject": "Chinook salmon landing restrictions (net gear)",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "All Chinook salmon harvested within the Carroll Inlet THA may be retained and sold."
+    }
+   ]
+  }
+ ],
+ "_parser": "9d390c40",
+ "_parser_kept": "new parse placed 2 where the old placed 4",
+ "full_text": "Forrest Bowers, Acting Director\n\nDoug Vincent-Lang, Commissioner\n\nKetchikan Area Office 2030 Sea Level Drive, Suite 205 Ketchikan, AK 99901\n\nAdvisory Announcement For Immediate Release: April 17, 2026\n\nJuneau, AK 99811-5526\n\nCONTACT: Bo Meredith Ketchikan Area Management Biologist bo.meredith@alaska.gov (907) 225-5195\n\n2026 CARROLL INLET TERMINAL HARVEST AREA FISHERIES ANNOUNCEMENT\n\nThe following information details the Southern Southeast Regional Aquaculture Association (SSRAA) Carroll Inlet Terminal Harvest Area (THA) commercial fishing open area and fishing schedule for the 2026 season.\n\nSSRAA is forecasting a total run of 6,100 Chinook salmon for the Carroll Inlet THA with an anticipated terminal run of 4,400 Chinook salmon.\n\nThe Carroll Inlet THA (101-48) consists of those waters of Carroll Inlet north of the latitude of Nigelius Point at 55°33.50′ N lat. The 500-yard stream closure regulation under 5 AAC 39.290(a)(2) will NOT be in effect in the Carroll Inlet THA.\n\nTroll Fishery\n\nThe Carroll Inlet THA will be open to troll gear from 12:01 a.m., Monday, June 1, through 11:59 p.m., Tuesday, June 30, 2026. The troll fleet will have exclusive access to the lower portion of the Carroll Inlet THA north of the latitude of Nigelius Point at 55°33.50′ N lat and south of the latitude of 55°34.83′ N lat (approximately 1.3 nautical miles [nmi] north of Nigelius), from June 1 through June 7.\n\nNet Fisheries\n\nThe Carroll Inlet THA will be open in the waters of Carroll Inlet north of the latitude of 55°34.83′ N lat, approximately 1.3 nmi north of Nigelius Point (Figure 1) to drift gillnet and purse seine gear concurrently from 5:00 a.m., Monday, June 1, through 11:59 p.m., Sunday, June 7. Beginning 12:01 a.m., Monday, June 8, the entire THA will open to drift gillnet and purse seine gear concurrently through 12:00 noon, Thursday, June 11. Beginning at 12:00 noon, Monday, June 15, salmon may be taken in the Carroll Inlet THA by drift gillnet and purse seine gear as follows:\n\nPurse Seine\n\n12:00 noon, Monday, June 15, to 12:00 noon, Tuesday, June 16; 12:00 noon, Friday, June 19, to 12:00 noon, Saturday, June 20; 12:00 noon, Tuesday, June 23, to 12:00 noon, Wednesday, June 24; 12:00 noon, Saturday, June 27, to 12:00 noon, Sunday, June 28.\n\nDrift Gillnet\n\n12:00 noon, Wednesday, June 17, to 12:00 noon, Thursday, June 18; 12:00 noon, Sunday, June 21, to 12:00 noon, Monday, June 22; 12:00 noon, Thursday, June 25, to 12:00 noon, Friday, June 26; 12:00 noon, Monday, June 29, to 12:00 noon, Tuesday, June 30.\n\nChinook Salmon Landing Restrictions for Troll Gear: Chinook salmon harvested within the Carroll Inlet THA that are 28 inches or greater in length may be retained and sold.\n\nCarroll Inlet THA\n\nApril 17, 2026\n\nCarroll Inlet THA\n\nApril 17, 2026\n\nChinook Salmon Landing Restrictions for Net Gear: All Chinook salmon harvested within the Carroll Inlet THA may be retained and sold.\n\nThe Emergency Order corresponding with this announcement is EO 1E1226.\n\nFigure 1. Map of the Carroll Inlet THA.\n\nAdvisory Announcement web site: http://www.adfg.alaska.gov/index.cfm?adfg=cfnews.main.\n\nOffice\n\nKetchikan\n\nPetersburg\n\nWrangell\n\n225-5195\n\n225-5111\n\n772-3801\n\n772-3983\n\n874-3215\n\nSitka\n\n747-6688\n\n747-3254\n\nJuneau\n\n465-4250\n\n465-4000\n\nHaines\n\n766-2830\n\n766-2533\n\nYakutat\n\n784-3255\n\n784-3220"
+}

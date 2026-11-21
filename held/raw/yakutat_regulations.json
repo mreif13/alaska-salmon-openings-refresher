@@ -1,0 +1,389 @@
+{
+ "source": "5 AAC 30 (Yakutat Area), Article 2 (Fishing districts) and Article 3 (Salmon fishery); the corresponding printed booklet is the 2025-2028 Southeastern Alaska/Yakutat Areas Commercial Salmon Fishing Regulations",
+ "source_url": "https://www.adfg.alaska.gov/static/regulations/fishregulations/pdfs/commercial/cf_se_yakutat_salmon_regs_2025_2028.pdf",
+ "text_retrieved_from": [
+  "https://www.law.cornell.edu/regulations/alaska/5-AAC-30.200",
+  "https://www.law.cornell.edu/regulations/alaska/5-AAC-30.310",
+  "https://www.law.cornell.edu/regulations/alaska/5-AAC-30.340",
+  "https://www.law.cornell.edu/regulations/alaska/5-AAC-30.345",
+  "https://www.law.cornell.edu/regulations/alaska/5-AAC-30.350",
+  "https://www.law.cornell.edu/regulations/alaska/5-AAC-30.365",
+  "https://regulations.justia.com/states/alaska/title-5/part-1/chapter-30/article-2/section-5-aac-30-200/",
+  "https://regulations.justia.com/states/alaska/title-5/part-1/chapter-30/article-3/section-5-aac-30-310/",
+  "https://regulations.justia.com/states/alaska/title-5/part-1/chapter-30/article-3/section-5-aac-30-350/",
+  "https://regulations.justia.com/states/alaska/title-5/part-1/chapter-30/article-3/section-5-aac-30-365/"
+ ],
+ "citation": "5 AAC 30.200 (fishing districts); 5 AAC 30.350 (closed waters); 5 AAC 30.310 (fishing seasons, for the only coordinate attached to the Situk-Ahrnklin Inlet); 5 AAC 30.365 (Situk-Ahrnklin Inlet and Lost River King Salmon Fisheries Management Plan)",
+ "retrieved": "2026-08-24",
+ "notation": "degrees and decimal minutes, e.g. \"59° 20.83' N. lat.\" / \"139° 59.35' W. long.\" -- NOT degrees-minutes-seconds. lat_dm/lon_dm hold the value EXACTLY as printed, unconverted, including the source's inconsistent degree sign: 5 AAC 30.200 and 5 AAC 30.350(a)(5) and (a)(9) print º (U+00BA, masculine ordinal) while 5 AAC 30.310, 30.350(a)(13) and 30.365 print ° (U+00B0). Several values are printed as whole degrees or whole minutes with no decimal -- Cape Suckling \"144º W. long.\", Icy Cape \"141º 42' W. long.\", the Yakutat Bay line \"59° 40' N. lat.\" -- and are recorded that way. Cape Suckling will not parse as degrees+minutes. Decimal conversion is degrees + minutes/60, negative for west longitude.",
+ "source_document_caveat": "The ADF&G booklet named in source_url could not be read directly: this session's fetch relay returns only summaries of PDFs and direct download is blocked by network policy. All text here was transcribed from two published mirrors of the codified regulation -- Cornell LII and Justia -- listed in text_retrieved_from. Both derive from the same state codification, so their agreement proves faithful transcription, not independent authority. CURRENCY DIFFERS BY HOST: Cornell's History note for 5 AAC 30.350 ends \"am 6/27/2025, Register 254, July 2025\" and for 5 AAC 30.365 ends the same, while Justia's chapter 30 pages are \"current through November 28, 2024\". Where the two differ, Cornell is the later text and is what is recorded, with the divergence written into that area's notes. Any Board of Fisheries amendment after June 2025, and any emergency order, is NOT reflected here. Verify against the printed booklet before fishing.",
+ "verification_method": "Every area was read at least twice by differently-worded fetches, in almost every case across two different hosts (Cornell LII and Justia). Only values identical in both reads carry verified_twice=true. Two areas carry verified_twice=false and say why in their notes: 5 AAC 30.350(a)(13) (Sudden Stream/Malaspina Lake) exists only in Cornell's post-2025 text, and 5 AAC 30.365's troll box differs between hosts for the same vintage reason. Every decimal value was recomputed by hand as degrees + minutes/60, negated for west longitude, and checked against the Yakutat envelope lat 58.5-61, lon -145 to -137; every value fell inside it. No coordinate in this file came from any source other than the two mirrors; landmarks named without a printed coordinate carry lat_dm/lon_dm = null even where the same landmark's coordinate appears in another paragraph.",
+ "structure_notes": "5 AAC 30.200 has exactly TWO lettered subsections, (a) Yakataga District and (b) Yakutat District, and NO numbered sections or subsections inside either -- confirmed on both hosts. There is therefore no section-level geometry to extract for the Yakutat Area. 5 AAC 30.350 is \"Closed waters\": subsection (a) is a flat list (1)-(13), subsection (b) was repealed 10/1/1998, and subsection (c) defines \"mean low water\" as \"the average of the low tides of that day\". THREE OF THE FOUR NAMED TARGETS HAVE NO COORDINATES IN REGULATION: the Situk-Ahrnklin Inlet, the Kaliakh River and the Seal River. The phrase \"Seal River\" does not appear anywhere in 5 AAC chapter 30 -- checked in 30.310, 30.340, 30.345 and 30.350 -- so the Yakataga District's Seal River set gillnet fishery has no regulatory boundary of its own and falls under the district description in 5 AAC 30.200(a) and the emergency-order season in 5 AAC 30.310(a)(1) (\"in the Yakataga District the opening and closing dates will be established by emergency order\").",
+ "areas": [
+  {
+   "kind": "district",
+   "name": "Yakataga District",
+   "parent": null,
+   "citation": "5 AAC 30.200(a)",
+   "text": "Yakataga District: all waters of Alaska between the longitude of Cape Suckling (144º W. long.) and the longitude of Icy Cape (141º 42' W. long.).",
+   "points": [
+    {
+     "name": "Cape Suckling",
+     "lat_dm": null,
+     "lon_dm": "144º W. long."
+    },
+    {
+     "name": "Icy Cape",
+     "lat_dm": null,
+     "lon_dm": "141º 42' W. long."
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Cape Suckling's longitude is printed as a whole number of degrees with no minutes -- \"144º W. long.\" -- in both reads, exactly as Cape Newenham is printed in 5 AAC 09.200(a). Recorded as printed; it will not parse as degrees+minutes. Icy Cape's minutes are printed as whole minutes with no decimal (42'), also in both reads. Neither host prints any latitude for this district: it is bounded by two meridians and the coast."
+  },
+  {
+   "kind": "district",
+   "name": "Yakutat District",
+   "parent": null,
+   "citation": "5 AAC 30.200(b)",
+   "text": "Yakutat District: all waters of Alaska between the longitude of Icy Cape (141º 42' W. long.) and a line projected southwest from the westernmost tip of Cape Fairweather.",
+   "points": [
+    {
+     "name": "Icy Cape",
+     "lat_dm": null,
+     "lon_dm": "141º 42' W. long."
+    },
+    {
+     "name": "westernmost tip of Cape Fairweather",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": "The eastern bound is a landmark line, not a coordinate: the regulation prints no coordinate for Cape Fairweather anywhere in 5 AAC 30. 5 AAC 30.200 contains ONLY these two lettered subsections -- there are no numbered sections or subsections inside either district, confirmed by both hosts."
+  },
+  {
+   "kind": "season_area",
+   "name": "Situk-Ahrnklin Inlet, Lost River, and Yakutat Bay north of 59° 40' N. lat.",
+   "parent": "Yakutat District",
+   "citation": "5 AAC 30.310(a)(2)(C)",
+   "text": "Situk-Ahrnklin Inlet, Lost River, and Yakutat Bay north of 59° 40' N. lat., from the third Sunday in June until closed by emergency order",
+   "points": [
+    {
+     "name": "Yakutat Bay dividing latitude",
+     "lat_dm": "59° 40' N. lat.",
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": "THE SITUK-AHRNKLIN INLET HAS NO COORDINATE BOUNDARY IN REGULATION. Every section of 5 AAC 30 that names the inlet -- 30.310 (fishing seasons), 30.345 (two units of set gillnet gear), 30.350 (closed waters) and 30.365 (Situk-Ahrnklin Inlet and Lost River King Salmon Fisheries Management Plan) -- refers to it by name only. The single coordinate in 5 AAC 30.310 is the 59° 40' N. lat. line that splits Yakutat Bay between paragraphs (B) and (C); it is NOT the inlet's boundary. Printed as whole minutes with no decimal in both reads."
+  },
+  {
+   "kind": "season_area",
+   "name": "Dangerous River and Yakutat Bay south of 59° 40' N. lat.",
+   "parent": "Yakutat District",
+   "citation": "5 AAC 30.310(a)(2)(B)",
+   "text": "in the Dangerous River and in Yakutat Bay south of 59° 40' N. lat., from the second Sunday in June until closed by emergency order",
+   "points": [
+    {
+     "name": "Yakutat Bay dividing latitude",
+     "lat_dm": "59° 40' N. lat.",
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Season-opening area, not a closure. Same 59° 40' line as (a)(2)(C)."
+  },
+  {
+   "kind": "closed_water",
+   "name": "Alsek River",
+   "parent": "Yakutat District",
+   "citation": "5 AAC 30.350(a)(1)",
+   "text": "Alsek River: upstream starting at three miles below the southern end of 'basin'",
+   "points": [
+    {
+     "name": "southern end of 'basin'",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": "No coordinates printed; both hosts agree."
+  },
+  {
+   "kind": "closed_water",
+   "name": "Situk River",
+   "parent": "Yakutat District",
+   "citation": "5 AAC 30.350(a)(2)",
+   "text": "Situk River: upstream of a line from the ADF&G regulatory marker located on the western bank of the Situk River mouth near the Yakutat Seafoods buying station, to an ADF&G regulatory marker buoy anchored in the channel directly off the mouth of the Situk River, to an ADF&G regulatory marker on the cut bank on the eastern side of the mouth of Johnson Slough",
+   "points": [
+    {
+     "name": "ADF&G regulatory marker, western bank of the Situk River mouth",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "ADF&G regulatory marker buoy anchored in the channel",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "ADF&G regulatory marker, cut bank east side of the mouth of Johnson Slough",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Defined entirely by ADF&G regulatory markers; NO coordinates printed. One Cornell read rendered \"directly\" as \"directlv\", an OCR artifact of that host's page image; the other read and Justia print \"directly\"."
+  },
+  {
+   "kind": "closed_water",
+   "name": "Ankau Inlet",
+   "parent": "Yakutat District",
+   "citation": "5 AAC 30.350(a)(3)",
+   "text": "Ankau Inlet: inside of a line from ADF&G regulatory markers located across the terminus of Ankau Inlet at mean low water",
+   "points": [
+    {
+     "name": "ADF&G regulatory markers across the terminus of Ankau Inlet",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Markers only; no coordinates."
+  },
+  {
+   "kind": "closed_water",
+   "name": "Middle Italio River",
+   "parent": "Yakutat District",
+   "citation": "5 AAC 30.350(a)(4)(A)",
+   "text": "upstream from the ADF&G regulatory markers located one and one-half miles from the terminus of the Middle Italio River at mean low water",
+   "points": [
+    {
+     "name": "ADF&G regulatory markers, Middle Italio River",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Markers only; no coordinates."
+  },
+  {
+   "kind": "closed_water",
+   "name": "New Italio River — downstream closure",
+   "parent": "Yakutat District",
+   "citation": "5 AAC 30.350(a)(4)(B)",
+   "text": "downstream from the ADF&G regulatory markers located 200 yards upstream from the New Italio River's confluence with the Akwe River lagoon",
+   "points": [
+    {
+     "name": "ADF&G regulatory markers, 200 yards above the Akwe River lagoon confluence",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Markers only; no coordinates."
+  },
+  {
+   "kind": "closed_water",
+   "name": "New Italio River — upstream closure",
+   "parent": "Yakutat District",
+   "citation": "5 AAC 30.350(a)(4)(C)",
+   "text": "upstream of the ADF&G regulatory markers located 500 yards upstream from the New Italio River's confluence with the Akwe River lagoon",
+   "points": [
+    {
+     "name": "ADF&G regulatory markers, 500 yards above the Akwe River lagoon confluence",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Markers only; no coordinates."
+  },
+  {
+   "kind": "closed_water",
+   "name": "East River",
+   "parent": "Yakutat District",
+   "citation": "5 AAC 30.350(a)(5)",
+   "text": "East River: upstream from ADF&G regulatory markers located approximately one mile downstream from the westernmost tip of Steve's Island at 138º 25.25' W. long.",
+   "points": [
+    {
+     "name": "westernmost tip of Steve's Island",
+     "lat_dm": null,
+     "lon_dm": "138º 25.25' W. long."
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Both hosts print the longitude identically. It locates Steve's Island, not the marker line: the closure line itself is at ADF&G markers approximately one mile downstream of that longitude, and the regulation gives no coordinate for the markers."
+  },
+  {
+   "kind": "closed_water",
+   "name": "Akwe River",
+   "parent": "Yakutat District",
+   "citation": "5 AAC 30.350(a)(6)",
+   "text": "Akwe River: downstream from ADF&G regulatory markers located approximately 500 yards above the confluence with the New Italio River and upstream of ADF&G regulatory markers located approximately two and one-half miles downstream from the westernmost end of the Sand Dunes",
+   "points": [
+    {
+     "name": "ADF&G regulatory markers, 500 yards above the New Italio confluence",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "ADF&G regulatory markers, two and one-half miles below the westernmost end of the Sand Dunes",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Markers only; no coordinates."
+  },
+  {
+   "kind": "closed_water",
+   "name": "Lost River",
+   "parent": "Yakutat District",
+   "citation": "5 AAC 30.350(a)(7)",
+   "text": "Lost River: upstream from ADF&G regulatory markers located in the Situk-Ahrnklin Inlet approximately 100 yards downstream from the terminus of the river",
+   "points": [
+    {
+     "name": "ADF&G regulatory markers in the Situk-Ahrnklin Inlet",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Markers only; no coordinates."
+  },
+  {
+   "kind": "closed_water",
+   "name": "Old Village Lagoon",
+   "parent": "Yakutat District",
+   "citation": "5 AAC 30.350(a)(8)",
+   "text": "Old Village Lagoon: upstream from the road",
+   "points": [
+    {
+     "name": "the road",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": "No coordinates."
+  },
+  {
+   "kind": "closed_water",
+   "name": "Yakutat District set gillnet closure south of the Dangerous River",
+   "parent": "Yakutat District",
+   "citation": "5 AAC 30.350(a)(9)",
+   "text": "salmon may not be taken with set gillnets in those waters of the Yakutat District south of the latitude of the Dangerous River (59º 20.83' N. lat.)",
+   "points": [
+    {
+     "name": "latitude of the Dangerous River",
+     "lat_dm": "59º 20.83' N. lat.",
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": "GEAR-SPECIFIC: this closes set gillnetting only, not all salmon fishing. Both hosts print the latitude identically."
+  },
+  {
+   "kind": "closed_water",
+   "name": "Kaliakh River",
+   "parent": "Yakataga District",
+   "citation": "5 AAC 30.350(a)(10)",
+   "text": "Kaliakh River: upstream of ADF&G regulatory markers located approximately 500 yards downstream of the mouth of the Chiuki River (Stink Creek)",
+   "points": [
+    {
+     "name": "ADF&G regulatory markers, 500 yards below the mouth of the Chiuki River (Stink Creek)",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": "THE KALIAKH RIVER HAS NO COORDINATES IN REGULATION -- confirmed by two differently-worded reads on two hosts. The closure is fixed by ADF&G regulatory markers referenced to the mouth of the Chiuki River. No other section of 5 AAC 30 gives the Kaliakh a coordinate."
+  },
+  {
+   "kind": "closed_water",
+   "name": "Dangerous River",
+   "parent": "Yakutat District",
+   "citation": "5 AAC 30.350(a)(11)",
+   "text": "Dangerous River: upstream of the Dangerous River Bridge",
+   "points": [
+    {
+     "name": "Dangerous River Bridge",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": "No coordinates. Not to be confused with the 59º 20.83' N. lat. \"latitude of the Dangerous River\" line in (a)(9), which is a marine set gillnet closure, not this river closure."
+  },
+  {
+   "kind": "closed_water",
+   "name": "Tsiu River",
+   "parent": "Yakataga District",
+   "citation": "5 AAC 30.350(a)(12)",
+   "text": "Tsiu River: upstream of ADF&G regulatory markers located approximately one-half mile downstream from Duck Camp Island",
+   "points": [
+    {
+     "name": "ADF&G regulatory markers, one-half mile below Duck Camp Island",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Markers only; no coordinates."
+  },
+  {
+   "kind": "closed_water",
+   "name": "Sudden Stream and Malaspina Lake",
+   "parent": "Yakutat District",
+   "citation": "5 AAC 30.350(a)(13)",
+   "text": "waters of Sudden Stream including all waters of Malaspina Lake upstream of a line from 59° 48.26' N. lat., 139° 59.35' W. long., to 59° 48.33' N. lat., 139° 59.24' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": "59° 48.26' N. lat.",
+     "lon_dm": "139° 59.35' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": "59° 48.33' N. lat.",
+     "lon_dm": "139° 59.24' W. long."
+    }
+   ],
+   "verified_twice": false,
+   "notes": "SINGLE-HOST. This paragraph was added by the amendment effective 6/27/2025, Register 254. Cornell LII carries it; Justia's copy of 5 AAC 30.350 is \"current through November 28, 2024\" and does not contain the paragraph at all -- a Justia read asked directly about Sudden Stream and Malaspina Lake answered NOT PRESENT. The four figures here were therefore confirmed by two differently-worded Cornell reads that agreed digit for digit, but not across two hosts. Treat as provisional and verify against the printed booklet."
+  },
+  {
+   "kind": "management_plan_area",
+   "name": "Situk king salmon troll closure area (Ocean Cape to south of the Dangerous River)",
+   "parent": "Yakutat District",
+   "citation": "5 AAC 30.365(c)(1)(C)",
+   "text": "commercial troll fishery in the waters of Alaska bounded on the west by the seaward limit of the three-nautical-mile territorial sea and on the north by a line extending seaward from 59° 30.49' N. lat., 139° 46.58' W. long., and intersecting the three-nautical-mile limit at 59° 28.44' N. lat., 139° 51.68' W. long. and on the south by a line extending seaward from 59° 21.07' N. lat., 139° 19.73' W. long., and intersecting the three-nautical-mile limit at 59° 19.08' N. lat., 139° 24.98' W. long.",
+   "points": [
+    {
+     "name": "Ocean Cape",
+     "lat_dm": "59° 30.49' N. lat.",
+     "lon_dm": "139° 46.58' W. long."
+    },
+    {
+     "name": "northern line intersection with the three-nautical-mile limit",
+     "lat_dm": "59° 28.44' N. lat.",
+     "lon_dm": "139° 51.68' W. long."
+    },
+    {
+     "name": "southern line shoreside origin",
+     "lat_dm": "59° 21.07' N. lat.",
+     "lon_dm": "139° 19.73' W. long."
+    },
+    {
+     "name": "southern line intersection with the three-nautical-mile limit",
+     "lat_dm": "59° 19.08' N. lat.",
+     "lon_dm": "139° 24.98' W. long."
+    }
+   ],
+   "verified_twice": false,
+   "notes": "NOT A STANDING CLOSURE -- this box closes only when the commissioner acts by emergency order under the Situk-Ahrnklin Inlet and Lost River King Salmon Fisheries Management Plan; kind is deliberately not \"closed_water\" so it is not shaded as one. The identical box is repeated at (c)(2)(B)(ii), (c)(3)(B) and (c)(4)(B).  HOSTS DISAGREE: Justia prints the northern intersection as 59° 28.65' N. lat., 139° 51.17' W. long. and the southern line as running from 59° 20.30' N. lat., 139° 16.50' W. long. to 59° 18.25' N. lat., 139° 21.94' W. long., and labels 59° 30.49' N. lat., 139° 46.58' W. long. as \"(Ocean Cape)\". The divergence is a vintage difference, not a transcription error: Cornell's History note for this section ends \"am 6/27/2025, Register 254, July 2025\" while Justia's page is \"current through November 28, 2024\". The values recorded here are Cornell's post-amendment values, confirmed by three differently-worded Cornell reads that agreed digit for digit. Verify against the printed booklet before relying on this box."
+  }
+ ]
+}

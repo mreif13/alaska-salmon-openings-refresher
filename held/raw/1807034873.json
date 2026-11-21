@@ -1,0 +1,93 @@
+{
+ "release_id": "1807034873",
+ "title": "2026 Kendrick Bay Terminal Harvest Area Fishery Announcement",
+ "published": "2026-07-14T00:00",
+ "region": "Southeast",
+ "gear": [
+  "purse seine",
+  "troll"
+ ],
+ "species": "salmon",
+ "emergency_order": "1E2126",
+ "contact": "Bo Meredith, (907) 225-5195",
+ "next_announcement": null,
+ "areas": [
+  {
+   "district": null,
+   "section": null,
+   "status": "open",
+   "period_text": "Purse Seine — The Kendrick Bay THA will open to purse seine and troll gear effective 5:00 a.m., Thursday, July 16, 2026, until closed by regulation on September 30, 2026.",
+   "rules": [
+    {
+     "subject": "Kendrick Bay THA boundary",
+     "status": "open",
+     "geometry": "lon_cutoff",
+     "side": "west",
+     "points": [
+      {
+       "name": "Kendrick Bay western boundary",
+       "lat_dm": null,
+       "lon_dm": "131°59.00′ W"
+      },
+      {
+       "name": "McLean Arm western boundary",
+       "lat_dm": null,
+       "lon_dm": "131°57.80′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "The Kendrick Bay THA (102-15) consists of those waters of Kendrick Bay west of 131°59.00′ W long and the waters of McLean Arm west of 131°57.80′ W long."
+    },
+    {
+     "subject": "Chinook salmon landing restrictions (purse seine)",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Chinook salmon 28 inches or greater in length may NOT be retained and Chinook salmon less than 28 inches may be retained but not sold."
+    }
+   ]
+  },
+  {
+   "district": null,
+   "section": null,
+   "status": "open",
+   "period_text": "Troll — The Kendrick Bay THA will open to purse seine and troll gear effective 5:00 a.m., Thursday, July 16, 2026, until closed by regulation on September 30, 2026.",
+   "rules": [
+    {
+     "subject": "Kendrick Bay THA boundary",
+     "status": "open",
+     "geometry": "lon_cutoff",
+     "side": "west",
+     "points": [
+      {
+       "name": "Kendrick Bay western boundary",
+       "lat_dm": null,
+       "lon_dm": "131°59.00′ W"
+      },
+      {
+       "name": "McLean Arm western boundary",
+       "lat_dm": null,
+       "lon_dm": "131°57.80′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "The Kendrick Bay THA (102-15) consists of those waters of Kendrick Bay west of 131°59.00′ W long and the waters of McLean Arm west of 131°57.80′ W long."
+    },
+    {
+     "subject": "Chinook salmon retention (troll)",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Chinook salmon retention is permitted only during general summer troll Chinook salmon retention periods established under 5 AAC 29.100."
+    }
+   ]
+  }
+ ],
+ "full_text": "Forrest Bowers, Acting Director\n\nDoug Vincent-Lang, Commissioner\n\nKetchikan Area Office 2030 Sea Level Drive, Suite 205 Ketchikan, AK 99901\n\nAdvisory Announcement For Immediate Release: July 14, 2026\n\nJuneau, AK 99811-5526\n\nCONTACT: Bo Meredith Ketchikan Area Management Biologist bo.meredith@alaska.gov (907) 225-5195\n\n2026 KENDRICK BAY TERMINAL HARVEST AREA FISHERY ANNOUNCEMENT\n\nThe following information details the Southern Southeast Regional Aquaculture Association (SSRAA) Kendrick Bay Terminal Harvest Area (THA) commercial fishing schedule for the remainder of the 2026 season.\n\nSSRAA is forecasting a total run of 810,000 chum salmon to the Kendrick Bay THA with an anticipated terminal run of 205,000 chum salmon.\n\nSSRAA has concluded cost recovery operations in the Kendrick Bay THA for 2026. The Kendrick Bay THA will open to purse seine and troll gear effective 5:00 a.m., Thursday, July 16, 2026, until closed by regulation on September 30, 2026. The Kendrick Bay THA (102-15) consists of those waters of Kendrick Bay west of 131°59.00′ W long and the waters of McLean Arm west of 131°57.80′ W long.\n\nChinook Salmon Purse Seine Landing Restrictions: Chinook salmon 28 inches or greater in length may NOT be retained and Chinook salmon less than 28 inches may be retained but not sold. These restrictions will be in effect until at least the third week of July.\n\nChinook Salmon Landing Restrictions for Troll Gear: Chinook salmon retention is permitted only during general summer troll Chinook salmon retention periods established under 5 AAC 29.100.\n\nThe Emergency Order corresponding with this announcement is EO 1E2126.\n\nAdvisory Announcement web site: http://www.adfg.alaska.gov/index.cfm?adfg=cfnews.main.\n\nOffice\n\nKetchikan\n\nPetersburg\n\nWrangell\n\n225-5195\n\n225-5111\n\n772-3801\n\n772-3983\n\n874-3215\n\nSitka\n\n747-6688\n\n747-3254\n\nJuneau\n\n465-4250\n\n465-4000\n\nHaines\n\n766-2830\n\n766-2533\n\nYakutat\n\n784-3255\n\n784-3220\n\nKendrick Bay THA\n\nJuly 14, 2026",
+ "_parser": "9d390c40",
+ "_parser_kept": "new parse placed 1 where the old placed 2"
+}

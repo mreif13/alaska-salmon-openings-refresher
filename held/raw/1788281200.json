@@ -1,0 +1,75 @@
+{
+ "release_id": "1788281200",
+ "title": "Port Armstrong Terminal Harvest Area Troll Fishery",
+ "published": "2026-06-24T00:00",
+ "region": "Southeast",
+ "gear": [
+  "troll"
+ ],
+ "species": "salmon",
+ "emergency_order": "1E1926",
+ "contact": "Grant Hagerman, (907) 747-6688",
+ "next_announcement": null,
+ "areas": [
+  {
+   "district": null,
+   "section": null,
+   "status": "open",
+   "period_text": "The Port Armstrong Terminal Harvest Area (THA) commercial salmon troll fishery will open for the harvest of coho, chum, pink, and sockeye salmon from 12:01 a.m., Wednesday, July 1, through 11:59 p.m., Sunday, September 20, 2026, unless closed by emergency order.",
+   "rules": [
+    {
+     "subject": "Port Armstrong THA boundary",
+     "status": "open",
+     "geometry": "line",
+     "side": "west",
+     "points": [
+      {
+       "name": "Point Eliza",
+       "lat_dm": "56°17.70′ N",
+       "lon_dm": "134°38.89′ W"
+      },
+      {
+       "name": "a point on the Baranof Island shoreline",
+       "lat_dm": "56°17.97′ N",
+       "lon_dm": "134°38.44′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "The waters of the Port Armstrong THA (statistical area 109-11) are described as the waters of Port Armstrong west of a line from Point Eliza at 56°17.70′ N lat, 134°38.89′ W long to a point on the Baranof Island shoreline at 56°17.97′ N lat, 134°38.44′ W long (Figure 1)."
+    },
+    {
+     "subject": "Closed waters north of a line",
+     "status": "closed",
+     "geometry": "line",
+     "side": "north",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": "56°17.61′ N",
+       "lon_dm": "134°40.27′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "56°17.67′ N",
+       "lon_dm": "134°39.64′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "Waters north of a line from 56°17.61′ N lat, 134°40.27′ W long, to 56°17.67′ N lat, 134°39.64′ W long are closed to commercial salmon fishing with troll gear."
+    },
+    {
+     "subject": "Chinook salmon retention",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Chinook salmon may only be retained and possessed in the THA during open Chinook salmon retention periods established for the summer troll fishery under 5 AAC 29.100(c)."
+    }
+   ]
+  }
+ ],
+ "_parser": "9d390c40",
+ "_parser_kept": "new parse would open what the old kept closed or partial: a region-wide opening",
+ "full_text": "Forrest Bowers, Acting Director\n\nDoug Vincent-Lang, Commissioner\n\nSitka Area Office 304 Lake Street Room 103 Sitka, AK 99835\n\nAdvisory Announcement For Immediate Release: June 24, 2026\n\nJuneau, AK 99811-5526\n\nCONTACT: Grant Hagerman Region I Commercial Troll Management Biologist grant.hagerman@alaska.gov (907) 747-6688\n\nPORT ARMSTRONG TERMINAL HARVEST AREA TROLL FISHERY\n\nThe Port Armstrong Terminal Harvest Area (THA) commercial salmon troll fishery will open for the harvest of coho, chum, pink, and sockeye salmon from 12:01 a.m., Wednesday, July 1, through 11:59 p.m., Sunday, September 20, 2026, unless closed by emergency order. Chinook salmon may only be retained and possessed in the THA during open Chinook salmon retention periods established for the summer troll fishery under 5 AAC 29.100(c).\n\nThe waters of the Port Armstrong THA (statistical area 109-11) are described as the waters of Port Armstrong west of a line from Point Eliza at 56°17.70′ N lat, 134°38.89′ W long to a point on the Baranof Island shoreline at 56°17.97′ N lat, 134°38.44′ W long (Figure 1).\n\nWaters north of a line from 56°17.61′ N lat, 134°40.27′ W long, to 56°17.67′ N lat, 134°39.64′ W long are closed to commercial salmon fishing with troll gear.\n\nFigure 1.–Waters of the Port Armstrong THA open to troll gear.\n\nPort Armstrong THA Troll Fishery\n\nJune 24, 2026\n\nPort Armstrong THA Troll Fishery page 2 of 2\n\nJune 24, 2026\n\nTrollers and processors are instructed to report statistical area 109-10 on fish tickets when documenting salmon harvested in the waters of Chatham Strait adjacent to the Port Armstrong THA.\n\nThe Emergency Order corresponding to this announcement is 1E1926.\n\nAdvisory Announcement web site: http://www.adfg.alaska.gov/index.cfm?adfg=cfnews.main.\n\nOffice\n\nTroll Hotline\n\nKetchikan\n\nPetersburg\n\nSitka\n\nJuneau\n\nHaines\n\nHoonah\n\nYakutat\n\n225-5195 225-5111 225-6870\n\n772-3801 772-3983\n\n747-6688 747-3254 747-8765\n\n465-4250 465-4000 465-8765\n\n766-2830\n\n784-3255\n\n945-3620"
+}

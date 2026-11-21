@@ -1,0 +1,118 @@
+{
+ "source": "2025-2028 Southeastern Alaska/Yakutat Areas Commercial Salmon Fishing Regulations",
+ "source_url": "https://www.adfg.alaska.gov/static/regulations/fishregulations/pdfs/commercial/cf_se_yakutat_salmon_regs_2025_2028.pdf",
+ "citation": "5 AAC 33.200",
+ "retrieved": "2026-08-23",
+ "notation": "degrees and decimal minutes, e.g. \"55° 29.85' N. lat.\" / \"131° 58.21' W. long.\" — NOT degrees-minutes-seconds; recorded as printed, unconverted. The codified text carries several typographic defects that are reproduced here verbatim and MUST NOT be silently corrected by the build: a comma for a decimal point in \"54° 40,00' N. lat\" (District 1), a straight double-quote for the degree sign in \"132\" 16.94' W. long.\" (District 2, Lemesurier Point), \"tine\" for \"line\" (Section 1-B), and inconsistent/absent commas after \"N. lat\".",
+ "source_note": "The named ADFG 2025-2028 SE/Yakutat PDF could not be read in full: the fetch pipeline truncates that document partway through 5 AAC 30.310 (Yakutat Area) and never reaches Chapter 33, and direct download of the PDF is blocked by this session's egress policy. The verbatim text below was therefore taken from two independent published mirrors of the codified regulation, 5 AAC 33.200: Cornell LII (https://www.law.cornell.edu/regulations/alaska/5-AAC-33.200) and Justia (https://regulations.justia.com/states/alaska/title-5/part-1/chapter-33/article-2/section-5-aac-33-200/). Each area was fetched from BOTH mirrors with differently-worded prompts and matched character for character. Because both mirrors ultimately derive from the same state codification, this is two-source agreement but not two-source independence of the underlying text; before any coordinate here is printed on a chart it should be checked against the ADFG PDF or the official AAC by a reader with direct access to the document.",
+ "areas": [
+  {
+   "kind": "district",
+   "name": "District 1",
+   "parent": null,
+   "citation": "5 AAC 33.200(a)",
+   "text": "(a) District 1: all waters east and north of a line from the southernmost tip of Caamano Point at 55° 29.85' N. lat., 131° 58.21' W. long., south to a point in Dixon Entrance District at 54° 40.00' N. lat., 131° 45.00' W. long., and waters north of a line from 54° 40,00' N. lat, 131° 45.00' W. long., then east to 54° 42.48' N. lat., 130° 36.92' W. long.;",
+   "points": [
+    {
+     "name": "southernmost tip of Caamano Point",
+     "lat_dm": "55° 29.85' N. lat.",
+     "lon_dm": "131° 58.21' W. long."
+    },
+    {
+     "name": "a point in Dixon Entrance District",
+     "lat_dm": "54° 40.00' N. lat.",
+     "lon_dm": "131° 45.00' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": "54° 40,00' N. lat",
+     "lon_dm": "131° 45.00' W. long."
+    },
+    {
+     "name": null,
+     "lat_dm": "54° 42.48' N. lat.",
+     "lon_dm": "130° 36.92' W. long."
+    }
+   ],
+   "verified_twice": true,
+   "notes": "The third point is the second point restated as the start of the next boundary leg; it is printed with a comma in place of the decimal point (\"54° 40,00'\") and is recorded exactly as printed. Read in context it is 54° 40.00' N. lat., but that reading is NOT asserted here — the build must not auto-correct it. District 1 is also bounded by reference to the Dixon Entrance District rather than by a coordinate at that leg."
+  },
+  {
+   "kind": "section",
+   "name": "Section 1-B",
+   "parent": "District 1",
+   "citation": "5 AAC 33.200(a)(2)",
+   "text": "(2) Section 1-B: all waters of the district south of Section 1-A and east and south of a line extending three nautical miles from the range marker located at Foggy Point at 54° 55.50' N. lat. 130° 58.60' W. long., to an offshore point at 54° 56.86' N. lat, 131° 03.24' W. long., and then south to intersect a line between Barren Island Light and Lord Rock Light at 54° 44.02' N. lat., 131° 03.24' W. long., then to Lord Rock Light at 54° 43.55' N. lat. 130° 49.22' W. long., and then tine south to a point in Dixon Entrance District at 54° 42.03' N. lat, 130° 49.22' W. long.",
+   "points": [
+    {
+     "name": "range marker located at Foggy Point",
+     "lat_dm": "54° 55.50' N. lat.",
+     "lon_dm": "130° 58.60' W. long."
+    },
+    {
+     "name": "an offshore point",
+     "lat_dm": "54° 56.86' N. lat",
+     "lon_dm": "131° 03.24' W. long."
+    },
+    {
+     "name": "intersection with a line between Barren Island Light and Lord Rock Light",
+     "lat_dm": "54° 44.02' N. lat.",
+     "lon_dm": "131° 03.24' W. long."
+    },
+    {
+     "name": "Lord Rock Light",
+     "lat_dm": "54° 43.55' N. lat.",
+     "lon_dm": "130° 49.22' W. long."
+    },
+    {
+     "name": "a point in Dixon Entrance District",
+     "lat_dm": "54° 42.03' N. lat",
+     "lon_dm": "130° 49.22' W. long."
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Section 1-B is defined partly by reference to Section 1-A (no coordinate) and by a line extending three nautical miles from the Foggy Point range marker — the outer end of that 3-nm line is the \"offshore point\" coordinate given. The longitude 131° 03.24' W. appears twice and 130° 49.22' W. appears twice; this is internally consistent with the two \"then south\" legs, which run along a constant meridian, and is not a transcription error."
+  },
+  {
+   "kind": "section",
+   "name": "Section 1-F",
+   "parent": "District 1",
+   "citation": "5 AAC 33.200(a)(6)",
+   "text": "(6) Section 1-F: all other waters of the district.",
+   "points": [],
+   "verified_twice": true,
+   "notes": "Residual definition — no coordinates and no landmarks are given. Section 1-F is whatever of District 1 is not captured by Sections 1-A through 1-E, so its geometry can only be derived by subtracting those sections from District 1."
+  },
+  {
+   "kind": "district",
+   "name": "District 2",
+   "parent": null,
+   "citation": "5 AAC 33.200(b)",
+   "text": "(b) District 2: all waters south of a line from the easternmost tip of Narrow Point at 55° 47.00' N. lat., 132° 28.23' W. long., to Lemesurier Point at 55° 46.02' N. lat., 132\" 16.94' W. long., west of District 1 and east of a line from Point Marsh Light at 54° 42.70' N. lat., 132° 17.72' W. long., then due south to a point in Dixon Entrance at 54° 40.00' N. lat, 132° 17.50' W. long.",
+   "points": [
+    {
+     "name": "easternmost tip of Narrow Point",
+     "lat_dm": "55° 47.00' N. lat.",
+     "lon_dm": "132° 28.23' W. long."
+    },
+    {
+     "name": "Lemesurier Point",
+     "lat_dm": "55° 46.02' N. lat.",
+     "lon_dm": "132\" 16.94' W. long."
+    },
+    {
+     "name": "Point Marsh Light",
+     "lat_dm": "54° 42.70' N. lat.",
+     "lon_dm": "132° 17.72' W. long."
+    },
+    {
+     "name": "a point in Dixon Entrance",
+     "lat_dm": "54° 40.00' N. lat",
+     "lon_dm": "132° 17.50' W. long."
+    }
+   ],
+   "verified_twice": true,
+   "notes": "The Lemesurier Point longitude is printed with a straight double-quote where the degree sign belongs (\"132\" 16.94'\"); recorded as printed. District 2's eastern boundary is given as \"west of District 1\" — a cross-reference, not a coordinate."
+  }
+ ]
+}

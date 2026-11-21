@@ -1,0 +1,1392 @@
+{
+ "release_id": "1827718207",
+ "title": "2026 Yukon River Salmon Fall Fishery Announcement #12 / Fall Update #5, Yukon Area Salmon Fishery",
+ "published": "2026-08-18T16:00",
+ "region": "Yukon",
+ "gear": [
+  "gillnet",
+  "set gillnet",
+  "fish wheel",
+  "hook and line with a rod or pole",
+  "dip net",
+  "beach seine",
+  "hand line",
+  "longline",
+  "fyke net"
+ ],
+ "species": "salmon",
+ "emergency_order": null,
+ "contact": "Matt Olson, Area Management Biologist; Bonnie Borba, Fall Season Research Biologist; 1-907-459-7274 (Fairbanks); 1-907-949-1320 (Emmonak)",
+ "next_announcement": "Assessment project and management updates will be published in weekly Advisory Announcements (Updates).",
+ "areas": [
+  {
+   "district": "Coastal District",
+   "section": null,
+   "status": "partial",
+   "period_text": "Subsistence fishing for Chinook, chum, and coho salmon is closed and these salmon species must be released alive. Fishing for nonsalmon remains open 24 hours a day, seven days per week with nonlethal or selective gear types including manned fish wheels, hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net.",
+   "rules": [
+    {
+     "subject": "grouped area boundary listing including Coastal District",
+     "status": "closed",
+     "geometry": "river_reach",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Coastal District, District 1, District 2, District 3, District 4, Subdistrict 4-A Upper, Subdistrict 4-B, Subdistrict 4-C, Subdistrict 5-A, Subdistrict 5-B, Subdistrict 5-C, Subdistrict 5-D Lower, Subdistrict 5-D Middle, Subdistrict 5-D Upper, Subdistrict 6-A, Subdistrict 6-B, and the Porcupine River (from the Naskonat Peninsula, north to Point Romanof, upstream to the U.S./Canada border, and from the mouth of the Tanana River upstream to the Wood River, including the Kantishna River Drainage, snd the communities of Chevak, Hooper Bay, Scammon Bay, Emmonak, Nunam Iqua, Alakanuk, Kotlik, Mountain Village, Pitkas Point, St. Mary's, Pilot Station, Marshall, Russian Mission, Holy Cross, Grayling, Anvik, Kaltag, Nulato, Koyukuk, Galena, Ruby, Tanana, Rampart, Stevens Village, Beaver, Venetie, Chalkyitsik, Birch Creek, Fort Yukon, Circle, Eagle, Lake Minchumina, Manley, Minto, and Nenana):"
+    },
+    {
+     "subject": "Chinook, chum, and coho salmon subsistence fishing in Coastal District",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Subsistence fishing for Chinook, chum, and coho salmon is closed and these salmon species must be released alive."
+    },
+    {
+     "subject": "nonsalmon subsistence fishing in Coastal District (nonlethal/selective gear)",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Fishing for nonsalmon remains open 24 hours a day, seven days per week with nonlethal or selective gear types including manned fish wheels, hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net."
+    },
+    {
+     "subject": "pink and sockeye salmon in Coastal District",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Pink and sockeye salmon may be retained."
+    },
+    {
+     "subject": "nonsalmon gear limitation, Coastal District",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Fishing for nonsalmon remains open, but it is limited to non-lethal or selective gear types including hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net."
+    },
+    {
+     "subject": "4-inch or smaller mesh gillnet nonsalmon opportunity, districtwide",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Gillnets of 4-inch or smaller mesh may be used to target nonsalmon from noon Thursdays, through noon Sundays. Nets are restricted to 60-feet or less in length and must be operated as a set net near shore."
+    }
+   ]
+  },
+  {
+   "district": "District 1",
+   "section": null,
+   "status": "partial",
+   "period_text": "Subsistence fishing for Chinook, chum, and coho salmon is closed and these salmon species must be released alive. Fishing for nonsalmon remains open 24 hours a day, seven days per week with nonlethal or selective gear types including manned fish wheels, hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net.",
+   "rules": [
+    {
+     "subject": "grouped area boundary listing including District 1",
+     "status": "closed",
+     "geometry": "river_reach",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Coastal District, District 1, District 2, District 3, District 4, Subdistrict 4-A Upper, Subdistrict 4-B, Subdistrict 4-C, Subdistrict 5-A, Subdistrict 5-B, Subdistrict 5-C, Subdistrict 5-D Lower, Subdistrict 5-D Middle, Subdistrict 5-D Upper, Subdistrict 6-A, Subdistrict 6-B, and the Porcupine River (from the Naskonat Peninsula, north to Point Romanof, upstream to the U.S./Canada border, and from the mouth of the Tanana River upstream to the Wood River, including the Kantishna River Drainage, snd the communities of Chevak, Hooper Bay, Scammon Bay, Emmonak, Nunam Iqua, Alakanuk, Kotlik, Mountain Village, Pitkas Point, St. Mary's, Pilot Station, Marshall, Russian Mission, Holy Cross, Grayling, Anvik, Kaltag, Nulato, Koyukuk, Galena, Ruby, Tanana, Rampart, Stevens Village, Beaver, Venetie, Chalkyitsik, Birch Creek, Fort Yukon, Circle, Eagle, Lake Minchumina, Manley, Minto, and Nenana):"
+    },
+    {
+     "subject": "Chinook, chum, and coho salmon subsistence fishing in District 1",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Subsistence fishing for Chinook, chum, and coho salmon is closed and these salmon species must be released alive."
+    },
+    {
+     "subject": "nonsalmon subsistence fishing in District 1 (nonlethal/selective gear)",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Fishing for nonsalmon remains open 24 hours a day, seven days per week with nonlethal or selective gear types including manned fish wheels, hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net."
+    },
+    {
+     "subject": "pink and sockeye salmon in District 1",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Pink and sockeye salmon may be retained."
+    },
+    {
+     "subject": "nonsalmon gear limitation, District 1",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Fishing for nonsalmon remains open, but it is limited to non-lethal or selective gear types including hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net."
+    },
+    {
+     "subject": "4-inch or smaller mesh gillnet nonsalmon opportunity, districtwide",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Gillnets of 4-inch or smaller mesh may be used to target nonsalmon from noon Thursdays, through noon Sundays. Nets are restricted to 60-feet or less in length and must be operated as a set net near shore."
+    }
+   ]
+  },
+  {
+   "district": "District 2",
+   "section": null,
+   "status": "partial",
+   "period_text": "Subsistence fishing for Chinook, chum, and coho salmon is closed and these salmon species must be released alive. Fishing for nonsalmon remains open 24 hours a day, seven days per week with nonlethal or selective gear types including manned fish wheels, hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net.",
+   "rules": [
+    {
+     "subject": "grouped area boundary listing including District 2",
+     "status": "closed",
+     "geometry": "river_reach",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Coastal District, District 1, District 2, District 3, District 4, Subdistrict 4-A Upper, Subdistrict 4-B, Subdistrict 4-C, Subdistrict 5-A, Subdistrict 5-B, Subdistrict 5-C, Subdistrict 5-D Lower, Subdistrict 5-D Middle, Subdistrict 5-D Upper, Subdistrict 6-A, Subdistrict 6-B, and the Porcupine River (from the Naskonat Peninsula, north to Point Romanof, upstream to the U.S./Canada border, and from the mouth of the Tanana River upstream to the Wood River, including the Kantishna River Drainage, snd the communities of Chevak, Hooper Bay, Scammon Bay, Emmonak, Nunam Iqua, Alakanuk, Kotlik, Mountain Village, Pitkas Point, St. Mary's, Pilot Station, Marshall, Russian Mission, Holy Cross, Grayling, Anvik, Kaltag, Nulato, Koyukuk, Galena, Ruby, Tanana, Rampart, Stevens Village, Beaver, Venetie, Chalkyitsik, Birch Creek, Fort Yukon, Circle, Eagle, Lake Minchumina, Manley, Minto, and Nenana):"
+    },
+    {
+     "subject": "Chinook, chum, and coho salmon subsistence fishing in District 2",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Subsistence fishing for Chinook, chum, and coho salmon is closed and these salmon species must be released alive."
+    },
+    {
+     "subject": "nonsalmon subsistence fishing in District 2 (nonlethal/selective gear)",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Fishing for nonsalmon remains open 24 hours a day, seven days per week with nonlethal or selective gear types including manned fish wheels, hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net."
+    },
+    {
+     "subject": "pink and sockeye salmon in District 2",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Pink and sockeye salmon may be retained."
+    },
+    {
+     "subject": "nonsalmon gear limitation, District 2",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Fishing for nonsalmon remains open, but it is limited to non-lethal or selective gear types including hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net."
+    },
+    {
+     "subject": "4-inch or smaller mesh gillnet nonsalmon opportunity, districtwide",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Gillnets of 4-inch or smaller mesh may be used to target nonsalmon from noon Thursdays, through noon Sundays. Nets are restricted to 60-feet or less in length and must be operated as a set net near shore."
+    }
+   ]
+  },
+  {
+   "district": "District 3",
+   "section": null,
+   "status": "partial",
+   "period_text": "Subsistence fishing for Chinook, chum, and coho salmon is closed and these salmon species must be released alive. Fishing for nonsalmon remains open 24 hours a day, seven days per week with nonlethal or selective gear types including manned fish wheels, hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net.",
+   "rules": [
+    {
+     "subject": "grouped area boundary listing including District 3",
+     "status": "closed",
+     "geometry": "river_reach",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Coastal District, District 1, District 2, District 3, District 4, Subdistrict 4-A Upper, Subdistrict 4-B, Subdistrict 4-C, Subdistrict 5-A, Subdistrict 5-B, Subdistrict 5-C, Subdistrict 5-D Lower, Subdistrict 5-D Middle, Subdistrict 5-D Upper, Subdistrict 6-A, Subdistrict 6-B, and the Porcupine River (from the Naskonat Peninsula, north to Point Romanof, upstream to the U.S./Canada border, and from the mouth of the Tanana River upstream to the Wood River, including the Kantishna River Drainage, snd the communities of Chevak, Hooper Bay, Scammon Bay, Emmonak, Nunam Iqua, Alakanuk, Kotlik, Mountain Village, Pitkas Point, St. Mary's, Pilot Station, Marshall, Russian Mission, Holy Cross, Grayling, Anvik, Kaltag, Nulato, Koyukuk, Galena, Ruby, Tanana, Rampart, Stevens Village, Beaver, Venetie, Chalkyitsik, Birch Creek, Fort Yukon, Circle, Eagle, Lake Minchumina, Manley, Minto, and Nenana):"
+    },
+    {
+     "subject": "Chinook, chum, and coho salmon subsistence fishing in District 3",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Subsistence fishing for Chinook, chum, and coho salmon is closed and these salmon species must be released alive."
+    },
+    {
+     "subject": "nonsalmon subsistence fishing in District 3 (nonlethal/selective gear)",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Fishing for nonsalmon remains open 24 hours a day, seven days per week with nonlethal or selective gear types including manned fish wheels, hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net."
+    },
+    {
+     "subject": "pink and sockeye salmon in District 3",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Pink and sockeye salmon may be retained."
+    },
+    {
+     "subject": "nonsalmon gear limitation, District 3",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Fishing for nonsalmon remains open, but it is limited to non-lethal or selective gear types including hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net."
+    },
+    {
+     "subject": "4-inch or smaller mesh gillnet nonsalmon opportunity, districtwide",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Gillnets of 4-inch or smaller mesh may be used to target nonsalmon from noon Thursdays, through noon Sundays. Nets are restricted to 60-feet or less in length and must be operated as a set net near shore."
+    }
+   ]
+  },
+  {
+   "district": "District 4",
+   "section": null,
+   "status": "partial",
+   "period_text": "Subsistence fishing for Chinook, chum, and coho salmon is closed and these salmon species must be released alive. Fishing for nonsalmon remains open 24 hours a day, seven days per week with nonlethal or selective gear types including manned fish wheels, hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net.",
+   "rules": [
+    {
+     "subject": "grouped area boundary listing including District 4",
+     "status": "closed",
+     "geometry": "river_reach",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Coastal District, District 1, District 2, District 3, District 4, Subdistrict 4-A Upper, Subdistrict 4-B, Subdistrict 4-C, Subdistrict 5-A, Subdistrict 5-B, Subdistrict 5-C, Subdistrict 5-D Lower, Subdistrict 5-D Middle, Subdistrict 5-D Upper, Subdistrict 6-A, Subdistrict 6-B, and the Porcupine River (from the Naskonat Peninsula, north to Point Romanof, upstream to the U.S./Canada border, and from the mouth of the Tanana River upstream to the Wood River, including the Kantishna River Drainage, snd the communities of Chevak, Hooper Bay, Scammon Bay, Emmonak, Nunam Iqua, Alakanuk, Kotlik, Mountain Village, Pitkas Point, St. Mary's, Pilot Station, Marshall, Russian Mission, Holy Cross, Grayling, Anvik, Kaltag, Nulato, Koyukuk, Galena, Ruby, Tanana, Rampart, Stevens Village, Beaver, Venetie, Chalkyitsik, Birch Creek, Fort Yukon, Circle, Eagle, Lake Minchumina, Manley, Minto, and Nenana):"
+    },
+    {
+     "subject": "Chinook, chum, and coho salmon subsistence fishing in District 4",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Subsistence fishing for Chinook, chum, and coho salmon is closed and these salmon species must be released alive."
+    },
+    {
+     "subject": "nonsalmon subsistence fishing in District 4 (nonlethal/selective gear)",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Fishing for nonsalmon remains open 24 hours a day, seven days per week with nonlethal or selective gear types including manned fish wheels, hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net."
+    },
+    {
+     "subject": "pink and sockeye salmon in District 4",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Pink and sockeye salmon may be retained."
+    },
+    {
+     "subject": "nonsalmon gear limitation, District 4",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Fishing for nonsalmon remains open, but it is limited to non-lethal or selective gear types including hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net."
+    },
+    {
+     "subject": "4-inch or smaller mesh gillnet nonsalmon opportunity, districtwide",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Gillnets of 4-inch or smaller mesh may be used to target nonsalmon from noon Thursdays, through noon Sundays. Nets are restricted to 60-feet or less in length and must be operated as a set net near shore."
+    }
+   ]
+  },
+  {
+   "district": "Subdistrict 4-A Upper",
+   "section": null,
+   "status": "partial",
+   "period_text": "Subsistence fishing for Chinook, chum, and coho salmon is closed and these salmon species must be released alive. Fishing for nonsalmon remains open 24 hours a day, seven days per week with nonlethal or selective gear types including manned fish wheels, hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net.",
+   "rules": [
+    {
+     "subject": "grouped area boundary listing including Subdistrict 4-A Upper",
+     "status": "closed",
+     "geometry": "river_reach",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Coastal District, District 1, District 2, District 3, District 4, Subdistrict 4-A Upper, Subdistrict 4-B, Subdistrict 4-C, Subdistrict 5-A, Subdistrict 5-B, Subdistrict 5-C, Subdistrict 5-D Lower, Subdistrict 5-D Middle, Subdistrict 5-D Upper, Subdistrict 6-A, Subdistrict 6-B, and the Porcupine River (from the Naskonat Peninsula, north to Point Romanof, upstream to the U.S./Canada border, and from the mouth of the Tanana River upstream to the Wood River, including the Kantishna River Drainage, snd the communities of Chevak, Hooper Bay, Scammon Bay, Emmonak, Nunam Iqua, Alakanuk, Kotlik, Mountain Village, Pitkas Point, St. Mary's, Pilot Station, Marshall, Russian Mission, Holy Cross, Grayling, Anvik, Kaltag, Nulato, Koyukuk, Galena, Ruby, Tanana, Rampart, Stevens Village, Beaver, Venetie, Chalkyitsik, Birch Creek, Fort Yukon, Circle, Eagle, Lake Minchumina, Manley, Minto, and Nenana):"
+    },
+    {
+     "subject": "Chinook, chum, and coho salmon subsistence fishing in Subdistrict 4-A Upper",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Subsistence fishing for Chinook, chum, and coho salmon is closed and these salmon species must be released alive."
+    },
+    {
+     "subject": "nonsalmon subsistence fishing in Subdistrict 4-A Upper (nonlethal/selective gear)",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Fishing for nonsalmon remains open 24 hours a day, seven days per week with nonlethal or selective gear types including manned fish wheels, hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net."
+    },
+    {
+     "subject": "pink and sockeye salmon in Subdistrict 4-A Upper",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Pink and sockeye salmon may be retained."
+    },
+    {
+     "subject": "nonsalmon gear limitation, Subdistrict 4-A Upper",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Fishing for nonsalmon remains open, but it is limited to non-lethal or selective gear types including hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net."
+    },
+    {
+     "subject": "4-inch or smaller mesh gillnet nonsalmon opportunity, districtwide",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Gillnets of 4-inch or smaller mesh may be used to target nonsalmon from noon Thursdays, through noon Sundays. Nets are restricted to 60-feet or less in length and must be operated as a set net near shore."
+    }
+   ]
+  },
+  {
+   "district": "Subdistrict 4-B",
+   "section": null,
+   "status": "partial",
+   "period_text": "Subsistence fishing for Chinook, chum, and coho salmon is closed and these salmon species must be released alive. Fishing for nonsalmon remains open 24 hours a day, seven days per week with nonlethal or selective gear types including manned fish wheels, hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net.",
+   "rules": [
+    {
+     "subject": "grouped area boundary listing including Subdistrict 4-B",
+     "status": "closed",
+     "geometry": "river_reach",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Coastal District, District 1, District 2, District 3, District 4, Subdistrict 4-A Upper, Subdistrict 4-B, Subdistrict 4-C, Subdistrict 5-A, Subdistrict 5-B, Subdistrict 5-C, Subdistrict 5-D Lower, Subdistrict 5-D Middle, Subdistrict 5-D Upper, Subdistrict 6-A, Subdistrict 6-B, and the Porcupine River (from the Naskonat Peninsula, north to Point Romanof, upstream to the U.S./Canada border, and from the mouth of the Tanana River upstream to the Wood River, including the Kantishna River Drainage, snd the communities of Chevak, Hooper Bay, Scammon Bay, Emmonak, Nunam Iqua, Alakanuk, Kotlik, Mountain Village, Pitkas Point, St. Mary's, Pilot Station, Marshall, Russian Mission, Holy Cross, Grayling, Anvik, Kaltag, Nulato, Koyukuk, Galena, Ruby, Tanana, Rampart, Stevens Village, Beaver, Venetie, Chalkyitsik, Birch Creek, Fort Yukon, Circle, Eagle, Lake Minchumina, Manley, Minto, and Nenana):"
+    },
+    {
+     "subject": "Chinook, chum, and coho salmon subsistence fishing in Subdistrict 4-B",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Subsistence fishing for Chinook, chum, and coho salmon is closed and these salmon species must be released alive."
+    },
+    {
+     "subject": "nonsalmon subsistence fishing in Subdistrict 4-B (nonlethal/selective gear)",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Fishing for nonsalmon remains open 24 hours a day, seven days per week with nonlethal or selective gear types including manned fish wheels, hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net."
+    },
+    {
+     "subject": "pink and sockeye salmon in Subdistrict 4-B",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Pink and sockeye salmon may be retained."
+    },
+    {
+     "subject": "nonsalmon gear limitation, Subdistrict 4-B",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Fishing for nonsalmon remains open, but it is limited to non-lethal or selective gear types including hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net."
+    },
+    {
+     "subject": "4-inch or smaller mesh gillnet nonsalmon opportunity, districtwide",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Gillnets of 4-inch or smaller mesh may be used to target nonsalmon from noon Thursdays, through noon Sundays. Nets are restricted to 60-feet or less in length and must be operated as a set net near shore."
+    }
+   ]
+  },
+  {
+   "district": "Subdistrict 4-C",
+   "section": null,
+   "status": "partial",
+   "period_text": "Subsistence fishing for Chinook, chum, and coho salmon is closed and these salmon species must be released alive. Fishing for nonsalmon remains open 24 hours a day, seven days per week with nonlethal or selective gear types including manned fish wheels, hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net.",
+   "rules": [
+    {
+     "subject": "grouped area boundary listing including Subdistrict 4-C",
+     "status": "closed",
+     "geometry": "river_reach",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Coastal District, District 1, District 2, District 3, District 4, Subdistrict 4-A Upper, Subdistrict 4-B, Subdistrict 4-C, Subdistrict 5-A, Subdistrict 5-B, Subdistrict 5-C, Subdistrict 5-D Lower, Subdistrict 5-D Middle, Subdistrict 5-D Upper, Subdistrict 6-A, Subdistrict 6-B, and the Porcupine River (from the Naskonat Peninsula, north to Point Romanof, upstream to the U.S./Canada border, and from the mouth of the Tanana River upstream to the Wood River, including the Kantishna River Drainage, snd the communities of Chevak, Hooper Bay, Scammon Bay, Emmonak, Nunam Iqua, Alakanuk, Kotlik, Mountain Village, Pitkas Point, St. Mary's, Pilot Station, Marshall, Russian Mission, Holy Cross, Grayling, Anvik, Kaltag, Nulato, Koyukuk, Galena, Ruby, Tanana, Rampart, Stevens Village, Beaver, Venetie, Chalkyitsik, Birch Creek, Fort Yukon, Circle, Eagle, Lake Minchumina, Manley, Minto, and Nenana):"
+    },
+    {
+     "subject": "Chinook, chum, and coho salmon subsistence fishing in Subdistrict 4-C",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Subsistence fishing for Chinook, chum, and coho salmon is closed and these salmon species must be released alive."
+    },
+    {
+     "subject": "nonsalmon subsistence fishing in Subdistrict 4-C (nonlethal/selective gear)",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Fishing for nonsalmon remains open 24 hours a day, seven days per week with nonlethal or selective gear types including manned fish wheels, hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net."
+    },
+    {
+     "subject": "pink and sockeye salmon in Subdistrict 4-C",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Pink and sockeye salmon may be retained."
+    },
+    {
+     "subject": "nonsalmon gear limitation, Subdistrict 4-C",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Fishing for nonsalmon remains open, but it is limited to non-lethal or selective gear types including hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net."
+    },
+    {
+     "subject": "4-inch or smaller mesh gillnet nonsalmon opportunity, districtwide",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Gillnets of 4-inch or smaller mesh may be used to target nonsalmon from noon Thursdays, through noon Sundays. Nets are restricted to 60-feet or less in length and must be operated as a set net near shore."
+    }
+   ]
+  },
+  {
+   "district": "Subdistrict 5-A",
+   "section": null,
+   "status": "partial",
+   "period_text": "Subsistence fishing for Chinook, chum, and coho salmon is closed and these salmon species must be released alive. Fishing for nonsalmon remains open 24 hours a day, seven days per week with nonlethal or selective gear types including manned fish wheels, hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net.",
+   "rules": [
+    {
+     "subject": "grouped area boundary listing including Subdistrict 5-A",
+     "status": "closed",
+     "geometry": "river_reach",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Coastal District, District 1, District 2, District 3, District 4, Subdistrict 4-A Upper, Subdistrict 4-B, Subdistrict 4-C, Subdistrict 5-A, Subdistrict 5-B, Subdistrict 5-C, Subdistrict 5-D Lower, Subdistrict 5-D Middle, Subdistrict 5-D Upper, Subdistrict 6-A, Subdistrict 6-B, and the Porcupine River (from the Naskonat Peninsula, north to Point Romanof, upstream to the U.S./Canada border, and from the mouth of the Tanana River upstream to the Wood River, including the Kantishna River Drainage, snd the communities of Chevak, Hooper Bay, Scammon Bay, Emmonak, Nunam Iqua, Alakanuk, Kotlik, Mountain Village, Pitkas Point, St. Mary's, Pilot Station, Marshall, Russian Mission, Holy Cross, Grayling, Anvik, Kaltag, Nulato, Koyukuk, Galena, Ruby, Tanana, Rampart, Stevens Village, Beaver, Venetie, Chalkyitsik, Birch Creek, Fort Yukon, Circle, Eagle, Lake Minchumina, Manley, Minto, and Nenana):"
+    },
+    {
+     "subject": "Chinook, chum, and coho salmon subsistence fishing in Subdistrict 5-A",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Subsistence fishing for Chinook, chum, and coho salmon is closed and these salmon species must be released alive."
+    },
+    {
+     "subject": "nonsalmon subsistence fishing in Subdistrict 5-A (nonlethal/selective gear)",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Fishing for nonsalmon remains open 24 hours a day, seven days per week with nonlethal or selective gear types including manned fish wheels, hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net."
+    },
+    {
+     "subject": "pink and sockeye salmon in Subdistrict 5-A",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Pink and sockeye salmon may be retained."
+    },
+    {
+     "subject": "nonsalmon gear limitation, Subdistrict 5-A",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Fishing for nonsalmon remains open, but it is limited to non-lethal or selective gear types including hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net."
+    },
+    {
+     "subject": "4-inch or smaller mesh gillnet nonsalmon opportunity, districtwide",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Gillnets of 4-inch or smaller mesh may be used to target nonsalmon from noon Thursdays, through noon Sundays. Nets are restricted to 60-feet or less in length and must be operated as a set net near shore."
+    }
+   ]
+  },
+  {
+   "district": "Subdistrict 5-B",
+   "section": null,
+   "status": "partial",
+   "period_text": "Subsistence fishing for Chinook, chum, and coho salmon is closed and these salmon species must be released alive. Fishing for nonsalmon remains open 24 hours a day, seven days per week with nonlethal or selective gear types including manned fish wheels, hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net.",
+   "rules": [
+    {
+     "subject": "grouped area boundary listing including Subdistrict 5-B",
+     "status": "closed",
+     "geometry": "river_reach",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Coastal District, District 1, District 2, District 3, District 4, Subdistrict 4-A Upper, Subdistrict 4-B, Subdistrict 4-C, Subdistrict 5-A, Subdistrict 5-B, Subdistrict 5-C, Subdistrict 5-D Lower, Subdistrict 5-D Middle, Subdistrict 5-D Upper, Subdistrict 6-A, Subdistrict 6-B, and the Porcupine River (from the Naskonat Peninsula, north to Point Romanof, upstream to the U.S./Canada border, and from the mouth of the Tanana River upstream to the Wood River, including the Kantishna River Drainage, snd the communities of Chevak, Hooper Bay, Scammon Bay, Emmonak, Nunam Iqua, Alakanuk, Kotlik, Mountain Village, Pitkas Point, St. Mary's, Pilot Station, Marshall, Russian Mission, Holy Cross, Grayling, Anvik, Kaltag, Nulato, Koyukuk, Galena, Ruby, Tanana, Rampart, Stevens Village, Beaver, Venetie, Chalkyitsik, Birch Creek, Fort Yukon, Circle, Eagle, Lake Minchumina, Manley, Minto, and Nenana):"
+    },
+    {
+     "subject": "Chinook, chum, and coho salmon subsistence fishing in Subdistrict 5-B",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Subsistence fishing for Chinook, chum, and coho salmon is closed and these salmon species must be released alive."
+    },
+    {
+     "subject": "nonsalmon subsistence fishing in Subdistrict 5-B (nonlethal/selective gear)",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Fishing for nonsalmon remains open 24 hours a day, seven days per week with nonlethal or selective gear types including manned fish wheels, hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net."
+    },
+    {
+     "subject": "pink and sockeye salmon in Subdistrict 5-B",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Pink and sockeye salmon may be retained."
+    },
+    {
+     "subject": "nonsalmon gear limitation, Subdistrict 5-B",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Fishing for nonsalmon remains open, but it is limited to non-lethal or selective gear types including hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net."
+    },
+    {
+     "subject": "4-inch or smaller mesh gillnet nonsalmon opportunity, districtwide",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Gillnets of 4-inch or smaller mesh may be used to target nonsalmon from noon Thursdays, through noon Sundays. Nets are restricted to 60-feet or less in length and must be operated as a set net near shore."
+    }
+   ]
+  },
+  {
+   "district": "Subdistrict 5-C",
+   "section": null,
+   "status": "partial",
+   "period_text": "Subsistence fishing for Chinook, chum, and coho salmon is closed and these salmon species must be released alive. Fishing for nonsalmon remains open 24 hours a day, seven days per week with nonlethal or selective gear types including manned fish wheels, hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net.",
+   "rules": [
+    {
+     "subject": "grouped area boundary listing including Subdistrict 5-C",
+     "status": "closed",
+     "geometry": "river_reach",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Coastal District, District 1, District 2, District 3, District 4, Subdistrict 4-A Upper, Subdistrict 4-B, Subdistrict 4-C, Subdistrict 5-A, Subdistrict 5-B, Subdistrict 5-C, Subdistrict 5-D Lower, Subdistrict 5-D Middle, Subdistrict 5-D Upper, Subdistrict 6-A, Subdistrict 6-B, and the Porcupine River (from the Naskonat Peninsula, north to Point Romanof, upstream to the U.S./Canada border, and from the mouth of the Tanana River upstream to the Wood River, including the Kantishna River Drainage, snd the communities of Chevak, Hooper Bay, Scammon Bay, Emmonak, Nunam Iqua, Alakanuk, Kotlik, Mountain Village, Pitkas Point, St. Mary's, Pilot Station, Marshall, Russian Mission, Holy Cross, Grayling, Anvik, Kaltag, Nulato, Koyukuk, Galena, Ruby, Tanana, Rampart, Stevens Village, Beaver, Venetie, Chalkyitsik, Birch Creek, Fort Yukon, Circle, Eagle, Lake Minchumina, Manley, Minto, and Nenana):"
+    },
+    {
+     "subject": "Chinook, chum, and coho salmon subsistence fishing in Subdistrict 5-C",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Subsistence fishing for Chinook, chum, and coho salmon is closed and these salmon species must be released alive."
+    },
+    {
+     "subject": "nonsalmon subsistence fishing in Subdistrict 5-C (nonlethal/selective gear)",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Fishing for nonsalmon remains open 24 hours a day, seven days per week with nonlethal or selective gear types including manned fish wheels, hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net."
+    },
+    {
+     "subject": "pink and sockeye salmon in Subdistrict 5-C",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Pink and sockeye salmon may be retained."
+    },
+    {
+     "subject": "nonsalmon gear limitation, Subdistrict 5-C",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Fishing for nonsalmon remains open, but it is limited to non-lethal or selective gear types including hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net."
+    },
+    {
+     "subject": "4-inch or smaller mesh gillnet nonsalmon opportunity, districtwide",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Gillnets of 4-inch or smaller mesh may be used to target nonsalmon from noon Thursdays, through noon Sundays. Nets are restricted to 60-feet or less in length and must be operated as a set net near shore."
+    }
+   ]
+  },
+  {
+   "district": "Subdistrict 5-D Lower",
+   "section": null,
+   "status": "partial",
+   "period_text": "Subsistence fishing for Chinook, chum, and coho salmon is closed and these salmon species must be released alive. Fishing for nonsalmon remains open 24 hours a day, seven days per week with nonlethal or selective gear types including manned fish wheels, hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net.",
+   "rules": [
+    {
+     "subject": "grouped area boundary listing including Subdistrict 5-D Lower",
+     "status": "closed",
+     "geometry": "river_reach",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Coastal District, District 1, District 2, District 3, District 4, Subdistrict 4-A Upper, Subdistrict 4-B, Subdistrict 4-C, Subdistrict 5-A, Subdistrict 5-B, Subdistrict 5-C, Subdistrict 5-D Lower, Subdistrict 5-D Middle, Subdistrict 5-D Upper, Subdistrict 6-A, Subdistrict 6-B, and the Porcupine River (from the Naskonat Peninsula, north to Point Romanof, upstream to the U.S./Canada border, and from the mouth of the Tanana River upstream to the Wood River, including the Kantishna River Drainage, snd the communities of Chevak, Hooper Bay, Scammon Bay, Emmonak, Nunam Iqua, Alakanuk, Kotlik, Mountain Village, Pitkas Point, St. Mary's, Pilot Station, Marshall, Russian Mission, Holy Cross, Grayling, Anvik, Kaltag, Nulato, Koyukuk, Galena, Ruby, Tanana, Rampart, Stevens Village, Beaver, Venetie, Chalkyitsik, Birch Creek, Fort Yukon, Circle, Eagle, Lake Minchumina, Manley, Minto, and Nenana):"
+    },
+    {
+     "subject": "Chinook, chum, and coho salmon subsistence fishing in Subdistrict 5-D Lower",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Subsistence fishing for Chinook, chum, and coho salmon is closed and these salmon species must be released alive."
+    },
+    {
+     "subject": "nonsalmon subsistence fishing in Subdistrict 5-D Lower (nonlethal/selective gear)",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Fishing for nonsalmon remains open 24 hours a day, seven days per week with nonlethal or selective gear types including manned fish wheels, hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net."
+    },
+    {
+     "subject": "pink and sockeye salmon in Subdistrict 5-D Lower",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Pink and sockeye salmon may be retained."
+    },
+    {
+     "subject": "nonsalmon gear limitation, Subdistrict 5-D Lower",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Fishing for nonsalmon remains open, but it is limited to non-lethal or selective gear types including hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net."
+    },
+    {
+     "subject": "4-inch or smaller mesh gillnet nonsalmon opportunity, districtwide",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Gillnets of 4-inch or smaller mesh may be used to target nonsalmon from noon Thursdays, through noon Sundays. Nets are restricted to 60-feet or less in length and must be operated as a set net near shore."
+    }
+   ]
+  },
+  {
+   "district": "Subdistrict 5-D Middle",
+   "section": null,
+   "status": "partial",
+   "period_text": "Subsistence fishing for Chinook, chum, and coho salmon is closed and these salmon species must be released alive. Fishing for nonsalmon remains open 24 hours a day, seven days per week with nonlethal or selective gear types including manned fish wheels, hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net.",
+   "rules": [
+    {
+     "subject": "grouped area boundary listing including Subdistrict 5-D Middle",
+     "status": "closed",
+     "geometry": "river_reach",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Coastal District, District 1, District 2, District 3, District 4, Subdistrict 4-A Upper, Subdistrict 4-B, Subdistrict 4-C, Subdistrict 5-A, Subdistrict 5-B, Subdistrict 5-C, Subdistrict 5-D Lower, Subdistrict 5-D Middle, Subdistrict 5-D Upper, Subdistrict 6-A, Subdistrict 6-B, and the Porcupine River (from the Naskonat Peninsula, north to Point Romanof, upstream to the U.S./Canada border, and from the mouth of the Tanana River upstream to the Wood River, including the Kantishna River Drainage, snd the communities of Chevak, Hooper Bay, Scammon Bay, Emmonak, Nunam Iqua, Alakanuk, Kotlik, Mountain Village, Pitkas Point, St. Mary's, Pilot Station, Marshall, Russian Mission, Holy Cross, Grayling, Anvik, Kaltag, Nulato, Koyukuk, Galena, Ruby, Tanana, Rampart, Stevens Village, Beaver, Venetie, Chalkyitsik, Birch Creek, Fort Yukon, Circle, Eagle, Lake Minchumina, Manley, Minto, and Nenana):"
+    },
+    {
+     "subject": "Chinook, chum, and coho salmon subsistence fishing in Subdistrict 5-D Middle",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Subsistence fishing for Chinook, chum, and coho salmon is closed and these salmon species must be released alive."
+    },
+    {
+     "subject": "nonsalmon subsistence fishing in Subdistrict 5-D Middle (nonlethal/selective gear)",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Fishing for nonsalmon remains open 24 hours a day, seven days per week with nonlethal or selective gear types including manned fish wheels, hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net."
+    },
+    {
+     "subject": "pink and sockeye salmon in Subdistrict 5-D Middle",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Pink and sockeye salmon may be retained."
+    },
+    {
+     "subject": "nonsalmon gear limitation, Subdistrict 5-D Middle",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Fishing for nonsalmon remains open, but it is limited to non-lethal or selective gear types including hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net."
+    },
+    {
+     "subject": "4-inch or smaller mesh gillnet nonsalmon opportunity, districtwide",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Gillnets of 4-inch or smaller mesh may be used to target nonsalmon from noon Thursdays, through noon Sundays. Nets are restricted to 60-feet or less in length and must be operated as a set net near shore."
+    }
+   ]
+  },
+  {
+   "district": "Subdistrict 5-D Upper",
+   "section": null,
+   "status": "partial",
+   "period_text": "Subsistence fishing for Chinook, chum, and coho salmon is closed and these salmon species must be released alive. Fishing for nonsalmon remains open 24 hours a day, seven days per week with nonlethal or selective gear types including manned fish wheels, hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net.",
+   "rules": [
+    {
+     "subject": "grouped area boundary listing including Subdistrict 5-D Upper",
+     "status": "closed",
+     "geometry": "river_reach",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Coastal District, District 1, District 2, District 3, District 4, Subdistrict 4-A Upper, Subdistrict 4-B, Subdistrict 4-C, Subdistrict 5-A, Subdistrict 5-B, Subdistrict 5-C, Subdistrict 5-D Lower, Subdistrict 5-D Middle, Subdistrict 5-D Upper, Subdistrict 6-A, Subdistrict 6-B, and the Porcupine River (from the Naskonat Peninsula, north to Point Romanof, upstream to the U.S./Canada border, and from the mouth of the Tanana River upstream to the Wood River, including the Kantishna River Drainage, snd the communities of Chevak, Hooper Bay, Scammon Bay, Emmonak, Nunam Iqua, Alakanuk, Kotlik, Mountain Village, Pitkas Point, St. Mary's, Pilot Station, Marshall, Russian Mission, Holy Cross, Grayling, Anvik, Kaltag, Nulato, Koyukuk, Galena, Ruby, Tanana, Rampart, Stevens Village, Beaver, Venetie, Chalkyitsik, Birch Creek, Fort Yukon, Circle, Eagle, Lake Minchumina, Manley, Minto, and Nenana):"
+    },
+    {
+     "subject": "Chinook, chum, and coho salmon subsistence fishing in Subdistrict 5-D Upper",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Subsistence fishing for Chinook, chum, and coho salmon is closed and these salmon species must be released alive."
+    },
+    {
+     "subject": "nonsalmon subsistence fishing in Subdistrict 5-D Upper (nonlethal/selective gear)",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Fishing for nonsalmon remains open 24 hours a day, seven days per week with nonlethal or selective gear types including manned fish wheels, hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net."
+    },
+    {
+     "subject": "pink and sockeye salmon in Subdistrict 5-D Upper",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Pink and sockeye salmon may be retained."
+    },
+    {
+     "subject": "nonsalmon gear limitation, Subdistrict 5-D Upper",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Fishing for nonsalmon remains open, but it is limited to non-lethal or selective gear types including hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net."
+    },
+    {
+     "subject": "4-inch or smaller mesh gillnet nonsalmon opportunity, districtwide",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Gillnets of 4-inch or smaller mesh may be used to target nonsalmon from noon Thursdays, through noon Sundays. Nets are restricted to 60-feet or less in length and must be operated as a set net near shore."
+    }
+   ]
+  },
+  {
+   "district": "Subdistrict 6-A",
+   "section": null,
+   "status": "partial",
+   "period_text": "Subsistence fishing for Chinook, chum, and coho salmon is closed and these salmon species must be released alive. Fishing for nonsalmon remains open 24 hours a day, seven days per week with nonlethal or selective gear types including manned fish wheels, hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net.",
+   "rules": [
+    {
+     "subject": "grouped area boundary listing including Subdistrict 6-A",
+     "status": "closed",
+     "geometry": "river_reach",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Coastal District, District 1, District 2, District 3, District 4, Subdistrict 4-A Upper, Subdistrict 4-B, Subdistrict 4-C, Subdistrict 5-A, Subdistrict 5-B, Subdistrict 5-C, Subdistrict 5-D Lower, Subdistrict 5-D Middle, Subdistrict 5-D Upper, Subdistrict 6-A, Subdistrict 6-B, and the Porcupine River (from the Naskonat Peninsula, north to Point Romanof, upstream to the U.S./Canada border, and from the mouth of the Tanana River upstream to the Wood River, including the Kantishna River Drainage, snd the communities of Chevak, Hooper Bay, Scammon Bay, Emmonak, Nunam Iqua, Alakanuk, Kotlik, Mountain Village, Pitkas Point, St. Mary's, Pilot Station, Marshall, Russian Mission, Holy Cross, Grayling, Anvik, Kaltag, Nulato, Koyukuk, Galena, Ruby, Tanana, Rampart, Stevens Village, Beaver, Venetie, Chalkyitsik, Birch Creek, Fort Yukon, Circle, Eagle, Lake Minchumina, Manley, Minto, and Nenana):"
+    },
+    {
+     "subject": "Chinook, chum, and coho salmon subsistence fishing in Subdistrict 6-A",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Subsistence fishing for Chinook, chum, and coho salmon is closed and these salmon species must be released alive."
+    },
+    {
+     "subject": "nonsalmon subsistence fishing in Subdistrict 6-A (nonlethal/selective gear)",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Fishing for nonsalmon remains open 24 hours a day, seven days per week with nonlethal or selective gear types including manned fish wheels, hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net."
+    },
+    {
+     "subject": "pink and sockeye salmon in Subdistrict 6-A",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Pink and sockeye salmon may be retained."
+    },
+    {
+     "subject": "nonsalmon gear limitation, Subdistrict 6-A",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Fishing for nonsalmon remains open, but it is limited to non-lethal or selective gear types including hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net."
+    },
+    {
+     "subject": "4-inch or smaller mesh gillnet nonsalmon opportunity, districtwide",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Gillnets of 4-inch or smaller mesh may be used to target nonsalmon from noon Thursdays, through noon Sundays. Nets are restricted to 60-feet or less in length and must be operated as a set net near shore."
+    }
+   ]
+  },
+  {
+   "district": "Subdistrict 6-B",
+   "section": null,
+   "status": "partial",
+   "period_text": "Subsistence fishing for Chinook, chum, and coho salmon is closed and these salmon species must be released alive. Fishing for nonsalmon remains open 24 hours a day, seven days per week with nonlethal or selective gear types including manned fish wheels, hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net.",
+   "rules": [
+    {
+     "subject": "grouped area boundary listing including Subdistrict 6-B",
+     "status": "closed",
+     "geometry": "river_reach",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Coastal District, District 1, District 2, District 3, District 4, Subdistrict 4-A Upper, Subdistrict 4-B, Subdistrict 4-C, Subdistrict 5-A, Subdistrict 5-B, Subdistrict 5-C, Subdistrict 5-D Lower, Subdistrict 5-D Middle, Subdistrict 5-D Upper, Subdistrict 6-A, Subdistrict 6-B, and the Porcupine River (from the Naskonat Peninsula, north to Point Romanof, upstream to the U.S./Canada border, and from the mouth of the Tanana River upstream to the Wood River, including the Kantishna River Drainage, snd the communities of Chevak, Hooper Bay, Scammon Bay, Emmonak, Nunam Iqua, Alakanuk, Kotlik, Mountain Village, Pitkas Point, St. Mary's, Pilot Station, Marshall, Russian Mission, Holy Cross, Grayling, Anvik, Kaltag, Nulato, Koyukuk, Galena, Ruby, Tanana, Rampart, Stevens Village, Beaver, Venetie, Chalkyitsik, Birch Creek, Fort Yukon, Circle, Eagle, Lake Minchumina, Manley, Minto, and Nenana):"
+    },
+    {
+     "subject": "Chinook, chum, and coho salmon subsistence fishing in Subdistrict 6-B",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Subsistence fishing for Chinook, chum, and coho salmon is closed and these salmon species must be released alive."
+    },
+    {
+     "subject": "nonsalmon subsistence fishing in Subdistrict 6-B (nonlethal/selective gear)",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Fishing for nonsalmon remains open 24 hours a day, seven days per week with nonlethal or selective gear types including manned fish wheels, hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net."
+    },
+    {
+     "subject": "pink and sockeye salmon in Subdistrict 6-B",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Pink and sockeye salmon may be retained."
+    },
+    {
+     "subject": "nonsalmon gear limitation, Subdistrict 6-B",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Fishing for nonsalmon remains open, but it is limited to non-lethal or selective gear types including hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net."
+    },
+    {
+     "subject": "4-inch or smaller mesh gillnet nonsalmon opportunity, districtwide",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Gillnets of 4-inch or smaller mesh may be used to target nonsalmon from noon Thursdays, through noon Sundays. Nets are restricted to 60-feet or less in length and must be operated as a set net near shore."
+    }
+   ]
+  },
+  {
+   "district": "Porcupine River",
+   "section": null,
+   "status": "partial",
+   "period_text": "Subsistence fishing for Chinook, chum, and coho salmon is closed and these salmon species must be released alive. Fishing for nonsalmon remains open 24 hours a day, seven days per week with nonlethal or selective gear types including manned fish wheels, hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net.",
+   "rules": [
+    {
+     "subject": "grouped area boundary listing including Porcupine River",
+     "status": "closed",
+     "geometry": "river_reach",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Coastal District, District 1, District 2, District 3, District 4, Subdistrict 4-A Upper, Subdistrict 4-B, Subdistrict 4-C, Subdistrict 5-A, Subdistrict 5-B, Subdistrict 5-C, Subdistrict 5-D Lower, Subdistrict 5-D Middle, Subdistrict 5-D Upper, Subdistrict 6-A, Subdistrict 6-B, and the Porcupine River (from the Naskonat Peninsula, north to Point Romanof, upstream to the U.S./Canada border, and from the mouth of the Tanana River upstream to the Wood River, including the Kantishna River Drainage, snd the communities of Chevak, Hooper Bay, Scammon Bay, Emmonak, Nunam Iqua, Alakanuk, Kotlik, Mountain Village, Pitkas Point, St. Mary's, Pilot Station, Marshall, Russian Mission, Holy Cross, Grayling, Anvik, Kaltag, Nulato, Koyukuk, Galena, Ruby, Tanana, Rampart, Stevens Village, Beaver, Venetie, Chalkyitsik, Birch Creek, Fort Yukon, Circle, Eagle, Lake Minchumina, Manley, Minto, and Nenana):"
+    },
+    {
+     "subject": "Chinook, chum, and coho salmon subsistence fishing in Porcupine River",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Subsistence fishing for Chinook, chum, and coho salmon is closed and these salmon species must be released alive."
+    },
+    {
+     "subject": "nonsalmon subsistence fishing in Porcupine River (nonlethal/selective gear)",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Fishing for nonsalmon remains open 24 hours a day, seven days per week with nonlethal or selective gear types including manned fish wheels, hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net."
+    },
+    {
+     "subject": "pink and sockeye salmon in Porcupine River",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Pink and sockeye salmon may be retained."
+    },
+    {
+     "subject": "nonsalmon gear limitation, Porcupine River",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Fishing for nonsalmon remains open, but it is limited to non-lethal or selective gear types including hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net."
+    },
+    {
+     "subject": "4-inch or smaller mesh gillnet nonsalmon opportunity, districtwide",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Gillnets of 4-inch or smaller mesh may be used to target nonsalmon from noon Thursdays, through noon Sundays. Nets are restricted to 60-feet or less in length and must be operated as a set net near shore."
+    }
+   ]
+  },
+  {
+   "district": "Yukon Area (districtwide)",
+   "section": "6-inch or Smaller Mesh Gillnet Nonsalmon Opportunity in Designated Areas",
+   "status": "partial",
+   "period_text": "Subsistence fishing for whitefish and other nonsalmon species with 6-inch or smaller mesh set gillnets is open only in designated nonsalmon areas 24 hours per day, 7 days per week.",
+   "rules": [
+    {
+     "subject": "designated nonsalmon areas, 6-inch or smaller mesh set gillnets",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Subsistence fishing for whitefish and other nonsalmon species with 6-inch or smaller mesh set gillnets is open only in designated nonsalmon areas 24 hours per day, 7 days per week. Set gillnets are restricted 60-feet or shorter in length and cannot block more than ½ width of any waterway. Please see Fall Season Advisory Announcements #1-#4, #7, and #9 for the named lists, GPS coordinates, and maps of these designated areas. Links to Advisory Announcements and maps are shared on the ADFG – Yukon River Fishing Facebook page."
+    }
+   ]
+  },
+  {
+   "district": "Lake Minchumina and the Tolovana River drainage, including Minto Flats",
+   "section": null,
+   "status": "open",
+   "period_text": "In Lake Minchumina and the Tolovana River drainage, including Minto Flats, subsistence fishing for nonsalmon will remain open 24 hours a day, seven days per week with 6-inch or smaller mesh gillnets.",
+   "rules": [
+    {
+     "subject": "Lake Minchumina and Tolovana River drainage including Minto Flats, nonsalmon",
+     "status": "open",
+     "geometry": "river_reach",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "In Lake Minchumina and the Tolovana River drainage, including Minto Flats, subsistence fishing for nonsalmon will remain open 24 hours a day, seven days per week with 6-inch or smaller mesh gillnets."
+    }
+   ]
+  },
+  {
+   "district": "Subdistrict 5-C",
+   "section": "permit area (Garnet Island to Waldron Creek marker)",
+   "status": "partial",
+   "period_text": "A subsistence fishing permit is required for all species in the portion of Subdistrict 5-C from the westernmost tip of Garnet Island upstream to the ADF&G regulatory marker two miles downstream of Waldron Creek (Dalton Highway bridge area) and in Subdistricts 6-A and 6-B including the Kantishna River drainage and for northern pike in the Tolovana River drainage, including Minto Flats.",
+   "rules": [
+    {
+     "subject": "Subdistrict 5-C from the westernmost tip of Garnet Island upstream to the ADF&G regulatory marker two miles downstream of Waldron Creek",
+     "status": "open",
+     "geometry": "river_reach",
+     "side": null,
+     "points": [
+      {
+       "name": "westernmost tip of Garnet Island",
+       "lat_dm": null,
+       "lon_dm": null
+      },
+      {
+       "name": "ADF&G regulatory marker two miles downstream of Waldron Creek (Dalton Highway bridge area)",
+       "lat_dm": null,
+       "lon_dm": null
+      }
+     ],
+     "distance_nmi": null,
+     "text": "A subsistence fishing permit is required for all species in the portion of Subdistrict 5-C from the westernmost tip of Garnet Island upstream to the ADF&G regulatory marker two miles downstream of Waldron Creek (Dalton Highway bridge area) and in Subdistricts 6-A and 6-B including the Kantishna River drainage and for northern pike in the Tolovana River drainage, including Minto Flats."
+    }
+   ]
+  },
+  {
+   "district": "Koyukuk River drainage",
+   "section": "upstream of a line at 64° 53.273' N, 157° 40.760' W to 64° 53.020' N, 157° 39.887' W",
+   "status": "open",
+   "period_text": "Subsistence fishing for salmon and nonsalmon is open 24 hours per day, 7 days per week with 6-inch or smaller mesh gillnets and all other legal subsistence fishing gear.",
+   "rules": [
+    {
+     "subject": "Koyukuk River drainage downstream boundary line",
+     "status": "open",
+     "geometry": "line",
+     "side": null,
+     "points": [
+      {
+       "name": null,
+       "lat_dm": "64° 53.273' N",
+       "lon_dm": "157° 40.760' W"
+      },
+      {
+       "name": null,
+       "lat_dm": "64° 53.020' N",
+       "lon_dm": "157° 39.887' W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "Koyukuk River drainage upstream of a line from 64° 53.273' N, 157° 40.760' W, to 64° 53.020' N, 157° 39.887' W (including the communities of Huslia, Hughes, Allakaket, Alatna, Bettles, and Wiseman)"
+    },
+    {
+     "subject": "salmon and nonsalmon subsistence fishing, Koyukuk River drainage above the line",
+     "status": "open",
+     "geometry": "river_reach",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Subsistence fishing for salmon and nonsalmon is open 24 hours per day, 7 days per week with 6-inch or smaller mesh gillnets and all other legal subsistence fishing gear. All fish caught may be retained. Please see Fall Season Advisory Announcements #11 for the GPS coordinates and map of this area."
+    },
+    {
+     "subject": "Koyukuk River above Bettles including the community of Wiseman",
+     "status": "closed",
+     "geometry": "river_reach",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "A subsistence fishing permit is also required for all species in the Koyukuk River above Bettles including the community of Wiseman. Gillnet gear in this permit area must be 3½ inches or smaller mesh size and cannot be used until August 20."
+    }
+   ]
+  },
+  {
+   "district": "Innoko River drainage",
+   "section": "upstream of a line at 62° 11.241' N, 159° 39.397' W to 62° 11.121' N, 159° 39.227' W",
+   "status": "open",
+   "period_text": "Subsistence fishing for salmon and nonsalmon is open 24 hours per day, 7 days per week with 6-inch or smaller mesh gillnets and all other legal subsistence fishing gear.",
+   "rules": [
+    {
+     "subject": "Innoko River drainage downstream boundary line",
+     "status": "open",
+     "geometry": "line",
+     "side": null,
+     "points": [
+      {
+       "name": null,
+       "lat_dm": "62° 11.241' N",
+       "lon_dm": "159° 39.397' W"
+      },
+      {
+       "name": null,
+       "lat_dm": "62° 11.121' N",
+       "lon_dm": "159° 39.227' W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "Innoko River drainage upstream of a line from 62° 11.241' N, 159° 39.397' W, to 62° 11.121' N, 159° 39.227' W"
+    },
+    {
+     "subject": "salmon and nonsalmon subsistence fishing, Innoko River drainage above the line",
+     "status": "open",
+     "geometry": "river_reach",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Subsistence fishing for salmon and nonsalmon is open 24 hours per day, 7 days per week with 6-inch or smaller mesh gillnets and all other legal subsistence fishing gear. All fish caught may be retained. Please see Fall Season Advisory Announcements #11 for the GPS coordinates and maps of these areas."
+    }
+   ]
+  },
+  {
+   "district": "Paimiut Slough",
+   "section": "upstream of a line at 61° 55.989' N, 160° 08.985' W to 61° 55.986' N, 160° 08.717' W",
+   "status": "open",
+   "period_text": "Subsistence fishing for salmon and nonsalmon is open 24 hours per day, 7 days per week with 6-inch or smaller mesh gillnets and all other legal subsistence fishing gear.",
+   "rules": [
+    {
+     "subject": "Paimiut Slough downstream boundary line",
+     "status": "open",
+     "geometry": "line",
+     "side": null,
+     "points": [
+      {
+       "name": null,
+       "lat_dm": "61° 55.989' N",
+       "lon_dm": "160° 08.985' W"
+      },
+      {
+       "name": null,
+       "lat_dm": "61° 55.986' N",
+       "lon_dm": "160° 08.717' W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "Paimiut Slough upstream of a line from 61° 55.989' N, 160° 08.985' W, to 61° 55.986' N, 160° 08.717' W (including the community of Shageluk):"
+    },
+    {
+     "subject": "salmon and nonsalmon subsistence fishing, Paimiut Slough above the line",
+     "status": "open",
+     "geometry": "river_reach",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Subsistence fishing for salmon and nonsalmon is open 24 hours per day, 7 days per week with 6-inch or smaller mesh gillnets and all other legal subsistence fishing gear. All fish caught may be retained. Please see Fall Season Advisory Announcements #11 for the GPS coordinates and maps of these areas."
+    }
+   ]
+  },
+  {
+   "district": "Upper Tanana Area",
+   "section": null,
+   "status": "partial",
+   "period_text": "Chinook, chum, and coho salmon fishing is closed. Fish wheels and gillnets with larger than 4-inch mesh and fish wheels are not allowed.",
+   "rules": [
+    {
+     "subject": "Upper Tanana Area boundary",
+     "status": "closed",
+     "geometry": "river_reach",
+     "side": null,
+     "points": [
+      {
+       "name": "mouth of Volkmar River on the north bank",
+       "lat_dm": null,
+       "lon_dm": null
+      },
+      {
+       "name": "mouth of the Johnson River on the south bank",
+       "lat_dm": null,
+       "lon_dm": null
+      },
+      {
+       "name": "Tanana River headwaters",
+       "lat_dm": null,
+       "lon_dm": null
+      }
+     ],
+     "distance_nmi": null,
+     "text": "Upper Tanana Area (the Tanana River from the confluence with the mouth of Volkmar River on the north bank and the mouth of the Johnson River on the south bank upstream to the Tanana River headwaters, including Delta Junction area, Dot Lake, Tanacross, Tetlin, Tok, Northway, and Nabesna):"
+    },
+    {
+     "subject": "Chinook, chum, and coho salmon fishing, Upper Tanana Area",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Chinook, chum, and coho salmon fishing is closed. Fish wheels and gillnets with larger than 4-inch mesh and fish wheels are not allowed. Gillnets of 4-inch or smaller mesh may be used to target other species and are restricted to 60-feet or less in length and must be operated as a set net near shore."
+    },
+    {
+     "subject": "Chinook, chum, and coho salmon taken in selective gear, Upper Tanana Area",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Chinook, chum, and coho salmon must be released alive immediately from selective gear types."
+    }
+   ]
+  },
+  {
+   "district": "Subdistrict 6-C",
+   "section": "Personal use fishery",
+   "status": "closed",
+   "period_text": "Personal Use salmon fishing is closed until further notice.",
+   "rules": [
+    {
+     "subject": "Subdistrict 6-C personal use area boundary",
+     "status": "closed",
+     "geometry": "river_reach",
+     "side": null,
+     "points": [
+      {
+       "name": "regulatory marker at the mouth of the Wood River",
+       "lat_dm": null,
+       "lon_dm": null
+      },
+      {
+       "name": "downstream mouth of the Salcha River",
+       "lat_dm": null,
+       "lon_dm": null
+      }
+     ],
+     "distance_nmi": null,
+     "text": "Subdistrict 6-C (Personal use fishery from the regulatory marker at the mouth of the Wood River upstream to the downstream mouth of the Salcha River, which includes the communities of Fairbanks, North Pole, and Salcha):"
+    },
+    {
+     "subject": "personal use salmon fishing, Subdistrict 6-C",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Personal Use salmon fishing is closed until further notice."
+    }
+   ]
+  },
+  {
+   "district": "Fairbanks Nonsubsistence Area",
+   "section": "Personal Use Whitefish and Sucker Fishing",
+   "status": "partial",
+   "period_text": "Personal Use whitefish and sucker fishing with manned fishwheels is closed until further notice.",
+   "rules": [
+    {
+     "subject": "Fairbanks Nonsubsistence Area boundary",
+     "status": "closed",
+     "geometry": "river_reach",
+     "side": null,
+     "points": [
+      {
+       "name": "Wood River",
+       "lat_dm": null,
+       "lon_dm": null
+      },
+      {
+       "name": "mouth of the Volkmar River on the north bank",
+       "lat_dm": null,
+       "lon_dm": null
+      },
+      {
+       "name": "mouth of the Johnson River on the south bank",
+       "lat_dm": null,
+       "lon_dm": null
+      }
+     ],
+     "distance_nmi": null,
+     "text": "Fairbanks Nonsubsistence Area (a portion of the Tanana River drainage from the Wood River upstream to the mouth of the Volkmar River on the north bank and the mouth of the Johnson River on the south bank, which includes Fairbanks, North Pole, Salcha, and Delta Junction):"
+    },
+    {
+     "subject": "manned fishwheels for whitefish and sucker, Fairbanks Nonsubsistence Area",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Personal Use whitefish and sucker fishing with manned fishwheels is closed until further notice. Fishing with other gear for whitefish and suckers in this area remains open 7 days per week, 24 hours per day, subject to permit stipulations."
+    }
+   ]
+  }
+ ],
+ "full_text": "Forrest Bowers, Acting Director\n\nDoug Vincent-Lang, Commissioner\n\nHeadquarters Office Juneau, AK 99811-5526\n\nAdvisory Announcement\n\nReleased: August 18, 2026\n\nJuneau, AK 99811-5526\n\nCONTACT: Matt Olson, Area Management Biologist Bonnie Borba, Fall Season Research Biologist 1-907-459-7274 (Fairbanks) 1-907-949-1320 (Emmonak) Toll free fishing schedule and counts: 1-866-479-7387\n\n2026 Yukon River Salmon Fall Fishery Announcement #12 Fall Update #5, Yukon Area Salmon Fishery Districts Affected: Yukon Area\n\nInseason assessment suggests the fall chum salmon run size is near the upper end of the drainagewide escapement goal of 300,000–600,000 fish. However, even with a run size near the upper end of the escapement goal range, due to the recently poor proportion of Canadian origin chum returning, Canadian treaty goals may not be met. The interim management escapement goal for the mainstem Yukon River is 70,000–104,000 fall chum salmon and the Fishing Branch River is 22,000–49,000 fall chum salmon. The passage at the Yukon River mainstem sonar project at Pilot Station would likely need to exceed the upper end of the drainagewide escapement goal for fall chum salmon to meet the lower end of the Canadian treaty obligations. Therefore, directed subsistence fishing for fall chum salmon in the mainstem Yukon River is highly unlikely this season in order to protect the Canadian stocks migrating the spawning grounds.\n\nCoho salmon typically enter the Yukon River in mid-August with the bulk of the run passing the Lower Yukon Test Fishery (LYTF) between August 16 and 27. The primary parent year for coho salmon this year is from 2022, which had an estimated index of escapement of 100,000 fish. The run size this year is expected to be well below the average of 212,000 coho salmon. It is still early in the coho salmon run, but current passage estimates are well below average and the run timing appears later than average.\n\nSubsistence fishing for chum and coho salmon was restricted at the start of fall season in each area and nonsalmon subsistence fishing time with 4-inch gillnets is reduced to protect migrating salmon. Assessment projects will continue to monitor the run throughout the migration to determine if there is enough improvement to allow increased fishing opportunity. Assessment project and management updates will be published in weekly Advisory Announcements (Updates). To subscribe to these updates, fill out the form on the following website: https://www.adfg.alaska.gov/index.cfm?adfg=cfnews.search\n\nDaily sonar passage estimates and LYTF test fish numbers are shared on Facebook (Yukon River Fishing - ADFG) and can be heard by calling toll-free phone recording: 1-866-479-7387.\n\nWeekly teleconferences hosted by YRDFA take place on Tuesdays at 1:00 p.m. The call-in number is 1800-315-6338, and the participation code is YUKON# (98566#).\n\nFall Update #5, Yukon Area Salmon Fishery\n\nAugust 18, 2026\n\nAssessment Projects Lower Yukon Test Fishery (LYTF)/YDFDA and ADF&G\n\nFall season operations began on July 16 using 6-inch mesh gear to target fall chum and coho salmon. As of August 16, the cumulative CPUE for fall chum salmon was 803.45, which is near the historic cumulative CPUE of 833.74 for this date. The third-quarter point based on median run timing occurs on August 18 for fall season chum salmon at this project. As of August 16, the cumulative CPUE for coho salmon was 5.13, which is well below the historic cumulative CPUE of 118.80 for this date. Fall chum and coho salmon are sampled for ASL (Age, Sex, and Length) and all retained fish are distributed to local communities.\n\nPilot Station Sonar (ADF&G)\n\nThe sonar project operated near Pilot Station transitioned to fall season counts on July 19. As of August 16, the cumulative passage is approximately 445,788 chum salmon in the fall season. This is above the median cumulative passage of 386,000 chum salmon in the fall season for this date. The estimate number of fall chum salmon is 368,439 based on genetic mixed stock analysis. The three-quarter point for fall chum salmon, based on median run timing, occurs on August 22. As of August 16, the cumulative passage is approximately 13,244 coho salmon, which is well below the historic cumulative passage of 36,000 coho salmon for this date. The midpoint for coho salmon based on median run timing occurs on August 22.\n\nTeedriinjik (Chandalar) Sonar / USFWS\n\nThis sonar project began operations August 14. As of August 16, the cumulative passage was 276 fall chum salmon, and the daily passage is well below average for this date. The first-quarter point for fall chum salmon based on median timing is September 7, at this project.\n\nSheenjek River Sonar / ADF&G\n\nThis sonar project began operations August 6. As of August 16, the cumulative passage was 406 fall chum salmon, which is below the median of 965 fish. The first-quarter point for fall chum salmon based on median timing is September 8, at this project.\n\nEagle Sonar / ADF&G and Department of Fisheries and Oceans (DFO)\n\nThis project typically transitions from counting Chinook to fall chum salmon around August 20.\n\nPorcupine River Sonar / Yukon Territory Canada / DFO\n\nThis project typically transitions from counting Chinook to fall chum salmon in mid-August.\n\nFishing Branch River Weir/Sonar / Yukon Territory Canada / DFO\n\nThis project will begin counting fall chum salmon sometime in late August to early September.\n\nFall Age, Sex, and Length Composition\n\nThe age composition of 402 chum salmon sampled from the drift gillnets in the LYTF project from July 18 through August 15, consisted of 92% age-4 and 8% age-5 fish. The age-4 fish are well above the 2001– 2025 historical average of 64% age-4. The percentage of female chum salmon has remained low at 41%, which is below the 2001–2025 historical average of 55%. The fall season chum salmon average length through August 15 was 568 mm which is below the 2001–2025 historical average of 583 mm.\n\nFall Update #5, Yukon Area Salmon Fishery\n\nAugust 18, 2026\n\nStock Identification\n\nGenetic mixed stock analysis on chum salmon that passed the mainstem sonar from August 3 through August 10 indicated 5% were summer chum and 95% were fall chum salmon. Of the fall chum salmon stocks they consisted of 55% Border US (Teedriinjik, Sheenjek, Draanjik and Coleen), 36% Tanana fall, and 9% Canada. For fall chum salmon this represents 91% U.S.-origin and 9% Canada-origin stocks. The fall chum salmon Border US and Tanana fall components are above average while the Canadian stock is below average for this time period. The results are provided in the ADF&G Yukon River daily update for those who subscribe: https://list.state.ak.us/mailman/listinfo/yukonriverdailyupdate\n\nSummer Assessment Projects\n\nChena River Tower (ADF&G)\n\nTower operations ended August 14. Chinook salmon passage was estimated to be 1,546 fish which is below the historical cumulative average of 4,711 fish. Summer chum salmon cumulative passage is estimated to be 5,876 fish which is below the historical cumulative median of 6,883 fish. Chum salmon passage rates remained high at the end of the project and passage should be considered a minimum estimate.\n\nSalcha River Tower (ADF&G)\n\nTower operations ended August 16. Chinook salmon passage was estimated to be 1,976 fish, which is below the historical cumulative average of 7,092 fish. Summer chum salmon cumulative passage is estimated to be 13,216 fish which is below the historical cumulative median of 17,289 fish. Only a few tower counts were affected by high water but passage estimates for chum salmon should be considered a minimum estimate as the project ended before the run was complete.\n\nChinook Radio Telemetry (ADF&G)\n\n2026 is the start of the second phase of a multi-year effort to evaluate concerns for Chinook en route mortality and spawning distribution within Canada. This is the first year of an up to three-year effort to capture and tag up to 250 Chinook salmon each season near Rampart Rapids. Tagged fish will be tracked throughout the upper Yukon in Alaska and Canada to evaluate en-route mortality and spawning distribution. Tagging at Rapids concluded on July 28, but tracking operations are ongoing using remote tracking towers and aerial surveys within both Alaska and Canada. Each fish was tagged with both an internal radio telemetry tag and an external spaghetti tag. If you encounter a tagged fish this season and are successful at documenting the tag number, please call 1-877-467-2104 to report information about when and where the fish was observed. As a thank you for voluntarily reporting the tag number and associated information, you will be automatically entered into the ADF&G salmon tag lottery at the Fred West at 907-267-2237 with any questions.\n\nEagle Sonar (ADF&G)\n\nSonar operations began on June 30. As of August 17, Chinook salmon passage is estimated to be 34,289 ± 378 fish (90% confidence interval), which is below the historical cumulative average of 46,959 fish. Assuming normal run timing, the Chinook salmon run is over 99% complete at the U.S./Canada border. The cumulative passage of Chinook salmon at Eagle sonar is below average and will not meet the international border passage objective, but the estimate is larger than what has been observed since 2020. The average transition date between counting Chinook and fall chum salmon at this project is August 18\n\nFall Update #5, Yukon Area Salmon Fishery\n\nAugust 18, 2026\n\nFigure 1. The 2026 cumulative passage of Chinook salmon at the Eagle sonar compared to recent five years of late and poor run sizes. The average of run sizes from 2005 – 2025 is also included.\n\nCurrent Subsistence Management Actions\n\nFishing for nonsalmon remains open, but it is limited to non-lethal or selective gear types including hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net.\n\nCoastal District, District 1, District 2, District 3, District 4, Subdistrict 4-A Upper, Subdistrict 4-B, Subdistrict 4-C, Subdistrict 5-A, Subdistrict 5-B, Subdistrict 5-C, Subdistrict 5-D Lower, Subdistrict 5-D Middle, Subdistrict 5-D Upper, Subdistrict 6-A, Subdistrict 6-B, and the Porcupine River (from the Naskonat Peninsula, north to Point Romanof, upstream to the U.S./Canada border, and from the mouth of the Tanana River upstream to the Wood River, including the Kantishna River Drainage, snd the communities of Chevak, Hooper Bay, Scammon Bay, Emmonak, Nunam Iqua, Alakanuk, Kotlik, Mountain Village, Pitkas Point, St. Mary’s, Pilot Station, Marshall, Russian Mission, Holy Cross, Grayling, Anvik, Kaltag, Nulato, Koyukuk, Galena, Ruby, Tanana, Rampart, Stevens Village, Beaver, Venetie, Chalkyitsik, Birch Creek, Fort Yukon, Circle, Eagle, Lake Minchumina, Manley, Minto, and Nenana):\n\nSubsistence fishing for Chinook, chum, and coho salmon is closed and these salmon species must be released alive. Fishing for nonsalmon remains open 24 hours a day, seven days per week with nonlethal or selective gear types including manned fish wheels, hook and line with a rod or pole, dip net, beach seine, hand line, longline, and fyke net. Pink and sockeye salmon may be retained.\n\nFall Update #5, Yukon Area Salmon Fishery\n\nAugust 18, 2026\n\n4-inch or Smaller Mesh Gillnet Nonsalmon Opportunity Districtwide\n\nGillnets of 4-inch or smaller mesh may be used to target nonsalmon from noon Thursdays, through noon Sundays. Nets are restricted to 60-feet or less in length and must be operated as a set net near shore.\n\n6-inch or Smaller Mesh Gillnet Nonsalmon Opportunity in Designated Areas\n\nSubsistence fishing for whitefish and other nonsalmon species with 6-inch or smaller mesh set gillnets is open only in designated nonsalmon areas 24 hours per day, 7 days per week. Set gillnets are restricted 60-feet or shorter in length and cannot block more than ½ width of any waterway. Please see Fall Season Advisory Announcements #1-#4, #7, and #9 for the named lists, GPS coordinates, and maps of these designated areas. Links to Advisory Announcements and maps are shared on the ADFG – Yukon River Fishing Facebook page.\n\nIn Lake Minchumina and the Tolovana River drainage, including Minto Flats, subsistence fishing for nonsalmon will remain open 24 hours a day, seven days per week with 6-inch or smaller mesh gillnets.\n\nA subsistence fishing permit is required for all species in the portion of Subdistrict 5-C from the westernmost tip of Garnet Island upstream to the ADF&G regulatory marker two miles downstream of Waldron Creek (Dalton Highway bridge area) and in Subdistricts 6-A and 6-B including the Kantishna River drainage and for northern pike in the Tolovana River drainage, including Minto Flats.\n\nKoyukuk River drainage upstream of a line from 64° 53.273' N, 157° 40.760' W, to 64° 53.020' N, 157° 39.887' W (including the communities of Huslia, Hughes, Allakaket, Alatna, Bettles, and Wiseman)\n\nSubsistence fishing for salmon and nonsalmon is open 24 hours per day, 7 days per week with 6-inch or smaller mesh gillnets and all other legal subsistence fishing gear. All fish caught may be retained. Please see Fall Season Advisory Announcements #11 for the GPS coordinates and map of this area.\n\nA subsistence fishing permit is also required for all species in the Koyukuk River above Bettles including the community of Wiseman. Gillnet gear in this permit area must be 3½ inches or smaller mesh size and cannot be used until August 20.\n\nInnoko River drainage upstream of a line from 62° 11.241' N, 159° 39.397' W, to 62° 11.121' N, 159° 39.227' W and Paimiut Slough upstream of a line from 61° 55.989' N, 160° 08.985' W, to 61° 55.986' N, 160° 08.717' W (including the community of Shageluk):\n\nSubsistence fishing for salmon and nonsalmon is open 24 hours per day, 7 days per week with 6-inch or smaller mesh gillnets and all other legal subsistence fishing gear. All fish caught may be retained. Please see Fall Season Advisory Announcements #11 for the GPS coordinates and maps of these areas.\n\nUpper Tanana Area (the Tanana River from the confluence with the mouth of Volkmar River on the north bank and the mouth of the Johnson River on the south bank upstream to the Tanana River headwaters, including Delta Junction area, Dot Lake, Tanacross, Tetlin, Tok, Northway, and Nabesna):\n\nChinook, chum, and coho salmon fishing is closed. Fish wheels and gillnets with larger than 4-inch mesh and fish wheels are not allowed. Gillnets of 4-inch or smaller mesh may be used to target other species and are restricted to 60-feet or less in length and must be operated as a set net near shore. Chinook, chum, and coho salmon must be released alive immediately from selective gear types.\n\nFall Update #5, Yukon Area Salmon Fishery\n\nAugust 18, 2026\n\nFishermen are reminded that a subsistence permit is required to fish for salmon in the Tanana River drainage up to the Wood River (Subdistrict 6-A, 6-B, and Kantishna River drainage), northern pike in the Tolovana River drainage (including Minto Flats), and all species in the Upper Tanana Area. A subsistence salmon permit is not required in Lake Minchumina.\n\nPersonal Use Management Actions\n\nSubdistrict 6-C (Personal use fishery from the regulatory marker at the mouth of the Wood River upstream to the downstream mouth of the Salcha River, which includes the communities of Fairbanks, North Pole, and Salcha):\n\nPersonal Use salmon fishing is closed until further notice.\n\nPersonal Use Whitefish and Sucker Fishing\n\nFairbanks Nonsubsistence Area (a portion of the Tanana River drainage from the Wood River upstream to the mouth of the Volkmar River on the north bank and the mouth of the Johnson River on the south bank, which includes Fairbanks, North Pole, Salcha, and Delta Junction):\n\nPersonal Use whitefish and sucker fishing with manned fishwheels is closed until further notice. Fishing with other gear for whitefish and suckers in this area remains open 7 days per week, 24 hours per day, subject to permit stipulations.\n\nA reminder to personal use fishermen that a personal use salmon permit is required to fish for salmon in Subdistrict 6-C and a personal use whitefish and sucker permit is required to fish for these species in the Fairbanks Nonsubsistence Area. Both permits require a valid sport fishing license.\n\nFederal Special Action\n\nThe Alaska Department of Fish and Game (ADF&G) and the U.S. Fish and Wildlife Service (USFWS) have coordinated on this advisory announcement. The USFWS Federal Inseason Manager has issued separate Fishery special actions with the same fishing restrictions and schedule in waters adjacent to Federal Land. In Federal public waters, the salmon subsistence fishing opportunity is limited to federally qualified subsistence users in the Yukon River drainage. For additional information concerning Yukon River Federal Special Actions contact the USFWS Federal Yukon River Subsistence Fishery Manager, Holly Carroll; holly_carroll@fws.gov, (907) 351-3029 or Assistant Manager, Keith Herron; keith_herron@fws.gov, (907) 334-5391.\n\nThis is an announcement by the ADF&G in cooperation with the USFWS.\n\nFederal Special Actions will be posted on www.doi.gov/subsistence/fisheries-special-actions and shared on Facebook at www.facebook.com/subsistencealaska.\n\nTo receive advisory announcements by email, sign up at www.cfnews.adfg.alaska.gov.\n\n-end-",
+ "_parser": "9d390c40",
+ "_parser_kept": "new parse placed 0 where the old placed 26"
+}

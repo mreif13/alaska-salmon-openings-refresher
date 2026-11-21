@@ -1,0 +1,84 @@
+{
+ "release_id": "1767031834",
+ "published": "2026-04-15T00:00",
+ "species": "salmon",
+ "gear": [
+  "purse seine",
+  "drift gillnet",
+  "troll"
+ ],
+ "_unparsed": [],
+ "emergency_order": "1E0226",
+ "contact": "Grant Hagerman, (907) 747-6688",
+ "title": "Southeast Cove Terminal Harvest Area Fisheries Announcement",
+ "next_announcement": null,
+ "region": "Southeast",
+ "full_text": "Forrest Bowers, Acting Director\n\nDoug Vincent-Lang, Commissioner\n\nSitka Area Office 304 Lake St Room 103 Sitka, AK 99835\n\nAdvisory Announcement For Immediate Release: April 15, 2026\n\nJuneau, AK 99811-5526\n\nCONTACT: Grant Hagerman Region I Commercial Troll Management Biologist grant.hagerman@alaska.gov (907) 747-6688\n\nSOUTHEAST COVE TERMINAL HARVEST AREA FISHERIES ANNOUNCEMENT\n\nThe following information details the Northern Southeast Alaska Regional Aquaculture Association (NSRAA) commercial troll fishing open waters and fishing schedule in the Southeast Cove Terminal Harvest Area (THA) for the 2026 season.\n\nNSRAA is forecasting a total run of 105,000 summer chum salmon and 860 Chinook salmon for the Southeast Cove THA (Figure 1). Portions of the runs may be harvested in common property troll fisheries in Chatham Strait beginning July 1.\n\nThe Southeast Cove THA consists of the waters of Keku Strait enclosed by a line from a rocky point on the northern end of Kuiu Island located on the east side of Southeast Cove at 56°52.92′ N lat, 134°01.49′ W long to the northern tip of Hound Island at 56°53.12′ N lat, 133°56.83′ W long, then northwest connecting points along the northern shore of Keku Islands at 56°53.98′ N lat, 133°57.69′ W long to 56°55.85′ N lat, 134°01.00′ W long to 56°55.85′ N lat, 134°02.21′ W long to 56°55.20′ N lat, 134°02.66′ W long, then to the northwest corner of Payne Island at 56°57.40′ N lat, 134°08.82′ W long, then south to a point on Kuiu Island at 56°55.02′ N lat, 134°09.26′ W long.\n\nTroll: will be open continuously from 12:01 a.m., Monday, June 1, through 11:59 p.m., Tuesday, June 30, 2026.\n\nCost recovery will occur in the Southeast Cove THA beginning Wednesday, July 1, 2026, and the THA will close to all common property fisheries until cost recovery has been completed. Common property troll, drift gillnet, and purse seine opportunities are not anticipated in 2026. However, if significant numbers of fish remain, additional openings may be provided by emergency order (EO). If closures or additional openings are warranted, they will be announced by advisory announcement.\n\nThe Emergency Order corresponding with this announcement is EO 1E0226.\n\nSoutheast Cove THA\n\nApril 15, 2026\n\nSoutheast Cove THA\n\nApril 15, 2026\n\nFigure 1. –Map of Southeast Cove THA\n\nAdvisory Announcement web site: http://www.adfg.alaska.gov/index.cfm?adfg=cfnews.main.\n\nOffice\n\nTroll Hotline\n\nKetchikan\n\nPetersburg\n\nSitka\n\nJuneau\n\nHaines\n\nHoonah\n\nYakutat\n\n225-5195 225-5111 225-6870\n\n772-3801 772-3983\n\n747-6688 747-3254 747-8765\n\n465-4250 465-4000 465-8765\n\n766-2830\n\n784-3255\n\n945-3620",
+ "areas": [
+  {
+   "district": null,
+   "section": null,
+   "status": "partial",
+   "period_text": null,
+   "rules": [
+    {
+     "subject": "s in Chatham Strait beginning July 1. The Southeast Cove THA boundary",
+     "status": "open",
+     "side": null,
+     "geometry": "polygon",
+     "points": [
+      {
+       "name": "Southeast Cove",
+       "lat_dm": "56°52.92′ N",
+       "lon_dm": "134°01.49′ W"
+      },
+      {
+       "name": "the northern tip of Hound Island",
+       "lat_dm": "56°53.12′ N",
+       "lon_dm": "133°56.83′ W"
+      },
+      {
+       "name": "Keku Islands",
+       "lat_dm": "56°53.98′ N",
+       "lon_dm": "133°57.69′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "56°55.85′ N",
+       "lon_dm": "134°01.00′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "56°55.85′ N",
+       "lon_dm": "134°02.21′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "56°55.20′ N",
+       "lon_dm": "134°02.66′ W"
+      },
+      {
+       "name": "the northwest corner of Payne Island",
+       "lat_dm": "56°57.40′ N",
+       "lon_dm": "134°08.82′ W"
+      },
+      {
+       "name": "a point on Kuiu Island",
+       "lat_dm": "56°55.02′ N",
+       "lon_dm": "134°09.26′ W"
+      }
+     ]
+    },
+    {
+     "subject": "Troll",
+     "status": "open",
+     "side": null,
+     "text": "continuously from 12:01 a.m., Monday, June 1, through 11:59 p.m., Tuesday, June 30, 2026. Cost recovery will occur in the Southeast Cove THA beginning Wednesday, July 1, 2026, and the THA will close to all common property fisheries until cost recovery has been completed. Common property troll, drift gillnet, and purse seine opportunities are not an",
+     "geometry": "whole_area",
+     "points": []
+    }
+   ]
+  }
+ ],
+ "_parser": "9d390c40"
+}

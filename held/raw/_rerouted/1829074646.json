@@ -1,0 +1,460 @@
+{
+ "release_id": "1829074646",
+ "title": "Kodiak Commercial Salmon Fishery Advisory Announcement #40",
+ "published": "2026-08-22T10:00",
+ "region": "Kodiak",
+ "gear": [
+  "purse seine"
+ ],
+ "species": "salmon",
+ "emergency_order": "#4-FS-K-40-26",
+ "contact": "Geoff Spalinger, Area Biologist; Brad Fuerst, Asst. Area Biologist; Todd Anderson, Asst. Area Biologist, (907) 486-1830",
+ "next_announcement": null,
+ "areas": [
+  {
+   "district": "Southwest Kodiak",
+   "section": "Outer Karluk",
+   "status": "open",
+   "period_text": "There will be a 48-hour extension to the current commercial salmon fishing period from 6:00 p.m. Saturday, August 22 to 6:00 p.m. Monday, August 24 in the following areas:",
+   "rules": [
+    {
+     "subject": "Outer Karluk Section",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Outer Karluk, Outer Ayakulik, Halibut Bay, and Sturgeon Sections of the Southwest Kodiak District;"
+    }
+   ]
+  },
+  {
+   "district": "Southwest Kodiak",
+   "section": "Outer Ayakulik",
+   "status": "open",
+   "period_text": "There will be a 48-hour extension to the current commercial salmon fishing period from 6:00 p.m. Saturday, August 22 to 6:00 p.m. Monday, August 24 in the following areas:",
+   "rules": [
+    {
+     "subject": "Outer Ayakulik Section",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Outer Karluk, Outer Ayakulik, Halibut Bay, and Sturgeon Sections of the Southwest Kodiak District;"
+    }
+   ]
+  },
+  {
+   "district": "Southwest Kodiak",
+   "section": "Halibut Bay",
+   "status": "open",
+   "period_text": "There will be a 48-hour extension to the current commercial salmon fishing period from 6:00 p.m. Saturday, August 22 to 6:00 p.m. Monday, August 24 in the following areas:",
+   "rules": [
+    {
+     "subject": "Halibut Bay Section",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Outer Karluk, Outer Ayakulik, Halibut Bay, and Sturgeon Sections of the Southwest Kodiak District;"
+    }
+   ]
+  },
+  {
+   "district": "Southwest Kodiak",
+   "section": "Sturgeon",
+   "status": "open",
+   "period_text": "There will be a 48-hour extension to the current commercial salmon fishing period from 6:00 p.m. Saturday, August 22 to 6:00 p.m. Monday, August 24 in the following areas:",
+   "rules": [
+    {
+     "subject": "Sturgeon Section",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Outer Karluk, Outer Ayakulik, Halibut Bay, and Sturgeon Sections of the Southwest Kodiak District;"
+    }
+   ]
+  },
+  {
+   "district": "Northwest Kodiak",
+   "section": null,
+   "status": "partial",
+   "period_text": "There will be a 48-hour extension to the current commercial salmon fishing period from 6:00 p.m. Saturday, August 22 to 6:00 p.m. Monday, August 24 in the following areas:",
+   "rules": [
+    {
+     "subject": "Northwest Kodiak District",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Northwest Kodiak District (except the Anton Larsen Bay, Sharatin Bay, and Kizhuyak Bay Sections remain closed);"
+    },
+    {
+     "subject": "Anton Larsen Bay Section",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Northwest Kodiak District (except the Anton Larsen Bay, Sharatin Bay, and Kizhuyak Bay Sections remain closed);"
+    },
+    {
+     "subject": "Sharatin Bay Section",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Northwest Kodiak District (except the Anton Larsen Bay, Sharatin Bay, and Kizhuyak Bay Sections remain closed);"
+    },
+    {
+     "subject": "Kizhuyak Bay Section",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Northwest Kodiak District (except the Anton Larsen Bay, Sharatin Bay, and Kizhuyak Bay Sections remain closed);"
+    }
+   ]
+  },
+  {
+   "district": "Northwest Kodiak",
+   "section": "Anton Larsen Bay",
+   "status": "closed",
+   "period_text": "There will be a 48-hour extension to the current commercial salmon fishing period from 6:00 p.m. Saturday, August 22 to 6:00 p.m. Monday, August 24 in the following areas:",
+   "rules": [
+    {
+     "subject": "Anton Larsen Bay Section",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Northwest Kodiak District (except the Anton Larsen Bay, Sharatin Bay, and Kizhuyak Bay Sections remain closed);"
+    }
+   ]
+  },
+  {
+   "district": "Northwest Kodiak",
+   "section": "Sharatin Bay",
+   "status": "closed",
+   "period_text": "There will be a 48-hour extension to the current commercial salmon fishing period from 6:00 p.m. Saturday, August 22 to 6:00 p.m. Monday, August 24 in the following areas:",
+   "rules": [
+    {
+     "subject": "Sharatin Bay Section",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Northwest Kodiak District (except the Anton Larsen Bay, Sharatin Bay, and Kizhuyak Bay Sections remain closed);"
+    }
+   ]
+  },
+  {
+   "district": "Northwest Kodiak",
+   "section": "Kizhuyak Bay",
+   "status": "closed",
+   "period_text": "There will be a 48-hour extension to the current commercial salmon fishing period from 6:00 p.m. Saturday, August 22 to 6:00 p.m. Monday, August 24 in the following areas:",
+   "rules": [
+    {
+     "subject": "Kizhuyak Bay Section",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Northwest Kodiak District (except the Anton Larsen Bay, Sharatin Bay, and Kizhuyak Bay Sections remain closed);"
+    }
+   ]
+  },
+  {
+   "district": "Afognak",
+   "section": "Southwest Afognak",
+   "status": "open",
+   "period_text": "There will be a 48-hour extension to the current commercial salmon fishing period from 6:00 p.m. Saturday, August 22 to 6:00 p.m. Monday, August 24 in the following areas:",
+   "rules": [
+    {
+     "subject": "Southwest Afognak Section",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Southwest Afognak, Northwest Afognak, and Southeast Afognak Sections of the Afognak District;"
+    }
+   ]
+  },
+  {
+   "district": "Afognak",
+   "section": "Northwest Afognak",
+   "status": "open",
+   "period_text": "There will be a 48-hour extension to the current commercial salmon fishing period from 6:00 p.m. Saturday, August 22 to 6:00 p.m. Monday, August 24 in the following areas:",
+   "rules": [
+    {
+     "subject": "Northwest Afognak Section",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Southwest Afognak, Northwest Afognak, and Southeast Afognak Sections of the Afognak District;"
+    }
+   ]
+  },
+  {
+   "district": "Afognak",
+   "section": "Southeast Afognak",
+   "status": "open",
+   "period_text": "There will be a 48-hour extension to the current commercial salmon fishing period from 6:00 p.m. Saturday, August 22 to 6:00 p.m. Monday, August 24 in the following areas:",
+   "rules": [
+    {
+     "subject": "Southeast Afognak Section",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Southwest Afognak, Northwest Afognak, and Southeast Afognak Sections of the Afognak District;"
+    }
+   ]
+  },
+  {
+   "district": "Alitak",
+   "section": "Cape Alitak",
+   "status": "open",
+   "period_text": "There will be a 48-hour extension to the current commercial salmon fishing period from 6:00 p.m. Saturday, August 22 to 6:00 p.m. Monday, August 24 in the following areas:",
+   "rules": [
+    {
+     "subject": "Cape Alitak Section",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Cape Alitak, Humpy-Deadman, Alitak Bay, Moser Bay, and Olga Bay Sections of the Alitak District;"
+    }
+   ]
+  },
+  {
+   "district": "Alitak",
+   "section": "Humpy-Deadman",
+   "status": "open",
+   "period_text": "There will be a 48-hour extension to the current commercial salmon fishing period from 6:00 p.m. Saturday, August 22 to 6:00 p.m. Monday, August 24 in the following areas:",
+   "rules": [
+    {
+     "subject": "Humpy-Deadman Section",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Cape Alitak, Humpy-Deadman, Alitak Bay, Moser Bay, and Olga Bay Sections of the Alitak District;"
+    }
+   ]
+  },
+  {
+   "district": "Alitak",
+   "section": "Alitak Bay",
+   "status": "open",
+   "period_text": "There will be a 48-hour extension to the current commercial salmon fishing period from 6:00 p.m. Saturday, August 22 to 6:00 p.m. Monday, August 24 in the following areas:",
+   "rules": [
+    {
+     "subject": "Alitak Bay Section",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Cape Alitak, Humpy-Deadman, Alitak Bay, Moser Bay, and Olga Bay Sections of the Alitak District;"
+    }
+   ]
+  },
+  {
+   "district": "Alitak",
+   "section": "Moser Bay",
+   "status": "open",
+   "period_text": "There will be a 48-hour extension to the current commercial salmon fishing period from 6:00 p.m. Saturday, August 22 to 6:00 p.m. Monday, August 24 in the following areas:",
+   "rules": [
+    {
+     "subject": "Moser Bay Section",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Cape Alitak, Humpy-Deadman, Alitak Bay, Moser Bay, and Olga Bay Sections of the Alitak District;"
+    }
+   ]
+  },
+  {
+   "district": "Alitak",
+   "section": "Olga Bay",
+   "status": "open",
+   "period_text": "There will be a 48-hour extension to the current commercial salmon fishing period from 6:00 p.m. Saturday, August 22 to 6:00 p.m. Monday, August 24 in the following areas:",
+   "rules": [
+    {
+     "subject": "Olga Bay Section",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Cape Alitak, Humpy-Deadman, Alitak Bay, Moser Bay, and Olga Bay Sections of the Alitak District;"
+    }
+   ]
+  },
+  {
+   "district": "Eastside Kodiak",
+   "section": "Seven Rivers",
+   "status": "open",
+   "period_text": "There will be a 48-hour extension to the current commercial salmon fishing period from 6:00 p.m. Saturday, August 22 to 6:00 p.m. Monday, August 24 in the following areas:",
+   "rules": [
+    {
+     "subject": "Seven Rivers Section",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Seven Rivers, Two-Headed, and Sitkalidak Sections of the Eastside Kodiak District; and,"
+    }
+   ]
+  },
+  {
+   "district": "Eastside Kodiak",
+   "section": "Two-Headed",
+   "status": "open",
+   "period_text": "There will be a 48-hour extension to the current commercial salmon fishing period from 6:00 p.m. Saturday, August 22 to 6:00 p.m. Monday, August 24 in the following areas:",
+   "rules": [
+    {
+     "subject": "Two-Headed Section",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Seven Rivers, Two-Headed, and Sitkalidak Sections of the Eastside Kodiak District; and,"
+    }
+   ]
+  },
+  {
+   "district": "Eastside Kodiak",
+   "section": "Sitkalidak",
+   "status": "open",
+   "period_text": "There will be a 48-hour extension to the current commercial salmon fishing period from 6:00 p.m. Saturday, August 22 to 6:00 p.m. Monday, August 24 in the following areas:",
+   "rules": [
+    {
+     "subject": "Sitkalidak Section",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Seven Rivers, Two-Headed, and Sitkalidak Sections of the Eastside Kodiak District; and,"
+    }
+   ]
+  },
+  {
+   "district": "Northeast Kodiak",
+   "section": null,
+   "status": "open",
+   "period_text": "There will be a 48-hour extension to the current commercial salmon fishing period from 6:00 p.m. Saturday, August 22 to 6:00 p.m. Monday, August 24 in the following areas:",
+   "rules": [
+    {
+     "subject": "Northeast Kodiak District",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Northeast Kodiak District."
+    }
+   ]
+  },
+  {
+   "district": "Afognak",
+   "section": "Duck Bay",
+   "status": "open",
+   "period_text": "The following areas remain open until further notice:",
+   "rules": [
+    {
+     "subject": "Duck Bay Section",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Duck Bay, Izhut Bay, and Outer Kitoi Bay Sections of the Afognak District."
+    }
+   ]
+  },
+  {
+   "district": "Afognak",
+   "section": "Izhut Bay",
+   "status": "open",
+   "period_text": "The following areas remain open until further notice:",
+   "rules": [
+    {
+     "subject": "Izhut Bay Section",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Duck Bay, Izhut Bay, and Outer Kitoi Bay Sections of the Afognak District."
+    }
+   ]
+  },
+  {
+   "district": "Afognak",
+   "section": "Outer Kitoi Bay",
+   "status": "open",
+   "period_text": "The following areas remain open until further notice:",
+   "rules": [
+    {
+     "subject": "Outer Kitoi Bay Section",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Duck Bay, Izhut Bay, and Outer Kitoi Bay Sections of the Afognak District."
+    }
+   ]
+  },
+  {
+   "district": "Kodiak Area (including the Mainland District)",
+   "section": null,
+   "status": "partial",
+   "period_text": null,
+   "rules": [
+    {
+     "subject": "Kodiak Area (including the Mainland District) – Chinook (king) salmon 28 inches or greater, purse seine gear",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Fishermen are reminded that in the Kodiak Area (including the Mainland District) until further notice, Chinook (king) salmon 28 inches or greater in length may not be retained by purse seine gear in the commercial fishery and must be returned to the water unharmed."
+    },
+    {
+     "subject": "Other closed waters (Kodiak Area Salmon Statistical Chart; 5AAC 18.350)",
+     "status": "closed",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Other closed waters are as shown on the Kodiak Area Salmon Statistical Chart and detailed in the Commercial Salmon Fishing Regulations (5AAC 18.350)."
+    }
+   ]
+  }
+ ],
+ "full_text": "Forrest Bowers, Acting Director\n\nDoug Vincent-Lang, Commissioner\n\nHeadquarters Office Juneau, AK 99811-5526\n\nAdvisory Announcement\n\nReleased: 10:00 a.m. August 22, 2026\n\nJuneau, AK 99811-5526\n\nCONTACT: Geoff Spalinger, Area Biologist Brad Fuerst, Asst. Area Biologist Todd Anderson, Asst. Area Biologist (907) 486-1830\n\nKODIAK COMMERCIAL SALMON FISHERY ADVISORY ANNOUNCEMENT # 40 For Emergency Order #4-FS-K-40-26\n\nThere will be a 48-hour extension to the current commercial salmon fishing period from 6:00 p.m. Saturday, August 22 to 6:00 p.m. Monday, August 24 in the following areas:\n\n-\n\n-\n\n-\n\n-\n\n- -\n\nThe Outer Karluk, Outer Ayakulik, Halibut Bay, and Sturgeon Sections of the Southwest Kodiak District; The Northwest Kodiak District (except the Anton Larsen Bay, Sharatin Bay, and Kizhuyak Bay Sections remain closed); The Southwest Afognak, Northwest Afognak, and Southeast Afognak Sections of the Afognak District; The Cape Alitak, Humpy-Deadman, Alitak Bay, Moser Bay, and Olga Bay Sections of the Alitak District; The Seven Rivers, Two-Headed, and Sitkalidak Sections of the Eastside Kodiak District; and, The Northeast Kodiak District.\n\nAs Previously Announced: The following areas remain open until further notice:\n\n-\n\nThe Duck Bay, Izhut Bay, and Outer Kitoi Bay Sections of the Afognak District.\n\nFishermen are reminded that in the Kodiak Area (including the Mainland District) until further notice, Chinook (king) salmon 28 inches or greater in length may not be retained by purse seine gear in the commercial fishery and must be returned to the water unharmed.\n\nOther closed waters are as shown on the Kodiak Area Salmon Statistical Chart and detailed in the Commercial Salmon Fishing Regulations (5AAC 18.350). Statistical Charts, Harvest Strategies, and Commercial Salmon Fishing Regulations are available at the Kodiak Fish and Game office. Recent salmon fishery information may be obtained by calling the Department’s 24-hour record-a-phone at 486-4559.\n\n-end-"
+}
