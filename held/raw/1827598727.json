@@ -1,0 +1,137 @@
+{
+ "release_id": "1827598727",
+ "title": "DISTRICT 15 DRIFT GILLNET FISHERY EXTENSION",
+ "published": "2026-08-18T09:00",
+ "region": "District 15 (Lynn Canal, Haines Area, Southeast Alaska)",
+ "gear": [
+  "drift gillnet"
+ ],
+ "species": "salmon",
+ "emergency_order": "EO1S6426",
+ "contact": "Nicole Zeiser, Haines Area Management Biologist, (907) 766-2830, nicole.zeiser@alaska.gov",
+ "next_announcement": null,
+ "areas": [
+  {
+   "district": "District 15",
+   "section": "15-A",
+   "status": "partial",
+   "period_text": "Section 15-A: will be extended 24 hours and close at 12:00 noon, Thursday, August 20, 2026, with the following restrictions:",
+   "rules": [
+    {
+     "subject": "Section 15-A drift gillnet fishery",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Section 15-A: will be extended 24 hours and close at 12:00 noon, Thursday, August 20, 2026, with the following restrictions:"
+    },
+    {
+     "subject": "Chilkat Inlet",
+     "status": "closed",
+     "geometry": "lat_cutoff",
+     "side": "north",
+     "points": [
+      {
+       "name": "northernmost tip of Kochu Island",
+       "lat_dm": "59°09.04′ N lat",
+       "lon_dm": null
+      }
+     ],
+     "distance_nmi": null,
+     "text": "Chilkat Inlet: will be closed north of latitude of the northernmost tip of Kochu Island at 59°09.04′ N lat;"
+    },
+    {
+     "subject": "Lutak Inlet",
+     "status": "closed",
+     "geometry": "line",
+     "side": "north",
+     "points": [
+      {
+       "name": "White Rock",
+       "lat_dm": "59°18.05′ N lat",
+       "lon_dm": "135°31.33′ W long"
+      },
+      {
+       "name": null,
+       "lat_dm": "59°18.73′ N lat",
+       "lon_dm": "135°30.16′ W long"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "Lutak Inlet: will be closed north of a line from White Rock at 59°18.05′ N lat, 135°31.33′ W long to a point at 59°18.73′ N lat, 135°30.16′ W long."
+    }
+   ]
+  },
+  {
+   "district": "District 15",
+   "section": "15-C",
+   "status": "partial",
+   "period_text": "Section 15-C: will be extended 24 hours and close at 12:00 noon, Thursday, August 20, 2026.",
+   "rules": [
+    {
+     "subject": "Section 15-C drift gillnet fishery",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Section 15-C: will be extended 24 hours and close at 12:00 noon, Thursday, August 20, 2026."
+    },
+    {
+     "subject": "Boat Harbor Terminal Harvest Area (THA), western shoreline of Lynn Canal",
+     "status": "open",
+     "geometry": "buffer",
+     "side": "west",
+     "points": [
+      {
+       "name": "Lance Point",
+       "lat_dm": "58°43.95′ N lat",
+       "lon_dm": null
+      },
+      {
+       "name": "regulatory marker",
+       "lat_dm": "58°36.96′ N lat",
+       "lon_dm": null
+      }
+     ],
+     "distance_nmi": 2.0,
+     "text": "Section 15-C: will remain open until further notice in the waters of the Boat Harbor Terminal Harvest Area (THA) within 2.0 nmi of the western shoreline of Lynn Canal south of the latitude of Lance Point at 58°43.95′ N lat and north of the latitude of a regulatory marker at 58°36.96′ N lat, with the following restriction:"
+    },
+    {
+     "subject": "William Henry Bay",
+     "status": "closed",
+     "geometry": "lat_cutoff",
+     "side": "south",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": "58°42.93′ N lat",
+       "lon_dm": null
+      }
+     ],
+     "distance_nmi": null,
+     "text": "William Henry Bay: will be closed south of 58°42.93′ N lat."
+    },
+    {
+     "subject": "Boat Harbor THA, waters of Boat Harbor",
+     "status": "open",
+     "geometry": "lon_cutoff",
+     "side": "west",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": null,
+       "lon_dm": "135°09.57′ W long"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "Section 15-C: the Boat Harbor THA will remain open until further notice in the waters of Boat Harbor west of 135°09.57′ W long."
+    }
+   ]
+  }
+ ],
+ "full_text": "Forrest Bowers, Acting Director\n\nDoug Vincent-Lang, Commissioner\n\nHaines Area Office Juneau, AK 99827\n\nAdvisory Announcement For Immediate Release: August 18, 2026\n\nJuneau, AK 99811-5526\n\nCONTACT: Nicole Zeiser Haines Area Management Biologist nicole.zeiser@alaska.gov (907) 766-2830\n\nDISTRICT 15 DRIFT GILLNET FISHERY EXTENSION\n\nSection 15-A: will be extended 24 hours and close at 12:00 noon, Thursday, August 20, 2026, with the following restrictions:\n\nChilkat Inlet: will be closed north of latitude of the northernmost tip of Kochu Island at 59°09.04′ N lat;\n\nLutak Inlet: will be closed north of a line from White Rock at 59°18.05′ N lat, 135°31.33′ W long to a point at 59°18.73′ N lat, 135°30.16′ W long.\n\nSection 15-C: will be extended 24 hours and close at 12:00 noon, Thursday, August 20, 2026.\n\nSection 15-C: will remain open until further notice in the waters of the Boat Harbor Terminal Harvest Area (THA) within 2.0 nmi of the western shoreline of Lynn Canal south of the latitude of Lance Point at 58°43.95′ N lat and north of the latitude of a regulatory marker at 58°36.96′ N lat, with the following restriction:\n\nWilliam Henry Bay: will be closed south of 58°42.93′ N lat.\n\nSection 15-C: the Boat Harbor THA will remain open until further notice in the waters of Boat Harbor west of 135°09.57′ W long.\n\nThe Emergency Order corresponding with this announcement is EO1S6426.\n\nAdvisory Announcement web site: http://www.adfg.alaska.gov/index.cfm?adfg=cfnews.main.\n\nOffice\n\nKetchikan\n\nPetersburg\n\nWrangell\n\n225-5195\n\n225-5111\n\n772-3801\n\n772-3983\n\n874-3215\n\nSitka\n\n747-6688\n\n747-3254\n\nJuneau\n\n465-4250\n\n465-4000\n\nHaines\n\n766-2830\n\n766-2533\n\nYakutat\n\n784-3255\n\n784-3220\n\nDistrict 15 GN SW 34 Extension\n\nAugust 18, 2026",
+ "_parser": "9d390c40",
+ "_parser_kept": "new parse placed 1 where the old placed 2"
+}

@@ -1,0 +1,35 @@
+{
+ "release_id": "1803735530",
+ "title": "Southeast Alaska/Yakutat Summer Troll Fishery Update",
+ "published": "2026-07-10",
+ "region": "Southeast",
+ "gear": [
+  "troll"
+ ],
+ "species": "salmon",
+ "emergency_order": null,
+ "contact": "Grant Hagerman, (907) 747-6688",
+ "next_announcement": "The department will continue to closely monitor the fishery and will announce any forthcoming closure via emergency order when we approach the harvest target.",
+ "areas": [
+  {
+   "district": null,
+   "section": null,
+   "status": "open",
+   "period_text": "The first Chinook salmon retention period remains open as of July 10, 2026.",
+   "rules": [
+    {
+     "subject": "Southeast Alaska/Yakutat summer troll fishery, first Chinook retention period",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The first Chinook retention period remains open. Fewer than 40,000 of the 83,700 Chinook salmon available had been landed as of this announcement. The department will continue to closely monitor the fishery and will announce any forthcoming closure via emergency order when we approach the harvest target."
+    }
+   ]
+  }
+ ],
+ "full_text": "Forrest Bowers, Acting Director\n\nDoug Vincent-Lang, Commissioner\n\nSitka Area Office 304 Lake Street Room 103 Sitka, AK 99835\n\nAdvisory Announcement For Immediate Release: July 10, 2026\n\nJuneau, AK 99811-5526\n\nCONTACT: Grant Hagerman Region 1 Commercial Troll Management Biologist grant.hagerman@alaska.gov (907) 747-6688\n\nSOUTHEAST ALASKA/YAKUTAT SUMMER TROLL FISHERY UPDATE\n\nThe first Chinook salmon retention period of the general summer commercial troll season will remain open until further notice. Based on landed catch and reported harvest onboard freezer vessels to date, less than 40,000 of the 83,700 Chinook salmon allocation has been harvested over the first 10-days of the fishery. The department will continue to closely monitor the fishery and will announce any forthcoming closure via emergency order when we approach the harvest target.\n\nTrollers are strongly encouraged to contact the troll fishery managers at the Sitka Area Office during the retention period to report catch and effort information via phone (747-6688; voicemail available after hours, dial * and extension 237) or email (grant.hagerman@alaska.gov or isabel.platten@alaska.gov). The fishery closure will be announced by Alaska Department of Fish and Game (ADF&G) advisory announcement and troll fishery telephone hotline. Closure announcements will be submitted for broadcast on the United States Coast Guard and National Weather Service marine information broadcasts. The Summer Troll Fishery Management Plan is available at ADF&G area offices and the troll website at:\n\nCATCHER–PROCESSOR VESSELS\n\nCatcher–processors intending to freeze their catch onboard (FAS) during the summer troll fishery must obtain a 2026 Summer Troll Fishery Exemption Permit from the department to legally remove the heads from adipose-fin-clipped salmon (5 AAC 29.140[b] and 5 AAC 29.145[c]). The permit, available at area offices and on the troll fishery website, is not valid until signed by a department representative.\n\nCatcher–processors are required to complete and submit a separate fish ticket for each week (Sunday through Saturday) and are encouraged to contact the troll managers periodically with catch information.\n\nLANDING AND REPORTING REQUIREMENTS\n\nFish tickets for the summer troll fishery must include a record of the 5-digit statistical area and a description of the nearest headland or bay in which the fish were taken (5 AAC 39.130[c][8]). If multiple areas were fished, the percentage of harvest by area should be included in the statistical area worksheet. Processors are required to submit troll tickets to the Sitka\n\nAdvisory Announcement web site: http://www.adfg.alaska.gov/index.cfm?adfg=cfnews.main.\n\nOffice\n\nTroll Hotline\n\nKetchikan\n\nPetersburg\n\nSitka\n\nJuneau\n\nHaines\n\nHoonah\n\nYakutat\n\n225-5195 225-5111 225-6870\n\n772-3801 772-3983\n\n747-6688 747-3254 747-8765\n\n465-4250 465-4000 465-8765\n\n766-2830\n\n784-3255\n\n945-3620\n\nSummer Troll Fishery\n\nJuly 10, 2026",
+ "_parser": "9d390c40",
+ "_parser_kept": "new parse placed 0 where the old placed 1"
+}

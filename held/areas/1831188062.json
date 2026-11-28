@@ -1,0 +1,46 @@
+{
+ "release_id": "1831188062",
+ "region": "CookInlet",
+ "office": null,
+ "published": "2026-08-26T00:00",
+ "emergency_order": null,
+ "gear": [
+  "drift gillnet",
+  "set gillnet"
+ ],
+ "species": "salmon",
+ "units": [
+  {
+   "name": "Chinitna Bay Subdistrict",
+   "kind": "subdistrict",
+   "parent": "Central District",
+   "status": "open",
+   "period_text": "opens set and drift gillnetting in the Chinitna Bay Subdistrict of the Central District on Tuesdays and Fridays from 7:00 a.m. until 7:00 p.m., beginning at 7:00 a.m. on Friday, August 28, 2026",
+   "rules": [
+    {
+     "status": "open",
+     "side": "east",
+     "geometry": "line",
+     "points": [
+      {
+       "lat_dm": "59° 49.91' N",
+       "lon_dm": "153° 05.47' W"
+      },
+      {
+       "lat_dm": "59° 51.67' N",
+       "lon_dm": "153° 07.92' W"
+      }
+     ],
+     "gears": [
+      "drift gillnet"
+     ],
+     "text": "waters open to drift gillnetting in Chinitna Bay occur east of a line from the crane on the south shore at 59° 49.91' N. lat., 153° 05.47' W. long., to the ADF&G regulatory marker on Glacier Spit at 59° 51.67' N. lat., 153° 07.92' W. long (5 AAC 21.330(c))"
+    }
+   ]
+  }
+ ],
+ "all_others_closed": false,
+ "_unparsed": [],
+ "full_text": "Forrest Bowers, Acting Director\n\nDoug Vincent-Lang, Commissioner\n\nSoldotna Office 43961 K Beach Rd. Soldotna Ak. 99669\n\nJuneau, AK 99811-5526\n\nAdvisory Announcement For Immediate Release: August 26, 2026\n\nCONTACT: Lucas Stumpf, Acting Area Management Biologist lucas.stumpf@alaska.gov Office: (907) 262-9368 Cell Phone: (907) 420-7740\n\nUPPER COOK INLET COMMERCIAL FISHING ANNOUNCEMENT No. 34 EMERGENCY ORDER NUMBER 2-F-H-35-26\n\nUpper Cook Inlet Commercial Fishing Announcement No. 34 opens set and drift gillnetting in the Chinitna Bay Subdistrict of the Central District on Tuesdays and Fridays from 7:00 a.m. until 7:00 p.m., beginning at 7:00 a.m. on Friday, August 28, 2026. These openings will continue until closed or changed by emergency order. The Chinitna Bay Subdistrict includes those waters west of a line from Spring Point to Sea Otter Point. During these fishing periods, waters open to drift gillnetting in Chinitna Bay occur east of a line from the crane on the south shore at 59° 49.91' N. lat., 153° 05.47' W. long., to the ADF&G regulatory marker on Glacier Spit at 59° 51.67' N. lat., 153° 07.92' W. long (5 AAC 21.330(c)).\n\nHistorical aerial survey data indicates that the chum salmon run to Chinitna Bay is nearly complete by the end of August. Therefore, opening Chinitna Bay to set and drift gillnet fishing is warranted.\n\nFish harvested in Chinitna Bay should be reported in statistical area 245-10.\n\nGeneral Information for all UCI commercial fisheries and specifics about harvest levels, required permits, reporting requirements, or the registration processes, can be obtained by calling the Soldotna ADF&G staff at 907-262-9368, and also by viewing the ADF&G UCI commercial fisheries web site. https://www.adfg.alaska.gov/index.cfm?adfg=commercialbyareauci.main",
+ "_parser": "9d390c40"
+}

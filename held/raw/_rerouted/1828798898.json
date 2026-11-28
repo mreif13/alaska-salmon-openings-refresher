@@ -1,0 +1,240 @@
+{
+ "release_id": "1828798898",
+ "title": "Prince William Sound Salmon Fishery Announcement #38",
+ "published": "2026-08-21T12:00",
+ "region": "Prince William Sound",
+ "gear": [
+  "purse seine",
+  "drift gillnet"
+ ],
+ "species": "salmon",
+ "emergency_order": null,
+ "contact": "Todd Johnson and Jeremy Botz, Finfish Area Management Biologists, (907) 424-3212",
+ "next_announcement": "The next scheduled seine fisheries announcement is anticipated to be released by 2:00 pm on Sunday, August 23. The next scheduled salmon fisheries announcement is anticipated to be released by 2:00 pm on Wednesday, August 26.",
+ "areas": [
+  {
+   "district": "Copper River",
+   "section": null,
+   "status": "partial",
+   "period_text": "The Copper River District will open at 7:00 am on Monday, August 24 for a 12-hour commercial drift gillnet fishing period.",
+   "rules": [
+    {
+     "subject": "grass bank marker line / closure line (5 AAC 24.350(1)(A)), extended across Little Softuk",
+     "status": "closed",
+     "geometry": "line",
+     "side": null,
+     "points": [
+      {
+       "name": "Point Whitshed South",
+       "lat_dm": "60° 26.49' N.",
+       "lon_dm": "145° 52.86' W."
+      },
+      {
+       "name": "Alaganik Slough North",
+       "lat_dm": "60° 24.65' N.",
+       "lon_dm": "145° 36.70' W."
+      },
+      {
+       "name": "Pete Dahl East",
+       "lat_dm": "60° 20.44' N.",
+       "lon_dm": "145° 29.14' W."
+      },
+      {
+       "name": "West Kokenhenik",
+       "lat_dm": "60° 14.88' N.",
+       "lon_dm": "145° 10.01' W."
+      },
+      {
+       "name": "East \"East Side\"",
+       "lat_dm": "60° 14.83' N.",
+       "lon_dm": "145° 03.36' W."
+      },
+      {
+       "name": "Coffee Creek East",
+       "lat_dm": "60° 14.19' N.",
+       "lon_dm": "144° 58.01' W."
+      },
+      {
+       "name": "Charlie Mohr North",
+       "lat_dm": "60° 15.15' N.",
+       "lon_dm": "144° 56.43' W."
+      },
+      {
+       "name": "Martin River North",
+       "lat_dm": "60° 15.29' N.",
+       "lon_dm": "144° 52.52' W."
+      },
+      {
+       "name": "Strawberry Reef",
+       "lat_dm": "60° 13.93' N.",
+       "lon_dm": "144° 50.66' W."
+      },
+      {
+       "name": "Little Softuk",
+       "lat_dm": "60° 13.16' N.",
+       "lon_dm": "144° 41.38' W."
+      }
+     ],
+     "distance_nmi": null,
+     "text": "The grass bank marker line is defined in 5 AAC 24.350(1)(A) with the exception of this year's extension of the closure line across Little Softuk (see bold font below). This closure line is defined with the following points:"
+    },
+    {
+     "subject": "waters north of the closure line",
+     "status": "closed",
+     "geometry": "line",
+     "side": "north",
+     "points": [],
+     "distance_nmi": null,
+     "text": "Waters north of this line, within sloughs, and in Boswell Bay within the bay (5 AAC 24.350 (1)(A)) are closed to commercial and subsistence salmon fishing during all periods."
+    },
+    {
+     "subject": "sloughs",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Waters north of this line, within sloughs, and in Boswell Bay within the bay (5 AAC 24.350 (1)(A)) are closed to commercial and subsistence salmon fishing during all periods."
+    },
+    {
+     "subject": "Boswell Bay",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Waters north of this line, within sloughs, and in Boswell Bay within the bay (5 AAC 24.350 (1)(A)) are closed to commercial and subsistence salmon fishing during all periods."
+    }
+   ]
+  },
+  {
+   "district": "Bering River",
+   "section": null,
+   "status": "open",
+   "period_text": "The Bering River District will open at 7:00 am on Monday, August 24 for a 12-hour commercial drift gillnet fishing period.",
+   "rules": [
+    {
+     "subject": "Bering River District",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Bering River District will open at 7:00 am on Monday, August 24 for a 12-hour commercial drift gillnet fishing period. The standard management strategy for coho salmon in the Bering River District is to fish concurrently with the Copper River District."
+    }
+   ]
+  },
+  {
+   "district": "Eshamy",
+   "section": null,
+   "status": "closed",
+   "period_text": "The Eshamy District will remain closed.",
+   "rules": [
+    {
+     "subject": "Eshamy District",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Eshamy District will remain closed. Sockeye salmon passage at the Eshamy River weir continues to track below target levels and closure time is being expanded to increase escapement. The Eshamy River weir has passed 5,344 sockeye salmon through 8/20 with a cumulative target of 8,921‒19,214 fish for the date."
+    }
+   ]
+  },
+  {
+   "district": "Eastern",
+   "section": null,
+   "status": "partial",
+   "period_text": "Waters of the Eastern District, south of a line from 61º 02.855' N., 146º 44.204' W. to 61º 02.373' N., 146º 43.407' W. to 61º 02.992' N., 146º 39.165' W., will open to commercial purse seine fishing for a 12-hour period, from 8:00 am until 8:00 pm, on Saturday, August 22.",
+   "rules": [
+    {
+     "subject": "Waters of the Eastern District south of the described line",
+     "status": "open",
+     "geometry": "line",
+     "side": "south",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": "61º 02.855' N.",
+       "lon_dm": "146º 44.204' W."
+      },
+      {
+       "name": null,
+       "lat_dm": "61º 02.373' N.",
+       "lon_dm": "146º 43.407' W."
+      },
+      {
+       "name": null,
+       "lat_dm": "61º 02.992' N.",
+       "lon_dm": "146º 39.165' W."
+      }
+     ],
+     "distance_nmi": null,
+     "text": "Waters of the Eastern District, south of a line from 61º 02.855' N., 146º 44.204' W. to 61º 02.373' N., 146º 43.407' W. to 61º 02.992' N., 146º 39.165' W., will open to commercial purse seine fishing for a 12-hour period, from 8:00 am until 8:00 pm, on Saturday, August 22."
+    }
+   ]
+  },
+  {
+   "district": "Coghill",
+   "section": null,
+   "status": "partial",
+   "period_text": "Waters of the Coghill District, excluding waters of the Esther Subdistrict and WNH THA and SHA, will open to commercial purse seine and drift gillnet harvest for a 12-hour fishing period, from 8:00 am until 8:00 pm, on Saturday, August 22.",
+   "rules": [
+    {
+     "subject": "Waters of the Coghill District",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Waters of the Coghill District, excluding waters of the Esther Subdistrict and WNH THA and SHA, will open to commercial purse seine and drift gillnet harvest for a 12-hour fishing period, from 8:00 am until 8:00 pm, on Saturday, August 22."
+    },
+    {
+     "subject": "Esther Subdistrict",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Waters of the Coghill District, excluding waters of the Esther Subdistrict and WNH THA and SHA, will open to commercial purse seine and drift gillnet harvest for a 12-hour fishing period, from 8:00 am until 8:00 pm, on Saturday, August 22."
+    },
+    {
+     "subject": "WNH THA",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Waters of the Coghill District, excluding waters of the Esther Subdistrict and WNH THA and SHA, will open to commercial purse seine and drift gillnet harvest for a 12-hour fishing period, from 8:00 am until 8:00 pm, on Saturday, August 22."
+    },
+    {
+     "subject": "SHA",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Waters of the Coghill District, excluding waters of the Esther Subdistrict and WNH THA and SHA, will open to commercial purse seine and drift gillnet harvest for a 12-hour fishing period, from 8:00 am until 8:00 pm, on Saturday, August 22."
+    }
+   ]
+  },
+  {
+   "district": "Montague",
+   "section": null,
+   "status": "open",
+   "period_text": "Waters of the Montague District will open to commercial purse seine fishing for a 12-hour fishing period, from 8:00 am until 8:00 pm, on Saturday, August 22.",
+   "rules": [
+    {
+     "subject": "Waters of the Montague District",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Waters of the Montague District will open to commercial purse seine fishing for a 12-hour fishing period, from 8:00 am until 8:00 pm, on Saturday, August 22."
+    }
+   ]
+  }
+ ],
+ "full_text": "Forrest Bowers, Acting Director\n\nDoug Vincent-Lang, Commissioner\n\nCordova Area Office 401 Railroad Ave. Cordova, AK 99574\n\nJuneau, AK 99811-5526\n\nAdvisory Announcement For Immediate Release: August 21, 2026\n\nCONTACT: Todd Johnson and Jeremy Botz Finfish Area Management Biologists (907) 424-3212\n\nPrince William Sound Salmon Fishery Announcement #38\n\nCOPPER RIVER DISTRICT: The Copper River District will open at 7:00 am on Monday, August 24 for a 12hour commercial drift gillnet fishing period. Harvest from the fishing period that started Thursday, August 20 is not yet available, but preliminary reports indicate that it was above anticipated for the date. Escapement levels were low last week but should be building quickly considering harvest rates from this last fishing period. An aerial survey is expected to be flown early next week. As a compromise to allow for additional fishing opportunities while continuing to build early escapement, a 12-hour fishing period is being utilized on Monday.\n\nThe grass bank marker line is defined in 5 AAC 24.350(1)(A) with the exception of this year’s extension of the closure line across Little Softuk (see bold font below). This closure line is defined with the following points:\n\nPoint Point Whitshed South Alaganik Slough North Pete Dahl East West Kokenhenik East “East Side” Coffee Creek East Charlie Mohr North Martin River North Strawberry Reef Little Softuk\n\nLatitude 60° 26.49’ N. 60° 24.65’ N. 60° 20.44’ N. 60° 14.88’ N. 60° 14.83’ N. 60° 14.19’ N. 60° 15.15’ N. 60° 15.29’ N. 60° 13.93’ N. 60° 13.16’ N.\n\nLongitude 145° 52.86’ W. 145° 36.70’ W. 145° 29.14’ W. 145° 10.01’ W. 145° 03.36’ W. 144° 58.01’ W. 144° 56.43’ W. 144° 52.52’ W. 144° 50.66’ W. 144° 41.38’ W.\n\nWaters north of this line, within sloughs, and in Boswell Bay within the bay (5 AAC 24.350 (1)(A)) are closed to commercial and subsistence salmon fishing during all periods.\n\nBERING RIVER DISTRICT: The Bering River District will open at 7:00 am on Monday, August 24 for a 12hour commercial drift gillnet fishing period. The standard management strategy for coho salmon in the Bering River District is to fish concurrently with the Copper River District.\n\nESHAMY DISTRICT: The Eshamy District will remain closed. Sockeye salmon passage at the Eshamy River weir continues to track below target levels and closure time is being expanded to increase escapement.\n\nThe Eshamy River weir has passed 5,344 sockeye salmon through 8/20 with a cumulative target of 8,921‒19,214 fish for the date.\n\nSEINE FISHERIES: This announcement will provide time and area specifics for a broad area commercial purse seine fishing opportunity in PWS on Saturday, August 22.\n\nPrince William Sound Salmon Announcement\n\nAerial surveys have shown improvement in wild stock escapement. Aerial surveys are expected to continue, as weather permits.\n\nPWSAC completed its 2026 pink salmon cost recovery goal on August 10. Broodstock continues to build at AFK, CCH and WNH. Egg take is anticipated to begin next week.\n\nThrough August 20, VFDA has collected 45% of the 270 million pink salmon egg take goal. VFDA estimates that broodstock needs have been secured at the hatchery.\n\nPreliminary harvest estimates from the fishing period on August 20 are as follows:\n\n Eastern District harvest was 8,600 pink, 11,900 coho, and 6,100 chum salmon with 51 deliveries  Northern District harvest was 22,500 pink, 1,300 coho, and 168 chum salmon with 17 deliveries  Coghill District harvest was 21,500 pink, 2,900 coho, and 51 chum salmon with 42 deliveries  Montague District harvest was 4,900 pink, 140 coho, and 2 chum salmon with 3 deliveries  Southeastern District harvest was confidential\n\nPreliminary contribution estimates from the fishing period occurring on August 16 are as follows:\n\n Eastern District was 76% wild, 20% SGH, and 2% CCH  Northern District was 75% WNH, 13% CCH, 6% AFK, and 6% wild\n\nContribution estimates from the fishing period occurring on August 18 are as follows:  Southwestern District was 54% AFK, 32% wild, 8% CCH, and 5% WNH  Eastern District was 47% wild, 35% SGH, and 18% CCH\n\nEASTERN DISTRICT: Waters of the Eastern District, south of a line from 61º 02.855’ N., 146º 44.204’ W. to 61º 02.373’ N., 146º 43.407’ W. to 61º 02.992’ N., 146º 39.165’ W., will open to commercial purse seine fishing for a 12-hour period, from 8:00 am until 8:00 pm, on Saturday, August 22.\n\nCOGHILL DISTRICT: Waters of the Coghill District, excluding waters of the Esther Subdistrict and WNH THA and SHA, will open to commercial purse seine and drift gillnet harvest for a 12-hour fishing period, from 8:00 am until 8:00 pm, on Saturday, August 22.\n\nMONTAGUE DISTRICT: Waters of the Montague District will open to commercial purse seine fishing for a 12-hour fishing period, from 8:00 am until 8:00 pm, on Saturday, August 22.\n\nCopies of the regulation booklet, 2025-2028 Commercial Salmon Fishing Regulations for Prince William Sound, are available in the Cordova and Anchorage ADFG office. 2025-2028 Prince William Sound Area Commercial Salmon Fishing Regulations\n\nALL buyers purchasing fish in the PWS Management Area are required to complete a Processor Registration Form. Contact the Cordova office for any questions regarding registration.\n\nThe next scheduled seine fisheries announcement is anticipated to be released by 2:00 pm on Sunday, August 23. The next scheduled salmon fisheries announcement is anticipated to be released by 2:00 pm on Wednesday, August 26.\n\nAnnouncement recordings are available for gillnet fisheries at 907-424-7535 and seine fisheries at 907-424-7345.\n\nPrince William Sound Salmon Announcement\n\nAdditionally, announcements, inseason harvest data, and escapement data are available at the following web address: http://www.adfg.alaska.gov/index.cfm?adfg=commercialbyareapws.main (Prince William Sound and Copper River homepage).\n\nUnless otherwise specified, all openings are clock openings based on Alaska Daylight Time, which is based on Coordinated Universal Time and may be obtained by calling 303-499-7111. The department encourages commercial permit holders to renew their licenses early and to check their CFEC vessel registration stickers to make sure they are current.\n\nThe department also encourages permit holders to report observed violations to Wildlife Safeguard at 800-4783377. Reports are anonymous and cash rewards may be paid for successful prosecution of violations.\n\nPrince William Sound Salmon Announcement"
+}

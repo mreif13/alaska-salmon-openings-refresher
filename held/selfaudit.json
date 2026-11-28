@@ -1,0 +1,19 @@
+{
+ "checked_at": "2026-11-28T03:01:38",
+ "alaska_now": "2026-11-28T03:01",
+ "contradictions": [
+  {
+   "id": "C2",
+   "what": "the page does not name an announcement it is missing",
+   "detail": "4 release(s) the page itself lists are not linked: ['1846753649', '1846640778', '1846385094', '1844150625']",
+   "repair": "rebuild",
+   "repaired": false,
+   "surface": false
+  }
+ ],
+ "open": [],
+ "repaired": [
+  "rebuilt the page"
+ ],
+ "ok": true
+}

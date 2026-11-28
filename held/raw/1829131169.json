@@ -1,0 +1,97 @@
+{
+ "release_id": "1829131169",
+ "published": "2026-08-22T00:00",
+ "species": null,
+ "gear": [
+  "drift gillnet"
+ ],
+ "_unparsed": [],
+ "emergency_order": "1S6526",
+ "contact": "Scott Forbes, (907) 465-4250",
+ "title": "District 11 Drift Gillnet Fishery Area Extension Into Speel Arm Terminal Harvest Area (Tha)",
+ "next_announcement": null,
+ "region": "Southeast",
+ "full_text": "Forrest Bowers, Acting Director\n\nDoug Vincent-Lang, Commissioner\n\nJuneau Area Office Juneau, AK 99811\n\nAdvisory Announcement For Immediate Release: August 22, 2026\n\nJuneau, AK 99811-5526\n\nCONTACT: Scott Forbes Juneau Area Management Biologist scott.forbes@alaska.gov (907) 465-4250\n\nDISTRICT 11 DRIFT GILLNET FISHERY AREA EXTENSION INTO SPEEL ARM TERMINAL HARVEST AREA (THA)\n\nSection 11-B: the Speel Arm THA will be open from 12:01 p.m., Sunday, August 23, through 12:00 noon, Wednesday, August 26, 2026, with the following restrictions:\n\nGilbert Bay: will be closed south and east of a line from Sentinel Point at 57°59.74′ N lat, 133°45.65′ W long to a point on the eastern shoreline at 58°01.45′ N lat, 133°45.33′ W long;\n\nSpeel Arm: will be closed north of a line from a point on the western shore at the head of Speel Arm at 58°07.09′ N lat, 133°44.11′ W long to a point on the eastern shore at 58°07.59′ N lat, 133°42.80′ W long;\n\nProspect Creek: will be closed west of a line running southeast from Prospect Point at 58°02.89′ N lat, 133°47.80′ W long to the southernmost tip of Fannie Island at 58°02.60′ N lat, 133°47.15′ W long then running southwest to a point on the western shore at 58°01.34′ N lat, 133°48.46′ W long.\n\nThe Emergency Order corresponding with this announcement is EO 1S6526.\n\nAdvisory Announcement web site: http://www.adfg.alaska.gov/index.cfm?adfg=cfnews.main.\n\nOffice\n\nKetchikan\n\nPetersburg\n\nWrangell\n\n225-5195\n\n225-5111\n\n772-3801\n\n772-3983\n\n874-3215\n\nSitka\n\n747-6688\n\n747-3254\n\nJuneau\n\n465-4250\n\n465-4000\n\nHaines\n\n766-2830\n\n766-2533\n\nYakutat\n\n784-3255\n\n784-3220\n\nD11 Week 35 Speel Arm THA area ext.\n\nAugust 22, 2026",
+ "areas": [
+  {
+   "district": null,
+   "section": null,
+   "status": "partial",
+   "period_text": null,
+   "rules": [
+    {
+     "subject": "Gilbert Bay",
+     "status": "closed",
+     "side": "south and east",
+     "text": "south and east of a line from Sentinel Point at 57°59.74′ N lat, 133°45.65′ W long to a point on the eastern shoreline at 58°01.45′ N lat, 133°45.33′ W long;",
+     "geometry": "line",
+     "points": [
+      {
+       "name": "a line from Sentinel Point",
+       "lat_dm": "57°59.74′ N",
+       "lon_dm": "133°45.65′ W"
+      },
+      {
+       "name": "a point on the eastern shoreline",
+       "lat_dm": "58°01.45′ N",
+       "lon_dm": "133°45.33′ W"
+      }
+     ]
+    },
+    {
+     "subject": "Speel Arm",
+     "status": "closed",
+     "side": "north",
+     "text": "north of a line from a point on the western shore at the head of Speel Arm at 58°07.09′ N lat, 133°44.11′ W long to a point on the eastern shore at 58°07.59′ N lat, 133°42.80′ W long;",
+     "geometry": "line",
+     "points": [
+      {
+       "name": "Speel Arm",
+       "lat_dm": "58°07.09′ N",
+       "lon_dm": "133°44.11′ W"
+      },
+      {
+       "name": "a point on the eastern shore",
+       "lat_dm": "58°07.59′ N",
+       "lon_dm": "133°42.80′ W"
+      }
+     ]
+    },
+    {
+     "subject": "Prospect Creek",
+     "status": "closed",
+     "side": "west",
+     "text": "west of a line running southeast from Prospect Point at 58°02.89′ N lat, 133°47.80′ W long to the southernmost tip of Fannie Island at 58°02.60′ N lat, 133°47.15′ W long then running southwest to a point on the western shore at 58°01.34′ N lat, 133°48.46′ W long. The Emergency Order corresponding with this announcement is EO 1S6526. Advisory Announ",
+     "geometry": "line",
+     "points": [
+      {
+       "name": "a line running southeast from Prospect Point",
+       "lat_dm": "58°02.89′ N",
+       "lon_dm": "133°47.80′ W"
+      },
+      {
+       "name": "the southernmost tip of Fannie Island",
+       "lat_dm": "58°02.60′ N",
+       "lon_dm": "133°47.15′ W"
+      },
+      {
+       "name": "a point on the western shore",
+       "lat_dm": "58°01.34′ N",
+       "lon_dm": "133°48.46′ W"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "district": null,
+   "section": null,
+   "status": "open",
+   "period_text": "the Speel Arm THA will be open from 12:01 p.m., Sunday, August 23, through 12:00 noon, Wednesday, August 26, 2026, with the following restrictions: Gilbert Bay: will be closed south and east of a line from Sentinel Point at 57°59.74′ N lat, 133°45.65′ W long to a point on the eastern shoreline at 58°01.45′ N lat, 133°45.33′ W long; Speel Arm: will ",
+   "region_wide": false,
+   "tha_pocket": "Speel Arm",
+   "rules": []
+  }
+ ],
+ "_parser": "9d390c40"
+}

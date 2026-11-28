@@ -1,0 +1,230 @@
+{
+ "source": "5 AAC 40 (Aquaculture and Special Harvest Areas), Article 2, and 5 AAC 33 Article 3 (Southeastern Alaska Area salmon fishery). Companion to raw/se_reg_closed_waters.json, which already holds the 5 AAC 33.369-33.389 terminal harvest area plans.",
+ "source_url": "https://www.adfg.alaska.gov/static/regulations/fishregulations/pdfs/commercial/cf_se_yakutat_salmon_regs_2025_2028.pdf",
+ "text_retrieved_from": [
+  "https://www.law.cornell.edu/regulations/alaska/5-AAC-40.081",
+  "https://www.law.cornell.edu/regulations/alaska/5-AAC-40.039",
+  "https://www.law.cornell.edu/regulations/alaska/5-AAC-40.041",
+  "https://www.law.cornell.edu/regulations/alaska/5-AAC-40.042",
+  "https://www.law.cornell.edu/regulations/alaska/5-AAC-40.043",
+  "https://www.law.cornell.edu/regulations/alaska/5-AAC-33.370",
+  "https://www.law.cornell.edu/regulations/alaska/5-AAC-33.377",
+  "https://www.law.cornell.edu/regulations/alaska/5-AAC-33.389",
+  "https://regulations.justia.com/states/alaska/title-5/part-1/chapter-40/article-2/",
+  "https://regulations.justia.com/states/alaska/title-5/part-1/chapter-40/article-2/section-5-aac-40-081/",
+  "https://regulations.justia.com/states/alaska/title-5/part-1/chapter-40/article-2/section-5-aac-40-039/",
+  "https://regulations.justia.com/states/alaska/title-5/part-1/chapter-40/article-2/section-5-aac-40-043/",
+  "https://regulations.justia.com/states/alaska/title-5/part-1/chapter-33/article-3/section-5-aac-33-370/"
+ ],
+ "citation": "5 AAC 40.081 (Port Armstrong); 5 AAC 40.039 (Burnett Inlet); 5 AAC 40.041 (Herring Bay); 5 AAC 40.043 (Neets Bay); 5 AAC 33.370 (Neets Bay Hatchery Salmon Management Plan)",
+ "retrieved": "2026-08-24",
+ "notation": "degrees and decimal minutes, e.g. \"56º 17.73' N. lat.\" / \"134º 38.75' W. long.\" -- NOT degrees-minutes-seconds. lat_dm/lon_dm hold the value EXACTLY as printed, unconverted, including the source's inconsistent degree sign (5 AAC 40.081 and 40.043 print º, 5 AAC 40.039 prints °) and including values printed as whole minutes with no decimal (\"56° 06' N. lat.\", \"131º 33' W. long.\"). Decimal conversion is degrees + minutes/60, negative for west longitude.",
+ "source_document_caveat": "The ADF&G booklet named in source_url could not be read directly; text was transcribed from Cornell LII and Justia, which derive from the same state codification. Justia's chapter 30 and 33 pages are \"current through November 28, 2024\" and so may lag the June 2025 amendments; every value in THIS file was nonetheless identical on both hosts. 5 AAC 33.389 carries an effective date of 6/27/2025, Register 254. Any Board of Fisheries amendment after mid-2025, and any emergency order, is NOT reflected here. Verify against the printed booklet before fishing.",
+ "verification_method": "Every area was read twice by differently-worded fetches across two different hosts (Cornell LII and Justia); all recorded coordinates were identical in both reads, so every area carries verified_twice=true. Every decimal was recomputed by hand as degrees + minutes/60, negated for west longitude, and checked against the Southeast envelope lat 54-60, lon -138 to -130; every value fell inside it. No coordinate here came from any source other than the two mirrors.",
+ "structure_notes": "THE REASON SEVERAL OF THESE AREAS WOULD NOT RESOLVE IS THAT THEY ARE NOT IN 5 AAC 33 AT ALL. Port Armstrong, Burnett Inlet's cost-recovery area, Herring Bay's hatchery area and Neets Bay's hatchery area are created by 5 AAC 40 article 2 (\"special harvest areas\"), a different chapter from the 5 AAC 33.369-.389 terminal harvest area management plans. The full 5 AAC 40 article 2 section list, enumerated on Justia, is: 40.030 Sheldon Jackson, 40.032 DIPAC, 40.033 (repealed), 40.035 (repealed), 40.037 Perry Island, 40.039 Burnett Inlet, 40.041 Herring Bay, 40.042 NSRAA special harvest areas, 40.043 Neets Bay, 40.044 (repealed), 40.045 Nakat Inlet, 40.046 (expired), 40.050 Carroll Inlet, 40.051 Klawock, 40.052 Port Asumcion, 40.053 Port Saint Nicholas, 40.060 Neck Lake, 40.061 Anita Bay, 40.071 Gunnuk Creek, 40.073 Southeast Cove, 40.081 Port Armstrong, 40.085 KRAA. 5 AAC 40.042 additionally carries coordinates for Patterson Bay, Bear Cove, Hidden Falls, Silver Bay, Deep Inlet, Mist Cove and Crawfish Inlet -- most of which are already held from 5 AAC 33 -- and one read of it returned an impossible figure (\"135º 59.35' N. lat.\" for Mist Cove, a latitude of 135 degrees), so 5 AAC 40.042 was NOT transcribed here and is left for a dedicated pass with per-item double reads. Kendrick Bay was re-read a third time at 5 AAC 33.377(b) and matches the entry already held in raw/se_reg_closed_waters.json word for word (\"waters of Kendrick Bay west of 131º 59' W. long. and the waters of McLean Arm west of 131º 57.80' W. long.\"), including the whole-minutes 131º 59'; it has no latitude in regulation and is not duplicated here. There is NO Kendrick Bay section in 5 AAC 40.",
+ "areas": [
+  {
+   "kind": "tha",
+   "name": "Port Armstrong Special Harvest Area",
+   "parent": "District 9",
+   "citation": "5 AAC 40.081(b)",
+   "text": "The Port Armstrong Special Harvest Area for pink, chum, and coho salmon consists of the waters of Port Armstrong west of a line from Point Eliza at 56º 17.73' N. lat., 134º 38.75' W. long. to a point on the Baranof Island shoreline at 56º 17.98' N. lat., 134º 38.35' W. long., and will be open to harvest by the hatchery permit holder from 12:01 a.m. April 15 until 11:59 p.m. July 31.",
+   "points": [
+    {
+     "name": "Point Eliza",
+     "lat_dm": "56º 17.73' N. lat.",
+     "lon_dm": "134º 38.75' W. long."
+    },
+    {
+     "name": "point on the Baranof Island shoreline",
+     "lat_dm": "56º 17.98' N. lat.",
+     "lon_dm": "134º 38.35' W. long."
+    }
+   ],
+   "verified_twice": true,
+   "notes": "FOUND IN 5 AAC 40, NOT 5 AAC 33 -- that is why it did not resolve. There is no Port Armstrong section in 5 AAC 33.369-.389; the area is created by 5 AAC 40.081, \"District 9: Port Armstrong Special Harvest Area\", in chapter 40 article 2 (special harvest areas). Both hosts print the two coordinate pairs identically. The two points are the ENDS OF THE CLOSING LINE; the area itself lies WEST of that line, inside Port Armstrong, and the regulation gives no western coordinate -- a bounding box built from these two points alone is the line, not the water. Subsection (d): this area is closed to commercial fishing other than hatchery cost recovery from 12:01 a.m. July 31 until 11:59 p.m. September 30, and the commissioner may open common property periods by emergency order. DISAGREES WITH THE ADF&G ANNOUNCEMENT: advisory announcement 1788281200, \"Port Armstrong Terminal Harvest Area Troll Fishery\", describes the same line as running from Point Eliza at 56°17.70′ N lat, 134°38.89′ W long to 56°17.97′ N lat, 134°38.44′ W long, and calls the area statistical area 109-11. The regulation's Point Eliza is 0.03′ north and 0.14′ east of the announcement's -- about 145 m apart -- and the second point differs by 0.01′ and 0.09′. Both figures were read twice; the difference is between the two DOCUMENTS, not between reads. The build's automatic regulation-versus-announcement cross-check flags it. The announcement is the in-season operative document and its line lies slightly WEST of the regulation's, i.e. it describes a slightly SMALLER open area; a fisherman should work to whichever line is more restrictive at the time and confirm with the Sitka area office."
+  },
+  {
+   "kind": "tha",
+   "name": "Port Armstrong king salmon special harvest area",
+   "parent": "District 9",
+   "citation": "5 AAC 40.081(a)",
+   "text": "The Port Armstrong Special Harvest Area for king salmon consists of the waters of Port Armstrong west of 134º 39.47' W. long., and will be open to harvest by the hatchery permit holder from 12:01 a.m. April 15 until 11:59 p.m. July 31.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "134º 39.47' W. long."
+    }
+   ],
+   "verified_twice": true,
+   "notes": "A SEPARATE, SMALLER area from the pink/chum/coho area in 5 AAC 40.081(b): it is bounded by a meridian at 134º 39.47' W, which lies WEST of the (b) closing line at roughly 134º 38.4'-38.75' W. Species-specific -- king salmon only. Both hosts print the longitude identically. No latitude is printed."
+  },
+  {
+   "kind": "tha",
+   "name": "Burnett Inlet cost recovery harvest area, 5 AAC 40.039",
+   "parent": "District 6",
+   "citation": "5 AAC 40.039(a)",
+   "text": "There is established the Burnett Inlet Special Harvest Area, for the Southern Southeast Regional Aquaculture Association Burnett Inlet Hatchery, consisting of all waters of Burnett Inlet, Etolin Island, north of 56° 06' N. lat. and south of 56° 10.83' N. lat.",
+   "points": [
+    {
+     "name": "southern bound",
+     "lat_dm": "56° 06' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "northern bound",
+     "lat_dm": "56° 10.83' N. lat.",
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": "A SECOND, DIFFERENT Burnett Inlet area, not a correction of the one already held. 5 AAC 33.389(c) defines the Burnett Inlet TERMINAL HARVEST AREA (common property, purse seine/troll/drift gillnet, June 1 - November 10) as \"waters of Burnett Inlet north of 56° 04.65' N. lat.\" -- one latitude, open-ended northward. 5 AAC 40.039(a) defines the SPECIAL HARVEST AREA (hatchery permit holder cost recovery) as the BAND between 56° 06' and 56° 10.83' N. lat. The band sits inside the THA, which is an internal consistency check on both figures. Both hosts print both latitudes identically; the southern one is printed as whole minutes (06') with no decimal. No longitude appears anywhere in 5 AAC 40.039 -- confirmed on both hosts. Named to avoid colliding with the existing \"Burnett Inlet Terminal Harvest Area\" entry; the THA remains the extent for a common-property opening."
+  },
+  {
+   "kind": "tha",
+   "name": "Neets Bay Special Harvest Area - Behm Canal",
+   "parent": "District 1",
+   "citation": "5 AAC 40.043(a)",
+   "text": "There is established a Neets Bay Special Harvest Area for the Southern Southeast Regional Aquaculture Association harvest of coho and chum returns to the Neets Bay release site, consisting of all waters of Neets Bay east of the longitude of the easternmost tip of Bug Island.",
+   "points": [
+    {
+     "name": "easternmost tip of Bug Island",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": "NO COORDINATES. Both hosts confirm the boundary is the longitude of a named landmark, the easternmost tip of Bug Island, with no numeric value printed. Do not infer a position for Bug Island."
+  },
+  {
+   "kind": "tha",
+   "name": "Neets Bay floating weir sub-area",
+   "parent": "District 1",
+   "citation": "5 AAC 40.043(c)",
+   "text": "Notwithstanding 5 AAC 33.330, legal gear for the hatchery permit holder in the special harvest area is purse seine, beach seine, gillnet, and troll gear. The hatchery permit holder may use floating weirs in waters of the special harvest area east of 131º 33' W. long.",
+   "points": [
+    {
+     "name": null,
+     "lat_dm": null,
+     "lon_dm": "131º 33' W. long."
+    }
+   ],
+   "verified_twice": true,
+   "notes": "THIS IS NOT THE NEETS BAY BOUNDARY. It is the only degrees-and-minutes figure printed anywhere in 5 AAC 40.043, and it limits WHERE THE HATCHERY PERMIT HOLDER MAY SET FLOATING WEIRS inside the special harvest area -- it does not define the harvest area itself. Recorded separately, and deliberately named so that it cannot be matched to a \"Neets Bay\" opening. Printed as whole minutes (33') with no decimal on both hosts."
+  },
+  {
+   "kind": "tha",
+   "name": "Neets Bay Hatchery Salmon Management Plan area (5 AAC 33.370)",
+   "parent": "District 1",
+   "citation": "5 AAC 33.370(b)",
+   "text": "The department, in consultation with SSRAA, shall manage Neets Bay east of the longitude of the easternmost tip of Bug Island to the closed waters area at the head of the bay to distribute the harvest of Neets Bay hatchery-produced salmon between the purse seine, troll, and drift gillnet fleets by setting the fishing times for those fleets... (b)(5) from the second Sunday in June through August 1, the area described in (b) of this section shall be expanded to Neets Bay east of the longitude of Chin Point to the closed waters area at the head of the bay. (f) Waters of Neets Bay east of a line between ADF&G regulatory markers located approximately one mile from the head of the bay are closed to commercial, sport, and personal use salmon fishing from June 15 through November 15.",
+   "points": [
+    {
+     "name": "easternmost tip of Bug Island",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Chin Point",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "ADF&G regulatory markers approximately one mile from the head of the bay",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": "VERIFIED: THE CLAIM IS TRUE. 5 AAC 33.370 contains NO latitude or longitude anywhere. A Cornell read that reproduced the entire section subsection by subsection and was then asked directly answered NO; a differently-worded Justia read asked to find any degrees figure anywhere in the section answered NONE FOUND. The management area is defined only by two named landmarks -- the easternmost tip of Bug Island (base area) and Chin Point (expanded area, second Sunday in June through August 1) -- and by ADF&G regulatory markers at the head of the bay. The companion special harvest area at 5 AAC 40.043 likewise gives no coordinate for the boundary. NEETS BAY THEREFORE CANNOT BE DRAWN FROM REGULATION. Landmarks recorded with null coordinates; do not infer positions."
+  },
+  {
+   "kind": "tha",
+   "name": "Herring Bay Terminal Harvest Area",
+   "parent": "District 1",
+   "citation": "5 AAC 33.369(b)",
+   "text": "The Herring Bay Troll Terminal Harvest Area is open for commercial salmon trolling from July 1 through August 30, unless closed earlier by emergency order. The Herring Bay Troll Terminal Harvest Area consists of those waters of Revillagigedo Channel north and west of a line from the easternmost tip of Carroll Point across to Spire Island light on the eastern shore of Annette Island, Carroll Inlet south of the latitude of the southernmost tip of California Head, George Inlet south of 55º 20.80' N. lat., and south of a line from a point located on the southeastern shore of Gravina Island at 55º 17.65' N. lat., 131º 37.03' W. long., to a point on the southwest shore of Tongass Narrows at 55º 18.63' N. lat., 131º 35.20' W. long., and east of a line from the southernmost tip of Gravina Point located on the southeast shore of Gravina Island to the northernmost tip of Walden Point located on the northeast tip of Annette Island, except that from 12:01 a.m. July 1 through 11:59 p.m. July 31, the waters of Carroll Inlet south of 55º 24.27' N. lat. are included in the Herring Bay Troll Terminal Harvest Area.",
+   "points": [
+    {
+     "name": "George Inlet southern boundary",
+     "lat_dm": "55º 20.80' N. lat.",
+     "lon_dm": null
+    },
+    {
+     "name": "point on the southeastern shore of Gravina Island",
+     "lat_dm": "55º 17.65' N. lat.",
+     "lon_dm": "131º 37.03' W. long."
+    },
+    {
+     "name": "point on the southwest shore of Tongass Narrows",
+     "lat_dm": "55º 18.63' N. lat.",
+     "lon_dm": "131º 35.20' W. long."
+    },
+    {
+     "name": "easternmost tip of Carroll Point",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "Spire Island light on the eastern shore of Annette Island",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "southernmost tip of California Head",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "southernmost tip of Gravina Point",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "northernmost tip of Walden Point",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": "Recorded under the name the SECTION TITLE uses -- 5 AAC 33.369 is titled \"District 1: Herring Bay Terminal Harvest Area Salmon Management Plan\" -- because the announcements are titled \"Herring Bay Terminal Harvest Area Troll Fishery\" while the area's name INSIDE subsection (b) is \"Herring Bay Troll Terminal Harvest Area\", and the existing entry filed under that internal name was not being found. Same section, same subsection, same coordinates as the entry already held in raw/se_reg_closed_waters.json; the full verbatim sentence, which that entry could not capture, is now recorded and was reproduced WORD FOR WORD IDENTICALLY by Cornell LII and Justia. THE JULY-ONLY EXTENSION IS DELIBERATELY OMITTED FROM THE POINT LIST: subsection (b) adds the waters of Carroll Inlet south of 55º 24.27' N. lat. ONLY from 12:01 a.m. July 1 through 11:59 p.m. July 31. That latitude is in the verbatim text but is not carried as a point, so the extent computed from this entry does not extend north into Carroll Inlet outside July. THIS IS THE TROLL AREA. Do not use it for a personal use opening -- the personal use area is subsection (c) and is smaller. Five of the eight boundary elements are named landmarks for which the regulation prints no coordinate (Carroll Point, Spire Island light, California Head, Gravina Point, Walden Point); they are recorded with null coordinates and must not be inferred."
+  },
+  {
+   "kind": "tha",
+   "name": "Herring Bay Special Harvest Area - Ketchikan",
+   "parent": "District 1",
+   "citation": "5 AAC 40.041(a)",
+   "text": "There is established a Herring Bay Special Harvest Area for the Southern Southeast Regional Aquaculture Association Whitman Lake Hatchery, consisting of the waters of Herring Creek and Cove bound by the hatchery water outlet and a line from a point of land on George Inlet at the east side of Lot 39, USS 3397, bearing 18º 12' to a point of land on the southern edge of Lot 91, USS 2403.",
+   "points": [
+    {
+     "name": "hatchery water outlet",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "point of land on George Inlet at the east side of Lot 39, USS 3397",
+     "lat_dm": null,
+     "lon_dm": null
+    },
+    {
+     "name": "point of land on the southern edge of Lot 91, USS 2403",
+     "lat_dm": null,
+     "lon_dm": null
+    }
+   ],
+   "verified_twice": true,
+   "notes": "NO LATITUDE OR LONGITUDE. The only degrees figure in this section, 18º 12', is a BEARING, not a coordinate -- it is the compass bearing of the closing line. The line's endpoints are given as US Survey lot corners (Lot 39, USS 3397 and Lot 91, USS 2403), which are cadastral references, not coordinates. This is the hatchery special harvest area and is a DIFFERENT area from the Herring Bay Troll Terminal Harvest Area at 5 AAC 33.369(b), which DOES carry coordinates and is already held. Named distinctly so the coordinate-bearing 33.369 entry stays the match for a troll opening."
+  },
+  {
+   "kind": "tha",
+   "name": "Little Port Walter",
+   "parent": "District 9",
+   "citation": "none — no special or terminal harvest area section exists in 5 AAC",
+   "text": null,
+   "points": [],
+   "verified_twice": true,
+   "notes": "NO SUCH REGULATORY AREA. There is no Little Port Walter special harvest area or terminal harvest area anywhere in 5 AAC: it is absent from the 5 AAC 40 article 2 section list (which was enumerated in full and contains 23 sections, none of them Little Port Walter), absent from 5 AAC 40.042 (the Northern Southeast Regional Aquaculture Association special harvest areas, whose subsections were listed and cover Patterson Bay, Bear Cove, Hidden Falls, Silver Bay, Deep Inlet, Mist Cove and Crawfish Inlet), and absent from 5 AAC 33.369-.389. The Armstrong-Keta Inc. Little Port Walter hatchery operates under a hatchery permit and its Basic Management Plan, which is not codified regulation. THE ONLY COORDINATE-DEFINED REGULATORY BOUNDARY FOR THAT WATER IS THE STANDING CLOSURE at 5 AAC 33.350(j)(13) -- \"Port Walter and Little Port Walter: waters west of a line from 56° 23.25' N. lat., 134° 38.20' W. long., to 56° 23.71' N. lat., 134° 38.38' W. long.\" -- which is already held in raw/se_reg_closed_waters.json. No coordinate is invented here."
+  }
+ ]
+}

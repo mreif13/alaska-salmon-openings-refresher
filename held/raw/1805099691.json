@@ -1,0 +1,53 @@
+{
+ "release_id": "1805099691",
+ "published": "2026-07-12T00:00",
+ "species": "salmon",
+ "gear": [
+  "troll"
+ ],
+ "_unparsed": [],
+ "emergency_order": "1E2026",
+ "contact": "Grant Hagerman, (907) 747-6688",
+ "title": "Neets Bay Terminal Harvest Area Commercial Troll Fishery Announcement",
+ "next_announcement": null,
+ "region": "Southeast",
+ "full_text": "Forrest Bowers, Acting Director\n\nDoug Vincent-Lang, Commissioner\n\nSitka Area Office 304 Lake Street Room 103 Sitka, AK 99835\n\nAdvisory Announcement For Immediate Release: July 12, 2026\n\nJuneau, AK 99811-5526\n\nCONTACT: Grant Hagerman Region I Commercial Troll Management Biologist grant.hagerman@alaska.gov (907) 747-6688\n\nNEETS BAY TERMINAL HARVEST AREA COMMERCIAL TROLL FISHERY ANNOUNCEMENT\n\nThe following information details the Southern Southeast Regional Aquaculture Association (SSRAA) Neets Bay Terminal Harvest Area (THA) commercial troll fishery open waters.\n\nThe Neets Bay THA will close to commercial trolling in those waters east of the Inner-Bay line at 11:59 p.m., Monday, July 13, 2026. The Inner-Bay line is described as 55°47.78′ N lat, 131°31.21′ W long, to 55°46.93′ N lat, 131°31.21′ W long (Figure 1).\n\nThese waters are being closed to allow SSRAA to collect fish for broodstock needs. Broodstock collection is scheduled to begin Tuesday, July 14.\n\nChinook Salmon Landing Restrictions for Neets Bay THA: Chinook salmon retention and possession in the Neets Bay THA is prohibited for vessels operating commercial troll gear within the THA.\n\nThe Emergency Order corresponding to this announcement is EO 1E2026.\n\nNeets Bay THA\n\nJuly 12, 2026\n\nNeets Bay THA\n\nJuly 12, 2026\n\nFigure 1. Map of Neets Bay THA.\n\nAdvisory Announcement web site: http://www.adfg.alaska.gov/index.cfm?adfg=cfnews.main.\n\nOffice\n\nKetchikan\n\nPetersburg\n\nWrangell\n\n225-5195\n\n225-5111\n\n772-3801\n\n772-3983\n\n874-3215\n\nSitka\n\n747-6688\n\n747-3254\n\nJuneau\n\n465-4250\n\n465-4000\n\nHaines\n\n766-2830\n\n766-2533\n\nYakutat\n\n784-3255\n\n784-3220",
+ "areas": [
+  {
+   "district": null,
+   "section": null,
+   "status": "partial",
+   "period_text": null,
+   "rules": [
+    {
+     "subject": "Inner-Bay line",
+     "status": "closed",
+     "side": null,
+     "geometry": "line",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": "55°47.78′ N",
+       "lon_dm": "131°31.21′ W"
+      },
+      {
+       "name": null,
+       "lat_dm": "55°46.93′ N",
+       "lon_dm": "131°31.21′ W"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "district": null,
+   "section": null,
+   "status": "closed",
+   "period_text": "The Neets Bay THA will close to commercial trolling in those waters east of the Inner-Bay line at 11:59 p.m., Monday, July 13, 2026.",
+   "region_wide": false,
+   "tha_pocket": "Neets Bay",
+   "rules": []
+  }
+ ],
+ "_parser": "9d390c40"
+}

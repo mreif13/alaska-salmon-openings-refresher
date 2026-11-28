@@ -1,0 +1,146 @@
+{
+ "release_id": "1828137209",
+ "title": "Kuskokwim River Salmon Fishery Announcement #6",
+ "published": "2026-08-20T12:00",
+ "region": "Kuskokwim",
+ "gear": [
+  "gillnet",
+  "fishwheel",
+  "beach seine",
+  "dipnet",
+  "hook and line"
+ ],
+ "species": "salmon",
+ "emergency_order": "3-S-WR-05-26",
+ "contact": "Sam Decker, Madison Hardwig, Kuskokwim Area Management Biologists, (907) 543-2433; (907) 459-7295",
+ "next_announcement": "Further announcements will be made from the Bethel Fish and Game office, on the State of Alaska web site (http://www.adfg.alaska.gov/index.cfm?adfg=cfnews.main), and local radio stations.",
+ "areas": [
+  {
+   "district": "Kuskokwim River",
+   "section": "Subsistence Section 4",
+   "status": "partial",
+   "period_text": "Effective 5:00 pm, Friday, August 21 to 5:00 pm, Friday, August 28th.",
+   "rules": [
+    {
+     "subject": "Subsistence Section 4 boundary (Yukon Delta NWR boundary near Aniak upriver to ADF&G markers downstream of the Holitna River mouth)",
+     "status": "closed",
+     "geometry": "river_reach",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Subsistence Section 4 : From a line between the regulatory markers at the Yukon Delta National Wildlife Refuge boundary near Aniak upriver to a line formed by ADF&G regulatory markers located downstream of the Holitna River mouth; including the communities of Chuathbaluk, Crooked Creek, Georgetown, Red Devil and Sleetmute:"
+    },
+    {
+     "subject": "subsistence coho salmon fishing, Section 4",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Subsistence fishing for coho is closed."
+    },
+    {
+     "subject": "gillnets in all flowing waters of Section 4 and tributaries",
+     "status": "closed",
+     "geometry": "river_reach",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Gillnets are closed in all flowing waters of Sections 4 and tributaries that flow into it."
+    },
+    {
+     "subject": "selective gears (fishwheels, beach seines, dipnets, hook and line)",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Selective gears (Fishwheels, beach seines, dipnets and hook and line) are allowed to target whitefish, sheefish, pike and non-coho salmon."
+    },
+    {
+     "subject": "coho salmon incidentally caught in selective gears",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "All coho salmon caught in these gears must be immediately returned to the waters alive."
+    },
+    {
+     "subject": "all other fish species",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "All other fish may be retained."
+    }
+   ]
+  },
+  {
+   "district": "Kuskokwim River",
+   "section": "Section 5",
+   "status": "partial",
+   "period_text": "Effective 5:00 pm, Friday, August 28th 5:00pm through 5:00 pm, Friday, Sept 4th.",
+   "rules": [
+    {
+     "subject": "Section 5 boundary (ADF&G markers downstream of the Holitna River mouth to the headwaters of the Kuskokwim River)",
+     "status": "closed",
+     "geometry": "river_reach",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Section 5: from a line between ADF&G regulatory markers located downstream of the Holitna River mouth to the headwaters of the Kuskokwim River; including the communities of Stony River, McGrath, Nikolai and Takotna."
+    },
+    {
+     "subject": "subsistence coho salmon fishing, Section 5",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Subsistence fishing for coho is closed."
+    },
+    {
+     "subject": "gillnets in all flowing waters of Section 5 and tributaries",
+     "status": "closed",
+     "geometry": "river_reach",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Gillnets are closed in all flowing waters of Sections 5 and tributaries that flow into it."
+    },
+    {
+     "subject": "selective gears (fishwheels, beach seines, dipnets, hook and line)",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Selective gears (Fishwheels, beach seines, dipnets and hook and line) are allowed to target whitefish, sheefish, pike and non-coho salmon."
+    },
+    {
+     "subject": "coho salmon incidentally caught in selective gears",
+     "status": "closed",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "All coho salmon caught in these gears must be immediately returned to the waters alive."
+    },
+    {
+     "subject": "all other fish species",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "All other fish may be retained."
+    }
+   ]
+  }
+ ],
+ "full_text": "Forrest Bowers, Acting Director\n\nDoug Vincent-Lang, Commissioner\n\nKuskokwim Area Office Bethel, AK 99559\n\nAdvisory Announcement For Immediate Release: August 20, 2026 Time: 12:00 p.m.\n\nJuneau, AK 99811-5526\n\nCONTACT: Sam Decker, Madison Hardwig Kuskokwim Area Management Biologists (907) 543-2433 (907) 459-7295\n\nKuskokwim River Salmon Fishery Announcement #6\n\nEmergency Order #3-S-WR-05-26\n\nThis is an announcement from the Alaska Department of Fish and Game (ADF&G) in Bethel for subsistence fishermen in the Kuskokwim River drainage.\n\nAs of August 19th, cumulative coho salmon passage at the Kuskokwim River sonar is approximately 156,000 fish, which is below the average passage of approximately 233,000 fish for this date. As of August 16th, approximately 112 coho salmon have been counted at the Kogrukluk weir, which is below average for this date. The Kogrukluk River weir has a sustainable escapement goal of 13,000-28,000 coho salmon.\n\nEscapement goals are developed using historical run strength data. It is the department’s objective to achieve escapement goals, which ensure sustainable coho salmon runs in the future. The Kuskokwim River amount necessary for subsistence (ANS), as determined by the Board of Fisheries and the public process, is 27,400-57,600 coho salmon. It is unlikely that harvest will meet ANS this year. Given the below average coho salmon passage at the Kuskokwim River sonar, it is warranted to take action to reduce subsistence harvest of coho salmon to achieve the established escapement goal.\n\nThe Kuskokwim River sonar will continue operating through the end of August and the Kogrukluk River weir will operate through mid-September. ADF&G will continue to evaluate the coho salmon run and seek consultation from the Kuskokwim River Salmon Management Working Group. Subsistence fishers should stand by for further announcements as the coho salmon run develops. If abundances increase to levels likely to achieve escapement goals, then restrictions to subsistence harvest opportunities may be liberalized.\n\nSubsistence Section 4 : From a line between the regulatory markers at the Yukon Delta National Wildlife Refuge boundary near Aniak upriver to a line formed by ADF&G regulatory markers located downstream of the Holitna River mouth; including the communities of Chuathbaluk, Crooked Creek, Georgetown, Red Devil and Sleetmute:\n\nEffective 5:00 pm, Friday, August 21 to 5:00 pm, Friday, August 28th.\n\n• Subsistence fishing for coho is closed. • Gillnets are closed in all flowing waters of Sections 4 and tributaries that flow into it. • Selective gears (Fishwheels, beach seines, dipnets and hook and line) are allowed to target whitefish,\n\nsheefish, pike and non-coho salmon.\n\n• All coho salmon caught in these gears must be immediately returned to the waters alive. • All other fish may be retained.\n\nSection 5: from a line between ADF&G regulatory markers located downstream of the Holitna River mouth to the headwaters of the Kuskokwim River; including the communities of Stony River, McGrath, Nikolai and Takotna. Effective 5:00 pm, Friday, August 28th 5:00pm through 5:00 pm, Friday, Sept 4th.\n\n• Subsistence fishing for coho is closed. • Gillnets are closed in all flowing waters of Sections 5 of the Kuskokwim River and tributaries that flow\n\ninto it.\n\n• Selective gears (Fishwheels, beach seines, dipnets and hook and line) are allowed to target whitefish,\n\nsheefish, pike and non-coho salmon.\n\n• All coho salmon caught in these gears must be immediately returned to the waters alive. • All other fish may be retained.\n\n07.365 Kuskokwim River Salmon Management Plan. The plan provides management direction to achieve salmon run abundance large enough to meet escapement goals and provide for sustainable fishing in the long-term. Kuskokwim River salmon stocks shall be managed in a conservative manner consistent with the Policy for the Management of Sustainable Salmon Fisheries under 5 AAC 39.222 to meet escapement goals and the subsistence harvest priority on the identified surplus.\n\nKuskokwim River Salmon Working Group: The next Working Group meeting will be held Wednesday August 26th at 10:00 am and meetings are open to the public. Please call 1-888-788-0099, meeting ID 816-6267-8969 #, passcode: 849-016 #, to attend via teleconference or visit our office at 570 4th Avenue, Bethel, Alaska.\n\nFurther announcements will be made from the Bethel Fish and Game office, on the State of Alaska web site (http://www.adfg.alaska.gov/index.cfm?adfg=cfnews.main), and local radio stations. Advisory Announcements will be faxed to area villages. For additional information or questions regarding Kuskokwim Area fisheries, contact the Alaska Department of Fish and Game office in the Bethel at 543-2433 or toll free at 1-855-933-2433.\n\nFor additional information concerning this advisory announcement:\n\n-end-",
+ "_parser": "9d390c40",
+ "_parser_kept": "new parse placed 0 where the old placed 2"
+}

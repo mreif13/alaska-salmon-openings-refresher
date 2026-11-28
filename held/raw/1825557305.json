@@ -1,0 +1,392 @@
+{
+ "release_id": "1825557305",
+ "title": "Deep Inlet Terminal Harvest Area Fishery Announcement",
+ "published": "2026-08-13T00:00",
+ "region": "Southeast",
+ "gear": [
+  "purse seine",
+  "drift gillnet",
+  "troll"
+ ],
+ "species": "salmon",
+ "emergency_order": "1E2826",
+ "contact": "Aaron Dupuis, (907) 747-6688",
+ "next_announcement": null,
+ "areas": [
+  {
+   "district": null,
+   "section": null,
+   "status": "partial",
+   "period_text": "Unless modified by subsequent advisory announcement, salmon may be taken in the Deep Inlet THA from Saturday, August 15, through Sunday, September 20, 2026, as follows: Purse Seine — From August 15 through September 20, the purse seine fishery will be open from 6:00 a.m. to 9:00 p.m., Sunday, Thursday, and Friday of each week.",
+   "rules": [
+    {
+     "subject": "Deep Inlet THA boundary",
+     "status": "open",
+     "geometry": "line",
+     "side": "south",
+     "points": [
+      {
+       "name": "a point west of Pirate Cove",
+       "lat_dm": "56°59.35′ N",
+       "lon_dm": "135°22.63′ W"
+      },
+      {
+       "name": "the westernmost tip of Long Island",
+       "lat_dm": "56°59.98′ N",
+       "lon_dm": "135°21.93′ W"
+      },
+      {
+       "name": "the easternmost tip of Long Island",
+       "lat_dm": "56°59.95′ N",
+       "lon_dm": "135°20.37′ W"
+      },
+      {
+       "name": "the westernmost tip of Emgeten Island",
+       "lat_dm": "57°00.08′ N",
+       "lon_dm": "135°20.01′ W"
+      },
+      {
+       "name": "the westernmost tip of Error Island",
+       "lat_dm": "57°00.54′ N",
+       "lon_dm": "135°19.50′ W"
+      },
+      {
+       "name": "the westernmost tip of Berry Island",
+       "lat_dm": "57°00.32′ N",
+       "lon_dm": "135°18.68′ W"
+      },
+      {
+       "name": "the southernmost tip of Berry Island",
+       "lat_dm": "57°00.28′ N",
+       "lon_dm": "135°18.52′ W"
+      },
+      {
+       "name": "the westernmost tip of the southernmost island in the Kutchuma Island group",
+       "lat_dm": "57°00.14′ N",
+       "lon_dm": "135°18.27′ W"
+      },
+      {
+       "name": "the easternmost tip of the southernmost island in the Kutchuma Island group",
+       "lat_dm": "57°00.06′ N",
+       "lon_dm": "135°17.95′ W"
+      },
+      {
+       "name": "the westernmost tip of an unnamed island",
+       "lat_dm": "57°00.29′ N",
+       "lon_dm": "135°17.66′ W"
+      },
+      {
+       "name": "a point on the southern side of the unnamed island",
+       "lat_dm": "57°00.07′ N",
+       "lon_dm": "135°16.80′ W"
+      },
+      {
+       "name": "a point on the Baranof Island Shore",
+       "lat_dm": "56°59.93′ N",
+       "lon_dm": "135°16.53′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "Deep Inlet THA: Deep Inlet, Aleutkina Bay, and contiguous waters south of a line from a point west of Pirate Cove at 56°59.35′ N lat, 135°22.63′ W long to the westernmost tip of Long Island at 56°59.98′ N lat, 135°21.93′ W long to the easternmost tip of Long Island at 56°59.95′ N lat, 135°20.37′ W long to the westernmost tip of Emgeten Island at 57°00.08′ N lat, 135°20.01′ W long to the westernmost tip of Error Island at 57°00.54′ N lat, 135°19.50′ W long to the westernmost tip of Berry Island at 57°00.32′ N lat, 135°18.68′ W long to the southernmost tip of Berry Island at 57°00.28′ N lat, 135°18.52′ W long to the westernmost tip of the southernmost island in the Kutchuma Island group at 57°00.14′ N lat, 135°18.27′ W long to the easternmost tip of the southernmost island in the Kutchuma Island group at 57°00.06′ N lat, 135°17.95′ W long to the westernmost tip of an unnamed island at 57°00.29′ N lat, 135°17.66′ W long to a point on the southern side of the unnamed island at 57°00.07′ N lat, 135°16.80′ W long to a point on the Baranof Island Shore at 56°59.93′ N lat, 135°16.53′ W long."
+    },
+    {
+     "subject": "Sandy Cove",
+     "status": "closed",
+     "geometry": "lat_cutoff",
+     "side": "south",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": "56°59.05′ N",
+       "lon_dm": null
+      }
+     ],
+     "distance_nmi": null,
+     "text": "Sandy Cove: all waters south of 56°59.05′ N lat will be closed to purse seine and drift gillnet gear."
+    },
+    {
+     "subject": "Deep Inlet THA salmon streams",
+     "status": "closed",
+     "geometry": "river_reach",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Deep Inlet THA salmon streams: no restrictions will be in effect for Deep Inlet THA salmon streams (all freshwaters and stream channels remain closed)."
+    },
+    {
+     "subject": "Deep Inlet THA reopening",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Deep Inlet Terminal Harvest Area (THA) will reopen to all common property commercial salmon fisheries effective 12:01 a.m., Saturday, August 15, 2026."
+    },
+    {
+     "subject": "Mandatory salmon retention (5 AAC 39.265)",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "By emergency order issued under 5 AAC 39.265, harvesters participating in purse seine and drift gillnet fisheries in the Deep Inlet THA are required to retain all salmon harvested."
+    },
+    {
+     "subject": "Chinook salmon landing restrictions",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Chinook Salmon Landing Restrictions for the Deep Inlet THA: Purse seine and drift gillnet fishermen must retain all Chinook salmon harvested in the Deep Inlet THA. Chinook salmon of any size harvested by both purse seine and drift gillnet fishermen may be sold. Troll fishermen may only retain and sell Chinook salmon greater than 28 inches."
+    }
+   ]
+  },
+  {
+   "district": null,
+   "section": null,
+   "status": "partial",
+   "period_text": "Unless modified by subsequent advisory announcement, salmon may be taken in the Deep Inlet THA from Saturday, August 15, through Sunday, September 20, 2026, as follows: Drift Gillnet — From August 15 through September 20, the drift gillnet fishery will be open from 6:00 a.m. to 9:00 p.m., Monday, Tuesday, and Wednesday of each week.",
+   "rules": [
+    {
+     "subject": "Deep Inlet THA boundary",
+     "status": "open",
+     "geometry": "line",
+     "side": "south",
+     "points": [
+      {
+       "name": "a point west of Pirate Cove",
+       "lat_dm": "56°59.35′ N",
+       "lon_dm": "135°22.63′ W"
+      },
+      {
+       "name": "the westernmost tip of Long Island",
+       "lat_dm": "56°59.98′ N",
+       "lon_dm": "135°21.93′ W"
+      },
+      {
+       "name": "the easternmost tip of Long Island",
+       "lat_dm": "56°59.95′ N",
+       "lon_dm": "135°20.37′ W"
+      },
+      {
+       "name": "the westernmost tip of Emgeten Island",
+       "lat_dm": "57°00.08′ N",
+       "lon_dm": "135°20.01′ W"
+      },
+      {
+       "name": "the westernmost tip of Error Island",
+       "lat_dm": "57°00.54′ N",
+       "lon_dm": "135°19.50′ W"
+      },
+      {
+       "name": "the westernmost tip of Berry Island",
+       "lat_dm": "57°00.32′ N",
+       "lon_dm": "135°18.68′ W"
+      },
+      {
+       "name": "the southernmost tip of Berry Island",
+       "lat_dm": "57°00.28′ N",
+       "lon_dm": "135°18.52′ W"
+      },
+      {
+       "name": "the westernmost tip of the southernmost island in the Kutchuma Island group",
+       "lat_dm": "57°00.14′ N",
+       "lon_dm": "135°18.27′ W"
+      },
+      {
+       "name": "the easternmost tip of the southernmost island in the Kutchuma Island group",
+       "lat_dm": "57°00.06′ N",
+       "lon_dm": "135°17.95′ W"
+      },
+      {
+       "name": "the westernmost tip of an unnamed island",
+       "lat_dm": "57°00.29′ N",
+       "lon_dm": "135°17.66′ W"
+      },
+      {
+       "name": "a point on the southern side of the unnamed island",
+       "lat_dm": "57°00.07′ N",
+       "lon_dm": "135°16.80′ W"
+      },
+      {
+       "name": "a point on the Baranof Island Shore",
+       "lat_dm": "56°59.93′ N",
+       "lon_dm": "135°16.53′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "Deep Inlet THA: Deep Inlet, Aleutkina Bay, and contiguous waters south of a line from a point west of Pirate Cove at 56°59.35′ N lat, 135°22.63′ W long to the westernmost tip of Long Island at 56°59.98′ N lat, 135°21.93′ W long to the easternmost tip of Long Island at 56°59.95′ N lat, 135°20.37′ W long to the westernmost tip of Emgeten Island at 57°00.08′ N lat, 135°20.01′ W long to the westernmost tip of Error Island at 57°00.54′ N lat, 135°19.50′ W long to the westernmost tip of Berry Island at 57°00.32′ N lat, 135°18.68′ W long to the southernmost tip of Berry Island at 57°00.28′ N lat, 135°18.52′ W long to the westernmost tip of the southernmost island in the Kutchuma Island group at 57°00.14′ N lat, 135°18.27′ W long to the easternmost tip of the southernmost island in the Kutchuma Island group at 57°00.06′ N lat, 135°17.95′ W long to the westernmost tip of an unnamed island at 57°00.29′ N lat, 135°17.66′ W long to a point on the southern side of the unnamed island at 57°00.07′ N lat, 135°16.80′ W long to a point on the Baranof Island Shore at 56°59.93′ N lat, 135°16.53′ W long."
+    },
+    {
+     "subject": "Sandy Cove",
+     "status": "closed",
+     "geometry": "lat_cutoff",
+     "side": "south",
+     "points": [
+      {
+       "name": null,
+       "lat_dm": "56°59.05′ N",
+       "lon_dm": null
+      }
+     ],
+     "distance_nmi": null,
+     "text": "Sandy Cove: all waters south of 56°59.05′ N lat will be closed to purse seine and drift gillnet gear."
+    },
+    {
+     "subject": "Deep Inlet THA salmon streams",
+     "status": "closed",
+     "geometry": "river_reach",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Deep Inlet THA salmon streams: no restrictions will be in effect for Deep Inlet THA salmon streams (all freshwaters and stream channels remain closed)."
+    },
+    {
+     "subject": "Deep Inlet THA reopening",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Deep Inlet Terminal Harvest Area (THA) will reopen to all common property commercial salmon fisheries effective 12:01 a.m., Saturday, August 15, 2026."
+    },
+    {
+     "subject": "Mandatory salmon retention (5 AAC 39.265)",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "By emergency order issued under 5 AAC 39.265, harvesters participating in purse seine and drift gillnet fisheries in the Deep Inlet THA are required to retain all salmon harvested."
+    },
+    {
+     "subject": "Chinook salmon landing restrictions",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Chinook Salmon Landing Restrictions for the Deep Inlet THA: Purse seine and drift gillnet fishermen must retain all Chinook salmon harvested in the Deep Inlet THA. Chinook salmon of any size harvested by both purse seine and drift gillnet fishermen may be sold. Troll fishermen may only retain and sell Chinook salmon greater than 28 inches."
+    }
+   ]
+  },
+  {
+   "district": null,
+   "section": null,
+   "status": "partial",
+   "period_text": "Unless modified by subsequent advisory announcement, salmon may be taken in the Deep Inlet THA from Saturday, August 15, through Sunday, September 20, 2026, as follows: Troll — From August 15 through September 20, the troll fishery will be open from 12:01 a.m. to 11:59 p.m., Saturday of each week and during those periods the net fisheries are closed.",
+   "rules": [
+    {
+     "subject": "Deep Inlet THA boundary",
+     "status": "open",
+     "geometry": "line",
+     "side": "south",
+     "points": [
+      {
+       "name": "a point west of Pirate Cove",
+       "lat_dm": "56°59.35′ N",
+       "lon_dm": "135°22.63′ W"
+      },
+      {
+       "name": "the westernmost tip of Long Island",
+       "lat_dm": "56°59.98′ N",
+       "lon_dm": "135°21.93′ W"
+      },
+      {
+       "name": "the easternmost tip of Long Island",
+       "lat_dm": "56°59.95′ N",
+       "lon_dm": "135°20.37′ W"
+      },
+      {
+       "name": "the westernmost tip of Emgeten Island",
+       "lat_dm": "57°00.08′ N",
+       "lon_dm": "135°20.01′ W"
+      },
+      {
+       "name": "the westernmost tip of Error Island",
+       "lat_dm": "57°00.54′ N",
+       "lon_dm": "135°19.50′ W"
+      },
+      {
+       "name": "the westernmost tip of Berry Island",
+       "lat_dm": "57°00.32′ N",
+       "lon_dm": "135°18.68′ W"
+      },
+      {
+       "name": "the southernmost tip of Berry Island",
+       "lat_dm": "57°00.28′ N",
+       "lon_dm": "135°18.52′ W"
+      },
+      {
+       "name": "the westernmost tip of the southernmost island in the Kutchuma Island group",
+       "lat_dm": "57°00.14′ N",
+       "lon_dm": "135°18.27′ W"
+      },
+      {
+       "name": "the easternmost tip of the southernmost island in the Kutchuma Island group",
+       "lat_dm": "57°00.06′ N",
+       "lon_dm": "135°17.95′ W"
+      },
+      {
+       "name": "the westernmost tip of an unnamed island",
+       "lat_dm": "57°00.29′ N",
+       "lon_dm": "135°17.66′ W"
+      },
+      {
+       "name": "a point on the southern side of the unnamed island",
+       "lat_dm": "57°00.07′ N",
+       "lon_dm": "135°16.80′ W"
+      },
+      {
+       "name": "a point on the Baranof Island Shore",
+       "lat_dm": "56°59.93′ N",
+       "lon_dm": "135°16.53′ W"
+      }
+     ],
+     "distance_nmi": null,
+     "text": "Deep Inlet THA: Deep Inlet, Aleutkina Bay, and contiguous waters south of a line from a point west of Pirate Cove at 56°59.35′ N lat, 135°22.63′ W long to the westernmost tip of Long Island at 56°59.98′ N lat, 135°21.93′ W long to the easternmost tip of Long Island at 56°59.95′ N lat, 135°20.37′ W long to the westernmost tip of Emgeten Island at 57°00.08′ N lat, 135°20.01′ W long to the westernmost tip of Error Island at 57°00.54′ N lat, 135°19.50′ W long to the westernmost tip of Berry Island at 57°00.32′ N lat, 135°18.68′ W long to the southernmost tip of Berry Island at 57°00.28′ N lat, 135°18.52′ W long to the westernmost tip of the southernmost island in the Kutchuma Island group at 57°00.14′ N lat, 135°18.27′ W long to the easternmost tip of the southernmost island in the Kutchuma Island group at 57°00.06′ N lat, 135°17.95′ W long to the westernmost tip of an unnamed island at 57°00.29′ N lat, 135°17.66′ W long to a point on the southern side of the unnamed island at 57°00.07′ N lat, 135°16.80′ W long to a point on the Baranof Island Shore at 56°59.93′ N lat, 135°16.53′ W long."
+    },
+    {
+     "subject": "Deep Inlet THA salmon streams",
+     "status": "closed",
+     "geometry": "river_reach",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Deep Inlet THA salmon streams: no restrictions will be in effect for Deep Inlet THA salmon streams (all freshwaters and stream channels remain closed)."
+    },
+    {
+     "subject": "Deep Inlet THA reopening",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "The Deep Inlet Terminal Harvest Area (THA) will reopen to all common property commercial salmon fisheries effective 12:01 a.m., Saturday, August 15, 2026."
+    },
+    {
+     "subject": "Chinook salmon landing restrictions",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Chinook Salmon Landing Restrictions for the Deep Inlet THA: Purse seine and drift gillnet fishermen must retain all Chinook salmon harvested in the Deep Inlet THA. Chinook salmon of any size harvested by both purse seine and drift gillnet fishermen may be sold. Troll fishermen may only retain and sell Chinook salmon greater than 28 inches."
+    },
+    {
+     "subject": "Statistical area reporting (troll)",
+     "status": "open",
+     "geometry": "other",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Trollers are reminded that all fish retained within the boundaries of the Deep Inlet THA listed below must be reported as being harvested in statistical area 113-38."
+    }
+   ]
+  }
+ ],
+ "full_text": "Forrest Bowers, Acting Director\n\nDoug Vincent-Lang, Commissioner\n\nSitka Area Office 304 Lake Street, Room 103 Sitka, AK 99833\n\nAdvisory Announcement For Immediate Release: August 13, 2026\n\nJuneau, AK 99811-5526\n\nCONTACT: Aaron Dupuis Sitka Area Management Biologist aaron.dupuis@alaska.gov (907) 747-6688\n\nDEEP INLET TERMINAL HARVEST AREA FISHERY ANNOUNCEMENT\n\nThe Deep Inlet Terminal Harvest Area (THA) will reopen to all common property commercial salmon fisheries effective 12:01 a.m., Saturday, August 15, 2026.\n\nUnless modified by subsequent advisory announcement, salmon may be taken in the Deep Inlet THA from Saturday, August 15, through Sunday, September 20, 2026, as follows:\n\nPurse Seine\n\n• From August 15 through September 20, the purse seine fishery will be open from 6:00 a.m. to 9:00 p.m., Sunday,\n\nThursday, and Friday of each week.\n\nDrift Gillnet\n\n• From August 15 through September 20, the drift gillnet fishery will be open from 6:00 a.m. to 9:00 p.m.,\n\nMonday, Tuesday, and Wednesday of each week.\n\nTroll\n\n• From August 15 through September 20, the troll fishery will be open from 12:01 a.m. to 11:59 p.m., Saturday\n\nof each week and during those periods the net fisheries are closed.\n\nTrollers are reminded that all fish retained within the boundaries of the Deep Inlet THA listed below must be reported as being harvested in statistical area 113-38.\n\nThe Deep Inlet THA is described as follows:\n\nDeep Inlet THA: Deep Inlet, Aleutkina Bay, and contiguous waters south of a line from a point west of Pirate Cove at 56°59.35′ N lat, 135°22.63′ W long to the westernmost tip of Long Island at 56°59.98′ N lat, 135°21.93′ W long to the easternmost tip of Long Island at 56°59.95′ N lat, 135°20.37′ W long to the westernmost tip of Emgeten Island at 57°00.08′ N lat, 135°20.01′ W long to the westernmost tip of Error Island at 57°00.54′ N lat, 135°19.50′ W long to the westernmost tip of Berry Island at 57°00.32′ N lat, 135°18.68′ W long to the southernmost tip of Berry Island at 57°00.28′ N lat, 135°18.52′ W long to the westernmost tip of the southernmost island in the Kutchuma Island group at 57°00.14′ N lat, 135°18.27′ W long to the easternmost tip of the southernmost island in the Kutchuma Island group at 57°00.06′ N lat, 135°17.95′ W long to the westernmost tip of an unnamed island at 57°00.29′ N lat, 135°17.66′ W long to a point on the southern side of the unnamed island at 57°00.07′ N lat, 135°16.80′ W long to a point on the Baranof Island Shore at 56°59.93′ N lat, 135°16.53′ W long. with the following restrictions:\n\nSandy Cove: all waters south of 56°59.05′ N lat will be closed to purse seine and drift gillnet gear.\n\nDeep Inlet THA salmon streams: no restrictions will be in effect for Deep Inlet THA salmon streams (all freshwaters and stream channels remain closed).\n\nDeep Inlet THA\n\nAugust 13, 2026\n\nDeep Inlet THA\n\nAugust 13, 2026\n\nBy emergency order issued under 5 AAC 39.265, harvesters participating in purse seine and drift gillnet fisheries in the Deep Inlet THA are required to retain all salmon harvested.\n\nFishermen, tenders, and processors are reminded that all salmon, including steelhead, commercially harvested but retained for personal use and not sold, must be reported on fish tickets at the time of delivery.\n\nFishermen are advised that if they have fish on board from other fishing areas outside of the Deep Inlet THA, they should keep them separate for reporting and sampling purposes.\n\nChinook Salmon Landing Restrictions for the Deep Inlet THA: Purse seine and drift gillnet fishermen must retain all Chinook salmon harvested in the Deep Inlet THA. Chinook salmon of any size harvested by both purse seine and drift gillnet fishermen may be sold. Troll fishermen may only retain and sell Chinook salmon greater than 28 inches.\n\nTo reduce conflicts with private landowners, NSRAA is requesting that all fishing vessels and tenders not anchor, use highintensity lights, or tender fish near Berry Island within the Deep Inlet THA; additionally, NSRAA requests that vessels use no-wake speeds when entering Deep Inlet via Silver Point. Additional information and a chart of preferred anchorage areas is available from the NSRAA office or online at https://www.nsraa.org/.\n\nThe Emergency Order corresponding with this announcement is EO 1E2826.\n\nAdvisory Announcement web site: http://www.adfg.alaska.gov/index.cfm?adfg=cfnews.main.\n\nOffice\n\nKetchikan\n\nPetersburg\n\nWrangell\n\n225-5195\n\n225-5111\n\n772-3801\n\n772-3983\n\n874-3215\n\nSitka\n\n747-6688\n\n747-3254\n\nJuneau\n\n465-4250\n\n465-4000\n\nHaines\n\n766-2830\n\n766-2533\n\nYakutat\n\n784-3255\n\n784-3220",
+ "_parser": "9d390c40",
+ "_parser_kept": "new parse would open what the old kept closed or partial: a region-wide opening"
+}

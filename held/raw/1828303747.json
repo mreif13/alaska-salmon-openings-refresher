@@ -1,0 +1,27 @@
+{
+ "release_id": "1828303747",
+ "published": "2026-08-20T00:00",
+ "species": "salmon",
+ "gear": null,
+ "_unparsed": [
+  "no coordinate rules parsed"
+ ],
+ "emergency_order": "1E2926",
+ "contact": "Bo Meredith, (907) 225-5195",
+ "title": "2026 Neets Bay Terminal Harvest Area Fisheries Announcement",
+ "next_announcement": null,
+ "region": "Southeast",
+ "full_text": "Forrest Bowers, Acting Director\n\nDoug Vincent-Lang, Commissioner\n\nKetchikan Area Office 2030 Sea Level Drive, Suite 205 Ketchikan, AK 99901\n\nAdvisory Announcement For Immediate Release: August 20, 2026\n\nJuneau, AK 99811-5526\n\nCONTACT: Bo Meredith Ketchikan Area Management Biologist bo.meredith@alaska.gov (907) 225-5195\n\n2026 NEETS BAY TERMINAL HARVEST AREA FISHERIES ANNOUNCEMENT\n\nThe Neets Bay Terminal Harvest Area will close to rotational net fisheries beginning at 5:01 a.m., Friday, August 21, 2026. The Southern Southeast Regional Aquaculture Association has begun securing coho salmon broodstock at the Neets Bay release site.\n\nThe Emergency Order corresponding to this announcement is EO 1E2926.\n\nAdvisory Announcement web site: http://www.adfg.alaska.gov/index.cfm?adfg=cfnews.main.\n\nOffice\n\nKetchikan\n\nPetersburg\n\nWrangell\n\n225-5195\n\n225-5111\n\n772-3801\n\n772-3983\n\n874-3215\n\nSitka\n\n747-6688\n\n747-3254\n\nJuneau\n\n465-4250\n\n465-4000\n\nHaines\n\n766-2830\n\n766-2533\n\nYakutat\n\n784-3255\n\n784-3220\n\nNeets Bay THA\n\nAugust 20, 2026",
+ "areas": [
+  {
+   "district": null,
+   "section": null,
+   "status": "closed",
+   "period_text": "The Neets Bay Terminal Harvest Area will close to rotational net fisheries beginning at 5:01 a.m., Friday, August 21, 2026.",
+   "region_wide": false,
+   "tha_pocket": "Neets Bay",
+   "rules": []
+  }
+ ],
+ "_parser": "9d390c40"
+}

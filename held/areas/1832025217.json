@@ -1,0 +1,70 @@
+{
+ "release_id": "1832025217",
+ "region": "PWS",
+ "office": "Cordova Area Office",
+ "published": "2026-08-28T00:00",
+ "emergency_order": null,
+ "gear": [
+  "purse seine",
+  "drift gillnet"
+ ],
+ "species": "salmon",
+ "units": [
+  {
+   "name": "Copper River District",
+   "kind": "district",
+   "parent": null,
+   "status": "partial",
+   "period_text": "As previously announced, the Copper River District will open at 7:00 am on Monday, August 31 for a 12-hour commercial drift gillnet fishing period. The grass bank marker line is defined in 5 AAC 24.350(1)(A) with the exception of this year’s extension of the closure line across Little Softuk (see bold font below). This closure line is defined with the following points: Point Point Whitshed South Alaganik Slough North Pete Dahl East West Kokenhenik East “East Side” Coffee Creek East Charlie Mohr North Martin River N",
+   "rules": []
+  },
+  {
+   "name": "Bering River District",
+   "kind": "district",
+   "parent": null,
+   "status": "open",
+   "period_text": "As previously announced, the Bering River District will open at 7:00 am on Monday, August 31 for a 12-hour commercial drift gillnet fishing period. For the week ending August 29, the Bering River District survey count was 3,350 coho salmon which falls below the anticipated range of 8,732– 22,165. Harvest estimates from the 12-hour fishing period that started on Monday, August 24 were 4,200 coho salmon with 16 deliveries reported.",
+   "rules": []
+  },
+  {
+   "name": "Eshamy District",
+   "kind": "district",
+   "parent": null,
+   "status": "closed",
+   "period_text": "The Eshamy District will remain closed. Sockeye salmon passage at the Eshamy River weir continues to track below target levels and closure time is being expanded to increase escapement. The Eshamy River weir has passed 10,879 sockeye salmon through 8/27 with a cumulative target of 11,198‒24,120 fish for the date. Prince William Sound Salmon Announcement",
+   "rules": []
+  },
+  {
+   "name": "Northern District",
+   "kind": "district",
+   "parent": null,
+   "status": "partial",
+   "period_text": "Waters of the Cannery Creek Subdistrict, south of a line from 60º 56.00’ N. Lat., will open to commercial purse seine fishing for a 12-hour period, from 8:00 am until 8:00 pm, in the Northern District on Saturday, August 29. Copies of the regulation booklet, 2025-2028 Commercial Salmon Fishing Regulations for Prince William Sound, are available in the Cordova and Anchorage ADFG office. 2025-2028"
+  },
+  {
+   "name": "Cannery Creek Subdistrict",
+   "kind": "subdistrict",
+   "parent": null,
+   "status": "partial",
+   "period_text": "Waters of the Cannery Creek Subdistrict, south of a line from 60º 56.00’ N. Lat., will open to commercial purse seine fishing for a 12-hour period, from 8:00 am until 8:00 pm, in the Northern District on Saturday, August 29",
+   "rules": [
+    {
+     "status": "open",
+     "side": "south",
+     "geometry": "lat_cutoff",
+     "points": [
+      {
+       "lat_dm": "60º 56.00’ N",
+       "lon_dm": null
+      }
+     ],
+     "text": "Waters of the Cannery Creek Subdistrict, south of a line from 60º 56.00’ N. Lat., will open to commercial purse seine fishing for a 12-hour period, from 8:00 am until 8:00 pm, in the Northern District on Saturday, August 29"
+    }
+   ]
+  }
+ ],
+ "all_others_closed": false,
+ "_unparsed": [],
+ "full_text": "Forrest Bowers, Acting Director\n\nDoug Vincent-Lang, Commissioner\n\nCordova Area Office 401 Railroad Ave. Cordova, AK 99574\n\nJuneau, AK 99811-5526\n\nAdvisory Announcement For Immediate Release: August 28, 2026\n\nCONTACT: Todd Johnson and Jeremy Botz Finfish Area Management Biologists (907) 424-3212\n\nPrince William Sound Salmon Fishery Announcement #43\n\nCOPPER RIVER DISTRICT: As previously announced, the Copper River District will open at 7:00 am on Monday, August 31 for a 12-hour commercial drift gillnet fishing period.\n\nThe grass bank marker line is defined in 5 AAC 24.350(1)(A) with the exception of this year’s extension of the closure line across Little Softuk (see bold font below). This closure line is defined with the following points:\n\nPoint Point Whitshed South Alaganik Slough North Pete Dahl East West Kokenhenik East “East Side” Coffee Creek East Charlie Mohr North Martin River North Strawberry Reef Little Softuk\n\nLatitude 60° 26.49’ N. 60° 24.65’ N. 60° 20.44’ N. 60° 14.88’ N. 60° 14.83’ N. 60° 14.19’ N. 60° 15.15’ N. 60° 15.29’ N. 60° 13.93’ N. 60° 13.16’ N.\n\nLongitude 145° 52.86’ W. 145° 36.70’ W. 145° 29.14’ W. 145° 10.01’ W. 145° 03.36’ W. 144° 58.01’ W. 144° 56.43’ W. 144° 52.52’ W. 144° 50.66’ W. 144° 41.38’ W.\n\nWaters north of this line, within sloughs, and in Boswell Bay within the bay (5 AAC 24.350 (1)(A)) are closed to commercial and subsistence salmon fishing during all periods.\n\nFor the week ending August 29, the Copper River Delta survey count was 6,800 coho salmon which falls below the anticipated range of 16,147–33,807. Harvest estimates from the 12-hour fishing period that started on Monday, August 24 were 41,000 coho salmon with 188 deliveries reported. The cumulative commercial harvest to date is 4,250 Chinook, 243,000 sockeye, and 87,200 coho salmon.\n\nBERING RIVER DISTRICT: As previously announced, the Bering River District will open at 7:00 am on Monday, August 31 for a 12-hour commercial drift gillnet fishing period. For the week ending August 29, the Bering River District survey count was 3,350 coho salmon which falls below the anticipated range of 8,732– 22,165. Harvest estimates from the 12-hour fishing period that started on Monday, August 24 were 4,200 coho salmon with 16 deliveries reported.\n\nESHAMY DISTRICT: The Eshamy District will remain closed. Sockeye salmon passage at the Eshamy River weir continues to track below target levels and closure time is being expanded to increase escapement. The Eshamy River weir has passed 10,879 sockeye salmon through 8/27 with a cumulative target of 11,198‒24,120 fish for the date.\n\nPrince William Sound Salmon Announcement\n\nSEINE FISHERIES: This announcement will provide additional time and area for the period occurring in the Northern District for Saturday, August 29.\n\nNORTHERN DISTRICT: Waters of the Cannery Creek Subdistrict, south of a line from 60º 56.00’ N. Lat., will open to commercial purse seine fishing for a 12-hour period, from 8:00 am until 8:00 pm, in the Northern District on Saturday, August 29.\n\nCopies of the regulation booklet, 2025-2028 Commercial Salmon Fishing Regulations for Prince William Sound, are available in the Cordova and Anchorage ADFG office. 2025-2028 Prince William Sound Area Commercial Salmon Fishing Regulations\n\nALL buyers purchasing fish in the PWS Management Area are required to complete a Processor Registration Form. Contact the Cordova office for any questions regarding registration.\n\nThe next scheduled seine fisheries announcement is anticipated to be released by 2:00 pm on Monday, August 31.\n\nThe next scheduled gillnet salmon fisheries announcement is anticipated to be released by 2:00 pm on Wednesday, September 2.\n\nAnnouncement recordings are available for gillnet fisheries at 907-424-7535 and seine fisheries at 907-424-7345.\n\nAdditionally, announcements, inseason harvest data, and escapement data are available at the following web address: http://www.adfg.alaska.gov/index.cfm?adfg=commercialbyareapws.main (Prince William Sound and Copper River homepage).\n\nUnless otherwise specified, all openings are clock openings based on Alaska Daylight Time, which is based on Coordinated Universal Time and may be obtained by calling 303-499-7111. The department encourages commercial permit holders to renew their licenses early and to check their CFEC vessel registration stickers to make sure they are current.\n\nThe department also encourages permit holders to report observed violations to Wildlife Safeguard at 800-4783377. Reports are anonymous and cash rewards may be paid for successful prosecution of violations.\n\nPrince William Sound Salmon Announcement",
+ "_parser": "9d390c40"
+}

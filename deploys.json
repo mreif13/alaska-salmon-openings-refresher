@@ -1,0 +1,34 @@
+{
+ "started": [
+  {
+   "at": "2026-10-25T16:01:05",
+   "ok": true,
+   "why": "[cloud] published the chart (the weekly chart snapshot) to https://alaska-salmon-openings.netlify.app (deploy 6ade9867a401297e4cdc0518)"
+  },
+  {
+   "at": "2026-11-01T15:01:04",
+   "ok": true,
+   "why": "[cloud] published the chart (the weekly chart snapshot) to https://alaska-salmon-openings.netlify.app (deploy 6ae7d2edb95c9448c98ffd69)"
+  },
+  {
+   "at": "2026-11-08T15:01:04",
+   "ok": true,
+   "why": "[cloud] published the chart (the weekly chart snapshot) to https://alaska-salmon-openings.netlify.app (deploy 6af10d6c28007926c2419fbd)"
+  },
+  {
+   "at": "2026-11-15T15:01:06",
+   "ok": true,
+   "why": "[cloud] published the chart (the weekly chart snapshot) to https://alaska-salmon-openings.netlify.app (deploy 6afa47eb69825f0ddca32581)"
+  },
+  {
+   "at": "2026-11-19T14:38:15",
+   "ok": true,
+   "why": "a newer engine (3.1.3 over 3.1.1)"
+  },
+  {
+   "at": "2026-11-22T15:01:52",
+   "ok": true,
+   "why": "the weekly chart snapshot"
+  }
+ ]
+}

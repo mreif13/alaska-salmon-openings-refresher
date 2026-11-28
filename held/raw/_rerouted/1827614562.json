@@ -1,0 +1,191 @@
+{
+ "release_id": "1827614562",
+ "title": "COMMERCIAL FISHING TO OPEN IN NORTON SOUND SUBDISTRICTS 2-6",
+ "published": "2026-08-18T14:00",
+ "region": "Norton Sound",
+ "gear": [
+  "gillnet"
+ ],
+ "species": "salmon",
+ "emergency_order": "3-S-Z-11-26",
+ "contact": "Kevin Clark or Luke Henslee, Norton Sound Area Manager and Assistant Manager, (907) 443-5167 or (800) 560-2271",
+ "next_announcement": "This commercial period will continue to gauge coho salmon abundance in marine waters and maybe used to justify additional commercial periods targeting coho salmon.",
+ "areas": [
+  {
+   "district": "Subdistrict 2",
+   "section": "Golovin Subdistrict 2",
+   "status": "open",
+   "period_text": "will open to commercial salmon fishing for one 24-hour period: from 6:00 p.m. Thursday, August 20, until 6:00 p.m. Friday, August 21.",
+   "rules": [
+    {
+     "subject": "Golovin Subdistrict 2, commercial salmon gillnet fishing",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Commercial salmon gillnet fishing will open for one 24-hour period in Norton Sound Subdistricts 2–6, the Golovin, Elim, Norton Bay, Shaktoolik, and Unalakleet Subdistricts."
+    },
+    {
+     "subject": "gillnet mesh size",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "All commercial fishing periods are directed to target chum and coho salmon with gillnet mesh size restricted to 6 inches or smaller."
+    },
+    {
+     "subject": "subsistence fisheries in Golovin Subdistrict 2",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "This commercial fishing period does not affect current subsistence fisheries schedules, restrictions, or closures."
+    }
+   ]
+  },
+  {
+   "district": "Subdistrict 3",
+   "section": "Elim Subdistrict 3",
+   "status": "open",
+   "period_text": "will open to commercial salmon fishing for one 24-hour period: from 6:00 p.m. Thursday, August 20, until 6:00 p.m. Friday, August 21.",
+   "rules": [
+    {
+     "subject": "Elim Subdistrict 3, commercial salmon gillnet fishing",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Commercial salmon gillnet fishing will open for one 24-hour period in Norton Sound Subdistricts 2–6, the Golovin, Elim, Norton Bay, Shaktoolik, and Unalakleet Subdistricts."
+    },
+    {
+     "subject": "gillnet mesh size",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "All commercial fishing periods are directed to target chum and coho salmon with gillnet mesh size restricted to 6 inches or smaller."
+    },
+    {
+     "subject": "subsistence fisheries in Elim Subdistrict 3",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "This commercial fishing period does not affect current subsistence fisheries schedules, restrictions, or closures."
+    }
+   ]
+  },
+  {
+   "district": "Subdistrict 4",
+   "section": "Norton Bay Subdistrict 4",
+   "status": "open",
+   "period_text": "will open to commercial salmon fishing for one 24-hour period: from 6:00 p.m. Thursday, August 20, until 6:00 p.m. Friday, August 21.",
+   "rules": [
+    {
+     "subject": "Norton Bay Subdistrict 4, commercial salmon gillnet fishing",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Commercial salmon gillnet fishing will open for one 24-hour period in Norton Sound Subdistricts 2–6, the Golovin, Elim, Norton Bay, Shaktoolik, and Unalakleet Subdistricts."
+    },
+    {
+     "subject": "gillnet mesh size",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "All commercial fishing periods are directed to target chum and coho salmon with gillnet mesh size restricted to 6 inches or smaller."
+    },
+    {
+     "subject": "subsistence fisheries in Norton Bay Subdistrict 4",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "This commercial fishing period does not affect current subsistence fisheries schedules, restrictions, or closures."
+    }
+   ]
+  },
+  {
+   "district": "Subdistrict 5",
+   "section": "Shaktoolik Subdistrict 5",
+   "status": "open",
+   "period_text": "will open to commercial salmon fishing for one 24-hour period: from 6:00 p.m. Thursday, August 20, until 6:00 p.m. Friday, August 21.",
+   "rules": [
+    {
+     "subject": "Shaktoolik Subdistrict 5, commercial salmon gillnet fishing",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Commercial salmon gillnet fishing will open for one 24-hour period in Norton Sound Subdistricts 2–6, the Golovin, Elim, Norton Bay, Shaktoolik, and Unalakleet Subdistricts."
+    },
+    {
+     "subject": "gillnet mesh size",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "All commercial fishing periods are directed to target chum and coho salmon with gillnet mesh size restricted to 6 inches or smaller."
+    },
+    {
+     "subject": "subsistence fisheries in Shaktoolik Subdistrict 5",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "This commercial fishing period does not affect current subsistence fisheries schedules, restrictions, or closures."
+    }
+   ]
+  },
+  {
+   "district": "Subdistrict 6",
+   "section": "Unalakleet Subdistrict 6",
+   "status": "open",
+   "period_text": "will open to commercial salmon fishing for one 24-hour period: from 6:00 p.m. Thursday, August 20, until 6:00 p.m. Friday, August 21.",
+   "rules": [
+    {
+     "subject": "Unalakleet Subdistrict 6, commercial salmon gillnet fishing",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "Commercial salmon gillnet fishing will open for one 24-hour period in Norton Sound Subdistricts 2–6, the Golovin, Elim, Norton Bay, Shaktoolik, and Unalakleet Subdistricts."
+    },
+    {
+     "subject": "gillnet mesh size",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "All commercial fishing periods are directed to target chum and coho salmon with gillnet mesh size restricted to 6 inches or smaller."
+    },
+    {
+     "subject": "subsistence fisheries in Unalakleet Subdistrict 6",
+     "status": "open",
+     "geometry": "whole_area",
+     "side": null,
+     "points": [],
+     "distance_nmi": null,
+     "text": "This commercial fishing period does not affect current subsistence fisheries schedules, restrictions, or closures."
+    }
+   ]
+  }
+ ],
+ "full_text": "Forrest Bowers, Acting Director\n\nDoug Vincent-Lang, Commissioner\n\nHeadquarters Office Juneau, AK 99811-5526\n\nJuneau, AK 99811-5526\n\nAdvisory Announcement For Immediate Release: August 18, 2026\n\nCONTACT: Kevin Clark or Luke Henslee Norton Sound Area Manager and Assistant Manager (907) 443-5167 or (800) 560-2271\n\nNorton Sound Advisory Announcement #18 COMMERCIAL FISHING TO OPEN IN NORTON SOUND SUBDISTRICTS 2-6 Emergency Order: 3-S-Z-11-26\n\nCommercial salmon gillnet fishing will open for one 24-hour period in Norton Sound Subdistricts 2–6, the Golovin, Elim, Norton Bay, Shaktoolik, and Unalakleet Subdistricts.\n\n• Golovin Subdistrict 2\n\no will open to commercial salmon fishing for one 24-hour period:\n\nfrom 6:00 p.m. Thursday, August 20, until 6:00 p.m. Friday, August 21.\n\n\n\n\n\n\n\n\n\n\n\n• Elim Subdistrict 3\n\no will open to commercial salmon fishing for one 24-hour period:\n\nfrom 6:00 p.m. Thursday, August 20, until 6:00 p.m. Friday, August 21.\n\n• Norton Bay Subdistrict 4\n\no will open to commercial salmon fishing for one 24-hour period:\n\nfrom 6:00 p.m. Thursday, August 20, until 6:00 p.m. Friday, August 21.\n\n• Shaktoolik Subdistrict 5\n\no will open to commercial salmon fishing for one 24-hour period:\n\nfrom 6:00 p.m. Thursday, August 20, until 6:00 p.m. Friday, August 21.\n\n• Unalakleet Subdistrict 6:\n\no will open to commercial salmon fishing for one 24-hour period:\n\nfrom 6:00 p.m. Thursday, August 20, until 6:00 p.m. Friday, August 21.\n\nAll commercial fishing periods are directed to target chum and coho salmon with gillnet mesh size restricted to 6 inches or smaller.\n\nThe previous commercial periods in Subdistricts 2–6 had slightly below average catch rates and salmon monitoring projects in the region are generally inoperable. Kwiniuk River tower is the exception and is operationally and coho salmon in this system is projected to meet the escapement goal and provide for subsistence needs with a harvestable surplus available for commercial fishing. This commercial period will continue to gauge coho salmon abundance in marine waters and maybe used to justify additional commercial periods targeting coho salmon.\n\nPermit holders are reminded to ensure they have a market for their catch. This commercial fishing period does not affect current subsistence fisheries schedules, restrictions, or closures.\n\n-end-"
+}

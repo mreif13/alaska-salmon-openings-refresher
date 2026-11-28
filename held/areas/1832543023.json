@@ -1,0 +1,161 @@
+{
+ "release_id": "1832543023",
+ "region": "Kodiak",
+ "office": "Headquarters Office",
+ "published": "2026-08-29T00:00",
+ "emergency_order": "4-FS-K-44-26",
+ "gear": [
+  "purse seine"
+ ],
+ "species": "salmon",
+ "units": [
+  {
+   "name": "Cape Alitak",
+   "kind": "section",
+   "parent": "Alitak District",
+   "status": "open",
+   "period_text": "close at 24-hour extension to the current commercial salmon fishing period from 6:00 p.m. Saturday, August 29 to 6:00 p.m. Sunday, August 30",
+   "rules": []
+  },
+  {
+   "name": "Alitak Bay",
+   "kind": "section",
+   "parent": "Alitak District",
+   "status": "open",
+   "period_text": "close at 24-hour extension to the current commercial salmon fishing period from 6:00 p.m. Saturday, August 29 to 6:00 p.m. Sunday, August 30",
+   "rules": []
+  },
+  {
+   "name": "Moser Bay",
+   "kind": "section",
+   "parent": "Alitak District",
+   "status": "open",
+   "period_text": "close at 24-hour extension to the current commercial salmon fishing period from 6:00 p.m. Saturday, August 29 to 6:00 p.m. Sunday, August 30",
+   "rules": []
+  },
+  {
+   "name": "Olga Bay",
+   "kind": "section",
+   "parent": "Alitak District",
+   "status": "open",
+   "period_text": "close at 24-hour extension to the current commercial salmon fishing period from 6:00 p.m. Saturday, August 29 to 6:00 p.m. Sunday, August 30",
+   "rules": []
+  },
+  {
+   "name": "Outer Karluk",
+   "kind": "section",
+   "parent": "Southwest Kodiak District",
+   "status": "open",
+   "period_text": "close at 96-hour extension to the current commercial salmon fishing period from 6:00 p.m. Saturday, August 29 to 6:00 p.m. Wednesday, September 2",
+   "rules": []
+  },
+  {
+   "name": "Central",
+   "kind": "section",
+   "parent": "Northwest Kodiak District",
+   "status": "open",
+   "period_text": "close at 96-hour extension to the current commercial salmon fishing period from 6:00 p.m. Saturday, August 29 to 6:00 p.m. Wednesday, September 2",
+   "rules": []
+  },
+  {
+   "name": "North Cape",
+   "kind": "section",
+   "parent": "Northwest Kodiak District",
+   "status": "open",
+   "period_text": "close at 96-hour extension to the current commercial salmon fishing period from 6:00 p.m. Saturday, August 29 to 6:00 p.m. Wednesday, September 2",
+   "rules": []
+  },
+  {
+   "name": "Inner Uganik Bay",
+   "kind": "section",
+   "parent": "Northwest Kodiak District",
+   "status": "open",
+   "period_text": "close at 96-hour extension to the current commercial salmon fishing period from 6:00 p.m. Saturday, August 29 to 6:00 p.m. Wednesday, September 2",
+   "rules": []
+  },
+  {
+   "name": "Southwest Afognak",
+   "kind": "section",
+   "parent": "Afognak District",
+   "status": "open",
+   "period_text": "close at 96-hour extension to the current commercial salmon fishing period from 6:00 p.m. Saturday, August 29 to 6:00 p.m. Wednesday, September 2",
+   "rules": []
+  },
+  {
+   "name": "Duck Bay",
+   "kind": "section",
+   "parent": null,
+   "status": "closed",
+   "period_text": "close at 6:00 p.m. Saturday, August 29",
+   "rules": []
+  },
+  {
+   "name": "Izhut Bay",
+   "kind": "section",
+   "parent": null,
+   "status": "closed",
+   "period_text": "close at 6:00 p.m. Saturday, August 29",
+   "rules": []
+  },
+  {
+   "name": "Outer Kitoi Bay",
+   "kind": "section",
+   "parent": null,
+   "status": "closed",
+   "period_text": "close at 6:00 p.m. Saturday, August 29",
+   "rules": []
+  },
+  {
+   "name": "Inner Kitoi Bay",
+   "kind": "section",
+   "parent": null,
+   "status": "closed",
+   "period_text": "close at 6:00 p.m. Saturday, August 29",
+   "rules": []
+  },
+  {
+   "name": "Afognak District",
+   "kind": "district",
+   "parent": null,
+   "status": "open",
+   "period_text": "close at 6:00 p.m. Saturday, August 29",
+   "rules": []
+  },
+  {
+   "name": "Outer Ayakulik",
+   "kind": "section",
+   "parent": "Southwest Kodiak District",
+   "status": "open",
+   "period_text": "close at 6:00 p.m. Monday, August 31",
+   "rules": []
+  },
+  {
+   "name": "Humpy-Deadman",
+   "kind": "section",
+   "parent": "Alitak District",
+   "status": "open",
+   "period_text": "close at 6:00 p.m. Monday, August 31",
+   "rules": []
+  },
+  {
+   "name": "Eastside Kodiak District",
+   "kind": "district",
+   "parent": null,
+   "status": "open",
+   "period_text": "close at 6:00 p.m. Monday, August 31",
+   "rules": []
+  },
+  {
+   "name": "Northeast Kodiak District",
+   "kind": "district",
+   "parent": null,
+   "status": "open",
+   "period_text": "close at 6:00 p.m. Monday, August 31",
+   "rules": []
+  }
+ ],
+ "all_others_closed": false,
+ "_unparsed": [],
+ "full_text": "Forrest Bowers, Acting Director\n\nDoug Vincent-Lang, Commissioner\n\nHeadquarters Office Juneau, AK 99811-5526\n\nAdvisory Announcement\n\nReleased: 10:00 a.m. August 29, 2026\n\nJuneau, AK 99811-5526\n\nCONTACT: Geoff Spalinger, Area Biologist Brad Fuerst, Asst. Area Biologist Todd Anderson, Asst. Area Biologist (907) 486-1830\n\nKODIAK COMMERCIAL SALMON FISHERY ADVISORY ANNOUNCEMENT # 44 For Emergency Order #4-FS-K-44-26\n\nThere will be a 24-hour extension to the current commercial salmon fishing period from 6:00 p.m. Saturday, August 29 to 6:00 p.m. Sunday, August 30 in the following areas:\n\n-\n\nThe Cape Alitak, Alitak Bay, Moser Bay, and Olga Bay Sections of the Alitak District.\n\nThere will be a 96-hour extension to the current commercial salmon fishing period from 6:00 p.m. Saturday, August 29 to 6:00 p.m. Wednesday, September 2 in the following areas: The Outer Karluk Section of the Southwest Kodiak District; The Central, North Cape, and Inner Uganik Bay Sections of the Northwest Kodiak District; and, The Southwest Afognak Section of the Afognak District.\n\n- - -\n\nAs Previously Announced: The following areas will close at 6:00 p.m. Saturday, August 29:\n\n-\n\nThe Afognak District (except the Duck Bay, Izhut Bay, Outer Kitoi Bay, and Inner Kitoi Bay Sections remain closed, and the Southwest Afognak Section is extended until 6:00 p.m. Wednesday, September 2).\n\nThe following areas are scheduled to close at 6:00 p.m. Monday, August 31: The Outer Ayakulik Section of the Southwest Kodiak District; The Humpy-Deadman Section of the Alitak District; The Eastside Kodiak District; and, The Northeast Kodiak District.\n\n- - - -\n\nAs Previously Announced: Fishermen are reminded that in the Kodiak Area (including the Mainland District) until further notice, Chinook (king) salmon 28 inches or greater in length may not be retained by purse seine gear in the commercial fishery and must be returned to the water unharmed.\n\nOther closed waters are as shown on the Kodiak Area Salmon Statistical Chart and detailed in the Commercial Salmon Fishing Regulations (5AAC 18.350). Statistical Charts, Harvest Strategies, and Commercial Salmon Fishing Regulations are available at the Kodiak Fish and Game office. Recent salmon fishery information may be obtained by calling the Department’s 24-hour record-a-phone at 486-4559.\n\n-end-",
+ "_parser": "9d390c40"
+}
